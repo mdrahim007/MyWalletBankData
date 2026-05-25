@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-25",
+  "country": "US",
+  "institutions": [
+    {"code": "CHASUS33", "name": "JPMorgan Chase Bank", "shortName": "Chase", "type": "bank", "aliases": "JP Morgan"},
+    {"code": "BOFAUS3N", "name": "Bank of America", "shortName": "BofA", "type": "bank", "aliases": "BoA"},
+    {"code": "WFBIUS6S", "name": "Wells Fargo Bank", "shortName": "Wells Fargo", "type": "bank", "aliases": ""},
+    {"code": "CITIUS33", "name": "Citibank NA", "shortName": "Citi", "type": "bank", "aliases": "Citigroup"},
+    {"code": "USBKUS44", "name": "U.S. Bancorp", "shortName": "US Bank", "type": "bank", "aliases": "US Bancorp"},
+    {"code": "PNCCUS33", "name": "PNC Financial Services", "shortName": "PNC", "type": "bank", "aliases": ""},
+    {"code": "TRNO US33", "name": "Truist Financial", "shortName": "Truist", "type": "bank", "aliases": "BB&T,SunTrust"},
+    {"code": "TDBKUS33", "name": "TD Bank USA", "shortName": "TD Bank", "type": "bank", "aliases": "Toronto-Dominion"},
+    {"code": "COBAUS3X", "name": "Capital One", "shortName": "Capital One", "type": "bank", "aliases": ""},
+    {"code": "GOLDUS33", "name": "Goldman Sachs Bank", "shortName": "Goldman", "type": "bank", "aliases": "Marcus"},
+    {"code": "MGTCUS3N", "name": "Morgan Stanley", "shortName": "Morgan Stanley", "type": "bank", "aliases": ""},
+    {"code": "SVBKUS6S", "name": "Charles Schwab Bank", "shortName": "Schwab", "type": "bank", "aliases": ""},
+    {"code": "KEYBUS33", "name": "KeyBank", "shortName": "KeyBank", "type": "bank", "aliases": ""},
+    {"code": "FITBUS33", "name": "Fifth Third Bank", "shortName": "Fifth Third", "type": "bank", "aliases": "5/3 Bank"},
+    {"code": "HATRUS41", "name": "Huntington National Bank", "shortName": "Huntington", "type": "bank", "aliases": ""},
+    {"code": "RGJEUS31", "name": "Regions Bank", "shortName": "Regions", "type": "bank", "aliases": ""},
+    {"code": "MNBDUS33", "name": "M&T Bank", "shortName": "M&T", "type": "bank", "aliases": ""},
+    {"code": "NYCBUS33", "name": "New York Community Bank", "shortName": "NYCB", "type": "bank", "aliases": "Flagstar"},
+    {"code": "ALLY_US", "name": "Ally Bank", "shortName": "Ally", "type": "bank", "aliases": "Ally Financial"},
+    {"code": "DISCOVER_US", "name": "Discover Bank", "shortName": "Discover", "type": "bank", "aliases": ""},
+    {"code": "AMEX_US", "name": "American Express", "shortName": "Amex", "type": "bank", "aliases": "AMEX"},
+    {"code": "VENMO_US", "name": "Venmo", "shortName": "Venmo", "type": "mfs", "aliases": ""},
+    {"code": "CASHAPP_US", "name": "Cash App (Block)", "shortName": "Cash App", "type": "mfs", "aliases": "Square Cash"},
+    {"code": "ZELLE_US", "name": "Zelle", "shortName": "Zelle", "type": "mfs", "aliases": ""},
+    {"code": "CHIME_US", "name": "Chime Financial", "shortName": "Chime", "type": "fintech", "aliases": ""}
+  ]
+}

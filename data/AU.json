@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-25",
+  "country": "AU",
+  "institutions": [
+    {"code": "CTBAAU2S", "name": "Commonwealth Bank of Australia", "shortName": "CommBank", "type": "bank", "aliases": "CBA"},
+    {"code": "WPACAU2S", "name": "Westpac Banking Corporation", "shortName": "Westpac", "type": "bank", "aliases": ""},
+    {"code": "ANZBAU3M", "name": "ANZ Bank", "shortName": "ANZ", "type": "bank", "aliases": "Australia and New Zealand Banking"},
+    {"code": "NATAAU33", "name": "National Australia Bank", "shortName": "NAB", "type": "bank", "aliases": ""},
+    {"code": "BENDAU3B", "name": "Bendigo and Adelaide Bank", "shortName": "Bendigo", "type": "bank", "aliases": ""},
+    {"code": "BOFMAU2S", "name": "Bank of Melbourne", "shortName": "BoM", "type": "bank", "aliases": ""},
+    {"code": "SGAUAU2S", "name": "St.George Bank", "shortName": "St.George", "type": "bank", "aliases": ""},
+    {"code": "BKWAAU6P", "name": "Bankwest", "shortName": "Bankwest", "type": "bank", "aliases": ""},
+    {"code": "METWAU4B", "name": "Macquarie Bank", "shortName": "Macquarie", "type": "bank", "aliases": ""},
+    {"code": "SUNBAU2S", "name": "Suncorp Bank", "shortName": "Suncorp", "type": "bank", "aliases": ""},
+    {"code": "INGBAU2S", "name": "ING Australia", "shortName": "ING AU", "type": "bank", "aliases": "ING Direct"},
+    {"code": "HSBCAU2S", "name": "HSBC Australia", "shortName": "HSBC AU", "type": "bank", "aliases": ""},
+    {"code": "UP_AU", "name": "Up Bank", "shortName": "Up", "type": "fintech", "aliases": "Up Banking"},
+    {"code": "AFTERPAY_AU", "name": "Afterpay", "shortName": "Afterpay", "type": "fintech", "aliases": ""}
+  ]
+}

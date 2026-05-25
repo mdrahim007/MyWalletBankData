@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-25",
+  "country": "CA",
+  "institutions": [
+    {"code": "ROYCCAT2", "name": "Royal Bank of Canada", "shortName": "RBC", "type": "bank", "aliases": ""},
+    {"code": "TDOMCATTTOR", "name": "TD Canada Trust", "shortName": "TD", "type": "bank", "aliases": "Toronto-Dominion"},
+    {"code": "BNDCCAMM", "name": "Bank of Nova Scotia", "shortName": "Scotiabank", "type": "bank", "aliases": ""},
+    {"code": "BOFMCAT2", "name": "BMO Bank of Montreal", "shortName": "BMO", "type": "bank", "aliases": "Bank of Montreal"},
+    {"code": "CABORDDH", "name": "CIBC", "shortName": "CIBC", "type": "bank", "aliases": "Canadian Imperial Bank of Commerce"},
+    {"code": "NBORDDH", "name": "National Bank of Canada", "shortName": "NBC", "type": "bank", "aliases": "Banque Nationale"},
+    {"code": "LAURCAMM", "name": "Laurentian Bank", "shortName": "Laurentian", "type": "bank", "aliases": ""},
+    {"code": "DESJ CAMM", "name": "Desjardins Group", "shortName": "Desjardins", "type": "bank", "aliases": ""},
+    {"code": "HSBCCATT", "name": "HSBC Canada", "shortName": "HSBC CA", "type": "bank", "aliases": ""},
+    {"code": "TANGERINE_CA", "name": "Tangerine Bank", "shortName": "Tangerine", "type": "bank", "aliases": "ING Direct Canada"},
+    {"code": "SIMPLII_CA", "name": "Simplii Financial", "shortName": "Simplii", "type": "fintech", "aliases": ""},
+    {"code": "WEALTHSIMPLE_CA", "name": "Wealthsimple", "shortName": "Wealthsimple", "type": "fintech", "aliases": ""},
+    {"code": "EQ_CA", "name": "EQ Bank (Equitable Bank)", "shortName": "EQ Bank", "type": "bank", "aliases": ""},
+    {"code": "INTERAC_CA", "name": "Interac", "shortName": "Interac", "type": "mfs", "aliases": "e-Transfer"}
+  ]
+}

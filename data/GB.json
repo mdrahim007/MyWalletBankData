@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-25",
+  "country": "GB",
+  "institutions": [
+    {"code": "HSBCGB2L", "name": "HSBC UK Bank", "shortName": "HSBC", "type": "bank", "aliases": ""},
+    {"code": "BARCGB22", "name": "Barclays Bank", "shortName": "Barclays", "type": "bank", "aliases": ""},
+    {"code": "NWBKGB2L", "name": "NatWest", "shortName": "NatWest", "type": "bank", "aliases": "National Westminster,RBS"},
+    {"code": "LOYDGB2L", "name": "Lloyds Bank", "shortName": "Lloyds", "type": "bank", "aliases": "Lloyds Banking Group"},
+    {"code": "SCBLGB2L", "name": "Standard Chartered UK", "shortName": "StanChart", "type": "bank", "aliases": "SCB"},
+    {"code": "HLFXGB21", "name": "Halifax", "shortName": "Halifax", "type": "bank", "aliases": ""},
+    {"code": "NAIAGB21", "name": "Santander UK", "shortName": "Santander", "type": "bank", "aliases": ""},
+    {"code": "BOFSGB2S", "name": "Bank of Scotland", "shortName": "BoS", "type": "bank", "aliases": ""},
+    {"code": "COBAGB2L", "name": "Nationwide Building Society", "shortName": "Nationwide", "type": "bank", "aliases": ""},
+    {"code": "TSBS GB2L", "name": "TSB Bank", "shortName": "TSB", "type": "bank", "aliases": ""},
+    {"code": "VIRGINGB", "name": "Virgin Money UK", "shortName": "Virgin Money", "type": "bank", "aliases": "Clydesdale,Yorkshire"},
+    {"code": "MTROGB2L", "name": "Metro Bank", "shortName": "Metro", "type": "bank", "aliases": ""},
+    {"code": "MONZO_GB", "name": "Monzo Bank", "shortName": "Monzo", "type": "fintech", "aliases": ""},
+    {"code": "REVOLUT_GB", "name": "Revolut", "shortName": "Revolut", "type": "fintech", "aliases": ""},
+    {"code": "STARLING_GB", "name": "Starling Bank", "shortName": "Starling", "type": "fintech", "aliases": ""},
+    {"code": "WISE_GB", "name": "Wise (TransferWise)", "shortName": "Wise", "type": "fintech", "aliases": "TransferWise"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-25",
+  "country": "SA",
+  "institutions": [
+    {"code": "RJHISARI", "name": "Al Rajhi Bank", "shortName": "Al Rajhi", "type": "bank", "aliases": "مصرف الراجحي"},
+    {"code": "NCBKSAJE", "name": "Saudi National Bank", "shortName": "SNB", "type": "bank", "aliases": "البنك الأهلي السعودي,NCB,Samba"},
+    {"code": "RIBLSARI", "name": "Riyad Bank", "shortName": "Riyad", "type": "bank", "aliases": "بنك الرياض"},
+    {"code": "BSFRSARI", "name": "Banque Saudi Fransi", "shortName": "BSF", "type": "bank", "aliases": "البنك السعودي الفرنسي"},
+    {"code": "ARNBSARI", "name": "Arab National Bank", "shortName": "ANB", "type": "bank", "aliases": "البنك العربي الوطني"},
+    {"code": "SABBSARI", "name": "Saudi Awwal Bank", "shortName": "SAB", "type": "bank", "aliases": "البنك السعودي الأول,SABB"},
+    {"code": "ALBISARI", "name": "Bank AlBilad", "shortName": "AlBilad", "type": "bank", "aliases": "بنك البلاد"},
+    {"code": "AABORDDH", "name": "Alinma Bank", "shortName": "Alinma", "type": "bank", "aliases": "مصرف الإنماء"},
+    {"code": "BJAZSA", "name": "Bank AlJazira", "shortName": "AlJazira", "type": "bank", "aliases": "بنك الجزيرة"},
+    {"code": "SABBSARIS", "name": "Saudi Investment Bank", "shortName": "SAIB", "type": "bank", "aliases": "البنك السعودي للاستثمار"},
+    {"code": "GULFSARI", "name": "Gulf International Bank SA", "shortName": "GIB", "type": "bank", "aliases": ""},
+    {"code": "STC_PAY_SA", "name": "STC Pay", "shortName": "STC Pay", "type": "mfs", "aliases": "اس تي سي باي"},
+    {"code": "URPAY_SA", "name": "urpay", "shortName": "urpay", "type": "mfs", "aliases": ""}
+  ]
+}
