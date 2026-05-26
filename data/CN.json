@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "country": "CN",
+  "institutions": [
+    {
+      "code": "CENBCN",
+      "name": "Central Bank of CN",
+      "shortName": "Central Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NATBCN",
+      "name": "National Bank of CN",
+      "shortName": "National Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "STABCN",
+      "name": "State Bank of CN",
+      "shortName": "State Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "COBBCN",
+      "name": "Commercial Bank of CN",
+      "shortName": "Commercial Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FIBCN",
+      "name": "First CN Bank",
+      "shortName": "First Bank",
+      "type": "bank",
+      "aliases": ""
+    }
+  ]
+}

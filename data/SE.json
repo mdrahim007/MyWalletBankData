@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "country": "SE",
+  "institutions": [
+    {
+      "code": "CENBSE",
+      "name": "Central Bank of SE",
+      "shortName": "Central Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NATBSE",
+      "name": "National Bank of SE",
+      "shortName": "National Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "STABSE",
+      "name": "State Bank of SE",
+      "shortName": "State Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "COBBSE",
+      "name": "Commercial Bank of SE",
+      "shortName": "Commercial Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FIBSE",
+      "name": "First SE Bank",
+      "shortName": "First Bank",
+      "type": "bank",
+      "aliases": ""
+    }
+  ]
+}

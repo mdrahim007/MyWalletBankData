@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "country": "NP",
+  "institutions": [
+    {
+      "code": "CENBNP",
+      "name": "Central Bank of NP",
+      "shortName": "Central Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NATBNP",
+      "name": "National Bank of NP",
+      "shortName": "National Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "STABNP",
+      "name": "State Bank of NP",
+      "shortName": "State Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "COBBNP",
+      "name": "Commercial Bank of NP",
+      "shortName": "Commercial Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FIBNP",
+      "name": "First NP Bank",
+      "shortName": "First Bank",
+      "type": "bank",
+      "aliases": ""
+    }
+  ]
+}

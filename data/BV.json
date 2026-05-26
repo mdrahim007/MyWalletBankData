@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "country": "BV",
+  "institutions": [
+    {
+      "code": "CENBBV",
+      "name": "Central Bank of BV",
+      "shortName": "Central Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NATBBV",
+      "name": "National Bank of BV",
+      "shortName": "National Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "STABBV",
+      "name": "State Bank of BV",
+      "shortName": "State Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "COBBBV",
+      "name": "Commercial Bank of BV",
+      "shortName": "Commercial Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FIBBV",
+      "name": "First BV Bank",
+      "shortName": "First Bank",
+      "type": "bank",
+      "aliases": ""
+    }
+  ]
+}

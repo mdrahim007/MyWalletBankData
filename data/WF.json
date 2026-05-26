@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-05-26",
+  "country": "WF",
+  "institutions": [
+    {
+      "code": "CENBWF",
+      "name": "Central Bank of WF",
+      "shortName": "Central Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NATBWF",
+      "name": "National Bank of WF",
+      "shortName": "National Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "STABWF",
+      "name": "State Bank of WF",
+      "shortName": "State Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "COBBWF",
+      "name": "Commercial Bank of WF",
+      "shortName": "Commercial Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FIBWF",
+      "name": "First WF Bank",
+      "shortName": "First Bank",
+      "type": "bank",
+      "aliases": ""
+    }
+  ]
+}

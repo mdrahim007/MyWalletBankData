@@ -1,35 +1,63 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "country": "IN",
   "institutions": [
-    {"code": "SBININBB", "name": "State Bank of India", "shortName": "SBI", "type": "bank", "aliases": "स्टेट बैंक ऑफ इंडिया"},
-    {"code": "HABORDDH", "name": "HDFC Bank", "shortName": "HDFC", "type": "bank", "aliases": ""},
-    {"code": "ABORDDH", "name": "ICICI Bank", "shortName": "ICICI", "type": "bank", "aliases": ""},
-    {"code": "AXISINBB", "name": "Axis Bank", "shortName": "Axis", "type": "bank", "aliases": ""},
-    {"code": "KOTKINBB", "name": "Kotak Mahindra Bank", "shortName": "Kotak", "type": "bank", "aliases": ""},
-    {"code": "PUNBINBB", "name": "Punjab National Bank", "shortName": "PNB", "type": "bank", "aliases": "पंजाब नेशनल बैंक"},
-    {"code": "BARKINBB", "name": "Bank of Baroda", "shortName": "BoB", "type": "bank", "aliases": "बैंक ऑफ बड़ौदा"},
-    {"code": "CABORDDH", "name": "Canara Bank", "shortName": "Canara", "type": "bank", "aliases": "केनरा बैंक"},
-    {"code": "UBININBB", "name": "Union Bank of India", "shortName": "UBI", "type": "bank", "aliases": "यूनियन बैंक"},
-    {"code": "IDIBINBB", "name": "Indian Bank", "shortName": "Indian Bank", "type": "bank", "aliases": "इंडियन बैंक"},
-    {"code": "CNRBINBB", "name": "Central Bank of India", "shortName": "CBI", "type": "bank", "aliases": ""},
-    {"code": "IABORDDH", "name": "Indian Overseas Bank", "shortName": "IOB", "type": "bank", "aliases": ""},
-    {"code": "BKIDINBB", "name": "Bank of India", "shortName": "BOI", "type": "bank", "aliases": "बैंक ऑफ इंडिया"},
-    {"code": "UCBAINBB", "name": "UCO Bank", "shortName": "UCO", "type": "bank", "aliases": ""},
-    {"code": "YABORDDH", "name": "Yes Bank", "shortName": "Yes", "type": "bank", "aliases": ""},
-    {"code": "IDBIINBB", "name": "IDBI Bank", "shortName": "IDBI", "type": "bank", "aliases": ""},
-    {"code": "INDBINBB", "name": "IndusInd Bank", "shortName": "IndusInd", "type": "bank", "aliases": ""},
-    {"code": "FDRLINBB", "name": "Federal Bank", "shortName": "Federal", "type": "bank", "aliases": ""},
-    {"code": "KABORDDH", "name": "Karnataka Bank", "shortName": "Karnataka", "type": "bank", "aliases": ""},
-    {"code": "SBHYINBB", "name": "South Indian Bank", "shortName": "SIB", "type": "bank", "aliases": ""},
-    {"code": "RAABORDDH", "name": "RBL Bank", "shortName": "RBL", "type": "bank", "aliases": "Ratnakar Bank"},
-    {"code": "BABORDDHI", "name": "Bandhan Bank", "shortName": "Bandhan", "type": "bank", "aliases": ""},
-    {"code": "AUABORDDH", "name": "AU Small Finance Bank", "shortName": "AU SFB", "type": "bank", "aliases": ""},
-    {"code": "PAYTM_IN", "name": "Paytm Payments Bank", "shortName": "Paytm", "type": "mfs", "aliases": "पेटीएम"},
-    {"code": "PHONEPE_IN", "name": "PhonePe", "shortName": "PhonePe", "type": "mfs", "aliases": "फोनपे"},
-    {"code": "GPAY_IN", "name": "Google Pay India", "shortName": "GPay", "type": "mfs", "aliases": "गूगल पे"},
-    {"code": "AMAZONPAY_IN", "name": "Amazon Pay", "shortName": "Amazon Pay", "type": "mfs", "aliases": ""},
-    {"code": "MOBIKWIK_IN", "name": "MobiKwik", "shortName": "MobiKwik", "type": "mfs", "aliases": ""}
+    {
+      "code": "SBININBB",
+      "name": "State Bank of India",
+      "shortName": "SBI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HABORDDH",
+      "name": "HDFC Bank",
+      "shortName": "HDFC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ABORDDH",
+      "name": "ICICI Bank",
+      "shortName": "ICICI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AXISINBB",
+      "name": "Axis Bank",
+      "shortName": "Axis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ABORDDHN",
+      "name": "Kotak Mahindra Bank",
+      "shortName": "Kotak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PAYTM_IN",
+      "name": "Paytm Payments Bank",
+      "shortName": "Paytm",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "PHONEPE_IN",
+      "name": "PhonePe",
+      "shortName": "PhonePe",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GPAY_IN",
+      "name": "Google Pay",
+      "shortName": "GPay",
+      "type": "mfs",
+      "aliases": ""
+    }
   ]
 }

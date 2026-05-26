@@ -1,71 +1,147 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "country": "BD",
   "institutions": [
-    {"code": "BSONBDDH", "name": "Sonali Bank Limited", "shortName": "Sonali", "type": "bank", "aliases": "সোনালী ব্যাংক"},
-    {"code": "JANBBDDH", "name": "Janata Bank Limited", "shortName": "Janata", "type": "bank", "aliases": "জনতা ব্যাংক"},
-    {"code": "AGBKBDDH", "name": "Agrani Bank Limited", "shortName": "Agrani", "type": "bank", "aliases": "অগ্রণী ব্যাংক"},
-    {"code": "RUPBBDDH", "name": "Rupali Bank Limited", "shortName": "Rupali", "type": "bank", "aliases": "রূপালী ব্যাংক"},
-    {"code": "BDDBBDDH", "name": "Bangladesh Development Bank Limited", "shortName": "BDBL", "type": "bank", "aliases": "বাংলাদেশ উন্নয়ন ব্যাংক"},
-    {"code": "BKSIBDDH", "name": "BASIC Bank Limited", "shortName": "BASIC", "type": "bank", "aliases": "বেসিক ব্যাংক"},
-    {"code": "BKBABDDH", "name": "Bangladesh Krishi Bank", "shortName": "BKB", "type": "bank", "aliases": "কৃষি ব্যাংক"},
-    {"code": "RKUBBDDH", "name": "Rajshahi Krishi Unnayan Bank", "shortName": "RKUB", "type": "bank", "aliases": "রাজশাহী কৃষি উন্নয়ন ব্যাংক"},
-    {"code": "DBBLBDDH", "name": "Dutch-Bangla Bank Limited", "shortName": "DBBL", "type": "bank", "aliases": "ডাচ বাংলা ব্যাংক,Dutch Bangla"},
-    {"code": "BABORDDH", "name": "BRAC Bank Limited", "shortName": "BRAC Bank", "type": "bank", "aliases": "ব্র্যাক ব্যাংক"},
-    {"code": "EABORDDH", "name": "Eastern Bank Limited", "shortName": "EBL", "type": "bank", "aliases": "ইস্টার্ন ব্যাংক"},
-    {"code": "CIABORDDH", "name": "The City Bank Limited", "shortName": "City Bank", "type": "bank", "aliases": "সিটি ব্যাংক"},
-    {"code": "UCABORDDH", "name": "United Commercial Bank Limited", "shortName": "UCB", "type": "bank", "aliases": "ইউসিবি"},
-    {"code": "ABORDDH01", "name": "IFIC Bank Limited", "shortName": "IFIC", "type": "bank", "aliases": "আইএফআইসি ব্যাংক"},
-    {"code": "NABORDDH", "name": "National Bank Limited", "shortName": "NBL", "type": "bank", "aliases": "ন্যাশনাল ব্যাংক"},
-    {"code": "PABORDDH", "name": "Pubali Bank Limited", "shortName": "Pubali", "type": "bank", "aliases": "পূবালী ব্যাংক"},
-    {"code": "UTTABORDDH", "name": "Uttara Bank Limited", "shortName": "Uttara", "type": "bank", "aliases": "উত্তরা ব্যাংক"},
-    {"code": "ABABORDDH", "name": "AB Bank Limited", "shortName": "AB Bank", "type": "bank", "aliases": "এবি ব্যাংক"},
-    {"code": "IBBLBDDH", "name": "Islami Bank Bangladesh Limited", "shortName": "IBBL", "type": "bank", "aliases": "ইসলামী ব্যাংক"},
-    {"code": "SJABORDDH", "name": "Shahjalal Islami Bank Limited", "shortName": "SJIBL", "type": "bank", "aliases": "শাহজালাল ইসলামী ব্যাংক"},
-    {"code": "FSEABORDDH", "name": "First Security Islami Bank Limited", "shortName": "FSIBL", "type": "bank", "aliases": "ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক"},
-    {"code": "SIABORDDH", "name": "Social Islami Bank Limited", "shortName": "SIBL", "type": "bank", "aliases": "সোশ্যাল ইসলামী ব্যাংক"},
-    {"code": "ALABORDDH", "name": "Al-Arafah Islami Bank Limited", "shortName": "AIBL", "type": "bank", "aliases": "আল-আরাফাহ ইসলামী ব্যাংক"},
-    {"code": "EXIMORDDH", "name": "Exim Bank Limited", "shortName": "Exim", "type": "bank", "aliases": "এক্সিম ব্যাংক"},
-    {"code": "SDABORDDH", "name": "Standard Bank Limited", "shortName": "Standard", "type": "bank", "aliases": "স্ট্যান্ডার্ড ব্যাংক"},
-    {"code": "ONABORDDH", "name": "One Bank Limited", "shortName": "One Bank", "type": "bank", "aliases": "ওয়ান ব্যাংক"},
-    {"code": "PRABORDDH", "name": "Prime Bank Limited", "shortName": "Prime", "type": "bank", "aliases": "প্রাইম ব্যাংক"},
-    {"code": "SEABORDDH", "name": "Southeast Bank Limited", "shortName": "SEBL", "type": "bank", "aliases": "সাউথইস্ট ব্যাংক"},
-    {"code": "MTABORDDH", "name": "Mutual Trust Bank Limited", "shortName": "MTB", "type": "bank", "aliases": "মিউচুয়াল ট্রাস্ট ব্যাংক"},
-    {"code": "PMABORDDH", "name": "The Premier Bank Limited", "shortName": "Premier", "type": "bank", "aliases": "প্রিমিয়ার ব্যাংক"},
-    {"code": "NCCABORDDH", "name": "NCC Bank Limited", "shortName": "NCC", "type": "bank", "aliases": "এনসিসি ব্যাংক"},
-    {"code": "MCABORDDH", "name": "Mercantile Bank Limited", "shortName": "MBL", "type": "bank", "aliases": "মার্কেন্টাইল ব্যাংক"},
-    {"code": "BKABORDDH", "name": "Bank Asia Limited", "shortName": "Bank Asia", "type": "bank", "aliases": "ব্যাংক এশিয়া"},
-    {"code": "TRBKBDDH", "name": "Trust Bank Limited", "shortName": "Trust", "type": "bank", "aliases": "ট্রাস্ট ব্যাংক"},
-    {"code": "DHABORDDH", "name": "Dhaka Bank Limited", "shortName": "Dhaka Bank", "type": "bank", "aliases": "ঢাকা ব্যাংক"},
-    {"code": "JMABORDDH", "name": "Jamuna Bank Limited", "shortName": "Jamuna", "type": "bank", "aliases": "যমুনা ব্যাংক"},
-    {"code": "SCBLBDDH", "name": "Standard Chartered Bank", "shortName": "SCB", "type": "bank", "aliases": "স্ট্যান্ডার্ড চার্টার্ড"},
-    {"code": "HSBCBDDH", "name": "HSBC Bangladesh", "shortName": "HSBC", "type": "bank", "aliases": "এইচএসবিসি"},
-    {"code": "CITIBDDH", "name": "Citibank NA Bangladesh", "shortName": "Citibank", "type": "bank", "aliases": "সিটিব্যাংক"},
-    {"code": "CABORDDH", "name": "Commercial Bank of Ceylon", "shortName": "CBC", "type": "bank", "aliases": "কমার্শিয়াল ব্যাংক অব সিলন"},
-    {"code": "HVBKBDDH", "name": "Woori Bank Bangladesh", "shortName": "Woori", "type": "bank", "aliases": "উরি ব্যাংক"},
-    {"code": "SBINBDDH", "name": "State Bank of India Bangladesh", "shortName": "SBI", "type": "bank", "aliases": "স্টেট ব্যাংক অব ইন্ডিয়া"},
-    {"code": "MDABORDDH", "name": "Midland Bank Limited", "shortName": "Midland", "type": "bank", "aliases": "মিডল্যান্ড ব্যাংক"},
-    {"code": "NRABORDDH", "name": "NRB Bank Limited", "shortName": "NRB", "type": "bank", "aliases": "এনআরবি ব্যাংক"},
-    {"code": "MGABORDDH", "name": "Meghna Bank Limited", "shortName": "Meghna", "type": "bank", "aliases": "মেঘনা ব্যাংক"},
-    {"code": "PDABORDDH", "name": "Padma Bank Limited", "shortName": "Padma", "type": "bank", "aliases": "পদ্মা ব্যাংক"},
-    {"code": "BCABORDDH", "name": "Bengal Commercial Bank Limited", "shortName": "BCB", "type": "bank", "aliases": "বেঙ্গল কমার্শিয়াল ব্যাংক"},
-    {"code": "GLABORDDH", "name": "Global Islami Bank Limited", "shortName": "GIBL", "type": "bank", "aliases": "গ্লোবাল ইসলামী ব্যাংক"},
-    {"code": "CZABORDDH", "name": "Citizens Bank PLC", "shortName": "Citizens", "type": "bank", "aliases": "সিটিজেনস ব্যাংক"},
-    {"code": "UNABORDDH", "name": "Union Bank Limited", "shortName": "Union", "type": "bank", "aliases": "ইউনিয়ন ব্যাংক"},
-    {"code": "CMABORDDH", "name": "Community Bank Bangladesh Limited", "shortName": "Community", "type": "bank", "aliases": "কমিউনিটি ব্যাংক"},
-    {"code": "SMABORDDH", "name": "Shimanto Bank Limited", "shortName": "Shimanto", "type": "bank", "aliases": "শিমান্তো ব্যাংক"},
-    {"code": "BCMABORDDH", "name": "Bangladesh Commerce Bank Limited", "shortName": "BdComBank", "type": "bank", "aliases": "বাংলাদেশ কমার্স ব্যাংক"},
-    {"code": "ICBABORDDH", "name": "ICB Islamic Bank Limited", "shortName": "ICB Islamic", "type": "bank", "aliases": "আইসিবি ইসলামিক ব্যাংক"},
-    {"code": "BKASH_BD", "name": "bKash Limited", "shortName": "bKash", "type": "mfs", "aliases": "বিকাশ,bkash"},
-    {"code": "NAGAD_BD", "name": "Nagad Digital Bank", "shortName": "Nagad", "type": "mfs", "aliases": "নগদ,nagad"},
-    {"code": "ROCKET_BD", "name": "Rocket (DBBL Mobile Banking)", "shortName": "Rocket", "type": "mfs", "aliases": "রকেট,DBBL Rocket"},
-    {"code": "UPAY_BD", "name": "Upay (United Commercial Bank)", "shortName": "Upay", "type": "mfs", "aliases": "উপায়,upay"},
-    {"code": "SURECASH_BD", "name": "SureCash", "shortName": "SureCash", "type": "mfs", "aliases": "সিউরক্যাশ"},
-    {"code": "MCASH_BD", "name": "mCash (Islami Bank)", "shortName": "mCash", "type": "mfs", "aliases": "এমক্যাশ"},
-    {"code": "OKWALLET_BD", "name": "OK Wallet (One Bank)", "shortName": "OK Wallet", "type": "mfs", "aliases": "ওকে ওয়ালেট"},
-    {"code": "TAP_BD", "name": "Tap (Eastern Bank)", "shortName": "Tap", "type": "mfs", "aliases": "ট্যাপ"},
-    {"code": "TELECASH_BD", "name": "TeleCash (Teletalk)", "shortName": "TeleCash", "type": "mfs", "aliases": "টেলিক্যাশ"},
-    {"code": "IPAY_BD", "name": "iPay (Dutch-Bangla Bank)", "shortName": "iPay", "type": "mfs", "aliases": "আইপে"}
+    {
+      "code": "SBLBDBDH",
+      "name": "Sonali Bank",
+      "shortName": "Sonali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JBLBDBDH",
+      "name": "Janata Bank",
+      "shortName": "Janata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ABL",
+      "name": "Agrani Bank",
+      "shortName": "Agrani",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RBL",
+      "name": "Rupali Bank",
+      "shortName": "Rupali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IBBLBDBDH",
+      "name": "Islami Bank Bangladesh Limited",
+      "shortName": "IBBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DBBLBDBDH",
+      "name": "Dutch-Bangla Bank",
+      "shortName": "DBBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BRACBDBD",
+      "name": "BRAC Bank",
+      "shortName": "BRAC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MTBLBDBDH",
+      "name": "Mutual Trust Bank",
+      "shortName": "MTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EBLBDBDH",
+      "name": "Eastern Bank",
+      "shortName": "EBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CBL",
+      "name": "City Bank",
+      "shortName": "City Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PBL",
+      "name": "Pubali Bank",
+      "shortName": "Pubali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UCBL",
+      "name": "United Commercial Bank",
+      "shortName": "UCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NBL",
+      "name": "National Bank",
+      "shortName": "NBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SBB",
+      "name": "Standard Bank",
+      "shortName": "Standard Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ABBL",
+      "name": "AB Bank",
+      "shortName": "AB Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BBL",
+      "name": "Bank Asia",
+      "shortName": "Bank Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BKASH_BD",
+      "name": "bKash",
+      "shortName": "bKash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NAGAD_BD",
+      "name": "Nagad",
+      "shortName": "Nagad",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "ROCKET_BD",
+      "name": "Rocket",
+      "shortName": "Rocket",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "UPAY_BD",
+      "name": "Upay",
+      "shortName": "Upay",
+      "type": "mfs",
+      "aliases": ""
+    }
   ]
 }

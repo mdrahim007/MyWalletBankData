@@ -1,21 +1,35 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "country": "AE",
   "institutions": [
-    {"code": "ABORDDH", "name": "Emirates NBD", "shortName": "ENBD", "type": "bank", "aliases": "الإمارات دبي الوطني"},
-    {"code": "FABAAEAD", "name": "First Abu Dhabi Bank", "shortName": "FAB", "type": "bank", "aliases": "بنك أبوظبي الأول,NBAD"},
-    {"code": "ADCBAEAA", "name": "Abu Dhabi Commercial Bank", "shortName": "ADCB", "type": "bank", "aliases": "بنك أبوظبي التجاري"},
-    {"code": "MASHAEADXXX", "name": "Mashreq Bank", "shortName": "Mashreq", "type": "bank", "aliases": "بنك المشرق"},
-    {"code": "DIBAAEADXXX", "name": "Dubai Islamic Bank", "shortName": "DIB", "type": "bank", "aliases": "بنك دبي الإسلامي"},
-    {"code": "RAKBAEADXXX", "name": "RAK Bank", "shortName": "RAKBANK", "type": "bank", "aliases": "بنك رأس الخيمة"},
-    {"code": "CBDAAEADXXX", "name": "Commercial Bank of Dubai", "shortName": "CBD", "type": "bank", "aliases": "بنك دبي التجاري"},
-    {"code": "SABORDDH", "name": "Sharjah Islamic Bank", "shortName": "SIB", "type": "bank", "aliases": ""},
-    {"code": "AJMAAEADXXX", "name": "Ajman Bank", "shortName": "Ajman", "type": "bank", "aliases": "بنك عجمان"},
-    {"code": "UMABORDDH", "name": "United Arab Bank", "shortName": "UAB", "type": "bank", "aliases": ""},
-    {"code": "ALWAEADXXX", "name": "Al Masraf", "shortName": "Al Masraf", "type": "bank", "aliases": ""},
-    {"code": "SCBLAE2D", "name": "Standard Chartered UAE", "shortName": "SCB UAE", "type": "bank", "aliases": ""},
-    {"code": "HSBCAEADXXX", "name": "HSBC Middle East", "shortName": "HSBC ME", "type": "bank", "aliases": ""},
-    {"code": "CITIAEAD", "name": "Citibank UAE", "shortName": "Citi UAE", "type": "bank", "aliases": ""}
+    {
+      "code": "EMIREMARAT",
+      "name": "Emirates NBD",
+      "shortName": "ENBD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NBABORDDH",
+      "name": "First Abu Dhabi Bank",
+      "shortName": "FAB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ADCB",
+      "name": "Abu Dhabi Commercial Bank",
+      "shortName": "ADCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DIB",
+      "name": "Dubai Islamic Bank",
+      "shortName": "DIB",
+      "type": "bank",
+      "aliases": ""
+    }
   ]
 }

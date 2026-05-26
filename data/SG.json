@@ -1,19 +1,35 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "country": "SG",
   "institutions": [
-    {"code": "DBSSSGSG", "name": "DBS Bank", "shortName": "DBS", "type": "bank", "aliases": "Development Bank of Singapore,POSB"},
-    {"code": "OCBCSGSG", "name": "OCBC Bank", "shortName": "OCBC", "type": "bank", "aliases": "Oversea-Chinese Banking"},
-    {"code": "UOVBSGSG", "name": "United Overseas Bank", "shortName": "UOB", "type": "bank", "aliases": ""},
-    {"code": "SCBLSG22", "name": "Standard Chartered Singapore", "shortName": "SCB SG", "type": "bank", "aliases": ""},
-    {"code": "HSBCSGSG", "name": "HSBC Singapore", "shortName": "HSBC SG", "type": "bank", "aliases": ""},
-    {"code": "CITISGSG", "name": "Citibank Singapore", "shortName": "Citi SG", "type": "bank", "aliases": ""},
-    {"code": "MABORDDH", "name": "Maybank Singapore", "shortName": "Maybank SG", "type": "bank", "aliases": ""},
-    {"code": "BOFASG2X", "name": "Bank of America Singapore", "shortName": "BofA SG", "type": "bank", "aliases": ""},
-    {"code": "GRABPAY_SG", "name": "GrabPay Singapore", "shortName": "GrabPay", "type": "mfs", "aliases": "Grab"},
-    {"code": "PAYNOWHQ_SG", "name": "PayNow", "shortName": "PayNow", "type": "mfs", "aliases": ""},
-    {"code": "REVOLUT_SG", "name": "Revolut Singapore", "shortName": "Revolut", "type": "fintech", "aliases": ""},
-    {"code": "WISE_SG", "name": "Wise Singapore", "shortName": "Wise", "type": "fintech", "aliases": "TransferWise"}
+    {
+      "code": "DBSSSGSG",
+      "name": "DBS Bank",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "OCBCSGSG",
+      "name": "OCBC Bank",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UOVBSGSG",
+      "name": "United Overseas Bank",
+      "shortName": "UOB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SCB",
+      "name": "Standard Chartered Singapore",
+      "shortName": "SCB",
+      "type": "bank",
+      "aliases": ""
+    }
   ]
 }

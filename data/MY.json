@@ -1,26 +1,42 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-26",
   "country": "MY",
   "institutions": [
-    {"code": "MABORDDH", "name": "Maybank (Malayan Banking)", "shortName": "Maybank", "type": "bank", "aliases": ""},
-    {"code": "CIBBMYKL", "name": "CIMB Bank", "shortName": "CIMB", "type": "bank", "aliases": ""},
-    {"code": "PABORDDH", "name": "Public Bank Berhad", "shortName": "Public Bank", "type": "bank", "aliases": ""},
-    {"code": "RHBBMYKL", "name": "RHB Bank", "shortName": "RHB", "type": "bank", "aliases": ""},
-    {"code": "HLBBMYKL", "name": "Hong Leong Bank", "shortName": "HLB", "type": "bank", "aliases": ""},
-    {"code": "AMMBMYKL", "name": "AmBank", "shortName": "AmBank", "type": "bank", "aliases": ""},
-    {"code": "AFFINMYKL", "name": "Affin Bank", "shortName": "Affin", "type": "bank", "aliases": ""},
-    {"code": "ALLIANCEMY", "name": "Alliance Bank Malaysia", "shortName": "Alliance", "type": "bank", "aliases": ""},
-    {"code": "BISLMYKL", "name": "Bank Islam Malaysia", "shortName": "Bank Islam", "type": "bank", "aliases": ""},
-    {"code": "BMMB MYKL", "name": "Bank Muamalat Malaysia", "shortName": "Muamalat", "type": "bank", "aliases": ""},
-    {"code": "AGOBMYKL", "name": "Agrobank", "shortName": "Agrobank", "type": "bank", "aliases": "Bank Pertanian"},
-    {"code": "BSNAMYKL", "name": "BSN (Bank Simpanan Nasional)", "shortName": "BSN", "type": "bank", "aliases": ""},
-    {"code": "OCBCMYKL", "name": "OCBC Bank Malaysia", "shortName": "OCBC MY", "type": "bank", "aliases": ""},
-    {"code": "UOVBMYKL", "name": "UOB Malaysia", "shortName": "UOB MY", "type": "bank", "aliases": ""},
-    {"code": "SCBLMYKX", "name": "Standard Chartered Malaysia", "shortName": "SCB MY", "type": "bank", "aliases": ""},
-    {"code": "TOUCHNGO_MY", "name": "Touch 'n Go eWallet", "shortName": "TnG", "type": "mfs", "aliases": "TNG,Touch n Go"},
-    {"code": "GRABPAY_MY", "name": "GrabPay Malaysia", "shortName": "GrabPay", "type": "mfs", "aliases": "Grab"},
-    {"code": "BOOST_MY", "name": "Boost", "shortName": "Boost", "type": "mfs", "aliases": ""},
-    {"code": "BIGPAY_MY", "name": "BigPay", "shortName": "BigPay", "type": "fintech", "aliases": ""}
+    {
+      "code": "MAABORDDH",
+      "name": "Malayan Banking Berhad",
+      "shortName": "Maybank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CIMABORDDH",
+      "name": "CIMB Bank",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PBB",
+      "name": "Public Bank Berhad",
+      "shortName": "Public Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RHB",
+      "name": "RHB Bank",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HLB",
+      "name": "Hong Leong Bank",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    }
   ]
 }
