@@ -4,35 +4,35 @@
   "country": "TF",
   "institutions": [
     {
-      "code": "CENBTF",
+      "code": "TF_0",
       "name": "Central Bank of TF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTF",
+      "code": "TF_1",
       "name": "National Bank of TF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTF",
+      "code": "TF_2",
       "name": "State Bank of TF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTF",
+      "code": "TF_3",
       "name": "Commercial Bank of TF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTF",
+      "code": "TF_4",
       "name": "First TF Bank",
       "shortName": "First Bank",
       "type": "bank",

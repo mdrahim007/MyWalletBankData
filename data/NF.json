@@ -4,35 +4,35 @@
   "country": "NF",
   "institutions": [
     {
-      "code": "CENBNF",
+      "code": "NF_0",
       "name": "Central Bank of NF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBNF",
+      "code": "NF_1",
       "name": "National Bank of NF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABNF",
+      "code": "NF_2",
       "name": "State Bank of NF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBNF",
+      "code": "NF_3",
       "name": "Commercial Bank of NF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBNF",
+      "code": "NF_4",
       "name": "First NF Bank",
       "shortName": "First Bank",
       "type": "bank",

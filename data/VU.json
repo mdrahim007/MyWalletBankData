@@ -4,35 +4,35 @@
   "country": "VU",
   "institutions": [
     {
-      "code": "CENBVU",
+      "code": "VU_0",
       "name": "Central Bank of VU",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBVU",
+      "code": "VU_1",
       "name": "National Bank of VU",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABVU",
+      "code": "VU_2",
       "name": "State Bank of VU",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBVU",
+      "code": "VU_3",
       "name": "Commercial Bank of VU",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBVU",
+      "code": "VU_4",
       "name": "First VU Bank",
       "shortName": "First Bank",
       "type": "bank",

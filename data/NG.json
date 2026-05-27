@@ -5,8 +5,8 @@
   "institutions": [
     {
       "code": "NG_0",
-      "name": "Access Bank plc, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Access Holdings PLC, parent of Access Bank Group",
+      "shortName": "Access Holdings",
       "type": "bank",
       "aliases": ""
     },
@@ -243,799 +243,351 @@
     },
     {
       "code": "NG_34",
-      "name": "Access Holdings PLC, parent of Access Bank Group",
-      "shortName": "Access Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_35",
       "name": "FBN Holdings PLC, parent of First Bank of Nigeria Group",
       "shortName": "FBN Holdings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_36",
+      "code": "NG_35",
       "name": "FCMB Group PLC, parent of First City Monument Bank",
       "shortName": "FCMB Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_37",
+      "code": "NG_36",
       "name": "FSDH Holding Company, parent of FSDH Merchant Bank",
       "shortName": "FSDH Holding",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_38",
+      "code": "NG_37",
       "name": "GTB Holding Company, parent of GTCO Group",
       "shortName": "GTB Holding",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_39",
+      "code": "NG_38",
       "name": "Sterling Financial Holdings Ltd, parent of Sterling Bank",
       "shortName": "Sterling Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_40",
+      "code": "NG_39",
       "name": "Alternative Bank Limited",
       "shortName": "Alternative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_41",
+      "code": "NG_40",
       "name": "Jaiz Bank Plc",
       "shortName": "Jaiz",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_42",
-      "name": "Lotus Bank Ltd",
-      "shortName": "Lotus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_43",
+      "code": "NG_41",
       "name": "TAJBank",
       "shortName": "TAJBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_44",
+      "code": "NG_42",
       "name": "Auchi Polytechnic Microfinance Bank",
       "shortName": "Auchi Polytechnic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_45",
+      "code": "NG_43",
       "name": "Mutual Trust Microfinance Bank",
       "shortName": "Mutual Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_46",
+      "code": "NG_44",
       "name": "Rephidim Microfinance Bank",
       "shortName": "Rephidim Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_47",
+      "code": "NG_45",
       "name": "Shepherd Trust Microfinance Bank",
       "shortName": "Shepherd Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_48",
-      "name": "Empire Trust Microfinance Bank",
-      "shortName": "Empire Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_49",
+      "code": "NG_46",
       "name": "Finca Microfinance Bank Limited",
       "shortName": "Finca Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_50",
+      "code": "NG_47",
       "name": "Moneyfield Microfinance Bank",
       "shortName": "Moneyfield Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_51",
-      "name": "Accion Microfinance Bank",
-      "shortName": "Accion Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_52",
-      "name": "Peace Microfinance Bank",
-      "shortName": "Peace Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_53",
-      "name": "Infinity Microfinance Bank",
-      "shortName": "Infinity Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_54",
-      "name": "Covenant Microfinance Bank Ltd",
-      "shortName": "Covenant Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_55",
-      "name": "Solid Allianze Microfinance Bank",
-      "shortName": "Solid Allianze",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_56",
-      "name": "Advans La Fayette Microfinance Bank",
-      "shortName": "Advans La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_57",
-      "name": "lapo mfb&#91;clarification needed&#93;",
-      "shortName": "lapo mfb&#91;clarification",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_58",
-      "name": "mainstreet mfb&#91;clarification needed&#93;",
-      "shortName": "mainstreet mfb&#91;clarification",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_59",
-      "name": "pecan trust mf bank&#91;clarification needed&#93;",
-      "shortName": "pecan trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_60",
+      "code": "NG_48",
       "name": "FairMoney Microfinance Bank",
       "shortName": "FairMoney Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_61",
+      "code": "NG_49",
+      "name": "Infinity Microfinance Bank",
+      "shortName": "Infinity Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_50",
+      "name": "Covenant Microfinance Bank Ltd",
+      "shortName": "Covenant Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_51",
+      "name": "Solid Allianze Microfinance Bank",
+      "shortName": "Solid Allianze",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_52",
+      "name": "Advans La Fayette Microfinance Bank",
+      "shortName": "Advans La",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_53",
+      "name": "mainstreet mfb&#91;clarification needed&#93;",
+      "shortName": "mainstreet mfb&#91;clarification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_54",
+      "name": "pecan trust mf bank&#91;clarification needed&#93;",
+      "shortName": "pecan trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_55",
       "name": "Sparkle Bank",
       "shortName": "Sparkle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_62",
+      "code": "NG_56",
       "name": "Kuda Bank",
       "shortName": "Kuda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_63",
+      "code": "NG_57",
       "name": "Moniepoint Microfinance Bank",
       "shortName": "Moniepoint Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_64",
+      "code": "NG_58",
       "name": "Opay wallet",
       "shortName": "Opay wallet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_65",
+      "code": "NG_59",
       "name": "Dot Microfinance Bank",
       "shortName": "Dot Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_66",
+      "code": "NG_60",
       "name": "PalmPay",
       "shortName": "PalmPay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_67",
+      "code": "NG_61",
       "name": "Rubies Bank",
       "shortName": "Rubies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_68",
+      "code": "NG_62",
       "name": "Pryme App",
       "shortName": "Pryme App",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_69",
-      "name": "VFD Microfinance Bank",
-      "shortName": "VFD Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_70",
+      "code": "NG_63",
       "name": "Mint Finex MFB",
       "shortName": "Mint Finex",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_71",
+      "code": "NG_64",
       "name": "Mkobo MFB",
       "shortName": "Mkobo MFB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_72",
+      "code": "NG_65",
       "name": "Raven Bank",
       "shortName": "Raven",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_73",
-      "name": "Rex Microfinance Bank",
-      "shortName": "Rex Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_74",
+      "code": "NG_66",
       "name": "CashX",
       "shortName": "CashX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_75",
+      "code": "NG_67",
       "name": "Economy of Nigeria",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_76",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_77",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_78",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_79",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_80",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_81",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_82",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_83",
+      "code": "NG_68",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_84",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_85",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_86",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_87",
+      "code": "NG_69",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_88",
+      "code": "NG_70",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_89",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_90",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_91",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_92",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_93",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_94",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_95",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_96",
+      "code": "NG_71",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_97",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_98",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_99",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_100",
+      "code": "NG_72",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_101",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_102",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_103",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_104",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_105",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_106",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_107",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_108",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_109",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_110",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_111",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_112",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_113",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_114",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_115",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_116",
+      "code": "NG_73",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_117",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_118",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_119",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_120",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_121",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_122",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_123",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_124",
+      "code": "NG_74",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_125",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_126",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_127",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_128",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_129",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_130",
+      "code": "NG_75",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_131",
+      "code": "NG_76",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_132",
+      "code": "NG_77",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_133",
+      "code": "NG_78",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_134",
+      "code": "NG_79",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_135",
+      "code": "NG_80",
       "name": "Banking",
       "shortName": "Banking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_136",
+      "code": "NG_81",
       "name": "Communications",
       "shortName": "Communications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_137",
-      "name": "History of Trade",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_138",
-      "name": "Transportation",
-      "shortName": "Transportation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_139",
+      "code": "NG_82",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_140",
+      "code": "NG_83",
       "name": "Yam production",
       "shortName": "Yam production",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_141",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_142",
-      "name": "Banks of Nigeria",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_143",
-      "name": "Lists of companies of Nigeria",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_144",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_145",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_146",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_147",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

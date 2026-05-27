@@ -4,35 +4,35 @@
   "country": "AI",
   "institutions": [
     {
-      "code": "CENBAI",
+      "code": "AI_0",
       "name": "Central Bank of AI",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAI",
+      "code": "AI_1",
       "name": "National Bank of AI",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAI",
+      "code": "AI_2",
       "name": "State Bank of AI",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAI",
+      "code": "AI_3",
       "name": "Commercial Bank of AI",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAI",
+      "code": "AI_4",
       "name": "First AI Bank",
       "shortName": "First Bank",
       "type": "bank",

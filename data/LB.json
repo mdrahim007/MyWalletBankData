@@ -229,482 +229,104 @@
     },
     {
       "code": "LB_32",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_33",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_34",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_35",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_36",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_37",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_38",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_39",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_40",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_41",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_42",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_43",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_44",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_45",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_46",
+      "code": "LB_33",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_47",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_48",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_49",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_50",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_51",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_52",
+      "code": "LB_34",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_53",
+      "code": "LB_35",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_54",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_55",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_56",
+      "code": "LB_36",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_57",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_58",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_59",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_60",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_61",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_62",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_63",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_64",
+      "code": "LB_37",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_65",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_66",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_67",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_68",
+      "code": "LB_38",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_69",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_70",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_71",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_72",
+      "code": "LB_39",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_73",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_74",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_75",
+      "code": "LB_40",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_76",
+      "code": "LB_41",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_77",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_78",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_79",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_80",
+      "code": "LB_42",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_81",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_82",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_83",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_84",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_85",
+      "code": "LB_43",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_86",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_87",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_88",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_89",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_90",
+      "code": "LB_44",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_91",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_92",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_93",
-      "name": "Banks of Lebanon",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_94",
-      "name": "Lists of companies of Lebanon",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_95",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_96",
+      "code": "LB_45",
       "name": "Business in Lebanon",
       "shortName": "Business in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_97",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_98",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_99",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_100",
+      "code": "LB_46",
       "name": "Incomplete lists from June 2009",
       "shortName": "Incomplete lists",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "NL",
   "institutions": [
     {
-      "code": "CENBNL",
+      "code": "NL_0",
       "name": "Central Bank of NL",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBNL",
+      "code": "NL_1",
       "name": "National Bank of NL",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABNL",
+      "code": "NL_2",
       "name": "State Bank of NL",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBNL",
+      "code": "NL_3",
       "name": "Commercial Bank of NL",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBNL",
+      "code": "NL_4",
       "name": "First NL Bank",
       "shortName": "First Bank",
       "type": "bank",

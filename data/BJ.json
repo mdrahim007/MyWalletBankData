@@ -68,561 +68,169 @@
     },
     {
       "code": "BJ_9",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_10",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_11",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_12",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_13",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_14",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_15",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_16",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_17",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_18",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_19",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_20",
+      "code": "BJ_10",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_21",
+      "code": "BJ_11",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_22",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_23",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_24",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_25",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_26",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_27",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_28",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_29",
+      "code": "BJ_12",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_30",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_31",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_32",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_33",
+      "code": "BJ_13",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_34",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_35",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_36",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_37",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_38",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_39",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_40",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_41",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_42",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_43",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_44",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_45",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_46",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_47",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_48",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_49",
+      "code": "BJ_14",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_50",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_51",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_52",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_53",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_54",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_55",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_56",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_57",
+      "code": "BJ_15",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_58",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_59",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_60",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_61",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_62",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_63",
+      "code": "BJ_16",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_64",
+      "code": "BJ_17",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_65",
+      "code": "BJ_18",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_66",
+      "code": "BJ_19",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_67",
+      "code": "BJ_20",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_68",
+      "code": "BJ_21",
       "name": "Communications",
       "shortName": "Communications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_69",
-      "name": "History of Trade",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_70",
-      "name": "Transportation",
-      "shortName": "Transportation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_71",
+      "code": "BJ_22",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_72",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_73",
+      "code": "BJ_23",
       "name": "Banque Internationale du Bénin",
       "shortName": "Banque Internationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_74",
+      "code": "BJ_24",
       "name": "Bank of Africa Benin",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_75",
+      "code": "BJ_25",
       "name": "Continental Bank Benin",
       "shortName": "Continental",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_76",
+      "code": "BJ_26",
       "name": "Diamond Bank Benin",
       "shortName": "Diamond",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_77",
+      "code": "BJ_27",
       "name": "Ecobank",
       "shortName": "Ecobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_78",
+      "code": "BJ_28",
       "name": "Financial Bank Benin",
       "shortName": "Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_79",
+      "code": "BJ_29",
       "name": "Finadev",
       "shortName": "Finadev",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_80",
+      "code": "BJ_30",
       "name": "Caisse Nationale d'Epargne",
       "shortName": "Caisse Nationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_81",
+      "code": "BJ_31",
       "name": "Credit du Benin",
       "shortName": "Credit du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BJ_82",
+      "code": "BJ_32",
       "name": "Equibail",
       "shortName": "Equibail",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_83",
-      "name": "Banks of Benin",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_84",
-      "name": "Lists of companies of Benin",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_85",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_86",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_87",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_88",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

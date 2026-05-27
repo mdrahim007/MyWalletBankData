@@ -26,7 +26,7 @@
     },
     {
       "code": "PT_3",
-      "name": "Caixa de Crédito Agrícola Mútuo de Bombarral CRL",
+      "name": "Caixa de Crédito Agrícola Mútuo de Torres Vedras CRL",
       "shortName": "Caixa de",
       "type": "bank",
       "aliases": ""
@@ -40,218 +40,127 @@
     },
     {
       "code": "PT_5",
-      "name": "Caixa de Crédito Agrícola Mútuo de Leiria CRL",
-      "shortName": "Caixa de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_6",
-      "name": "Caixa de Crédito Agrícola Mútuo de Mafra CRL",
-      "shortName": "Caixa de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_7",
-      "name": "Caixa de Crédito Agrícola Mútuo de Torres Vedras CRL",
-      "shortName": "Caixa de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_8",
       "name": "Banco de Investimento Global SA&#160;&#91;pt&#93;",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_9",
+      "code": "PT_6",
       "name": "Banco Finantia SA&#160;&#91;pt&#93;",
       "shortName": "Banco Finantia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_10",
+      "code": "PT_7",
       "name": "Banco L.J. Carregosa SA&#160;&#91;pt&#93;",
       "shortName": "Banco L.J.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_11",
+      "code": "PT_8",
       "name": "Banco Português de Gestão SA",
       "shortName": "Banco Português",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_12",
+      "code": "PT_9",
       "name": "Bison Bank SA",
       "shortName": "Bison",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_13",
+      "code": "PT_10",
       "name": "Montepio Investimento SA, part of Montepio Group",
       "shortName": "Montepio Investimento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_14",
-      "name": "Itaú BBA Europe SA, subsidiary of Itaú Unibanco",
-      "shortName": "Itaú BBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_15",
+      "code": "PT_11",
       "name": "Crédito Predial Português (1863-2004)",
       "shortName": "Crédito Predial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_16",
+      "code": "PT_12",
       "name": "Banco Nacional Ultramarino (1864-2001)",
       "shortName": "Banco Nacional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_17",
+      "code": "PT_13",
       "name": "Banco Espírito Santo (1869-2016)",
       "shortName": "Banco Espírito",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_18",
+      "code": "PT_14",
       "name": "Banco da Régua&#160;&#91;pt&#93; (1874-1886)",
       "shortName": "Banco da",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_19",
+      "code": "PT_15",
       "name": "Banco Fernandes Magalhães&#160;&#91;pt&#93; (1905-1975)",
       "shortName": "Banco Fernandes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_20",
+      "code": "PT_16",
       "name": "Banco Português do Atlântico (1942-2000)",
       "shortName": "Banco Português",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_21",
-      "name": "Banco Pinto de Magalhães&#160;&#91;pt&#93; (1952-1978)",
-      "shortName": "Banco Pinto",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_22",
+      "code": "PT_17",
       "name": "Banco Totta-Aliança&#160;&#91;pt&#93; (1961-1969)",
       "shortName": "Banco Totta-Aliança&#160;&#91;pt&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_23",
+      "code": "PT_18",
       "name": "Banco Totta &amp; Açores&#160;&#91;pt&#93; (1970-2004)",
       "shortName": "Banco Totta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_24",
+      "code": "PT_19",
       "name": "Banif Financial Group (1988-2015)",
       "shortName": "Banif Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_25",
+      "code": "PT_20",
       "name": "Banco Português de Negócios (1993-2008)",
       "shortName": "Banco Português",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_26",
+      "code": "PT_21",
       "name": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
       "shortName": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PT_27",
+      "code": "PT_22",
       "name": "Banco Privado Português (1996-2010)",
       "shortName": "Banco Privado",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_28",
-      "name": "EuroBic&#160;&#91;pt&#93; (2008-2024)",
-      "shortName": "EuroBic&#160;&#91;pt&#93; (2008-2024)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_29",
-      "name": "Banks of Portugal",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_30",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_31",
-      "name": "Lists of companies of Portugal by industry",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_32",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_33",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_34",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_35",
-      "name": "Articles containing Portuguese-language text",
-      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

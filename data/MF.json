@@ -4,35 +4,35 @@
   "country": "MF",
   "institutions": [
     {
-      "code": "CENBMF",
+      "code": "MF_0",
       "name": "Central Bank of MF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMF",
+      "code": "MF_1",
       "name": "National Bank of MF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMF",
+      "code": "MF_2",
       "name": "State Bank of MF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMF",
+      "code": "MF_3",
       "name": "Commercial Bank of MF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMF",
+      "code": "MF_4",
       "name": "First MF Bank",
       "shortName": "First Bank",
       "type": "bank",

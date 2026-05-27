@@ -4,35 +4,35 @@
   "country": "WF",
   "institutions": [
     {
-      "code": "CENBWF",
+      "code": "WF_0",
       "name": "Central Bank of WF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBWF",
+      "code": "WF_1",
       "name": "National Bank of WF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABWF",
+      "code": "WF_2",
       "name": "State Bank of WF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBWF",
+      "code": "WF_3",
       "name": "Commercial Bank of WF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBWF",
+      "code": "WF_4",
       "name": "First WF Bank",
       "shortName": "First Bank",
       "type": "bank",

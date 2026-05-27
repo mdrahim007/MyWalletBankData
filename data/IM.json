@@ -4,35 +4,35 @@
   "country": "IM",
   "institutions": [
     {
-      "code": "CENBIM",
+      "code": "IM_0",
       "name": "Central Bank of IM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBIM",
+      "code": "IM_1",
       "name": "National Bank of IM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABIM",
+      "code": "IM_2",
       "name": "State Bank of IM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBIM",
+      "code": "IM_3",
       "name": "Commercial Bank of IM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBIM",
+      "code": "IM_4",
       "name": "First IM Bank",
       "shortName": "First Bank",
       "type": "bank",

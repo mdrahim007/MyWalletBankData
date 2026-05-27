@@ -4,35 +4,35 @@
   "country": "NR",
   "institutions": [
     {
-      "code": "CENBNR",
+      "code": "NR_0",
       "name": "Central Bank of NR",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBNR",
+      "code": "NR_1",
       "name": "National Bank of NR",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABNR",
+      "code": "NR_2",
       "name": "State Bank of NR",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBNR",
+      "code": "NR_3",
       "name": "Commercial Bank of NR",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBNR",
+      "code": "NR_4",
       "name": "First NR Bank",
       "shortName": "First Bank",
       "type": "bank",

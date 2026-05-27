@@ -4,35 +4,35 @@
   "country": "WS",
   "institutions": [
     {
-      "code": "CENBWS",
+      "code": "WS_0",
       "name": "Central Bank of WS",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBWS",
+      "code": "WS_1",
       "name": "National Bank of WS",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABWS",
+      "code": "WS_2",
       "name": "State Bank of WS",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBWS",
+      "code": "WS_3",
       "name": "Commercial Bank of WS",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBWS",
+      "code": "WS_4",
       "name": "First WS Bank",
       "shortName": "First Bank",
       "type": "bank",

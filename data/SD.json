@@ -26,8 +26,8 @@
     },
     {
       "code": "SD_3",
-      "name": "Arab Sudanese Bank&#160;&#91;ar&#93;",
-      "shortName": "Arab Sudanese",
+      "name": "Saudi Sudanese Bank&#160;&#91;ar&#93;",
+      "shortName": "Saudi Sudanese",
       "type": "bank",
       "aliases": ""
     },
@@ -47,8 +47,8 @@
     },
     {
       "code": "SD_6",
-      "name": "Sudanese Islamic Bank&#160;&#91;ar&#93;",
-      "shortName": "Sudanese Islamic",
+      "name": "Sudanese Egyptian Bank&#160;&#91;ar&#93;",
+      "shortName": "Sudanese Egyptian",
       "type": "bank",
       "aliases": ""
     },
@@ -61,8 +61,8 @@
     },
     {
       "code": "SD_8",
-      "name": "Family Bank&#160;&#91;ar&#93;",
-      "shortName": "Family&#160;&#91;ar&#93;",
+      "name": "Capital Bank&#160;&#91;ar&#93;",
+      "shortName": "Capital&#160;&#91;ar&#93;",
       "type": "bank",
       "aliases": ""
     },
@@ -89,1476 +89,888 @@
     },
     {
       "code": "SD_12",
-      "name": "Capital Bank&#160;&#91;ar&#93;",
-      "shortName": "Capital&#160;&#91;ar&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_13",
       "name": "Qatar National Bank",
       "shortName": "Qatar National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_14",
+      "code": "SD_13",
       "name": "Blue Nile Mashreq Bank&#160;&#91;ar&#93;",
       "shortName": "Blue Nile",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_15",
+      "code": "SD_14",
       "name": "Al Jazeera Sudanese Jordanian Bank",
       "shortName": "Al Jazeera",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_16",
+      "code": "SD_15",
       "name": "Balad Bank",
       "shortName": "Balad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_17",
+      "code": "SD_16",
       "name": "Farmers Commercial Bank&#160;&#91;ar&#93;",
       "shortName": "Farmers Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_18",
+      "code": "SD_17",
       "name": "El Nilein Bank&#160;&#91;ar&#93;",
       "shortName": "El Nilein",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_19",
-      "name": "Saudi Sudanese Bank&#160;&#91;ar&#93;",
-      "shortName": "Saudi Sudanese",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_20",
-      "name": "Sudanese French Bank&#160;&#91;ar&#93;",
-      "shortName": "Sudanese French",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_21",
+      "code": "SD_18",
       "name": "Baraka Bank Sudan&#160;&#91;ar&#93;",
       "shortName": "Baraka",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_22",
+      "code": "SD_19",
       "name": "Commercial Real Estate Bank&#160;&#91;ar&#93;",
       "shortName": "Commercial Real",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_23",
-      "name": "Nile Bank&#160;&#91;ar&#93;",
-      "shortName": "Nile&#160;&#91;ar&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_24",
+      "code": "SD_20",
       "name": "Ivory Bank",
       "shortName": "Ivory",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_25",
-      "name": "Sudanese Egyptian Bank&#160;&#91;ar&#93;",
-      "shortName": "Sudanese Egyptian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_26",
+      "code": "SD_21",
       "name": "Animal Resource Bank&#160;&#91;ar&#93;",
       "shortName": "Animal Resource",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_27",
+      "code": "SD_22",
       "name": "Agricultural Bank of Sudan&#160;&#91;ar&#93;",
       "shortName": "Agricultural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_28",
+      "code": "SD_23",
       "name": "Financial Investment Bank&#160;&#91;ar&#93;",
       "shortName": "Financial Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_29",
-      "name": "Workers National Bank&#160;&#91;ar&#93;",
-      "shortName": "Workers National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_30",
+      "code": "SD_24",
       "name": "Omdurman National Bank&#160;&#91;ar&#93;",
       "shortName": "Omdurman National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_31",
+      "code": "SD_25",
       "name": "Industrial Development Bank of Sudan&#160;&#91;ar&#93;",
       "shortName": "Industrial Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_32",
+      "code": "SD_26",
       "name": "Tadamon Islamic Bank&#160;&#91;ar&#93;",
       "shortName": "Tadamon Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_33",
+      "code": "SD_27",
       "name": "Faisal Islamic Bank of Sudan",
       "shortName": "Faisal Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_34",
+      "code": "SD_28",
       "name": "Economy of Sudan",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_35",
+      "code": "SD_29",
       "name": "Website of Central Bank of Sudan",
       "shortName": "Website of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_36",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_37",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_38",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_39",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_40",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_41",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_42",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_43",
+      "code": "SD_30",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_44",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_45",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_46",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_47",
+      "code": "SD_31",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_48",
+      "code": "SD_32",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_49",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_50",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_51",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_52",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_53",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_54",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_55",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_56",
+      "code": "SD_33",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_57",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_58",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_59",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_60",
+      "code": "SD_34",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_61",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_62",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_63",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_64",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_65",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_66",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_67",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_68",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_69",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_70",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_71",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_72",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_73",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_74",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_75",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_76",
+      "code": "SD_35",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_77",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_78",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_79",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_80",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_81",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_82",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_83",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_84",
+      "code": "SD_36",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_85",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_86",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_87",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_88",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_89",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_90",
+      "code": "SD_37",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_91",
+      "code": "SD_38",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_92",
+      "code": "SD_39",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_93",
+      "code": "SD_40",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_94",
+      "code": "SD_41",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_95",
+      "code": "SD_42",
       "name": "Timeline",
       "shortName": "Timeline",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_96",
+      "code": "SD_43",
       "name": "Pre-independence governors",
       "shortName": "Pre-independence governors",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_97",
-      "name": "Pre and early history",
-      "shortName": "Pre and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_98",
+      "code": "SD_44",
       "name": "Medieval",
       "shortName": "Medieval",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_99",
+      "code": "SD_45",
       "name": "Islamization",
       "shortName": "Islamization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_100",
+      "code": "SD_46",
       "name": "Turkish occupation",
       "shortName": "Turkish occupation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_101",
+      "code": "SD_47",
       "name": "Mahdiyya",
       "shortName": "Mahdiyya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_102",
+      "code": "SD_48",
       "name": "Independent Sudan",
       "shortName": "Independent Sudan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_103",
+      "code": "SD_49",
       "name": "First Civil War",
       "shortName": "First Civil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_104",
+      "code": "SD_50",
       "name": "1958 coup",
       "shortName": "1958 coup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_105",
+      "code": "SD_51",
       "name": "1969 coup",
       "shortName": "1969 coup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_106",
+      "code": "SD_52",
       "name": "Nimeiry Era",
       "shortName": "Nimeiry Era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_107",
+      "code": "SD_53",
       "name": "Communist coup",
       "shortName": "Communist coup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_108",
+      "code": "SD_54",
       "name": "National Reconciliation",
       "shortName": "National Reconciliation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_109",
+      "code": "SD_55",
       "name": "Second Civil War",
       "shortName": "Second Civil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_110",
-      "name": "1985 coup",
-      "shortName": "1985 coup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_111",
-      "name": "First Transitional Military Council",
-      "shortName": "First Transitional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_112",
+      "code": "SD_56",
       "name": "Coalitions/Bashir Era",
       "shortName": "Coalitions/Bashir Era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_113",
-      "name": "1989 coup",
-      "shortName": "1989 coup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_114",
+      "code": "SD_57",
       "name": "RCCNS",
       "shortName": "RCCNS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_115",
+      "code": "SD_58",
       "name": "War in Darfur",
       "shortName": "War in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_116",
+      "code": "SD_59",
       "name": "United Nations Mission",
       "shortName": "United Nations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_117",
+      "code": "SD_60",
       "name": "Nomadic conflicts",
       "shortName": "Nomadic conflicts",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_118",
+      "code": "SD_61",
       "name": "Conflict in South Kordofan and Blue Nile",
       "shortName": "Conflict in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_119",
+      "code": "SD_62",
       "name": "2019 coup",
       "shortName": "2019 coup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_120",
-      "name": "Second Transitional Military Council",
-      "shortName": "Second Transitional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_121",
+      "code": "SD_63",
       "name": "Transitional Sovereignty Council",
       "shortName": "Transitional Sovereignty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_122",
+      "code": "SD_64",
       "name": "October 2021 coup",
       "shortName": "October 2021",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_123",
+      "code": "SD_65",
       "name": "Sudanese civil war (2023–present)",
       "shortName": "Sudanese civil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_124",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_125",
-      "name": "Lakes",
-      "shortName": "Lakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_126",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_127",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_128",
+      "code": "SD_66",
       "name": "Volcanoes",
       "shortName": "Volcanoes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_129",
-      "name": "Wildlife",
-      "shortName": "Wildlife",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_130",
+      "code": "SD_67",
       "name": "Birds",
       "shortName": "Birds",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_131",
+      "code": "SD_68",
       "name": "Horses",
       "shortName": "Horses",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_132",
+      "code": "SD_69",
       "name": "Butterflies",
       "shortName": "Butterflies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_133",
+      "code": "SD_70",
       "name": "Moths",
       "shortName": "Moths",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_134",
+      "code": "SD_71",
       "name": "Non-marine molluscs",
       "shortName": "Non-marine molluscs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_135",
+      "code": "SD_72",
       "name": "Reptiles",
       "shortName": "Reptiles",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_136",
+      "code": "SD_73",
       "name": "Climate change",
       "shortName": "Climate change",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_137",
+      "code": "SD_74",
       "name": "Floods",
       "shortName": "Floods",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_138",
+      "code": "SD_75",
       "name": "Gezira",
       "shortName": "Gezira",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_139",
+      "code": "SD_76",
       "name": "Al Qadarif",
       "shortName": "Al Qadarif",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_140",
+      "code": "SD_77",
       "name": "Blue Nile",
       "shortName": "Blue Nile",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_141",
+      "code": "SD_78",
       "name": "Central Darfur",
       "shortName": "Central Darfur",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_142",
+      "code": "SD_79",
       "name": "East Darfur",
       "shortName": "East Darfur",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_143",
+      "code": "SD_80",
       "name": "Kassala",
       "shortName": "Kassala",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_144",
+      "code": "SD_81",
       "name": "Khartoum",
       "shortName": "Khartoum",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_145",
+      "code": "SD_82",
       "name": "North Darfur",
       "shortName": "North Darfur",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_146",
+      "code": "SD_83",
       "name": "North Kordofan",
       "shortName": "North Kordofan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_147",
+      "code": "SD_84",
       "name": "Northern",
       "shortName": "Northern",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_148",
+      "code": "SD_85",
       "name": "Red Sea",
       "shortName": "Red Sea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_149",
+      "code": "SD_86",
       "name": "River Nile",
       "shortName": "River Nile",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_150",
+      "code": "SD_87",
       "name": "Sennar",
       "shortName": "Sennar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_151",
+      "code": "SD_88",
       "name": "South Darfur",
       "shortName": "South Darfur",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_152",
-      "name": "South Kordofan",
-      "shortName": "South Kordofan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_153",
-      "name": "West Darfur",
-      "shortName": "West Darfur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_154",
+      "code": "SD_89",
       "name": "West Kordofan",
       "shortName": "West Kordofan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_155",
+      "code": "SD_90",
       "name": "White Nile",
       "shortName": "White Nile",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_156",
+      "code": "SD_91",
       "name": "Districts",
       "shortName": "Districts",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_157",
+      "code": "SD_92",
       "name": "Cities",
       "shortName": "Cities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_158",
+      "code": "SD_93",
       "name": "Ambassadors",
       "shortName": "Ambassadors",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_159",
+      "code": "SD_94",
       "name": "Cabinet",
       "shortName": "Cabinet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_160",
+      "code": "SD_95",
       "name": "1973",
       "shortName": "1973",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_161",
+      "code": "SD_96",
       "name": "1985",
       "shortName": "1985",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_162",
+      "code": "SD_97",
       "name": "1998",
       "shortName": "1998",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_163",
+      "code": "SD_98",
       "name": "2005",
       "shortName": "2005",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_164",
+      "code": "SD_99",
       "name": "2019",
       "shortName": "2019",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_165",
+      "code": "SD_100",
       "name": "Coups",
       "shortName": "Coups",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_166",
+      "code": "SD_101",
       "name": "Corruption",
       "shortName": "Corruption",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_167",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_168",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_169",
+      "code": "SD_102",
       "name": "Massacres",
       "shortName": "Massacres",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_170",
+      "code": "SD_103",
       "name": "September Laws",
       "shortName": "September Laws",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_171",
+      "code": "SD_104",
       "name": "Criminal Act",
       "shortName": "Criminal Act",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_172",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_173",
+      "code": "SD_105",
       "name": "Native administration",
       "shortName": "Native administration",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_174",
+      "code": "SD_106",
       "name": "Parliament",
       "shortName": "Parliament",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_175",
+      "code": "SD_107",
       "name": "Prime Minister",
       "shortName": "Prime Minister",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_176",
+      "code": "SD_108",
       "name": "President",
       "shortName": "President",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_177",
+      "code": "SD_109",
       "name": "Vice President",
       "shortName": "Vice President",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_178",
+      "code": "SD_110",
       "name": "State Governors",
       "shortName": "State Governors",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_179",
+      "code": "SD_111",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_180",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_181",
+      "code": "SD_112",
       "name": "Dinar (former currency)",
       "shortName": "Dinar (former",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_182",
+      "code": "SD_113",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_183",
+      "code": "SD_114",
       "name": "Pound (currency)",
       "shortName": "Pound (currency)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_184",
-      "name": "Taxation",
-      "shortName": "Taxation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_185",
+      "code": "SD_115",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_186",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_187",
+      "code": "SD_116",
       "name": "Abortion",
       "shortName": "Abortion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_188",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_189",
+      "code": "SD_117",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_190",
+      "code": "SD_118",
       "name": "Education",
       "shortName": "Education",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_191",
+      "code": "SD_119",
       "name": "Health",
       "shortName": "Health",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_192",
-      "name": "Languages",
-      "shortName": "Languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_193",
+      "code": "SD_120",
       "name": "LGBT",
       "shortName": "LGBT",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_194",
+      "code": "SD_121",
       "name": "Child marriage",
       "shortName": "Child marriage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_195",
+      "code": "SD_122",
       "name": "Refugees",
       "shortName": "Refugees",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_196",
+      "code": "SD_123",
       "name": "Christianity",
       "shortName": "Christianity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_197",
+      "code": "SD_124",
       "name": "Slavery",
       "shortName": "Slavery",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_198",
+      "code": "SD_125",
       "name": "Squatting",
       "shortName": "Squatting",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_199",
+      "code": "SD_126",
       "name": "Women",
       "shortName": "Women",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_200",
+      "code": "SD_127",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_201",
+      "code": "SD_128",
       "name": "Architecture",
       "shortName": "Architecture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_202",
+      "code": "SD_129",
       "name": "Art",
       "shortName": "Art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_203",
+      "code": "SD_130",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_204",
+      "code": "SD_131",
       "name": "Clothing",
       "shortName": "Clothing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_205",
+      "code": "SD_132",
       "name": "Decorations",
       "shortName": "Decorations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_206",
+      "code": "SD_133",
       "name": "Emblem",
       "shortName": "Emblem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_207",
+      "code": "SD_134",
       "name": "Literature",
       "shortName": "Literature",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_208",
+      "code": "SD_135",
       "name": "Media",
       "shortName": "Media",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_209",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_210",
+      "code": "SD_136",
       "name": "Photography",
       "shortName": "Photography",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_211",
-      "name": "Postal history",
-      "shortName": "Postal history",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_212",
-      "name": "Sport",
-      "shortName": "Sport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_213",
+      "code": "SD_137",
       "name": "Television",
       "shortName": "Television",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SD_214",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_215",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_216",
-      "name": "Banks of Sudan",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_217",
-      "name": "Lists of companies of Sudan",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_218",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_219",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_220",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_221",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SD_222",
+      "code": "SD_138",
       "name": "Interlanguage link template existing link",
       "shortName": "Interlanguage link",
       "type": "bank",

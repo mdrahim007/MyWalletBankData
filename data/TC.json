@@ -4,35 +4,35 @@
   "country": "TC",
   "institutions": [
     {
-      "code": "CENBTC",
+      "code": "TC_0",
       "name": "Central Bank of TC",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTC",
+      "code": "TC_1",
       "name": "National Bank of TC",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTC",
+      "code": "TC_2",
       "name": "State Bank of TC",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTC",
+      "code": "TC_3",
       "name": "Commercial Bank of TC",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTC",
+      "code": "TC_4",
       "name": "First TC Bank",
       "shortName": "First Bank",
       "type": "bank",

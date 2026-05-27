@@ -4,35 +4,35 @@
   "country": "BS",
   "institutions": [
     {
-      "code": "CENBBS",
+      "code": "BS_0",
       "name": "Central Bank of BS",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBS",
+      "code": "BS_1",
       "name": "National Bank of BS",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBS",
+      "code": "BS_2",
       "name": "State Bank of BS",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBS",
+      "code": "BS_3",
       "name": "Commercial Bank of BS",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBS",
+      "code": "BS_4",
       "name": "First BS Bank",
       "shortName": "First Bank",
       "type": "bank",

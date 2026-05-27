@@ -4,35 +4,35 @@
   "country": "MV",
   "institutions": [
     {
-      "code": "CENBMV",
+      "code": "MV_0",
       "name": "Central Bank of MV",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMV",
+      "code": "MV_1",
       "name": "National Bank of MV",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMV",
+      "code": "MV_2",
       "name": "State Bank of MV",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMV",
+      "code": "MV_3",
       "name": "Commercial Bank of MV",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMV",
+      "code": "MV_4",
       "name": "First MV Bank",
       "shortName": "First Bank",
       "type": "bank",

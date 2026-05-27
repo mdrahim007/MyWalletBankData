@@ -5,713 +5,286 @@
   "institutions": [
     {
       "code": "CU_0",
-      "name": "Antigua and Barbuda",
-      "shortName": "Antigua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_1",
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_2",
-      "name": "Bahamas",
-      "shortName": "Bahamas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_3",
-      "name": "Barbados",
-      "shortName": "Barbados",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_4",
-      "name": "Belize",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_5",
       "name": "Bolivia",
       "shortName": "Bolivia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_6",
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_7",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_8",
-      "name": "Chile",
-      "shortName": "Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_9",
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_10",
-      "name": "Costa Rica",
-      "shortName": "Costa Rica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_11",
-      "name": "Cuba",
-      "shortName": "Cuba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_12",
-      "name": "Dominica",
-      "shortName": "Dominica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_13",
-      "name": "Dominican Republic",
-      "shortName": "Dominican Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_14",
-      "name": "Ecuador",
-      "shortName": "Ecuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_15",
-      "name": "El Salvador",
-      "shortName": "El Salvador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_16",
-      "name": "Grenada",
-      "shortName": "Grenada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_17",
-      "name": "Guatemala",
-      "shortName": "Guatemala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_18",
-      "name": "Guyana",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_19",
-      "name": "Haiti",
-      "shortName": "Haiti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_20",
-      "name": "Honduras",
-      "shortName": "Honduras",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_21",
-      "name": "Jamaica",
-      "shortName": "Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_22",
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_23",
-      "name": "Nicaragua",
-      "shortName": "Nicaragua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_24",
-      "name": "Panama",
-      "shortName": "Panama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_25",
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_26",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_27",
-      "name": "Saint Kitts and Nevis",
-      "shortName": "Saint Kitts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_28",
-      "name": "Saint Lucia",
-      "shortName": "Saint Lucia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_29",
-      "name": "Saint Vincent and the Grenadines",
-      "shortName": "Saint Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_30",
-      "name": "Suriname",
-      "shortName": "Suriname",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_31",
-      "name": "Trinidad and Tobago",
-      "shortName": "Trinidad and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_32",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_33",
-      "name": "Uruguay",
-      "shortName": "Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_34",
+      "code": "CU_1",
       "name": "Venezuela",
       "shortName": "Venezuela",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_35",
-      "name": "Anguilla",
-      "shortName": "Anguilla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_36",
-      "name": "Aruba",
-      "shortName": "Aruba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_37",
-      "name": "Bermuda",
-      "shortName": "Bermuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_38",
+      "code": "CU_2",
       "name": "Bonaire",
       "shortName": "Bonaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_39",
+      "code": "CU_3",
       "name": "British Virgin Islands",
       "shortName": "British Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_40",
-      "name": "Cayman Islands",
-      "shortName": "Cayman Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_41",
-      "name": "Curaçao",
-      "shortName": "Curaçao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_42",
+      "code": "CU_4",
       "name": "Falkland Islands",
       "shortName": "Falkland Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_43",
-      "name": "French Guiana",
-      "shortName": "French Guiana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_44",
-      "name": "Greenland",
-      "shortName": "Greenland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_45",
-      "name": "Guadeloupe",
-      "shortName": "Guadeloupe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_46",
-      "name": "Martinique",
-      "shortName": "Martinique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_47",
-      "name": "Montserrat",
-      "shortName": "Montserrat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_48",
-      "name": "Puerto Rico",
-      "shortName": "Puerto Rico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_49",
+      "code": "CU_5",
       "name": "Saba",
       "shortName": "Saba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_50",
-      "name": "Saint Barthélemy",
-      "shortName": "Saint Barthélemy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_51",
+      "code": "CU_6",
       "name": "Saint Martin",
       "shortName": "Saint Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_52",
-      "name": "Saint Pierre and Miquelon",
-      "shortName": "Saint Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_53",
+      "code": "CU_7",
       "name": "Sint Eustatius",
       "shortName": "Sint Eustatius",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_54",
+      "code": "CU_8",
       "name": "Sint Maarten",
       "shortName": "Sint Maarten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_55",
-      "name": "South Georgia and the South Sandwich Islands",
-      "shortName": "South Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_56",
-      "name": "Turks and Caicos Islands",
-      "shortName": "Turks and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_57",
+      "code": "CU_9",
       "name": "U.S. Virgin Islands",
       "shortName": "U.S. Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_58",
+      "code": "CU_10",
       "name": "North America",
       "shortName": "North America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_59",
+      "code": "CU_11",
       "name": "Central America",
       "shortName": "Central America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_60",
+      "code": "CU_12",
       "name": "Caribbean",
       "shortName": "Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_61",
+      "code": "CU_13",
       "name": "South America",
       "shortName": "South America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_62",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_63",
-      "name": "Banks of Cuba",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_64",
-      "name": "Lists of companies of Cuba",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_65",
-      "name": "Lists of banks in North America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_66",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_67",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_68",
-      "name": "All articles with unsourced statements",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_69",
-      "name": "Articles with unsourced statements from January 2020",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_70",
+      "code": "CU_14",
       "name": "Banco de Crédito y Comercio",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_71",
+      "code": "CU_15",
       "name": "1997",
       "shortName": "1997",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_72",
+      "code": "CU_16",
       "name": "Banco de Inversiones",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_73",
+      "code": "CU_17",
       "name": "1996",
       "shortName": "1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_74",
+      "code": "CU_18",
       "name": "Banco Exterior de Cuba",
       "shortName": "Banco Exterior",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_75",
+      "code": "CU_19",
       "name": "1999",
       "shortName": "1999",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_76",
+      "code": "CU_20",
       "name": "Banco Financiero Internacional",
       "shortName": "Banco Financiero",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_77",
+      "code": "CU_21",
       "name": "1984",
       "shortName": "1984",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_78",
+      "code": "CU_22",
       "name": "Banco Industrial de Venezuela-Cuba",
       "shortName": "Banco Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_79",
+      "code": "CU_23",
       "name": "2005",
       "shortName": "2005",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_80",
+      "code": "CU_24",
       "name": "Banco Internacional de Comercio",
       "shortName": "Banco Internacional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_81",
+      "code": "CU_25",
       "name": "1993",
       "shortName": "1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_82",
+      "code": "CU_26",
       "name": "Banco Metropolitano",
       "shortName": "Banco Metropolitano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_83",
+      "code": "CU_27",
       "name": "Banco Nacional de Cuba",
       "shortName": "Banco Nacional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_84",
+      "code": "CU_28",
       "name": "1948",
       "shortName": "1948",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_85",
+      "code": "CU_29",
       "name": "Banco Popular de Ahorro",
       "shortName": "Banco Popular",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_86",
+      "code": "CU_30",
       "name": "1983",
       "shortName": "1983",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_87",
+      "code": "CU_31",
       "name": "Banco Bilbao Vizcaya Argentaria",
       "shortName": "Banco Bilbao",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_88",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_89",
+      "code": "CU_32",
       "name": "Banco Sabadell",
       "shortName": "Banco Sabadell",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_90",
-      "name": "Bankia&#91;citation needed&#93;",
-      "shortName": "Bankia&#91;citation needed&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_91",
-      "name": "BPCE International et Outre-Mer",
-      "shortName": "BPCE International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_92",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_93",
-      "name": "Fransabank",
-      "shortName": "Fransabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_94",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_95",
-      "name": "Havin Bank Ltd.",
-      "shortName": "Havin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_96",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_97",
-      "name": "National Bank of Canada",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_98",
-      "name": "0",
-      "shortName": "0",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_99",
-      "name": "Republic Bank",
-      "shortName": "Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CU_100",
+      "code": "CU_33",
       "name": "Scotiabank &#91;citation needed&#93;",
       "shortName": "Scotiabank &#91;citation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CU_101",
+      "code": "CU_34",
+      "name": "BPCE International et Outre-Mer",
+      "shortName": "BPCE International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_35",
+      "name": "Fransabank",
+      "shortName": "Fransabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_36",
+      "name": "Havin Bank Ltd.",
+      "shortName": "Havin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_37",
+      "name": "National Bank of Canada",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_38",
+      "name": "0",
+      "shortName": "0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_39",
+      "name": "Republic Bank",
+      "shortName": "Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CU_40",
       "name": "0 (24 in 1960 none since)",
       "shortName": "0 (24",
       "type": "bank",

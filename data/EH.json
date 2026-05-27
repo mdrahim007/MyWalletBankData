@@ -4,35 +4,35 @@
   "country": "EH",
   "institutions": [
     {
-      "code": "CENBEH",
+      "code": "EH_0",
       "name": "Central Bank of EH",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBEH",
+      "code": "EH_1",
       "name": "National Bank of EH",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABEH",
+      "code": "EH_2",
       "name": "State Bank of EH",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBEH",
+      "code": "EH_3",
       "name": "Commercial Bank of EH",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBEH",
+      "code": "EH_4",
       "name": "First EH Bank",
       "shortName": "First Bank",
       "type": "bank",

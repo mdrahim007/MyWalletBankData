@@ -803,477 +803,99 @@
     },
     {
       "code": "MX_114",
-      "name": "Antigua and Barbuda",
-      "shortName": "Antigua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_115",
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_116",
-      "name": "Bahamas",
-      "shortName": "Bahamas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_117",
-      "name": "Barbados",
-      "shortName": "Barbados",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_118",
-      "name": "Belize",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_119",
       "name": "Bolivia",
       "shortName": "Bolivia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_120",
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_121",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_122",
-      "name": "Chile",
-      "shortName": "Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_123",
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_124",
-      "name": "Costa Rica",
-      "shortName": "Costa Rica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_125",
-      "name": "Cuba",
-      "shortName": "Cuba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_126",
-      "name": "Dominica",
-      "shortName": "Dominica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_127",
-      "name": "Dominican Republic",
-      "shortName": "Dominican Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_128",
-      "name": "Ecuador",
-      "shortName": "Ecuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_129",
-      "name": "El Salvador",
-      "shortName": "El Salvador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_130",
-      "name": "Grenada",
-      "shortName": "Grenada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_131",
-      "name": "Guatemala",
-      "shortName": "Guatemala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_132",
-      "name": "Guyana",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_133",
-      "name": "Haiti",
-      "shortName": "Haiti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_134",
-      "name": "Honduras",
-      "shortName": "Honduras",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_135",
-      "name": "Jamaica",
-      "shortName": "Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_136",
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_137",
-      "name": "Nicaragua",
-      "shortName": "Nicaragua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_138",
-      "name": "Panama",
-      "shortName": "Panama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_139",
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_140",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_141",
-      "name": "Saint Kitts and Nevis",
-      "shortName": "Saint Kitts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_142",
-      "name": "Saint Lucia",
-      "shortName": "Saint Lucia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_143",
-      "name": "Saint Vincent and the Grenadines",
-      "shortName": "Saint Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_144",
-      "name": "Suriname",
-      "shortName": "Suriname",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_145",
-      "name": "Trinidad and Tobago",
-      "shortName": "Trinidad and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_146",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_147",
-      "name": "Uruguay",
-      "shortName": "Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_148",
+      "code": "MX_115",
       "name": "Venezuela",
       "shortName": "Venezuela",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_149",
-      "name": "Anguilla",
-      "shortName": "Anguilla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_150",
-      "name": "Aruba",
-      "shortName": "Aruba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_151",
-      "name": "Bermuda",
-      "shortName": "Bermuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_152",
+      "code": "MX_116",
       "name": "Bonaire",
       "shortName": "Bonaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_153",
+      "code": "MX_117",
       "name": "British Virgin Islands",
       "shortName": "British Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_154",
-      "name": "Cayman Islands",
-      "shortName": "Cayman Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_155",
-      "name": "Curaçao",
-      "shortName": "Curaçao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_156",
+      "code": "MX_118",
       "name": "Falkland Islands",
       "shortName": "Falkland Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_157",
-      "name": "French Guiana",
-      "shortName": "French Guiana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_158",
-      "name": "Greenland",
-      "shortName": "Greenland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_159",
-      "name": "Guadeloupe",
-      "shortName": "Guadeloupe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_160",
-      "name": "Martinique",
-      "shortName": "Martinique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_161",
-      "name": "Montserrat",
-      "shortName": "Montserrat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_162",
-      "name": "Puerto Rico",
-      "shortName": "Puerto Rico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_163",
+      "code": "MX_119",
       "name": "Saba",
       "shortName": "Saba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_164",
-      "name": "Saint Barthélemy",
-      "shortName": "Saint Barthélemy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_165",
+      "code": "MX_120",
       "name": "Saint Martin",
       "shortName": "Saint Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_166",
-      "name": "Saint Pierre and Miquelon",
-      "shortName": "Saint Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_167",
+      "code": "MX_121",
       "name": "Sint Eustatius",
       "shortName": "Sint Eustatius",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_168",
+      "code": "MX_122",
       "name": "Sint Maarten",
       "shortName": "Sint Maarten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_169",
-      "name": "South Georgia and the South Sandwich Islands",
-      "shortName": "South Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_170",
-      "name": "Turks and Caicos Islands",
-      "shortName": "Turks and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_171",
+      "code": "MX_123",
       "name": "U.S. Virgin Islands",
       "shortName": "U.S. Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_172",
+      "code": "MX_124",
       "name": "North America",
       "shortName": "North America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_173",
+      "code": "MX_125",
       "name": "Central America",
       "shortName": "Central America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_174",
+      "code": "MX_126",
       "name": "Caribbean",
       "shortName": "Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MX_175",
+      "code": "MX_127",
       "name": "South America",
       "shortName": "South America",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_176",
-      "name": "Banks of Mexico",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_177",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_178",
-      "name": "Lists of companies of Mexico",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_179",
-      "name": "Lists of banks in North America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_180",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MX_181",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

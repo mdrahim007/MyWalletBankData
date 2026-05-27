@@ -4,35 +4,35 @@
   "country": "PW",
   "institutions": [
     {
-      "code": "CENBPW",
+      "code": "PW_0",
       "name": "Central Bank of PW",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPW",
+      "code": "PW_1",
       "name": "National Bank of PW",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPW",
+      "code": "PW_2",
       "name": "State Bank of PW",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPW",
+      "code": "PW_3",
       "name": "Commercial Bank of PW",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPW",
+      "code": "PW_4",
       "name": "First PW Bank",
       "shortName": "First Bank",
       "type": "bank",

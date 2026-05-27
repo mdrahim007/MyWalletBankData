@@ -4,35 +4,35 @@
   "country": "LC",
   "institutions": [
     {
-      "code": "CENBLC",
+      "code": "LC_0",
       "name": "Central Bank of LC",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBLC",
+      "code": "LC_1",
       "name": "National Bank of LC",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABLC",
+      "code": "LC_2",
       "name": "State Bank of LC",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBLC",
+      "code": "LC_3",
       "name": "Commercial Bank of LC",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBLC",
+      "code": "LC_4",
       "name": "First LC Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "BQ",
   "institutions": [
     {
-      "code": "CENBBQ",
+      "code": "BQ_0",
       "name": "Central Bank of BQ",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBQ",
+      "code": "BQ_1",
       "name": "National Bank of BQ",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBQ",
+      "code": "BQ_2",
       "name": "State Bank of BQ",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBQ",
+      "code": "BQ_3",
       "name": "Commercial Bank of BQ",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBQ",
+      "code": "BQ_4",
       "name": "First BQ Bank",
       "shortName": "First Bank",
       "type": "bank",

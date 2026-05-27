@@ -103,2414 +103,1812 @@
     },
     {
       "code": "RO_14",
-      "name": "Citibank Europe, subsidiary of Citigroup",
-      "shortName": "Citibank Europe,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_15",
       "name": "TBI Bank",
       "shortName": "TBI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_16",
+      "code": "RO_15",
       "name": "BNP Paribas",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_17",
+      "code": "RO_16",
       "name": "BNP Paribas Personal Finance, subsidiary of BNP Paribas",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_18",
+      "code": "RO_17",
       "name": "PKO Bank Polski",
       "shortName": "PKO",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_19",
+      "code": "RO_18",
       "name": "Revolut Bank UAB, subsidiary of Revolut",
       "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_20",
+      "code": "RO_19",
       "name": "Nexent Bank, subsidiary of Fiba Group",
       "shortName": "Nexent,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_21",
+      "code": "RO_20",
       "name": "Trade Republic",
       "shortName": "Trade Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_22",
+      "code": "RO_21",
       "name": "Banca Marmorosch Blank&#160;&#91;ro&#93; (1848-1948)",
       "shortName": "Banca Marmorosch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_23",
+      "code": "RO_22",
       "name": "Bank of Romania (1865-1948)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_24",
+      "code": "RO_23",
       "name": "Banca Albina din Sibiu&#160;&#91;ro&#93; (1871-1948)",
       "shortName": "Banca Albina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_25",
+      "code": "RO_24",
       "name": "Banca Agricolă&#160;&#91;ro&#93; (1872-2002)",
       "shortName": "Banca Agricolă&#160;&#91;ro&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_26",
+      "code": "RO_25",
       "name": "Romanian Credit Bank&#160;&#91;ro&#93; (1888-1950)",
       "shortName": "Romanian Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_27",
+      "code": "RO_26",
       "name": "Banca Generală Română&#160;&#91;ro&#93; (1897-1919)",
       "shortName": "Banca Generală",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_28",
+      "code": "RO_27",
       "name": "Bancorex (1968-1999)",
       "shortName": "Bancorex (1968-1999)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_29",
+      "code": "RO_28",
       "name": "Anglo Romanian Bank&#160;&#91;ro&#93; (1973-2011)",
       "shortName": "Anglo Romanian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_30",
+      "code": "RO_29",
       "name": "Bankcoop&#160;&#91;ro&#93; (1990-2000)",
       "shortName": "Bankcoop&#160;&#91;ro&#93; (1990-2000)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_31",
+      "code": "RO_30",
       "name": "Credit Bank&#160;&#91;ro&#93; (1990-1996)",
       "shortName": "Credit&#160;&#91;ro&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_32",
+      "code": "RO_31",
       "name": "Bancpost (1991-2019)",
       "shortName": "Bancpost (1991-2019)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_33",
+      "code": "RO_32",
       "name": "Banca Comercială Carpatica&#160;&#91;ro&#93; (1991-2017)",
       "shortName": "Banca Comercială",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_34",
+      "code": "RO_33",
       "name": "Dacia Felix Bank (1991-2000)",
       "shortName": "Dacia Felix",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_35",
+      "code": "RO_34",
       "name": "Banca Românească (1992-2023)",
       "shortName": "Banca Românească",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_36",
-      "name": "Credit Europe Bank Romania&#160;&#91;ro&#93; (1993-2025)",
-      "shortName": "Credit Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_37",
+      "code": "RO_35",
       "name": "Columna Bank&#160;&#91;ro&#93; (1995-1998)",
       "shortName": "Columna&#160;&#91;ro&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_38",
+      "code": "RO_36",
       "name": "First Bank (1995-2025)",
       "shortName": "First",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_39",
-      "name": "OTP Bank Romania&#160;&#91;ro&#93; (1995-2024)",
-      "shortName": "OTP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_40",
-      "name": "RBS Romania&#160;&#91;ro&#93; (1995-2015)",
-      "shortName": "RBS Romania&#160;&#91;ro&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_41",
-      "name": "Banca Italo Romena&#160;&#91;ro&#93; (1996-2017)",
-      "shortName": "Banca Italo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_42",
-      "name": "Banca Română de Scont&#160;&#91;ro&#93; (1996-2002)",
-      "shortName": "Banca Română",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_43",
-      "name": "Crédit Agricole Bank Romania&#160;&#91;ro&#93; (1999-2021)",
-      "shortName": "Crédit Agricole",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_44",
-      "name": "Volksbank Romania&#160;&#91;ro&#93; (2000-2015)",
-      "shortName": "Volksbank Romania&#160;&#91;ro&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_45",
-      "name": "Nova Bank&#160;&#91;ro&#93; (2002-2006)",
-      "shortName": "Nova&#160;&#91;ro&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_46",
-      "name": "Millennium Bank Romania&#160;&#91;ro&#93; (2007-2015)",
-      "shortName": "Millennium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_47",
+      "code": "RO_37",
       "name": "Alior Bank Romania&#160;&#91;ro&#93; (2016-2024)",
       "shortName": "Alior",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_48",
+      "code": "RO_38",
+      "name": "Banca Italo Romena&#160;&#91;ro&#93; (1996-2017)",
+      "shortName": "Banca Italo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_39",
+      "name": "Banca Română de Scont&#160;&#91;ro&#93; (1996-2002)",
+      "shortName": "Banca Română",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_40",
+      "name": "Crédit Agricole Bank Romania&#160;&#91;ro&#93; (1999-2021)",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_41",
+      "name": "Volksbank Romania&#160;&#91;ro&#93; (2000-2015)",
+      "shortName": "Volksbank Romania&#160;&#91;ro&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_42",
+      "name": "Nova Bank&#160;&#91;ro&#93; (2002-2006)",
+      "shortName": "Nova&#160;&#91;ro&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_43",
+      "name": "Millennium Bank Romania&#160;&#91;ro&#93; (2007-2015)",
+      "shortName": "Millennium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_44",
       "name": "Automotive",
       "shortName": "Automotive",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_49",
+      "code": "RO_45",
       "name": "Construction",
       "shortName": "Construction",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_50",
+      "code": "RO_46",
       "name": "Mining",
       "shortName": "Mining",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_51",
+      "code": "RO_47",
       "name": "Petrochemicals",
       "shortName": "Petrochemicals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_52",
+      "code": "RO_48",
       "name": "Weapons",
       "shortName": "Weapons",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_53",
+      "code": "RO_49",
       "name": "Communications",
       "shortName": "Communications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_54",
+      "code": "RO_50",
       "name": "Internet",
       "shortName": "Internet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_55",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_56",
+      "code": "RO_51",
       "name": "Banks (National)",
       "shortName": "Banks (National)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_57",
+      "code": "RO_52",
       "name": "Foreign trade (By county)",
       "shortName": "Foreign trade",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_58",
+      "code": "RO_53",
       "name": "International reserves",
       "shortName": "International reserves",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_59",
+      "code": "RO_54",
       "name": "Romanian leu",
       "shortName": "Romanian leu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_60",
+      "code": "RO_55",
       "name": "Geothermal power",
       "shortName": "Geothermal power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_61",
+      "code": "RO_56",
       "name": "Hydro power",
       "shortName": "Hydro power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_62",
+      "code": "RO_57",
       "name": "Natural gas",
       "shortName": "Natural gas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_63",
+      "code": "RO_58",
       "name": "Nuclear power",
       "shortName": "Nuclear power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_64",
+      "code": "RO_59",
       "name": "Solar power",
       "shortName": "Solar power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_65",
+      "code": "RO_60",
       "name": "Wind power",
       "shortName": "Wind power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_66",
+      "code": "RO_61",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_67",
+      "code": "RO_62",
       "name": "Bucharest",
       "shortName": "Bucharest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_68",
+      "code": "RO_63",
       "name": "Bucharest Stock Exchange",
       "shortName": "Bucharest Stock",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_69",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_70",
+      "code": "RO_64",
       "name": "FDI in Romania",
       "shortName": "FDI in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_71",
+      "code": "RO_65",
       "name": "Infrastructure",
       "shortName": "Infrastructure",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_72",
+      "code": "RO_66",
       "name": "Richest Romanians",
       "shortName": "Richest Romanians",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_73",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_74",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_75",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_76",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_77",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_78",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_79",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_80",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_81",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_82",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_83",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_84",
+      "code": "RO_67",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_85",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_86",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_87",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_88",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_89",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_90",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_91",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_92",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_93",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_94",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_95",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_96",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_97",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_98",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_99",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_100",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_101",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_102",
+      "code": "RO_68",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_103",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_104",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_105",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_106",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_107",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_108",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_109",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_110",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_111",
+      "code": "RO_69",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_112",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_113",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_114",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_115",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_116",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_117",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_118",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_119",
+      "code": "RO_70",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_120",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_121",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_122",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_123",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_124",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_125",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_126",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_127",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_128",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_129",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_130",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_131",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_132",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_133",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_134",
-      "name": "Banks of Romania",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_135",
+      "code": "RO_71",
       "name": "Economy of Romania-related lists",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_136",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_137",
-      "name": "Lists of companies of Romania",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_138",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_139",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_140",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_141",
-      "name": "Banca Transilvania",
-      "shortName": "Banca Transilvania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_142",
+      "code": "RO_72",
       "name": "20.90%",
       "shortName": "20.90%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_143",
+      "code": "RO_73",
       "name": "20.15%",
       "shortName": "20.15%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_144",
+      "code": "RO_74",
       "name": "19.11%",
       "shortName": "19.11%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_145",
+      "code": "RO_75",
       "name": "19.55%",
       "shortName": "19.55%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_146",
+      "code": "RO_76",
       "name": "18.46%",
       "shortName": "18.46%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_147",
+      "code": "RO_77",
       "name": "17.72%",
       "shortName": "17.72%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_148",
+      "code": "RO_78",
       "name": "13.87%",
       "shortName": "13.87%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_149",
+      "code": "RO_79",
       "name": "13.15%",
       "shortName": "13.15%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_150",
+      "code": "RO_80",
       "name": "12.60%",
       "shortName": "12.60%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_151",
+      "code": "RO_81",
       "name": "9.80%",
       "shortName": "9.80%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_152",
+      "code": "RO_82",
       "name": "8.90%",
       "shortName": "8.90%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_153",
+      "code": "RO_83",
       "name": "2",
       "shortName": "2",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_154",
+      "code": "RO_84",
       "name": "Banca Comercială Română",
       "shortName": "Banca Comercială",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_155",
+      "code": "RO_85",
       "name": "13.68%",
       "shortName": "13.68%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_156",
+      "code": "RO_86",
       "name": "13.44%",
       "shortName": "13.44%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_157",
+      "code": "RO_87",
       "name": "13.95%",
       "shortName": "13.95%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_158",
+      "code": "RO_88",
       "name": "13.93%",
       "shortName": "13.93%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_159",
+      "code": "RO_89",
       "name": "14.20%",
       "shortName": "14.20%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_160",
+      "code": "RO_90",
       "name": "14.43%",
       "shortName": "14.43%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_161",
+      "code": "RO_91",
       "name": "15.05%",
       "shortName": "15.05%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_162",
+      "code": "RO_92",
       "name": "15.83%",
       "shortName": "15.83%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_163",
+      "code": "RO_93",
       "name": "16.28%",
       "shortName": "16.28%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_164",
+      "code": "RO_94",
       "name": "15.80%",
       "shortName": "15.80%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_165",
+      "code": "RO_95",
       "name": "16.20%",
       "shortName": "16.20%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_166",
+      "code": "RO_96",
       "name": "17.50%",
       "shortName": "17.50%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_167",
+      "code": "RO_97",
       "name": "3",
       "shortName": "3",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_168",
+      "code": "RO_98",
       "name": "CEC Bank",
       "shortName": "CEC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_169",
+      "code": "RO_99",
       "name": "11.26%",
       "shortName": "11.26%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_170",
+      "code": "RO_100",
       "name": "10.41%",
       "shortName": "10.41%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_171",
+      "code": "RO_101",
       "name": "8.83%",
       "shortName": "8.83%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_172",
+      "code": "RO_102",
       "name": "7.92%",
       "shortName": "7.92%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_173",
+      "code": "RO_103",
       "name": "7.37%",
       "shortName": "7.37%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_174",
+      "code": "RO_104",
       "name": "6.64%",
       "shortName": "6.64%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_175",
+      "code": "RO_105",
       "name": "6.50%",
       "shortName": "6.50%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_176",
+      "code": "RO_106",
       "name": "7.41%",
       "shortName": "7.41%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_177",
+      "code": "RO_107",
       "name": "7.16%",
       "shortName": "7.16%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_178",
+      "code": "RO_108",
       "name": "7.30%",
       "shortName": "7.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_179",
+      "code": "RO_109",
       "name": "7.70%",
       "shortName": "7.70%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_180",
+      "code": "RO_110",
       "name": "7.40%",
       "shortName": "7.40%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_181",
+      "code": "RO_111",
       "name": "4",
       "shortName": "4",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_182",
+      "code": "RO_112",
       "name": "BRD – Groupe Société Générale",
       "shortName": "BRD –",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_183",
+      "code": "RO_113",
       "name": "9.75%",
       "shortName": "9.75%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_184",
+      "code": "RO_114",
       "name": "10.13%",
       "shortName": "10.13%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_185",
+      "code": "RO_115",
       "name": "10.20%",
       "shortName": "10.20%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_186",
+      "code": "RO_116",
       "name": "10.48%",
       "shortName": "10.48%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_187",
+      "code": "RO_117",
       "name": "11.01%",
       "shortName": "11.01%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_188",
+      "code": "RO_118",
       "name": "11.28%",
       "shortName": "11.28%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_189",
+      "code": "RO_119",
       "name": "11.99%",
       "shortName": "11.99%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_190",
+      "code": "RO_120",
       "name": "12.50%",
       "shortName": "12.50%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_191",
+      "code": "RO_121",
       "name": "12.87%",
       "shortName": "12.87%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_192",
+      "code": "RO_122",
       "name": "13.00%",
       "shortName": "13.00%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_193",
+      "code": "RO_123",
       "name": "12.40%",
       "shortName": "12.40%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_194",
+      "code": "RO_124",
       "name": "5",
       "shortName": "5",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_195",
+      "code": "RO_125",
       "name": "Raiffeisen Bank",
       "shortName": "Raiffeisen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_196",
+      "code": "RO_126",
       "name": "9.31%",
       "shortName": "9.31%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_197",
+      "code": "RO_127",
       "name": "8.73%",
       "shortName": "8.73%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_198",
+      "code": "RO_128",
       "name": "8.85%",
       "shortName": "8.85%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_199",
+      "code": "RO_129",
       "name": "9.25%",
       "shortName": "9.25%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_200",
+      "code": "RO_130",
       "name": "9.16%",
       "shortName": "9.16%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_201",
+      "code": "RO_131",
       "name": "8.66%",
       "shortName": "8.66%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_202",
+      "code": "RO_132",
       "name": "8.88%",
       "shortName": "8.88%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_203",
+      "code": "RO_133",
       "name": "8.44%",
       "shortName": "8.44%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_204",
+      "code": "RO_134",
       "name": "8.49%",
       "shortName": "8.49%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_205",
+      "code": "RO_135",
       "name": "8.40%",
       "shortName": "8.40%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_206",
+      "code": "RO_136",
       "name": "7.90%",
       "shortName": "7.90%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_207",
+      "code": "RO_137",
       "name": "6",
       "shortName": "6",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_208",
+      "code": "RO_138",
       "name": "ING Bank",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_209",
+      "code": "RO_139",
       "name": "8.93%",
       "shortName": "8.93%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_210",
+      "code": "RO_140",
       "name": "9.00%",
       "shortName": "9.00%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_211",
+      "code": "RO_141",
       "name": "9.27%",
       "shortName": "9.27%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_212",
-      "name": "9.55%",
-      "shortName": "9.55%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_213",
+      "code": "RO_142",
       "name": "9.01%",
       "shortName": "9.01%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_214",
+      "code": "RO_143",
       "name": "8.51%",
       "shortName": "8.51%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_215",
+      "code": "RO_144",
       "name": "7.87%",
       "shortName": "7.87%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_216",
+      "code": "RO_145",
       "name": "7.08%",
       "shortName": "7.08%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_217",
+      "code": "RO_146",
       "name": "6.30%",
       "shortName": "6.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_218",
+      "code": "RO_147",
       "name": "5.10%",
       "shortName": "5.10%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_219",
+      "code": "RO_148",
       "name": "5.00%",
       "shortName": "5.00%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_220",
+      "code": "RO_149",
       "name": "7",
       "shortName": "7",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_221",
+      "code": "RO_150",
       "name": "UniCredit Bank",
       "shortName": "UniCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_222",
+      "code": "RO_151",
       "name": "8.23%",
       "shortName": "8.23%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_223",
+      "code": "RO_152",
       "name": "8.43%",
       "shortName": "8.43%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_224",
+      "code": "RO_153",
       "name": "8.62%",
       "shortName": "8.62%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_225",
+      "code": "RO_154",
       "name": "7.84%",
       "shortName": "7.84%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_226",
+      "code": "RO_155",
       "name": "8.11%",
       "shortName": "8.11%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_227",
+      "code": "RO_156",
       "name": "8.99%",
       "shortName": "8.99%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_228",
+      "code": "RO_157",
       "name": "9.21%",
       "shortName": "9.21%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_229",
+      "code": "RO_158",
       "name": "8.78%",
       "shortName": "8.78%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_230",
+      "code": "RO_159",
       "name": "8.30%",
       "shortName": "8.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_231",
+      "code": "RO_160",
       "name": "8.10%",
       "shortName": "8.10%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_232",
+      "code": "RO_161",
       "name": "7.60%",
       "shortName": "7.60%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_233",
+      "code": "RO_162",
       "name": "8",
       "shortName": "8",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_234",
+      "code": "RO_163",
       "name": "Exim Banca Românească",
       "shortName": "Exim Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_235",
+      "code": "RO_164",
       "name": "3.03%",
       "shortName": "3.03%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_236",
+      "code": "RO_165",
       "name": "3.29%",
       "shortName": "3.29%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_237",
+      "code": "RO_166",
       "name": "3.28%",
       "shortName": "3.28%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_238",
+      "code": "RO_167",
       "name": "2.30%",
       "shortName": "2.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_239",
+      "code": "RO_168",
       "name": "2.11%",
       "shortName": "2.11%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_240",
+      "code": "RO_169",
       "name": "1.57%",
       "shortName": "1.57%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_241",
-      "name": "1.60%",
-      "shortName": "1.60%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_242",
+      "code": "RO_170",
       "name": "1.30%",
       "shortName": "1.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_243",
+      "code": "RO_171",
       "name": "1.09%",
       "shortName": "1.09%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_244",
-      "name": "1.00%",
-      "shortName": "1.00%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_245",
+      "code": "RO_172",
       "name": "1.10%",
       "shortName": "1.10%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_246",
+      "code": "RO_173",
       "name": "9",
       "shortName": "9",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_247",
+      "code": "RO_174",
       "name": "Alpha Bank",
       "shortName": "Alpha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_248",
+      "code": "RO_175",
       "name": "2.55%",
       "shortName": "2.55%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_249",
+      "code": "RO_176",
       "name": "2.93%",
       "shortName": "2.93%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_250",
+      "code": "RO_177",
       "name": "3.01%",
       "shortName": "3.01%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_251",
+      "code": "RO_178",
       "name": "2.92%",
       "shortName": "2.92%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_252",
+      "code": "RO_179",
       "name": "3.20%",
       "shortName": "3.20%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_253",
+      "code": "RO_180",
       "name": "3.60%",
       "shortName": "3.60%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_254",
+      "code": "RO_181",
       "name": "3.76%",
       "shortName": "3.76%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_255",
+      "code": "RO_182",
       "name": "3.66%",
       "shortName": "3.66%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_256",
+      "code": "RO_183",
       "name": "3.74%",
       "shortName": "3.74%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_257",
+      "code": "RO_184",
       "name": "4.00%",
       "shortName": "4.00%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_258",
+      "code": "RO_185",
       "name": "4.60%",
       "shortName": "4.60%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_259",
+      "code": "RO_186",
       "name": "4.50%",
       "shortName": "4.50%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_260",
+      "code": "RO_187",
       "name": "10",
       "shortName": "10",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_261",
+      "code": "RO_188",
       "name": "OTP Bank",
       "shortName": "OTP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_262",
+      "code": "RO_189",
       "name": "1.90%",
       "shortName": "1.90%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_263",
+      "code": "RO_190",
       "name": "2.46%",
       "shortName": "2.46%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_264",
+      "code": "RO_191",
       "name": "2.84%",
       "shortName": "2.84%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_265",
+      "code": "RO_192",
       "name": "2.89%",
       "shortName": "2.89%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_266",
+      "code": "RO_193",
       "name": "2.65%",
       "shortName": "2.65%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_267",
+      "code": "RO_194",
       "name": "2.68%",
       "shortName": "2.68%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_268",
+      "code": "RO_195",
       "name": "2.45%",
       "shortName": "2.45%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_269",
+      "code": "RO_196",
       "name": "2.14%",
       "shortName": "2.14%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_270",
+      "code": "RO_197",
       "name": "2.09%",
       "shortName": "2.09%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_271",
+      "code": "RO_198",
       "name": "11",
       "shortName": "11",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_272",
+      "code": "RO_199",
       "name": "Garanti BBVA",
       "shortName": "Garanti BBVA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_273",
+      "code": "RO_200",
       "name": "1.89%",
       "shortName": "1.89%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_274",
+      "code": "RO_201",
       "name": "1.91%",
       "shortName": "1.91%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_275",
+      "code": "RO_202",
       "name": "1.78%",
       "shortName": "1.78%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_276",
+      "code": "RO_203",
       "name": "2.19%",
       "shortName": "2.19%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_277",
+      "code": "RO_204",
       "name": "2.27%",
       "shortName": "2.27%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_278",
+      "code": "RO_205",
       "name": "2.33%",
       "shortName": "2.33%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_279",
+      "code": "RO_206",
       "name": "2.28%",
       "shortName": "2.28%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_280",
-      "name": "2.50%",
-      "shortName": "2.50%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_281",
+      "code": "RO_207",
       "name": "2.20%",
       "shortName": "2.20%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_282",
+      "code": "RO_208",
       "name": "2.00%",
       "shortName": "2.00%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_283",
+      "code": "RO_209",
       "name": "12",
       "shortName": "12",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_284",
+      "code": "RO_210",
       "name": "Citibank",
       "shortName": "Citibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_285",
+      "code": "RO_211",
       "name": "1.77%",
       "shortName": "1.77%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_286",
+      "code": "RO_212",
       "name": "2.05%",
       "shortName": "2.05%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_287",
+      "code": "RO_213",
       "name": "1.98%",
       "shortName": "1.98%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_288",
+      "code": "RO_214",
       "name": "2.06%",
       "shortName": "2.06%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_289",
+      "code": "RO_215",
       "name": "1.73%",
       "shortName": "1.73%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_290",
-      "name": "2.40%",
-      "shortName": "2.40%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_291",
-      "name": "1.80%",
-      "shortName": "1.80%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_292",
+      "code": "RO_216",
       "name": "13",
       "shortName": "13",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_293",
-      "name": "Libra Internet Bank",
-      "shortName": "Libra Internet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_294",
-      "name": "1.44%",
-      "shortName": "1.44%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_295",
+      "code": "RO_217",
       "name": "1.39%",
       "shortName": "1.39%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_296",
-      "name": "1.50%",
-      "shortName": "1.50%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_297",
+      "code": "RO_218",
       "name": "1.31%",
       "shortName": "1.31%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_298",
+      "code": "RO_219",
       "name": "1.32%",
       "shortName": "1.32%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_299",
+      "code": "RO_220",
       "name": "1.21%",
       "shortName": "1.21%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_300",
+      "code": "RO_221",
       "name": "1.08%",
       "shortName": "1.08%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_301",
+      "code": "RO_222",
       "name": "0.86%",
       "shortName": "0.86%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_302",
+      "code": "RO_223",
       "name": "0.60%",
       "shortName": "0.60%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_303",
+      "code": "RO_224",
       "name": "0.50%",
       "shortName": "0.50%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_304",
+      "code": "RO_225",
       "name": "0.30%",
       "shortName": "0.30%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_305",
+      "code": "RO_226",
       "name": "14",
       "shortName": "14",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_306",
+      "code": "RO_227",
       "name": "Vista Bank",
       "shortName": "Vista",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_307",
+      "code": "RO_228",
       "name": "1.18%",
       "shortName": "1.18%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_308",
+      "code": "RO_229",
       "name": "1.16%",
       "shortName": "1.16%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_309",
+      "code": "RO_230",
       "name": "15",
       "shortName": "15",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_310",
+      "code": "RO_231",
       "name": "Intesa Sanpaolo",
       "shortName": "Intesa Sanpaolo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_311",
+      "code": "RO_232",
       "name": "0.91%",
       "shortName": "0.91%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_312",
+      "code": "RO_233",
       "name": "0.92%",
       "shortName": "0.92%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_313",
-      "name": "1.15%",
-      "shortName": "1.15%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_314",
+      "code": "RO_234",
       "name": "1.33%",
       "shortName": "1.33%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_315",
-      "name": "1.26%",
-      "shortName": "1.26%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_316",
-      "name": "1.05%",
-      "shortName": "1.05%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_317",
+      "code": "RO_235",
       "name": "1.04%",
       "shortName": "1.04%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_318",
-      "name": "1.20%",
-      "shortName": "1.20%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_319",
-      "name": "1.40%",
-      "shortName": "1.40%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_320",
+      "code": "RO_236",
       "name": "16",
       "shortName": "16",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_321",
+      "code": "RO_237",
       "name": "First Bank",
       "shortName": "First",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_322",
+      "code": "RO_238",
       "name": "0.85%",
       "shortName": "0.85%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_323",
+      "code": "RO_239",
       "name": "1.51%",
       "shortName": "1.51%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_324",
+      "code": "RO_240",
       "name": "1.67%",
       "shortName": "1.67%",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_325",
+      "code": "RO_241",
       "name": "Notes",
       "shortName": "Notes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_326",
+      "code": "RO_242",
       "name": "Albina Bank",
       "shortName": "Albina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_327",
+      "code": "RO_243",
       "name": "13 May 1999",
       "shortName": "13 May",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_328",
+      "code": "RO_244",
       "name": "Bankruptcy",
       "shortName": "Bankruptcy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_329",
+      "code": "RO_245",
       "name": "25 May 1999",
       "shortName": "25 May",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_330",
+      "code": "RO_246",
       "name": "Investment and Development Bank",
       "shortName": "Investment and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_331",
+      "code": "RO_247",
       "name": "29 March 2002",
       "shortName": "29 March",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_332",
+      "code": "RO_248",
       "name": "Dissolved",
       "shortName": "Dissolved",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_333",
+      "code": "RO_249",
       "name": "11 March 2002",
       "shortName": "11 March",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_334",
+      "code": "RO_250",
       "name": "Turkish-Romanian Bank",
       "shortName": "Turkish-Romanian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_335",
+      "code": "RO_251",
       "name": "30 April 2002",
       "shortName": "30 April",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_336",
+      "code": "RO_252",
       "name": "3 July 2002",
       "shortName": "3 July",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_337",
+      "code": "RO_253",
       "name": "HVB Bank",
       "shortName": "HVB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_338",
+      "code": "RO_254",
       "name": "Merged with Banca Comerciala Ion Tiriac as HVB Tiriac Bank",
       "shortName": "Merged with",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_339",
+      "code": "RO_255",
       "name": "31 August 2006",
       "shortName": "31 August",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_340",
+      "code": "RO_256",
       "name": "Banca di Roma",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_341",
+      "code": "RO_257",
       "name": "12 June 2008",
       "shortName": "12 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_342",
+      "code": "RO_258",
       "name": "Banca CR Firenze",
       "shortName": "Banca CR",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_343",
+      "code": "RO_259",
       "name": "1 October 2012",
       "shortName": "1 October",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_344",
+      "code": "RO_260",
       "name": "Veneto Banca",
       "shortName": "Veneto Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_345",
-      "name": "8 June 2018",
-      "shortName": "8 June",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_346",
-      "name": "27 June 2017",
-      "shortName": "27 June",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_347",
-      "name": "Piraeus Bank",
-      "shortName": "Piraeus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_348",
+      "code": "RO_261",
       "name": "28 June 2018",
       "shortName": "28 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_349",
+      "code": "RO_262",
+      "name": "27 June 2017",
+      "shortName": "27 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_263",
+      "name": "Piraeus Bank",
+      "shortName": "Piraeus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RO_264",
       "name": "Bank of Cyprus",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_350",
+      "code": "RO_265",
       "name": "1 January 2019",
       "shortName": "1 January",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_351",
+      "code": "RO_266",
       "name": "31 December 2018",
       "shortName": "31 December",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_352",
+      "code": "RO_267",
       "name": "National Bank of Greece",
       "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_353",
+      "code": "RO_268",
       "name": "23 January 2020",
       "shortName": "23 January",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_354",
+      "code": "RO_269",
       "name": "Bank Leumi",
       "shortName": "Bank Leumi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_355",
-      "name": "30 April 2020",
-      "shortName": "30 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "RO_356",
+      "code": "RO_270",
       "name": "Bank Leumi's Romanian subsidiary merged with First Bank.",
       "shortName": "Bank Leumi's",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_357",
+      "code": "RO_271",
       "name": "31 April 2020",
       "shortName": "31 April",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RO_358",
+      "code": "RO_272",
       "name": "18 August 2025",
       "shortName": "18 August",
       "type": "bank",

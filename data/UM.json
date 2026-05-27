@@ -4,35 +4,35 @@
   "country": "UM",
   "institutions": [
     {
-      "code": "CENBUM",
+      "code": "UM_0",
       "name": "Central Bank of UM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBUM",
+      "code": "UM_1",
       "name": "National Bank of UM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABUM",
+      "code": "UM_2",
       "name": "State Bank of UM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBUM",
+      "code": "UM_3",
       "name": "Commercial Bank of UM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBUM",
+      "code": "UM_4",
       "name": "First UM Bank",
       "shortName": "First Bank",
       "type": "bank",

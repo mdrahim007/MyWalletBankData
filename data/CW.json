@@ -4,35 +4,35 @@
   "country": "CW",
   "institutions": [
     {
-      "code": "CENBCW",
+      "code": "CW_0",
       "name": "Central Bank of CW",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCW",
+      "code": "CW_1",
       "name": "National Bank of CW",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCW",
+      "code": "CW_2",
       "name": "State Bank of CW",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCW",
+      "code": "CW_3",
       "name": "Commercial Bank of CW",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCW",
+      "code": "CW_4",
       "name": "First CW Bank",
       "shortName": "First Bank",
       "type": "bank",

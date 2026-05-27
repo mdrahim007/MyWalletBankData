@@ -4,35 +4,35 @@
   "country": "PR",
   "institutions": [
     {
-      "code": "CENBPR",
+      "code": "PR_0",
       "name": "Central Bank of PR",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPR",
+      "code": "PR_1",
       "name": "National Bank of PR",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPR",
+      "code": "PR_2",
       "name": "State Bank of PR",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPR",
+      "code": "PR_3",
       "name": "Commercial Bank of PR",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPR",
+      "code": "PR_4",
       "name": "First PR Bank",
       "shortName": "First Bank",
       "type": "bank",

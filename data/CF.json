@@ -4,35 +4,35 @@
   "country": "CF",
   "institutions": [
     {
-      "code": "CENBCF",
+      "code": "CF_0",
       "name": "Central Bank of CF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCF",
+      "code": "CF_1",
       "name": "National Bank of CF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCF",
+      "code": "CF_2",
       "name": "State Bank of CF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCF",
+      "code": "CF_3",
       "name": "Commercial Bank of CF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCF",
+      "code": "CF_4",
       "name": "First CF Bank",
       "shortName": "First Bank",
       "type": "bank",

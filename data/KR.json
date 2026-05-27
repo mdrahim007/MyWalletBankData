@@ -446,1084 +446,594 @@
     },
     {
       "code": "KR_63",
-      "name": "Export–Import Bank of Korea",
-      "shortName": "Export–Import",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_64",
-      "name": "Industrial Bank of Korea",
-      "shortName": "Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_65",
-      "name": "Korea Development Bank",
-      "shortName": "Korea Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_66",
       "name": "Nonghyup Bank",
       "shortName": "Nonghyup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_67",
+      "code": "KR_64",
       "name": "Suhyup Bank",
       "shortName": "Suhyup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_68",
+      "code": "KR_65",
       "name": "Citibank Korea",
       "shortName": "Citibank Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_69",
+      "code": "KR_66",
       "name": "Hana Bank",
       "shortName": "Hana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_70",
+      "code": "KR_67",
       "name": "Kookmin Bank",
       "shortName": "Kookmin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_71",
+      "code": "KR_68",
       "name": "Shinhan Bank",
       "shortName": "Shinhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_72",
+      "code": "KR_69",
       "name": "Standard Chartered Korea",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_73",
+      "code": "KR_70",
       "name": "Woori Bank",
       "shortName": "Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_74",
+      "code": "KR_71",
       "name": "Busan Bank",
       "shortName": "Busan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_75",
+      "code": "KR_72",
       "name": "Daegu Bank",
       "shortName": "Daegu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_76",
+      "code": "KR_73",
       "name": "Jeju Bank",
       "shortName": "Jeju",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_77",
+      "code": "KR_74",
       "name": "Jeonbuk Bank",
       "shortName": "Jeonbuk",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_78",
+      "code": "KR_75",
       "name": "Kwangju Bank",
       "shortName": "Kwangju",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_79",
+      "code": "KR_76",
       "name": "Kyongnam Bank",
       "shortName": "Kyongnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_80",
+      "code": "KR_77",
       "name": "K Bank",
       "shortName": "K",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_81",
+      "code": "KR_78",
       "name": "KakaoBank",
       "shortName": "KakaoBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_82",
+      "code": "KR_79",
       "name": "Toss Bank",
       "shortName": "Toss",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_83",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_84",
+      "code": "KR_80",
       "name": "Commons",
       "shortName": "Commons",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_85",
+      "code": "KR_81",
       "name": "List",
       "shortName": "List",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_86",
-      "name": "Economic history of South Korea",
-      "shortName": "Economic history",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_87",
+      "code": "KR_82",
       "name": "Five-Year Plans of South Korea",
       "shortName": "Five-Year Plans",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_88",
+      "code": "KR_83",
       "name": "Heavy-Chemical Industry Drive",
       "shortName": "Heavy-Chemical Industry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_89",
+      "code": "KR_84",
       "name": "Miracle on the Han River",
       "shortName": "Miracle on",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_90",
+      "code": "KR_85",
       "name": "Four Asian Tigers",
       "shortName": "Four Asian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_91",
+      "code": "KR_86",
       "name": "1997 Asian financial crisis",
       "shortName": "1997 Asian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_92",
+      "code": "KR_87",
       "name": "South Korea–Japan trade dispute",
       "shortName": "South Korea–Japan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_93",
+      "code": "KR_88",
       "name": "Won (1945–1953)",
       "shortName": "Won (1945–1953)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_94",
+      "code": "KR_89",
       "name": "Hwan (1953–1962)",
       "shortName": "Hwan (1953–1962)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_95",
+      "code": "KR_90",
       "name": "Won (1962–)",
       "shortName": "Won (1962–)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_96",
+      "code": "KR_91",
       "name": "Korea Minting and Security Printing Corporation",
       "shortName": "Korea Minting",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_97",
+      "code": "KR_92",
       "name": "Automotive",
       "shortName": "Automotive",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_98",
+      "code": "KR_93",
       "name": "Film",
       "shortName": "Film",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_99",
+      "code": "KR_94",
       "name": "Defense",
       "shortName": "Defense",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_100",
+      "code": "KR_95",
       "name": "Financial services",
       "shortName": "Financial services",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_101",
+      "code": "KR_96",
       "name": "Fishing",
       "shortName": "Fishing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_102",
+      "code": "KR_97",
       "name": "Markets",
       "shortName": "Markets",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_103",
+      "code": "KR_98",
       "name": "Retailing",
       "shortName": "Retailing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_104",
+      "code": "KR_99",
       "name": "Science and technology",
       "shortName": "Science and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_105",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_106",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_107",
+      "code": "KR_100",
       "name": "Inequality",
       "shortName": "Inequality",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_108",
+      "code": "KR_101",
       "name": "Labor movement",
       "shortName": "Labor movement",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_109",
+      "code": "KR_102",
       "name": "Poverty",
       "shortName": "Poverty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_110",
+      "code": "KR_103",
       "name": "Trade unions",
       "shortName": "Trade unions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_111",
+      "code": "KR_104",
       "name": "Work-life balance",
       "shortName": "Work-life balance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_112",
+      "code": "KR_105",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_113",
+      "code": "KR_106",
       "name": "Renewable energy",
       "shortName": "Renewable energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_114",
+      "code": "KR_107",
       "name": "Nuclear power",
       "shortName": "Nuclear power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_115",
+      "code": "KR_108",
       "name": "Wind power",
       "shortName": "Wind power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_116",
+      "code": "KR_109",
       "name": "Solar power",
       "shortName": "Solar power",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_117",
+      "code": "KR_110",
       "name": "Trans-Korea Pipeline",
       "shortName": "Trans-Korea Pipeline",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_118",
+      "code": "KR_111",
       "name": "South–North Pipeline Korea",
       "shortName": "South–North Pipeline",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_119",
+      "code": "KR_112",
       "name": "KOSPI 200",
       "shortName": "KOSPI 200",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_120",
+      "code": "KR_113",
       "name": "KOSDAQ",
       "shortName": "KOSDAQ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_121",
+      "code": "KR_114",
       "name": "Banks",
       "shortName": "Banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_122",
+      "code": "KR_115",
       "name": "Korea Deposit Insurance Corporation",
       "shortName": "Korea Deposit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_123",
+      "code": "KR_116",
       "name": "Korea Financial Investment Association",
       "shortName": "Korea Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_124",
+      "code": "KR_117",
       "name": "Kimchi bond",
       "shortName": "Kimchi bond",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_125",
+      "code": "KR_118",
       "name": "ASEAN",
       "shortName": "ASEAN",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_126",
+      "code": "KR_119",
       "name": "EFTA",
       "shortName": "EFTA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_127",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_128",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_129",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_130",
-      "name": "European Union",
-      "shortName": "European Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_131",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_132",
-      "name": "Australia",
-      "shortName": "Australia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_133",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_134",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_135",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_136",
+      "code": "KR_120",
       "name": "Other FTAs",
       "shortName": "Other FTAs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_137",
+      "code": "KR_121",
       "name": "Exports",
       "shortName": "Exports",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_138",
+      "code": "KR_122",
       "name": "Trade policy",
       "shortName": "Trade policy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_139",
+      "code": "KR_123",
       "name": "Ministry of Economy and Finance",
       "shortName": "Ministry of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_140",
+      "code": "KR_124",
       "name": "Ministry of Employment and Labor",
       "shortName": "Ministry of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_141",
+      "code": "KR_125",
       "name": "Ministry of SMEs and Startups",
       "shortName": "Ministry of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_142",
+      "code": "KR_126",
       "name": "Ministry of Trade, Industry and Energy",
       "shortName": "Ministry of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_143",
+      "code": "KR_127",
       "name": "Fair Trade Commission",
       "shortName": "Fair Trade",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_144",
+      "code": "KR_128",
       "name": "Financial Services Commission",
       "shortName": "Financial Services",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_145",
+      "code": "KR_129",
       "name": "Financial Supervisory Service",
       "shortName": "Financial Supervisory",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_146",
+      "code": "KR_130",
       "name": "Federation of Korean Industries",
       "shortName": "Federation of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_147",
+      "code": "KR_131",
       "name": "Korea Chamber of Commerce and Industry",
       "shortName": "Korea Chamber",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_148",
+      "code": "KR_132",
       "name": "Korea International Trade Association",
       "shortName": "Korea International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_149",
+      "code": "KR_133",
       "name": "International rankings",
       "shortName": "International rankings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_150",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_151",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_152",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_153",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_154",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_155",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_156",
+      "code": "KR_134",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_157",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_158",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_159",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_160",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_161",
+      "code": "KR_135",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_162",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_163",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_164",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_165",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_166",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_167",
+      "code": "KR_136",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_168",
+      "code": "KR_137",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_169",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_170",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_171",
+      "code": "KR_138",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_172",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_173",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_174",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_175",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_176",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_177",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_178",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_179",
+      "code": "KR_139",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_180",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_181",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_182",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_183",
+      "code": "KR_140",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_184",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_185",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_186",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_187",
+      "code": "KR_141",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_188",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_189",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_190",
+      "code": "KR_142",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_191",
+      "code": "KR_143",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_192",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_193",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_194",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_195",
+      "code": "KR_144",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_196",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_197",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_198",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_199",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_200",
+      "code": "KR_145",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_201",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_202",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_203",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_204",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_205",
+      "code": "KR_146",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KR_206",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_207",
-      "name": "Banks of South Korea",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_208",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_209",
-      "name": "Lists of companies of South Korea",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_210",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_211",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_212",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_213",
-      "name": "Articles needing additional references from November 2023",
-      "shortName": "Articles needing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_214",
-      "name": "All articles needing additional references",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_215",
-      "name": "All articles with specifically marked weasel-worded phrases",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_216",
-      "name": "Articles needing cleanup from November 2023",
-      "shortName": "Articles needing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KR_217",
+      "code": "KR_147",
       "name": "All pages needing cleanup",
       "shortName": "All pages",
       "type": "bank",

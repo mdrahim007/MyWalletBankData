@@ -131,820 +131,253 @@
     },
     {
       "code": "LI_18",
-      "name": "County of Werdenberg",
-      "shortName": "County of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_19",
-      "name": "County of Vaduz",
-      "shortName": "County of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_20",
       "name": "Liechtenstein Castle",
       "shortName": "Liechtenstein Castle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_21",
+      "code": "LI_19",
       "name": "Vaduz Castle",
       "shortName": "Vaduz Castle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_22",
+      "code": "LI_20",
       "name": "Princely family",
       "shortName": "Princely family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_23",
-      "name": "Military history",
-      "shortName": "Military history",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_24",
+      "code": "LI_21",
       "name": "Confederation of the Rhine",
       "shortName": "Confederation of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_25",
+      "code": "LI_22",
       "name": "German Confederation",
       "shortName": "German Confederation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_26",
-      "name": "1862 Constitution",
-      "shortName": "1862 Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_27",
+      "code": "LI_23",
       "name": "1918 putsch",
       "shortName": "1918 putsch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_28",
+      "code": "LI_24",
       "name": "1927 flood",
       "shortName": "1927 flood",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_29",
+      "code": "LI_25",
       "name": "1928 embezzlement scandal",
       "shortName": "1928 embezzlement",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_30",
+      "code": "LI_26",
       "name": "Spy affair",
       "shortName": "Spy affair",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_31",
+      "code": "LI_27",
       "name": "1939 failed putsch",
       "shortName": "1939 failed",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_32",
+      "code": "LI_28",
       "name": "World War II",
       "shortName": "World War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_33",
+      "code": "LI_29",
       "name": "Kunsthaus case",
       "shortName": "Kunsthaus case",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_34",
+      "code": "LI_30",
       "name": "1992 crisis",
       "shortName": "1992 crisis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_35",
+      "code": "LI_31",
       "name": "1999–2001 financial crisis",
       "shortName": "1999–2001 financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_36",
+      "code": "LI_32",
       "name": "2008 tax affair",
       "shortName": "2008 tax",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_37",
+      "code": "LI_33",
       "name": "COVID-19 pandemic",
       "shortName": "COVID-19 pandemic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_38",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_39",
+      "code": "LI_34",
       "name": "Municipalities",
       "shortName": "Municipalities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_40",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_41",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_42",
-      "name": "Elections (2025)",
-      "shortName": "Elections (2025)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_43",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_44",
+      "code": "LI_35",
       "name": "Landtag (parliament)",
       "shortName": "Landtag (parliament)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_45",
-      "name": "Law enforcement",
-      "shortName": "Law enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_46",
+      "code": "LI_36",
       "name": "Monarchy",
       "shortName": "Monarchy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_47",
+      "code": "LI_37",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_48",
+      "code": "LI_38",
       "name": "Prime Minister",
       "shortName": "Prime Minister",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_49",
+      "code": "LI_39",
       "name": "Banks",
       "shortName": "Banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_50",
+      "code": "LI_40",
       "name": "Currency",
       "shortName": "Currency",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_51",
+      "code": "LI_41",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_52",
+      "code": "LI_42",
       "name": "Healthcare",
       "shortName": "Healthcare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_53",
+      "code": "LI_43",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_54",
+      "code": "LI_44",
       "name": "Trade unions",
       "shortName": "Trade unions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_55",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_56",
+      "code": "LI_45",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_57",
+      "code": "LI_46",
       "name": "Coat of arms",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_58",
+      "code": "LI_47",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_59",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_60",
-      "name": "Languages",
-      "shortName": "Languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_61",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_62",
+      "code": "LI_48",
       "name": "Public holidays (National Day)",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_63",
+      "code": "LI_49",
       "name": "Religion",
       "shortName": "Religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_64",
-      "name": "Sports",
-      "shortName": "Sports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_65",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_66",
-      "name": "Index",
-      "shortName": "Index",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_67",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_68",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_69",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_70",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_71",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_72",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_73",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_74",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_75",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_76",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_77",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_78",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_79",
+      "code": "LI_50",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_80",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_81",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_82",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_83",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_84",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_85",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_86",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_87",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_88",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_89",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_90",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_91",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_92",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_93",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_94",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_95",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_96",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_97",
+      "code": "LI_51",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_98",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_99",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_100",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_101",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_102",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_103",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_104",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_105",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_106",
+      "code": "LI_52",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_107",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_108",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_109",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_110",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_111",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_112",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_113",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_114",
+      "code": "LI_53",
       "name": "Turkey",
       "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_115",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_116",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_117",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_118",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_119",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_120",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_121",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_122",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_123",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_124",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_125",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_126",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_127",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_128",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_129",
-      "name": "Banks of Liechtenstein",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_130",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_131",
-      "name": "Lists of organisations based in Liechtenstein",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_132",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_133",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_134",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

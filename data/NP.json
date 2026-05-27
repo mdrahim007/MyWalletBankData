@@ -40,8 +40,8 @@
     },
     {
       "code": "NP_5",
-      "name": "Omni Hire Purchase Pvt.Ltd.",
-      "shortName": "Omni Hire",
+      "name": "Agni Hire Purchase Pvt. Ltd.",
+      "shortName": "Agni Hire",
       "type": "bank",
       "aliases": ""
     },
@@ -75,3576 +75,2799 @@
     },
     {
       "code": "NP_10",
-      "name": "Syakar Hire Purchase Pvt. Ltd.",
-      "shortName": "Syakar Hire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_11",
       "name": "Jagadamba Hire Purchase Pvt. Ltd.",
       "shortName": "Jagadamba Hire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_12",
+      "code": "NP_11",
       "name": "Venture Hire Purchase Pvt. Ltd.",
       "shortName": "Venture Hire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_13",
+      "code": "NP_12",
       "name": "Manokamana Hire Purchase Pvt. Ltd.",
       "shortName": "Manokamana Hire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_14",
-      "name": "Agni Hire Purchase Pvt. Ltd.",
-      "shortName": "Agni Hire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_15",
+      "code": "NP_13",
       "name": "Mashreq Bank PSC, Dubai , UAE",
       "shortName": "Mashreq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_16",
+      "code": "NP_14",
       "name": "Doha Bank, Doha , Qatar",
       "shortName": "Doha,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_17",
+      "code": "NP_15",
       "name": "ICICI Bank Limited, Mumbai, India",
       "shortName": "ICICI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_18",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_19",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_20",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_21",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_22",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_23",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_24",
+      "code": "NP_16",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_25",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_26",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_27",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_28",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_29",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_30",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_31",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_32",
+      "code": "NP_17",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_33",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_34",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_35",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_36",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_37",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_38",
+      "code": "NP_18",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_39",
+      "code": "NP_19",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_40",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_41",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_42",
+      "code": "NP_20",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_43",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_44",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_45",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_46",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_47",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_48",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_49",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_50",
+      "code": "NP_21",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_51",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_52",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_53",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_54",
+      "code": "NP_22",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_55",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_56",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_57",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_58",
+      "code": "NP_23",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_59",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_60",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_61",
+      "code": "NP_24",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_62",
+      "code": "NP_25",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_63",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_64",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_65",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_66",
+      "code": "NP_26",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_67",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_68",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_69",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_70",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_71",
+      "code": "NP_27",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_72",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_73",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_74",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_75",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_76",
+      "code": "NP_28",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_77",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_78",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_79",
-      "name": "Banks of Nepal",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_80",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_81",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_82",
-      "name": "Lists of companies of Nepal",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_83",
+      "code": "NP_29",
       "name": "CS1 Nepali-language sources (ne)",
       "shortName": "CS1 Nepali-language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_84",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_85",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_86",
+      "code": "NP_30",
       "name": "Agriculture Development Bank",
       "shortName": "Agriculture Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_87",
+      "code": "NP_31",
       "name": "Ramshahpath, Kathmandu",
       "shortName": "Ramshahpath, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_88",
+      "code": "NP_32",
       "name": "रु 19.74 Arab",
       "shortName": "रु 19.74",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_89",
+      "code": "NP_33",
       "name": "रु 374.31 Arab",
       "shortName": "रु 374.31",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_90",
+      "code": "NP_34",
       "name": "309",
       "shortName": "309",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_91",
+      "code": "NP_35",
       "name": "Citizens Bank",
       "shortName": "Citizens",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_92",
+      "code": "NP_36",
       "name": "Narayanhitipath, Kathmandu",
       "shortName": "Narayanhitipath, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_93",
-      "name": "रु 15.51 Arab",
-      "shortName": "रु 15.51",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_94",
-      "name": "रु 248.87 Arab",
-      "shortName": "रु 248.87",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_95",
-      "name": "210",
-      "shortName": "210",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_96",
-      "name": "Everest Bank",
-      "shortName": "Everest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_97",
-      "name": "Lazimpat, Kathmandu",
-      "shortName": "Lazimpat, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_98",
-      "name": "रु 13.72 Arab",
-      "shortName": "रु 13.72",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_99",
-      "name": "रु 328.03 Arab",
-      "shortName": "रु 328.03",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_100",
-      "name": "144",
-      "shortName": "144",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_101",
-      "name": "Global IME Bank Limited",
-      "shortName": "Global IME",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_102",
-      "name": "Kamaladi, Kathmandu",
-      "shortName": "Kamaladi, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_103",
-      "name": "रु 38.12 Arab",
-      "shortName": "रु 38.12",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_104",
-      "name": "रु 674.84 Arab",
-      "shortName": "रु 674.84",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_105",
-      "name": "432",
-      "shortName": "432",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_106",
-      "name": "Himalayan Bank",
-      "shortName": "Himalayan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_107",
-      "name": "रु 22.58 Arab",
-      "shortName": "रु 22.58",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_108",
-      "name": "रु 390.2 Arab",
-      "shortName": "रु 390.2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_109",
-      "name": "208",
-      "shortName": "208",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_110",
-      "name": "Kumari Bank",
-      "shortName": "Kumari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_111",
-      "name": "Naxal, Kathmandu",
-      "shortName": "Naxal, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_112",
-      "name": "रु 26.23 Arab",
-      "shortName": "रु 26.23",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_113",
-      "name": "रु 352.56 Arab",
-      "shortName": "रु 352.56",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_114",
-      "name": "336",
-      "shortName": "336",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_115",
-      "name": "Laxmi Sunrise Bank",
-      "shortName": "Laxmi Sunrise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_116",
-      "name": "Hattisar, Kathmandu",
-      "shortName": "Hattisar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_117",
-      "name": "रु 26.78 Arab",
-      "shortName": "रु 26.78",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_118",
-      "name": "रु 427.7 Arab",
-      "shortName": "रु 427.7",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_119",
-      "name": "300",
-      "shortName": "300",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_120",
-      "name": "Machhapuchhre Bank",
-      "shortName": "Machhapuchhre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_121",
-      "name": "रु 12.09 Arab",
-      "shortName": "रु 12.09",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_122",
-      "name": "रु 214.53 Arab",
-      "shortName": "रु 214.53",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_123",
-      "name": "185",
-      "shortName": "185",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_124",
-      "name": "Nabil Bank",
-      "shortName": "Nabil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_125",
-      "name": "Teendhara, Kathmandu",
-      "shortName": "Teendhara, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_126",
-      "name": "रु 27.06 Arab",
-      "shortName": "रु 27.06",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_127",
-      "name": "रु 651.15 Arab",
-      "shortName": "रु 651.15",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_128",
-      "name": "291",
-      "shortName": "291",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_129",
-      "name": "Nepal Bank",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_130",
-      "name": "Dharmapath, Kathmandu",
-      "shortName": "Dharmapath, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_131",
-      "name": "रु 14.69 Arab",
-      "shortName": "रु 14.69",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_132",
-      "name": "रु 390.99 Arab",
-      "shortName": "रु 390.99",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_133",
-      "name": "Nepal Investment Mega Bank",
-      "shortName": "Nepal Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_134",
-      "name": "Durbar Marg, Kathmandu",
-      "shortName": "Durbar Marg,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_135",
-      "name": "रु 34.13 Arab",
-      "shortName": "रु 34.13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_136",
-      "name": "रु 606.21 Arab",
-      "shortName": "रु 606.21",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_137",
-      "name": "329",
-      "shortName": "329",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_138",
-      "name": "Nepal SBI Bank",
-      "shortName": "Nepal SBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_139",
-      "name": "रु 11.33.90 Arab",
-      "shortName": "रु 11.33.90",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_140",
-      "name": "रु 231.98 Arab",
-      "shortName": "रु 231.98",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_141",
-      "name": "133",
-      "shortName": "133",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_142",
-      "name": "NIC Asia Bank",
-      "shortName": "NIC Asia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_143",
-      "name": "रु 14.92 Arab",
-      "shortName": "रु 14.92",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_144",
-      "name": "रु 380.14 Arab",
-      "shortName": "रु 380.14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_145",
-      "name": "429",
-      "shortName": "429",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_146",
-      "name": "NMB Bank Nepal",
-      "shortName": "NMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_147",
-      "name": "Babar Mahal, Kathmandu",
-      "shortName": "Babar Mahal,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_148",
-      "name": "रु 19.28 Arab",
-      "shortName": "रु 19.28",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_149",
-      "name": "रु 358.04 Arab",
-      "shortName": "रु 358.04",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_150",
-      "name": "214",
-      "shortName": "214",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_151",
-      "name": "Prabhu Bank",
-      "shortName": "Prabhu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_152",
-      "name": "Anamnagar, Kathmandu",
-      "shortName": "Anamnagar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_153",
-      "name": "रु 23.54 Arab",
-      "shortName": "रु 23.54",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_154",
-      "name": "रु 400.24 Arab",
-      "shortName": "रु 400.24",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_155",
-      "name": "374",
-      "shortName": "374",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_156",
-      "name": "Prime Commercial Bank",
-      "shortName": "Prime Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_157",
-      "name": "Kamal Pokhari, Kathmandu",
-      "shortName": "Kamal Pokhari,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_158",
-      "name": "रु 20.95 Arab",
-      "shortName": "रु 20.95",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_159",
-      "name": "रु 321.95 Arab",
-      "shortName": "रु 321.95",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_160",
-      "name": "202",
-      "shortName": "202",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_161",
-      "name": "Rastriya Banijya Bank",
-      "shortName": "Rastriya Banijya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_162",
-      "name": "Singha Durbar, Kathmandu",
-      "shortName": "Singha Durbar,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_163",
-      "name": "रु 15.64 Arab",
-      "shortName": "रु 15.64",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_164",
-      "name": "रु 552.75 Arab",
-      "shortName": "रु 552.75",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_165",
-      "name": "382",
-      "shortName": "382",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_166",
-      "name": "Sanima Bank",
-      "shortName": "Sanima",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_167",
-      "name": "Narayanchaur, Kathmandu",
-      "shortName": "Narayanchaur, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_168",
-      "name": "रु 13.58 Arab",
-      "shortName": "रु 13.58",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_169",
-      "name": "रु 260.29 Arab",
-      "shortName": "रु 260.29",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_170",
-      "name": "141",
-      "shortName": "141",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_171",
-      "name": "Siddhartha Bank",
-      "shortName": "Siddhartha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_172",
-      "name": "रु 14.09 Arab",
-      "shortName": "रु 14.09",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_173",
-      "name": "रु 335.55 Arab",
-      "shortName": "रु 335.55",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_174",
-      "name": "205",
-      "shortName": "205",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_175",
-      "name": "Standard Chartered Bank",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_176",
-      "name": "Naya Baneshwor, Kathmandu",
-      "shortName": "Naya Baneshwor,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_177",
-      "name": "रु 10.04 Arab",
-      "shortName": "रु 10.04",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_178",
+      "code": "NP_37",
       "name": "रु 156.12 Arab",
       "shortName": "रु 156.12",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_179",
-      "name": "18",
-      "shortName": "18",
+      "code": "NP_38",
+      "name": "रु 248.87 Arab",
+      "shortName": "रु 248.87",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_180",
-      "name": "Garima Bikas Bank",
-      "shortName": "Garima Bikas",
+      "code": "NP_39",
+      "name": "210",
+      "shortName": "210",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_181",
-      "name": "रु 105",
-      "shortName": "रु 105",
+      "code": "NP_40",
+      "name": "Everest Bank",
+      "shortName": "Everest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_182",
-      "name": "रु 6.02",
-      "shortName": "रु 6.02",
+      "code": "NP_41",
+      "name": "Lazimpat, Kathmandu",
+      "shortName": "Lazimpat, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_183",
-      "name": "137",
-      "shortName": "137",
+      "code": "NP_42",
+      "name": "रु 13.72 Arab",
+      "shortName": "रु 13.72",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_184",
-      "name": "Jyoti Bikas Bank",
-      "shortName": "Jyoti Bikas",
+      "code": "NP_43",
+      "name": "रु 328.03 Arab",
+      "shortName": "रु 328.03",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_185",
-      "name": "रु 74",
-      "shortName": "रु 74",
+      "code": "NP_44",
+      "name": "144",
+      "shortName": "144",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_186",
-      "name": "रु 4.40",
-      "shortName": "रु 4.40",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_187",
-      "name": "119",
-      "shortName": "119",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_188",
-      "name": "Kamana Sewa Bikas Bank",
-      "shortName": "Kamana Sewa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_189",
-      "name": "Gyaneshwor, Kathmandu",
-      "shortName": "Gyaneshwor, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_190",
-      "name": "रु 72",
-      "shortName": "रु 72",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_191",
-      "name": "रु 3.86",
-      "shortName": "रु 3.86",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_192",
-      "name": "124",
-      "shortName": "124",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_193",
-      "name": "Lumbini Bikas Bank",
-      "shortName": "Lumbini Bikas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_194",
-      "name": "Dillibazaar, Kathmandu",
-      "shortName": "Dillibazaar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_195",
-      "name": "रु 66",
-      "shortName": "रु 66",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_196",
-      "name": "रु 3.62",
-      "shortName": "रु 3.62",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_197",
-      "name": "91",
-      "shortName": "91",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_198",
-      "name": "Mahalaxmi Development Bank",
-      "shortName": "Mahalaxmi Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_199",
-      "name": "रु 63",
-      "shortName": "रु 63",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_200",
-      "name": "रु 4.30",
-      "shortName": "रु 4.30",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_201",
-      "name": "104",
-      "shortName": "104",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_202",
-      "name": "Muktinath Bikash Bank",
-      "shortName": "Muktinath Bikash",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_203",
-      "name": "रु 132",
-      "shortName": "रु 132",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_204",
-      "name": "रु 8.00",
-      "shortName": "रु 8.00",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_205",
-      "name": "189",
-      "shortName": "189",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_206",
-      "name": "Sangrila Development Bank",
-      "shortName": "Sangrila Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_207",
-      "name": "Baluwatar, Kathmandu",
-      "shortName": "Baluwatar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_208",
-      "name": "रु 3.56",
-      "shortName": "रु 3.56",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_209",
-      "name": "109",
-      "shortName": "109",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_210",
-      "name": "Shine Resunga Development Bank",
-      "shortName": "Shine Resunga",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_211",
-      "name": "Kalikanagar, Butwal",
-      "shortName": "Kalikanagar, Butwal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_212",
-      "name": "रु 83",
-      "shortName": "रु 83",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_213",
-      "name": "रु 4.88",
-      "shortName": "रु 4.88",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_214",
-      "name": "90",
-      "shortName": "90",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_215",
-      "name": "Corporate Development Bank",
-      "shortName": "Corporate Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_216",
-      "name": "Adarsanagar, Birgunj",
-      "shortName": "Adarsanagar, Birgunj",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_217",
-      "name": "Madhesh Province",
-      "shortName": "Madhesh Province",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_218",
-      "name": "रु 2.8",
-      "shortName": "रु 2.8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_219",
-      "name": "रु 0.53",
-      "shortName": "रु 0.53",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_220",
-      "name": "6",
-      "shortName": "6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_221",
-      "name": "Excel Development Bank",
-      "shortName": "Excel Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_222",
-      "name": "Mukti Chowk, Birtamode",
-      "shortName": "Mukti Chowk,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_223",
-      "name": "Koshi Pradesh",
-      "shortName": "Koshi Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_224",
-      "name": "रु 19.8",
-      "shortName": "रु 19.8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_225",
-      "name": "रु 1.25",
-      "shortName": "रु 1.25",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_226",
-      "name": "48",
-      "shortName": "48",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_227",
-      "name": "Green Development Bank",
-      "shortName": "Green Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_228",
-      "name": "Sabhagriha Chowk, Pokhara",
-      "shortName": "Sabhagriha Chowk,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_229",
-      "name": "Gandaki Province",
-      "shortName": "Gandaki Province",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_230",
-      "name": "रु 6.9",
-      "shortName": "रु 6.9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_231",
-      "name": "रु 0.62",
-      "shortName": "रु 0.62",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_232",
-      "name": "16",
-      "shortName": "16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_233",
-      "name": "Miteri Development Bank",
-      "shortName": "Miteri Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_234",
-      "name": "Mahendra Path, Dharan",
-      "shortName": "Mahendra Path,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_235",
-      "name": "रु 10",
-      "shortName": "रु 10",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_236",
-      "name": "रु 1.22",
-      "shortName": "रु 1.22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_237",
-      "name": "Narayani Development Bank",
-      "shortName": "Narayani Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_238",
-      "name": "Ratnanagar, Chitwan",
-      "shortName": "Ratnanagar, Chitwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_239",
-      "name": "Chitwan District",
-      "shortName": "Chitwan District",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_240",
-      "name": "रु 0.6",
-      "shortName": "रु 0.6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_241",
-      "name": "रु 0.49",
-      "shortName": "रु 0.49",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_242",
-      "name": "5",
-      "shortName": "5",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_243",
-      "name": "Salapa Bikash Bank",
-      "shortName": "Salapa Bikash",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_244",
-      "name": "Diktel Bazar, Khotang",
-      "shortName": "Diktel Bazar,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_245",
-      "name": "Khotang District",
-      "shortName": "Khotang District",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_246",
-      "name": "रु 2.1",
-      "shortName": "रु 2.1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_247",
-      "name": "रु 0.52",
-      "shortName": "रु 0.52",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_248",
-      "name": "Saptakoshi Development Bank",
-      "shortName": "Saptakoshi Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_249",
-      "name": "Main Road, Biratnagar",
-      "shortName": "Main Road,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_250",
-      "name": "रु 8.8",
-      "shortName": "रु 8.8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_251",
-      "name": "रु 0.83",
-      "shortName": "रु 0.83",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_252",
-      "name": "36",
-      "shortName": "36",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_253",
-      "name": "Sindhu Bikas Bank",
-      "shortName": "Sindhu Bikas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_254",
-      "name": "Banepa, Kavrepalanchowk",
-      "shortName": "Banepa, Kavrepalanchowk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_255",
-      "name": "Bagmati Pradesh",
-      "shortName": "Bagmati Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_256",
-      "name": "रु 6.4",
-      "shortName": "रु 6.4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_257",
-      "name": "रु 0.56",
-      "shortName": "रु 0.56",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_258",
-      "name": "27",
-      "shortName": "27",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_259",
-      "name": "Supreme Development Bank",
-      "shortName": "Supreme Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_260",
-      "name": "2017",
-      "shortName": "2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_261",
-      "name": "Merged with NCC Bank Nepal &#91;7&#93;",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_262",
-      "name": "Reliable Development Bank",
-      "shortName": "Reliable Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_263",
-      "name": "Acquired by Global IME Bank&#91;8&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_264",
-      "name": "Siddhartha Development Bank",
-      "shortName": "Siddhartha Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_265",
-      "name": "Acquired by Janata Bank Nepal Limited&#91;9&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_266",
-      "name": "Ace Development Bank",
-      "shortName": "Ace Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_267",
-      "name": "Acquired by Nepal Investment Bank Limited&#91;10&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_268",
-      "name": "Tourism Development Bank",
-      "shortName": "Tourism Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_269",
-      "name": "2018",
-      "shortName": "2018",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_270",
-      "name": "Merged with Mega Bank Nepal&#91;11&#93;",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_271",
-      "name": "NIDC Development Bank",
-      "shortName": "NIDC Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_272",
-      "name": "Acquired by Rastriya Banijya Bank&#91;12&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_273",
-      "name": "Om Development Bank",
-      "shortName": "Om Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_274",
-      "name": "2019",
-      "shortName": "2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_275",
-      "name": "Merged with NMB Bank&#91;13&#93;",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_276",
-      "name": "Kailash Bikash Bank",
-      "shortName": "Kailash Bikash",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_277",
-      "name": "2020",
-      "shortName": "2020",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_278",
-      "name": "Merged with Prime Commercial Bank&#91;14&#93;",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_279",
-      "name": "Deva Development Bank",
-      "shortName": "Deva Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_280",
-      "name": "Acquired by Kumari Bank&#91;15&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_281",
-      "name": "Gandaki Bikash Bank",
-      "shortName": "Gandaki Bikash",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_282",
-      "name": "Best Finance",
-      "shortName": "Best Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_283",
-      "name": "Chabahil, Kathmandu",
-      "shortName": "Chabahil, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_284",
-      "name": "7.3",
-      "shortName": "7.3",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_285",
-      "name": "रु 89",
-      "shortName": "रु 89",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_286",
-      "name": "19",
-      "shortName": "19",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_287",
-      "name": "Central Finance",
-      "shortName": "Central Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_288",
-      "name": "Kupondole, Lalitpur",
-      "shortName": "Kupondole, Lalitpur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_289",
-      "name": "9.6",
-      "shortName": "9.6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_290",
-      "name": "रु 95",
-      "shortName": "रु 95",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_291",
-      "name": "20",
-      "shortName": "20",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_292",
-      "name": "Gurkhas Finance",
-      "shortName": "Gurkhas Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_293",
-      "name": "Dillibazar, Kathmandu",
-      "shortName": "Dillibazar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_294",
-      "name": "10.8",
-      "shortName": "10.8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_295",
-      "name": "रु 87",
-      "shortName": "रु 87",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_296",
-      "name": "Goodwill Finance",
-      "shortName": "Goodwill Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_297",
-      "name": "16.2",
-      "shortName": "16.2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_298",
-      "name": "Guheshwori Merchant Banking &amp; Finance",
-      "shortName": "Guheshwori Merchant",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_299",
-      "name": "Pulchowk, Lalitpur",
-      "shortName": "Pulchowk, Lalitpur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_300",
-      "name": "10",
-      "shortName": "10",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_301",
-      "name": "रु 101",
-      "shortName": "रु 101",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_302",
-      "name": "ICFC Finance",
-      "shortName": "ICFC Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_303",
-      "name": "Bhatbhateni, Kathmandu",
-      "shortName": "Bhatbhateni, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_304",
-      "name": "25.2",
-      "shortName": "25.2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_305",
-      "name": "रु 118",
-      "shortName": "रु 118",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_306",
-      "name": "21",
-      "shortName": "21",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_307",
-      "name": "Janaki Finance",
-      "shortName": "Janaki Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_308",
-      "name": "Station Road, Janakpur",
-      "shortName": "Station Road,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_309",
-      "name": "4.6",
-      "shortName": "4.6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_310",
-      "name": "रु 69",
-      "shortName": "रु 69",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_311",
-      "name": "Manjushree Finance",
-      "shortName": "Manjushree Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_312",
-      "name": "Nayabaneshwor, Kathmandu",
-      "shortName": "Nayabaneshwor, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_313",
-      "name": "27.4",
-      "shortName": "27.4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_314",
-      "name": "रु 135",
-      "shortName": "रु 135",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_315",
-      "name": "29",
-      "shortName": "29",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_316",
-      "name": "Multipurpose Finance",
-      "shortName": "Multipurpose Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_317",
-      "name": "Bidhyapati Chowk, Janakpur",
-      "shortName": "Bidhyapati Chowk,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_318",
-      "name": "4.2",
-      "shortName": "4.2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_319",
-      "name": "रु 61",
-      "shortName": "रु 61",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_320",
-      "name": "9",
-      "shortName": "9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_321",
-      "name": "Nepal Finance",
-      "shortName": "Nepal Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_322",
-      "name": "5.4",
-      "shortName": "5.4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_323",
-      "name": "रु 78",
-      "shortName": "रु 78",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_324",
-      "name": "13",
-      "shortName": "13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_325",
-      "name": "Pokhara Finance",
-      "shortName": "Pokhara Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_326",
-      "name": "New Road, Pokhara",
-      "shortName": "New Road,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_327",
-      "name": "8.5",
-      "shortName": "8.5",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_328",
-      "name": "रु 108",
-      "shortName": "रु 108",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_329",
-      "name": "26",
-      "shortName": "26",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_330",
-      "name": "Progressive Finance",
-      "shortName": "Progressive Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_331",
-      "name": "New Road, Kathmandu",
-      "shortName": "New Road,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_332",
-      "name": "रु 85",
-      "shortName": "रु 85",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_333",
-      "name": "28",
-      "shortName": "28",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_334",
-      "name": "Reliance Finance",
-      "shortName": "Reliance Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_335",
-      "name": "Pradarsani Marg, Kathmandu",
-      "shortName": "Pradarsani Marg,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_336",
-      "name": "10.9",
-      "shortName": "10.9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_337",
-      "name": "रु 112",
-      "shortName": "रु 112",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_338",
-      "name": "22",
-      "shortName": "22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_339",
-      "name": "Samriddhi Finance",
-      "shortName": "Samriddhi Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_340",
-      "name": "Putalisadak, Kathmandu",
-      "shortName": "Putalisadak, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_341",
-      "name": "3.6",
-      "shortName": "3.6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_342",
-      "name": "रु 82",
-      "shortName": "रु 82",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_343",
-      "name": "Shree Investment &amp; Finance",
-      "shortName": "Shree Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_344",
-      "name": "10.2",
-      "shortName": "10.2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_345",
-      "name": "रु 100",
-      "shortName": "रु 100",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_346",
-      "name": "First Microfinance Laghubitta",
-      "shortName": "First Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_347",
-      "name": "Gyaneswar, Kathmandu",
-      "shortName": "Gyaneswar, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_348",
-      "name": "रु 134.49",
-      "shortName": "रु 134.49",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_349",
-      "name": "3",
-      "shortName": "3",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_350",
-      "name": "RSDC Laghubitta",
-      "shortName": "RSDC Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_351",
-      "name": "Rupandehi, Butwal",
-      "shortName": "Rupandehi, Butwal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_352",
-      "name": "रु 103.41",
-      "shortName": "रु 103.41",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_353",
-      "name": "4",
-      "shortName": "4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_354",
-      "name": "Sana Kisan Bikas Laghubitta",
-      "shortName": "Sana Kisan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_355",
-      "name": "Babarmahal, Kathmandu",
-      "shortName": "Babarmahal, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_356",
-      "name": "रु 431.26",
-      "shortName": "रु 431.26",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_357",
-      "name": "Aviyan Laghubitta",
-      "shortName": "Aviyan Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_358",
-      "name": "Panauti, Kavrepalanchowk",
-      "shortName": "Panauti, Kavrepalanchowk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_359",
-      "name": "रु 25",
-      "shortName": "रु 25",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_360",
-      "name": "61",
-      "shortName": "61",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_361",
-      "name": "Aarambha Chautari Laghubitta",
-      "shortName": "Aarambha Chautari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_362",
-      "name": "रु 36.71",
-      "shortName": "रु 36.71",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_363",
-      "name": "Asha Laghubitta",
-      "shortName": "Asha Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_364",
-      "name": "Madanpur, Nuwakot",
-      "shortName": "Madanpur, Nuwakot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_365",
-      "name": "रु 73.30",
-      "shortName": "रु 73.30",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_366",
-      "name": "Chhimek Laghubitta",
-      "shortName": "Chhimek Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_367",
-      "name": "Mid-Baneshwor, Kathmandu",
-      "shortName": "Mid-Baneshwor, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_368",
-      "name": "रु 321.53",
-      "shortName": "रु 321.53",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_369",
-      "name": "CYC Nepal Laghubitta",
-      "shortName": "CYC Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_370",
-      "name": "Pokhara, Kaski",
-      "shortName": "Pokhara, Kaski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_371",
-      "name": "रु 26.64",
-      "shortName": "रु 26.64",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_372",
-      "name": "125",
-      "shortName": "125",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_373",
-      "name": "Deprosc Laghubitta",
-      "shortName": "Deprosc Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_374",
-      "name": "Bharatpur, Chitwan",
-      "shortName": "Bharatpur, Chitwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_375",
-      "name": "रु 183.83",
-      "shortName": "रु 183.83",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_376",
-      "name": "158",
-      "shortName": "158",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_377",
-      "name": "Dhaulagiri Laghubitta",
-      "shortName": "Dhaulagiri Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_378",
-      "name": "Baglung bazar, Baglung",
-      "shortName": "Baglung bazar,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_379",
-      "name": "रु 13.31",
-      "shortName": "रु 13.31",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_380",
-      "name": "59",
-      "shortName": "59",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_381",
-      "name": "Forward Laghubitta",
-      "shortName": "Forward Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_382",
-      "name": "Duhabi, Sunsari",
-      "shortName": "Duhabi, Sunsari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_383",
-      "name": "रु 119.6",
-      "shortName": "रु 119.6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_384",
-      "name": "161",
-      "shortName": "161",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_385",
-      "name": "Ganapati Laghubitta",
-      "shortName": "Ganapati Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_386",
-      "name": "Suklagandaki, Tanahu",
-      "shortName": "Suklagandaki, Tanahu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_387",
-      "name": "रु 15.16",
-      "shortName": "रु 15.16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_388",
-      "name": "44",
-      "shortName": "44",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_389",
-      "name": "Global IME Laghubitta",
+      "code": "NP_45",
+      "name": "Global IME Bank Limited",
       "shortName": "Global IME",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_390",
-      "name": "रु 61.89",
-      "shortName": "रु 61.89",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_391",
-      "name": "Grameen Bikas Laghubitta &#91;16&#93;",
-      "shortName": "Grameen Bikas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_392",
-      "name": "Butwal, Rupandehi",
-      "shortName": "Butwal, Rupandehi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_393",
-      "name": "रु 100.53",
-      "shortName": "रु 100.53",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_394",
-      "name": "200",
-      "shortName": "200",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_395",
-      "name": "Himalayan Laghubitta",
-      "shortName": "Himalayan Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_396",
-      "name": "रु 31.98",
-      "shortName": "रु 31.98",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_397",
-      "name": "76",
-      "shortName": "76",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_398",
-      "name": "Infinity Laghubitta",
-      "shortName": "Infinity Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_399",
-      "name": "Gaidakot, Nawalparasi",
-      "shortName": "Gaidakot, Nawalparasi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_400",
-      "name": "रु 49.74",
-      "shortName": "रु 49.74",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_401",
-      "name": "98",
-      "shortName": "98",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_402",
-      "name": "Jeevan Bikas Laghubitta",
-      "shortName": "Jeevan Bikas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_403",
-      "name": "Katahari Morang",
-      "shortName": "Katahari Morang",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_404",
-      "name": "रु 153.62",
-      "shortName": "रु 153.62",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_405",
-      "name": "165",
-      "shortName": "165",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_406",
-      "name": "Janautthan Samudayik Laghubitta",
-      "shortName": "Janautthan Samudayik",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_407",
-      "name": "रु 17.01",
-      "shortName": "रु 17.01",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_408",
-      "name": "40",
-      "shortName": "40",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_409",
-      "name": "Kalika Laghubitta",
-      "shortName": "Kalika Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_410",
-      "name": "रु 40.77",
-      "shortName": "रु 40.77",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_411",
-      "name": "106",
-      "shortName": "106",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_412",
-      "name": "Laxmi Laghubitta",
-      "shortName": "Laxmi Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_413",
-      "name": "Maharajgung, Kathmandu",
-      "shortName": "Maharajgung, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_414",
-      "name": "रु 44.17",
-      "shortName": "रु 44.17",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_415",
-      "name": "96",
-      "shortName": "96",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_416",
-      "name": "Mahila Laghubitta",
-      "shortName": "Mahila Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_417",
-      "name": "रु 21.76",
-      "shortName": "रु 21.76",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_418",
-      "name": "85",
-      "shortName": "85",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_419",
-      "name": "Mahuli Laghubitta",
-      "shortName": "Mahuli Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_420",
-      "name": "Bakdhuwa, Saptari",
-      "shortName": "Bakdhuwa, Saptari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_421",
-      "name": "रु 36.99",
-      "shortName": "रु 36.99",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_422",
-      "name": "66",
-      "shortName": "66",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_423",
-      "name": "Manushi Laghubitta",
-      "shortName": "Manushi Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_424",
-      "name": "रु 10.94",
-      "shortName": "रु 10.94",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_425",
-      "name": "37",
-      "shortName": "37",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_426",
-      "name": "Matribhumi Laghubitta &#91;17&#93;",
-      "shortName": "Matribhumi Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_427",
-      "name": "Budanilkantha, Kathmandu",
-      "shortName": "Budanilkantha, Kathmandu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_428",
-      "name": "रु 62.84",
-      "shortName": "रु 62.84",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_429",
-      "name": "237",
-      "shortName": "237",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_430",
-      "name": "Mero Microfinance Laghubitta",
-      "shortName": "Mero Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_431",
-      "name": "Battar, Nuwakot",
-      "shortName": "Battar, Nuwakot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_432",
-      "name": "रु 141.9",
-      "shortName": "रु 141.9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_433",
-      "name": "151",
-      "shortName": "151",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_434",
-      "name": "NADEP Laghubitta",
-      "shortName": "NADEP Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_435",
-      "name": "Gajuri, Dhading",
-      "shortName": "Gajuri, Dhading",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_436",
-      "name": "रु 48.58",
-      "shortName": "रु 48.58",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_437",
-      "name": "National Laghubitta",
-      "shortName": "National Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_438",
-      "name": "Nilkantha, Dhading",
-      "shortName": "Nilkantha, Dhading",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_439",
-      "name": "रु 133.16",
-      "shortName": "रु 133.16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_440",
-      "name": "187",
-      "shortName": "187",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_441",
-      "name": "Nerude Mirmire Laghubitta",
-      "shortName": "Nerude Mirmire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_442",
-      "name": "रु 139.78",
-      "shortName": "रु 139.78",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_443",
-      "name": "233",
-      "shortName": "233",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_444",
-      "name": "NESDO Samridda Laghubitta",
-      "shortName": "NESDO Samridda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_445",
-      "name": "Kushma, Parbat",
-      "shortName": "Kushma, Parbat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_446",
-      "name": "रु 29.13",
-      "shortName": "रु 29.13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_447",
-      "name": "57",
-      "shortName": "57",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_448",
-      "name": "NIC Asia Laghubitta",
-      "shortName": "NIC Asia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_449",
-      "name": "रु 173.94",
-      "shortName": "रु 173.94",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_450",
-      "name": "296",
-      "shortName": "296",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_451",
-      "name": "Nirdhan Uthhan Laghubitta",
-      "shortName": "Nirdhan Uthhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_452",
-      "name": "रु 261.21",
-      "shortName": "रु 261.21",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_453",
-      "name": "196",
-      "shortName": "196",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_454",
-      "name": "NMB Laghubitta",
-      "shortName": "NMB Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_455",
-      "name": "रु 72.14",
-      "shortName": "रु 72.14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_456",
-      "name": "156",
-      "shortName": "156",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_457",
-      "name": "Sampada Laghubitta&#91;18&#93;",
-      "shortName": "Sampada Laghubitta&#91;18&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_458",
-      "name": "Gaindakot-5, Nawalparasi East &#91;19&#93;",
-      "shortName": "Gaindakot-5, Nawalparasi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_459",
-      "name": "रु 70.09",
-      "shortName": "रु 70.09",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_460",
-      "name": "157",
-      "shortName": "157",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_461",
-      "name": "Samata Garelu Laghubitta &#91;20&#93;",
-      "shortName": "Samata Garelu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_462",
-      "name": "रु 62.91",
-      "shortName": "रु 62.91",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_463",
-      "name": "92",
-      "shortName": "92",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_464",
-      "name": "Samudayik Laghubitta",
-      "shortName": "Samudayik Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_465",
-      "name": "रु 17.08",
-      "shortName": "रु 17.08",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_466",
-      "name": "47",
-      "shortName": "47",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_467",
-      "name": "Shrinjansil Laghubitta",
-      "shortName": "Shrinjansil Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_468",
-      "name": "Golbazar, Siraha",
-      "shortName": "Golbazar, Siraha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_469",
-      "name": "34",
-      "shortName": "34",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_470",
-      "name": "Suryodaya Womi Laghubitta",
-      "shortName": "Suryodaya Womi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_471",
-      "name": "रु 79.19",
-      "shortName": "रु 79.19",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_472",
-      "name": "173",
-      "shortName": "173",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_473",
-      "name": "Swabalamban Laghubitta",
-      "shortName": "Swabalamban Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_474",
+      "code": "NP_46",
       "name": "Kamalpokhari, Kathmandu",
       "shortName": "Kamalpokhari, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_475",
-      "name": "रु 165.66",
-      "shortName": "रु 165.66",
+      "code": "NP_47",
+      "name": "रु 380.14 Arab",
+      "shortName": "रु 380.14",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_476",
-      "name": "155",
-      "shortName": "155",
+      "code": "NP_48",
+      "name": "रु 674.84 Arab",
+      "shortName": "रु 674.84",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_477",
-      "name": "Sworojgar Laghubitta",
-      "shortName": "Sworojgar Laghubitta",
+      "code": "NP_49",
+      "name": "432",
+      "shortName": "432",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_478",
-      "name": "रु 69.07",
-      "shortName": "रु 69.07",
+      "code": "NP_50",
+      "name": "Himalayan Bank",
+      "shortName": "Himalayan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_479",
-      "name": "Unique Nepal Laghubitta",
-      "shortName": "Unique Nepal",
+      "code": "NP_51",
+      "name": "रु 22.58 Arab",
+      "shortName": "रु 22.58",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_480",
-      "name": "Kohalpur, Banke",
-      "shortName": "Kohalpur,e",
+      "code": "NP_52",
+      "name": "रु 390.99 Arab",
+      "shortName": "रु 390.99",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_481",
-      "name": "रु 14.86",
-      "shortName": "रु 14.86",
+      "code": "NP_53",
+      "name": "2018",
+      "shortName": "2018",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_482",
-      "name": "42",
-      "shortName": "42",
+      "code": "NP_54",
+      "name": "Kumari Bank",
+      "shortName": "Kumari",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_483",
-      "name": "Unnati Sahakarya Laghubitta",
-      "shortName": "Unnati Sahakarya",
+      "code": "NP_55",
+      "name": "Naxal, Kathmandu",
+      "shortName": "Naxal, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_484",
-      "name": "Siddharthanagar, Rupandehi",
-      "shortName": "Siddharthanagar, Rupandehi",
+      "code": "NP_56",
+      "name": "रु 260.29 Arab",
+      "shortName": "रु 260.29",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_485",
-      "name": "रु 24.69",
-      "shortName": "रु 24.69",
+      "code": "NP_57",
+      "name": "रु 352.56 Arab",
+      "shortName": "रु 352.56",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_486",
-      "name": "84",
-      "shortName": "84",
+      "code": "NP_58",
+      "name": "336",
+      "shortName": "336",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_487",
-      "name": "Vijaya Laghubitta",
-      "shortName": "Vijaya Laghubitta",
+      "code": "NP_59",
+      "name": "Laxmi Sunrise Bank",
+      "shortName": "Laxmi Sunrise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_488",
-      "name": "रु 74.50",
-      "shortName": "रु 74.50",
+      "code": "NP_60",
+      "name": "Hattisar, Kathmandu",
+      "shortName": "Hattisar, Kathmandu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_489",
-      "name": "136",
-      "shortName": "136",
+      "code": "NP_61",
+      "name": "रु 26.78 Arab",
+      "shortName": "रु 26.78",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_490",
-      "name": "Aatmanirbhar Laghubitta",
-      "shortName": "Aatmanirbhar Laghubitta",
+      "code": "NP_62",
+      "name": "रु 427.7 Arab",
+      "shortName": "रु 427.7",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_491",
-      "name": "Ghorahi, Dang",
-      "shortName": "Ghorahi, Dang",
+      "code": "NP_63",
+      "name": "300",
+      "shortName": "300",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_492",
-      "name": "Lumbini Province",
-      "shortName": "Lumbini Province",
+      "code": "NP_64",
+      "name": "Machhapuchhre Bank",
+      "shortName": "Machhapuchhre",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_493",
-      "name": "रु 7.83",
-      "shortName": "रु 7.83",
+      "code": "NP_65",
+      "name": "रु 12.09 Arab",
+      "shortName": "रु 12.09",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_494",
-      "name": "Gurans Laghubitta",
-      "shortName": "Gurans Laghubitta",
+      "code": "NP_66",
+      "name": "रु 214.53 Arab",
+      "shortName": "रु 214.53",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_495",
-      "name": "Dhankutabazar, Dhankuta",
-      "shortName": "Dhankutabazar, Dhankuta",
+      "code": "NP_67",
+      "name": "185",
+      "shortName": "185",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_496",
-      "name": "Koshi Province",
-      "shortName": "Koshi Province",
+      "code": "NP_68",
+      "name": "Nabil Bank",
+      "shortName": "Nabil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_497",
+      "code": "NP_69",
+      "name": "Teendhara, Kathmandu",
+      "shortName": "Teendhara, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_70",
+      "name": "रु 27.06 Arab",
+      "shortName": "रु 27.06",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_71",
+      "name": "रु 651.15 Arab",
+      "shortName": "रु 651.15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_72",
+      "name": "291",
+      "shortName": "291",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_73",
+      "name": "Nepal Bank",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_74",
+      "name": "Dharmapath, Kathmandu",
+      "shortName": "Dharmapath, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_75",
+      "name": "रु 14.69 Arab",
+      "shortName": "रु 14.69",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_76",
+      "name": "Nepal Investment Mega Bank",
+      "shortName": "Nepal Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_77",
+      "name": "Durbar Marg, Kathmandu",
+      "shortName": "Durbar Marg,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_78",
+      "name": "रु 606.21 Arab",
+      "shortName": "रु 606.21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_79",
+      "name": "329",
+      "shortName": "329",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_80",
+      "name": "Nepal SBI Bank",
+      "shortName": "Nepal SBI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_81",
+      "name": "रु 11.33.90 Arab",
+      "shortName": "रु 11.33.90",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_82",
+      "name": "रु 231.98 Arab",
+      "shortName": "रु 231.98",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_83",
+      "name": "133",
+      "shortName": "133",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_84",
+      "name": "NIC Asia Bank",
+      "shortName": "NIC Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_85",
+      "name": "429",
+      "shortName": "429",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_86",
+      "name": "NMB Bank Nepal",
+      "shortName": "NMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_87",
+      "name": "Babar Mahal, Kathmandu",
+      "shortName": "Babar Mahal,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_88",
+      "name": "रु 19.28 Arab",
+      "shortName": "रु 19.28",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_89",
+      "name": "214",
+      "shortName": "214",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_90",
+      "name": "Prabhu Bank",
+      "shortName": "Prabhu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_91",
+      "name": "Anamnagar, Kathmandu",
+      "shortName": "Anamnagar, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_92",
+      "name": "रु 23.54 Arab",
+      "shortName": "रु 23.54",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_93",
+      "name": "रु 400.24 Arab",
+      "shortName": "रु 400.24",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_94",
+      "name": "374",
+      "shortName": "374",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_95",
+      "name": "Prime Commercial Bank",
+      "shortName": "Prime Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_96",
+      "name": "Kamal Pokhari, Kathmandu",
+      "shortName": "Kamal Pokhari,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_97",
+      "name": "रु 20.95 Arab",
+      "shortName": "रु 20.95",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_98",
+      "name": "2020",
+      "shortName": "2020",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_99",
+      "name": "Rastriya Banijya Bank",
+      "shortName": "Rastriya Banijya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_100",
+      "name": "Singha Durbar, Kathmandu",
+      "shortName": "Singha Durbar,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_101",
+      "name": "रु 15.64 Arab",
+      "shortName": "रु 15.64",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_102",
+      "name": "382",
+      "shortName": "382",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_103",
+      "name": "Sanima Bank",
+      "shortName": "Sanima",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_104",
+      "name": "Narayanchaur, Kathmandu",
+      "shortName": "Narayanchaur, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_105",
+      "name": "रु 13.58 Arab",
+      "shortName": "रु 13.58",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_106",
+      "name": "141",
+      "shortName": "141",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_107",
+      "name": "Siddhartha Bank",
+      "shortName": "Siddhartha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_108",
+      "name": "205",
+      "shortName": "205",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_109",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_110",
+      "name": "Naya Baneshwor, Kathmandu",
+      "shortName": "Naya Baneshwor,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_111",
+      "name": "रु 10.04 Arab",
+      "shortName": "रु 10.04",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_112",
+      "name": "18",
+      "shortName": "18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_113",
+      "name": "Garima Bikas Bank",
+      "shortName": "Garima Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_114",
+      "name": "रु 105",
+      "shortName": "रु 105",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_115",
+      "name": "रु 6.02",
+      "shortName": "रु 6.02",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_116",
+      "name": "137",
+      "shortName": "137",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_117",
+      "name": "Jyoti Bikas Bank",
+      "shortName": "Jyoti Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_118",
+      "name": "रु 74",
+      "shortName": "रु 74",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_119",
+      "name": "रु 4.40",
+      "shortName": "रु 4.40",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_120",
+      "name": "119",
+      "shortName": "119",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_121",
+      "name": "Kamana Sewa Bikas Bank",
+      "shortName": "Kamana Sewa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_122",
+      "name": "रु 72",
+      "shortName": "रु 72",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_123",
+      "name": "रु 3.86",
+      "shortName": "रु 3.86",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_124",
+      "name": "124",
+      "shortName": "124",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_125",
+      "name": "Lumbini Bikas Bank",
+      "shortName": "Lumbini Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_126",
+      "name": "Dillibazaar, Kathmandu",
+      "shortName": "Dillibazaar, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_127",
+      "name": "रु 66",
+      "shortName": "रु 66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_128",
+      "name": "91",
+      "shortName": "91",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_129",
+      "name": "Mahalaxmi Development Bank",
+      "shortName": "Mahalaxmi Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_130",
+      "name": "रु 63",
+      "shortName": "रु 63",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_131",
+      "name": "104",
+      "shortName": "104",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_132",
+      "name": "Muktinath Bikash Bank",
+      "shortName": "Muktinath Bikash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_133",
+      "name": "रु 132",
+      "shortName": "रु 132",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_134",
+      "name": "रु 8.00",
+      "shortName": "रु 8.00",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_135",
+      "name": "189",
+      "shortName": "189",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_136",
+      "name": "Sangrila Development Bank",
+      "shortName": "Sangrila Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_137",
+      "name": "Baluwatar, Kathmandu",
+      "shortName": "Baluwatar, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_138",
+      "name": "10.9",
+      "shortName": "10.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_139",
+      "name": "Shine Resunga Development Bank",
+      "shortName": "Shine Resunga",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_140",
+      "name": "Kalikanagar, Butwal",
+      "shortName": "Kalikanagar, Butwal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_141",
+      "name": "रु 83",
+      "shortName": "रु 83",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_142",
+      "name": "रु 4.88",
+      "shortName": "रु 4.88",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_143",
+      "name": "90",
+      "shortName": "90",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_144",
+      "name": "Corporate Development Bank",
+      "shortName": "Corporate Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_145",
+      "name": "Adarsanagar, Birgunj",
+      "shortName": "Adarsanagar, Birgunj",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_146",
+      "name": "Madhesh Province",
+      "shortName": "Madhesh Province",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_147",
+      "name": "रु 62.84",
+      "shortName": "रु 62.84",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_148",
+      "name": "रु 100.53",
+      "shortName": "रु 100.53",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_149",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_150",
+      "name": "Excel Development Bank",
+      "shortName": "Excel Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_151",
+      "name": "Mukti Chowk, Birtamode",
+      "shortName": "Mukti Chowk,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_152",
+      "name": "Koshi Pradesh",
+      "shortName": "Koshi Pradesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_153",
+      "name": "रु 139.78",
+      "shortName": "रु 139.78",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_154",
+      "name": "रु 1.25",
+      "shortName": "रु 1.25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_155",
+      "name": "48",
+      "shortName": "48",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_156",
+      "name": "Sabhagriha Chowk, Pokhara",
+      "shortName": "Sabhagriha Chowk,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_157",
+      "name": "Gandaki Province",
+      "shortName": "Gandaki Province",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_158",
+      "name": "रु 61.89",
+      "shortName": "रु 61.89",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_159",
+      "name": "रु 0.62",
+      "shortName": "रु 0.62",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_160",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_161",
+      "name": "Miteri Development Bank",
+      "shortName": "Miteri Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_162",
+      "name": "Mahendra Path, Dharan",
+      "shortName": "Mahendra Path,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_163",
+      "name": "Narayani Development Bank",
+      "shortName": "Narayani Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_164",
+      "name": "Ratnanagar, Chitwan",
+      "shortName": "Ratnanagar, Chitwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_165",
+      "name": "Chitwan District",
+      "shortName": "Chitwan District",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_166",
+      "name": "रु 0.49",
+      "shortName": "रु 0.49",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_167",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_168",
+      "name": "Salapa Bikash Bank",
+      "shortName": "Salapa Bikash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_169",
+      "name": "Diktel Bazar, Khotang",
+      "shortName": "Diktel Bazar,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_170",
+      "name": "Khotang District",
+      "shortName": "Khotang District",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_171",
+      "name": "रु 29.13",
+      "shortName": "रु 29.13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_172",
+      "name": "Saptakoshi Development Bank",
+      "shortName": "Saptakoshi Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_173",
+      "name": "Main Road, Biratnagar",
+      "shortName": "Main Road,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_174",
+      "name": "रु 48.58",
+      "shortName": "रु 48.58",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_175",
+      "name": "36",
+      "shortName": "36",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_176",
+      "name": "Sindhu Bikas Bank",
+      "shortName": "Sindhu Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_177",
+      "name": "Banepa, Kavrepalanchowk",
+      "shortName": "Banepa, Kavrepalanchowk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_178",
+      "name": "Bagmati Pradesh",
+      "shortName": "Bagmati Pradesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_179",
+      "name": "रु 26.64",
+      "shortName": "रु 26.64",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_180",
+      "name": "27",
+      "shortName": "27",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_181",
+      "name": "Supreme Development Bank",
+      "shortName": "Supreme Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_182",
+      "name": "2017",
+      "shortName": "2017",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_183",
+      "name": "Merged with Mega Bank Nepal&#91;11&#93;",
+      "shortName": "Merged with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_184",
+      "name": "Reliable Development Bank",
+      "shortName": "Reliable Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_185",
+      "name": "Acquired by Global IME Bank&#91;8&#93;",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_186",
+      "name": "Siddhartha Development Bank",
+      "shortName": "Siddhartha Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_187",
+      "name": "Acquired by Janata Bank Nepal Limited&#91;9&#93;",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_188",
+      "name": "Acquired by Nepal Investment Bank Limited&#91;10&#93;",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_189",
+      "name": "NIDC Development Bank",
+      "shortName": "NIDC Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_190",
+      "name": "Acquired by Rastriya Banijya Bank&#91;12&#93;",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_191",
+      "name": "2019",
+      "shortName": "2019",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_192",
+      "name": "Merged with NMB Bank&#91;13&#93;",
+      "shortName": "Merged with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_193",
+      "name": "Kailash Bikash Bank",
+      "shortName": "Kailash Bikash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_194",
+      "name": "Merged with Prime Commercial Bank&#91;14&#93;",
+      "shortName": "Merged with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_195",
+      "name": "Acquired by Kumari Bank&#91;15&#93;",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_196",
+      "name": "Gandaki Bikash Bank",
+      "shortName": "Gandaki Bikash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_197",
+      "name": "Best Finance",
+      "shortName": "Best Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_198",
+      "name": "Chabahil, Kathmandu",
+      "shortName": "Chabahil, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_199",
+      "name": "7.3",
+      "shortName": "7.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_200",
+      "name": "रु 89",
+      "shortName": "रु 89",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_201",
+      "name": "19",
+      "shortName": "19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_202",
+      "name": "Central Finance",
+      "shortName": "Central Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_203",
+      "name": "Kupondole, Lalitpur",
+      "shortName": "Kupondole, Lalitpur",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_204",
+      "name": "9.6",
+      "shortName": "9.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_205",
+      "name": "रु 95",
+      "shortName": "रु 95",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_206",
+      "name": "20",
+      "shortName": "20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_207",
+      "name": "Gurkhas Finance",
+      "shortName": "Gurkhas Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_208",
+      "name": "10.8",
+      "shortName": "10.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_209",
+      "name": "रु 87",
+      "shortName": "रु 87",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_210",
+      "name": "Goodwill Finance",
+      "shortName": "Goodwill Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_211",
+      "name": "16.2",
+      "shortName": "16.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_212",
+      "name": "Guheshwori Merchant Banking &amp; Finance",
+      "shortName": "Guheshwori Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_213",
+      "name": "Pulchowk, Lalitpur",
+      "shortName": "Pulchowk, Lalitpur",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_214",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_215",
+      "name": "रु 17.01",
+      "shortName": "रु 17.01",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_216",
+      "name": "ICFC Finance",
+      "shortName": "ICFC Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_217",
+      "name": "Bhatbhateni, Kathmandu",
+      "shortName": "Bhatbhateni, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_218",
+      "name": "25.2",
+      "shortName": "25.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_219",
       "name": "रु 11.58",
       "shortName": "रु 11.58",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_498",
+      "code": "NP_220",
+      "name": "21",
+      "shortName": "21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_221",
+      "name": "Janaki Finance",
+      "shortName": "Janaki Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_222",
+      "name": "Station Road, Janakpur",
+      "shortName": "Station Road,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_223",
+      "name": "4.6",
+      "shortName": "4.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_224",
+      "name": "Manjushree Finance",
+      "shortName": "Manjushree Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_225",
+      "name": "27.4",
+      "shortName": "27.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_226",
+      "name": "रु 135",
+      "shortName": "रु 135",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_227",
+      "name": "29",
+      "shortName": "29",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_228",
+      "name": "Multipurpose Finance",
+      "shortName": "Multipurpose Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_229",
+      "name": "Bidhyapati Chowk, Janakpur",
+      "shortName": "Bidhyapati Chowk,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_230",
+      "name": "4.2",
+      "shortName": "4.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_231",
+      "name": "रु 61",
+      "shortName": "रु 61",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_232",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_233",
+      "name": "Nepal Finance",
+      "shortName": "Nepal Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_234",
+      "name": "5.4",
+      "shortName": "5.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_235",
+      "name": "रु 78",
+      "shortName": "रु 78",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_236",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_237",
+      "name": "Pokhara Finance",
+      "shortName": "Pokhara Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_238",
+      "name": "New Road, Pokhara",
+      "shortName": "New Road,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_239",
+      "name": "8.5",
+      "shortName": "8.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_240",
+      "name": "रु 108",
+      "shortName": "रु 108",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_241",
+      "name": "26",
+      "shortName": "26",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_242",
+      "name": "Progressive Finance",
+      "shortName": "Progressive Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_243",
+      "name": "New Road, Kathmandu",
+      "shortName": "New Road,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_244",
+      "name": "रु 85",
+      "shortName": "रु 85",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_245",
+      "name": "28",
+      "shortName": "28",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_246",
+      "name": "Reliance Finance",
+      "shortName": "Reliance Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_247",
+      "name": "Pradarsani Marg, Kathmandu",
+      "shortName": "Pradarsani Marg,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_248",
+      "name": "रु 112",
+      "shortName": "रु 112",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_249",
+      "name": "22",
+      "shortName": "22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_250",
+      "name": "Samriddhi Finance",
+      "shortName": "Samriddhi Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_251",
+      "name": "Putalisadak, Kathmandu",
+      "shortName": "Putalisadak, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_252",
+      "name": "3.6",
+      "shortName": "3.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_253",
+      "name": "रु 82",
+      "shortName": "रु 82",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_254",
+      "name": "Shree Investment &amp; Finance",
+      "shortName": "Shree Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_255",
+      "name": "10.2",
+      "shortName": "10.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_256",
+      "name": "रु 100",
+      "shortName": "रु 100",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_257",
+      "name": "First Microfinance Laghubitta",
+      "shortName": "First Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_258",
+      "name": "Gyaneswar, Kathmandu",
+      "shortName": "Gyaneswar, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_259",
+      "name": "रु 134.49",
+      "shortName": "रु 134.49",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_260",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_261",
+      "name": "RSDC Laghubitta",
+      "shortName": "RSDC Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_262",
+      "name": "Rupandehi, Butwal",
+      "shortName": "Rupandehi, Butwal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_263",
+      "name": "रु 103.41",
+      "shortName": "रु 103.41",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_264",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_265",
+      "name": "Sana Kisan Bikas Laghubitta",
+      "shortName": "Sana Kisan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_266",
+      "name": "रु 431.26",
+      "shortName": "रु 431.26",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_267",
+      "name": "Aviyan Laghubitta",
+      "shortName": "Aviyan Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_268",
+      "name": "Panauti, Kavrepalanchowk",
+      "shortName": "Panauti, Kavrepalanchowk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_269",
+      "name": "रु 25",
+      "shortName": "रु 25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_270",
+      "name": "61",
+      "shortName": "61",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_271",
+      "name": "Aarambha Chautari Laghubitta",
+      "shortName": "Aarambha Chautari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_272",
+      "name": "रु 36.71",
+      "shortName": "रु 36.71",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_273",
+      "name": "Manushi Laghubitta",
+      "shortName": "Manushi Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_274",
+      "name": "Madanpur, Nuwakot",
+      "shortName": "Madanpur, Nuwakot",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_275",
+      "name": "रु 73.30",
+      "shortName": "रु 73.30",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_276",
+      "name": "Chhimek Laghubitta",
+      "shortName": "Chhimek Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_277",
+      "name": "Mid-Baneshwor, Kathmandu",
+      "shortName": "Mid-Baneshwor, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_278",
+      "name": "रु 321.53",
+      "shortName": "रु 321.53",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_279",
+      "name": "CYC Nepal Laghubitta",
+      "shortName": "CYC Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_280",
+      "name": "Pokhara, Kaski",
+      "shortName": "Pokhara, Kaski",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_281",
+      "name": "125",
+      "shortName": "125",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_282",
+      "name": "Deprosc Laghubitta",
+      "shortName": "Deprosc Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_283",
+      "name": "Bharatpur, Chitwan",
+      "shortName": "Bharatpur, Chitwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_284",
+      "name": "रु 183.83",
+      "shortName": "रु 183.83",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_285",
+      "name": "158",
+      "shortName": "158",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_286",
+      "name": "Dhaulagiri Laghubitta",
+      "shortName": "Dhaulagiri Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_287",
+      "name": "Baglung bazar, Baglung",
+      "shortName": "Baglung bazar,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_288",
+      "name": "रु 13.31",
+      "shortName": "रु 13.31",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_289",
+      "name": "59",
+      "shortName": "59",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_290",
+      "name": "Forward Laghubitta",
+      "shortName": "Forward Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_291",
+      "name": "Duhabi, Sunsari",
+      "shortName": "Duhabi, Sunsari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_292",
+      "name": "रु 119.6",
+      "shortName": "रु 119.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_293",
+      "name": "161",
+      "shortName": "161",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_294",
+      "name": "Ganapati Laghubitta",
+      "shortName": "Ganapati Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_295",
+      "name": "Suklagandaki, Tanahu",
+      "shortName": "Suklagandaki, Tanahu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_296",
+      "name": "रु 15.16",
+      "shortName": "रु 15.16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_297",
+      "name": "44",
+      "shortName": "44",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_298",
+      "name": "Global IME Laghubitta",
+      "shortName": "Global IME",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_299",
+      "name": "Grameen Bikas Laghubitta &#91;16&#93;",
+      "shortName": "Grameen Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_300",
+      "name": "Butwal, Rupandehi",
+      "shortName": "Butwal, Rupandehi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_301",
+      "name": "Himalayan Laghubitta",
+      "shortName": "Himalayan Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_302",
+      "name": "रु 31.98",
+      "shortName": "रु 31.98",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_303",
+      "name": "76",
+      "shortName": "76",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_304",
+      "name": "Infinity Laghubitta",
+      "shortName": "Infinity Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_305",
+      "name": "Gaidakot, Nawalparasi",
+      "shortName": "Gaidakot, Nawalparasi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_306",
+      "name": "रु 49.74",
+      "shortName": "रु 49.74",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_307",
+      "name": "98",
+      "shortName": "98",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_308",
+      "name": "Jeevan Bikas Laghubitta",
+      "shortName": "Jeevan Bikas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_309",
+      "name": "Katahari Morang",
+      "shortName": "Katahari Morang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_310",
+      "name": "रु 153.62",
+      "shortName": "रु 153.62",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_311",
+      "name": "165",
+      "shortName": "165",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_312",
+      "name": "Janautthan Samudayik Laghubitta",
+      "shortName": "Janautthan Samudayik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_313",
+      "name": "40",
+      "shortName": "40",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_314",
+      "name": "Kalika Laghubitta",
+      "shortName": "Kalika Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_315",
+      "name": "रु 40.77",
+      "shortName": "रु 40.77",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_316",
+      "name": "106",
+      "shortName": "106",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_317",
+      "name": "Laxmi Laghubitta",
+      "shortName": "Laxmi Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_318",
+      "name": "Maharajgung, Kathmandu",
+      "shortName": "Maharajgung, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_319",
+      "name": "रु 44.17",
+      "shortName": "रु 44.17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_320",
+      "name": "96",
+      "shortName": "96",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_321",
+      "name": "रु 21.76",
+      "shortName": "रु 21.76",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_322",
+      "name": "85",
+      "shortName": "85",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_323",
+      "name": "Bakdhuwa, Saptari",
+      "shortName": "Bakdhuwa, Saptari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_324",
+      "name": "रु 36.99",
+      "shortName": "रु 36.99",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_325",
+      "name": "66",
+      "shortName": "66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_326",
+      "name": "रु 10.94",
+      "shortName": "रु 10.94",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_327",
+      "name": "37",
+      "shortName": "37",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_328",
+      "name": "Matribhumi Laghubitta &#91;17&#93;",
+      "shortName": "Matribhumi Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_329",
+      "name": "Budanilkantha, Kathmandu",
+      "shortName": "Budanilkantha, Kathmandu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_330",
+      "name": "237",
+      "shortName": "237",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_331",
+      "name": "Battar, Nuwakot",
+      "shortName": "Battar, Nuwakot",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_332",
+      "name": "रु 141.9",
+      "shortName": "रु 141.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_333",
+      "name": "151",
+      "shortName": "151",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_334",
+      "name": "NADEP Laghubitta",
+      "shortName": "NADEP Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_335",
+      "name": "Gajuri, Dhading",
+      "shortName": "Gajuri, Dhading",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_336",
+      "name": "National Laghubitta",
+      "shortName": "National Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_337",
+      "name": "Nilkantha, Dhading",
+      "shortName": "Nilkantha, Dhading",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_338",
+      "name": "रु 133.16",
+      "shortName": "रु 133.16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_339",
+      "name": "187",
+      "shortName": "187",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_340",
+      "name": "Nerude Mirmire Laghubitta",
+      "shortName": "Nerude Mirmire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_341",
+      "name": "233",
+      "shortName": "233",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_342",
+      "name": "NESDO Samridda Laghubitta",
+      "shortName": "NESDO Samridda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_343",
+      "name": "Kushma, Parbat",
+      "shortName": "Kushma, Parbat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_344",
+      "name": "57",
+      "shortName": "57",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_345",
+      "name": "NIC Asia Laghubitta",
+      "shortName": "NIC Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_346",
+      "name": "रु 173.94",
+      "shortName": "रु 173.94",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_347",
+      "name": "296",
+      "shortName": "296",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_348",
+      "name": "Nirdhan Uthhan Laghubitta",
+      "shortName": "Nirdhan Uthhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_349",
+      "name": "रु 261.21",
+      "shortName": "रु 261.21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_350",
+      "name": "196",
+      "shortName": "196",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_351",
+      "name": "NMB Laghubitta",
+      "shortName": "NMB Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_352",
+      "name": "रु 72.14",
+      "shortName": "रु 72.14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_353",
+      "name": "156",
+      "shortName": "156",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_354",
+      "name": "Sampada Laghubitta&#91;18&#93;",
+      "shortName": "Sampada Laghubitta&#91;18&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_355",
+      "name": "Gaindakot-5, Nawalparasi East &#91;19&#93;",
+      "shortName": "Gaindakot-5, Nawalparasi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_356",
+      "name": "रु 70.09",
+      "shortName": "रु 70.09",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_357",
+      "name": "157",
+      "shortName": "157",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_358",
+      "name": "Samata Garelu Laghubitta &#91;20&#93;",
+      "shortName": "Samata Garelu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_359",
+      "name": "रु 62.91",
+      "shortName": "रु 62.91",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_360",
+      "name": "92",
+      "shortName": "92",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_361",
+      "name": "Samudayik Laghubitta",
+      "shortName": "Samudayik Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_362",
+      "name": "47",
+      "shortName": "47",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_363",
+      "name": "Shrinjansil Laghubitta",
+      "shortName": "Shrinjansil Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_364",
+      "name": "Golbazar, Siraha",
+      "shortName": "Golbazar, Siraha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_365",
+      "name": "34",
+      "shortName": "34",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_366",
+      "name": "Suryodaya Womi Laghubitta",
+      "shortName": "Suryodaya Womi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_367",
+      "name": "रु 79.19",
+      "shortName": "रु 79.19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_368",
+      "name": "173",
+      "shortName": "173",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_369",
+      "name": "Swabalamban Laghubitta",
+      "shortName": "Swabalamban Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_370",
+      "name": "रु 165.66",
+      "shortName": "रु 165.66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_371",
+      "name": "155",
+      "shortName": "155",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_372",
+      "name": "Sworojgar Laghubitta",
+      "shortName": "Sworojgar Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_373",
+      "name": "रु 69.07",
+      "shortName": "रु 69.07",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_374",
+      "name": "Unique Nepal Laghubitta",
+      "shortName": "Unique Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_375",
+      "name": "Kohalpur, Banke",
+      "shortName": "Kohalpur,e",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_376",
+      "name": "रु 14.86",
+      "shortName": "रु 14.86",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_377",
+      "name": "42",
+      "shortName": "42",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_378",
+      "name": "Unnati Sahakarya Laghubitta",
+      "shortName": "Unnati Sahakarya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_379",
+      "name": "Siddharthanagar, Rupandehi",
+      "shortName": "Siddharthanagar, Rupandehi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_380",
+      "name": "रु 24.69",
+      "shortName": "रु 24.69",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_381",
+      "name": "84",
+      "shortName": "84",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_382",
+      "name": "रु 74.50",
+      "shortName": "रु 74.50",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_383",
+      "name": "136",
+      "shortName": "136",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_384",
+      "name": "Aatmanirbhar Laghubitta",
+      "shortName": "Aatmanirbhar Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_385",
+      "name": "Ghorahi, Dang",
+      "shortName": "Ghorahi, Dang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_386",
+      "name": "Lumbini Province",
+      "shortName": "Lumbini Province",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_387",
+      "name": "रु 7.83",
+      "shortName": "रु 7.83",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_388",
+      "name": "Gurans Laghubitta",
+      "shortName": "Gurans Laghubitta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_389",
+      "name": "Dhankutabazar, Dhankuta",
+      "shortName": "Dhankutabazar, Dhankuta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_390",
+      "name": "Koshi Province",
+      "shortName": "Koshi Province",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NP_391",
       "name": "38",
       "shortName": "38",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_499",
+      "code": "NP_392",
       "name": "Mithila Laghubitta",
       "shortName": "Mithila Laghubitta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_500",
+      "code": "NP_393",
       "name": "Dhalkebar, Dhanusha",
       "shortName": "Dhalkebar, Dhanusha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_501",
-      "name": "रु 19.60",
-      "shortName": "रु 19.60",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_502",
+      "code": "NP_394",
       "name": "45",
       "shortName": "45",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_503",
+      "code": "NP_395",
       "name": "Sanjeevani Laghubitta",
       "shortName": "Sanjeevani Laghubitta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_504",
+      "code": "NP_396",
       "name": "Tulsipur, Dang",
       "shortName": "Tulsipur, Dang",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_505",
+      "code": "NP_397",
       "name": "रु 81.14",
       "shortName": "रु 81.14",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_506",
+      "code": "NP_398",
       "name": "Support Laghubitta",
       "shortName": "Support Laghubitta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_507",
+      "code": "NP_399",
       "name": "Itahari, Sunsari",
       "shortName": "Itahari, Sunsari",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_508",
+      "code": "NP_400",
       "name": "रु 12.24",
       "shortName": "रु 12.24",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_509",
-      "name": "Swabhiman Laghubitta",
-      "shortName": "Swabhiman Laghubitta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_510",
+      "code": "NP_401",
       "name": "Tillottama, Rupandehi",
       "shortName": "Tillottama, Rupandehi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_511",
-      "name": "रु 14.61",
-      "shortName": "रु 14.61",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_512",
+      "code": "NP_402",
       "name": "Swastik Laghubitta",
       "shortName": "Swastik Laghubitta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_513",
+      "code": "NP_403",
       "name": "Lahan, Siraha",
       "shortName": "Lahan, Siraha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_514",
-      "name": "रु 4.78",
-      "shortName": "रु 4.78",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NP_515",
+      "code": "NP_404",
       "name": "Upakar Laghubitta",
       "shortName": "Upakar Laghubitta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_516",
+      "code": "NP_405",
       "name": "रु 10.61",
       "shortName": "रु 10.61",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_517",
+      "code": "NP_406",
       "name": "Wean Nepal Laghubitta",
       "shortName": "Wean Nepal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_518",
+      "code": "NP_407",
       "name": "Bagmati Province",
       "shortName": "Bagmati Province",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_519",
+      "code": "NP_408",
       "name": "रु 7.92",
       "shortName": "रु 7.92",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NP_520",
+      "code": "NP_409",
       "name": "23",
       "shortName": "23",
       "type": "bank",

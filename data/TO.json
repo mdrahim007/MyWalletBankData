@@ -4,35 +4,35 @@
   "country": "TO",
   "institutions": [
     {
-      "code": "CENBTO",
+      "code": "TO_0",
       "name": "Central Bank of TO",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTO",
+      "code": "TO_1",
       "name": "National Bank of TO",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTO",
+      "code": "TO_2",
       "name": "State Bank of TO",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTO",
+      "code": "TO_3",
       "name": "Commercial Bank of TO",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTO",
+      "code": "TO_4",
       "name": "First TO Bank",
       "shortName": "First Bank",
       "type": "bank",

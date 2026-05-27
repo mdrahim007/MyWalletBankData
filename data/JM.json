@@ -4,35 +4,35 @@
   "country": "JM",
   "institutions": [
     {
-      "code": "CENBJM",
+      "code": "JM_0",
       "name": "Central Bank of JM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBJM",
+      "code": "JM_1",
       "name": "National Bank of JM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABJM",
+      "code": "JM_2",
       "name": "State Bank of JM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBJM",
+      "code": "JM_3",
       "name": "Commercial Bank of JM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBJM",
+      "code": "JM_4",
       "name": "First JM Bank",
       "shortName": "First Bank",
       "type": "bank",

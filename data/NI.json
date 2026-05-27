@@ -117,491 +117,106 @@
     },
     {
       "code": "NI_16",
-      "name": "Antigua and Barbuda",
-      "shortName": "Antigua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_17",
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_18",
-      "name": "Bahamas",
-      "shortName": "Bahamas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_19",
-      "name": "Barbados",
-      "shortName": "Barbados",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_20",
-      "name": "Belize",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_21",
       "name": "Bolivia",
       "shortName": "Bolivia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_22",
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_23",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_24",
-      "name": "Chile",
-      "shortName": "Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_25",
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_26",
-      "name": "Costa Rica",
-      "shortName": "Costa Rica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_27",
-      "name": "Cuba",
-      "shortName": "Cuba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_28",
-      "name": "Dominica",
-      "shortName": "Dominica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_29",
-      "name": "Dominican Republic",
-      "shortName": "Dominican Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_30",
-      "name": "Ecuador",
-      "shortName": "Ecuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_31",
-      "name": "El Salvador",
-      "shortName": "El Salvador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_32",
-      "name": "Grenada",
-      "shortName": "Grenada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_33",
-      "name": "Guatemala",
-      "shortName": "Guatemala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_34",
-      "name": "Guyana",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_35",
-      "name": "Haiti",
-      "shortName": "Haiti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_36",
-      "name": "Honduras",
-      "shortName": "Honduras",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_37",
-      "name": "Jamaica",
-      "shortName": "Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_38",
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_39",
-      "name": "Nicaragua",
-      "shortName": "Nicaragua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_40",
-      "name": "Panama",
-      "shortName": "Panama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_41",
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_42",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_43",
-      "name": "Saint Kitts and Nevis",
-      "shortName": "Saint Kitts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_44",
-      "name": "Saint Lucia",
-      "shortName": "Saint Lucia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_45",
-      "name": "Saint Vincent and the Grenadines",
-      "shortName": "Saint Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_46",
-      "name": "Suriname",
-      "shortName": "Suriname",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_47",
-      "name": "Trinidad and Tobago",
-      "shortName": "Trinidad and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_48",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_49",
-      "name": "Uruguay",
-      "shortName": "Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_50",
+      "code": "NI_17",
       "name": "Venezuela",
       "shortName": "Venezuela",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_51",
-      "name": "Anguilla",
-      "shortName": "Anguilla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_52",
-      "name": "Aruba",
-      "shortName": "Aruba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_53",
-      "name": "Bermuda",
-      "shortName": "Bermuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_54",
+      "code": "NI_18",
       "name": "Bonaire",
       "shortName": "Bonaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_55",
+      "code": "NI_19",
       "name": "British Virgin Islands",
       "shortName": "British Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_56",
-      "name": "Cayman Islands",
-      "shortName": "Cayman Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_57",
-      "name": "Curaçao",
-      "shortName": "Curaçao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_58",
+      "code": "NI_20",
       "name": "Falkland Islands",
       "shortName": "Falkland Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_59",
-      "name": "French Guiana",
-      "shortName": "French Guiana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_60",
-      "name": "Greenland",
-      "shortName": "Greenland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_61",
-      "name": "Guadeloupe",
-      "shortName": "Guadeloupe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_62",
-      "name": "Martinique",
-      "shortName": "Martinique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_63",
-      "name": "Montserrat",
-      "shortName": "Montserrat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_64",
-      "name": "Puerto Rico",
-      "shortName": "Puerto Rico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_65",
+      "code": "NI_21",
       "name": "Saba",
       "shortName": "Saba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_66",
-      "name": "Saint Barthélemy",
-      "shortName": "Saint Barthélemy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_67",
+      "code": "NI_22",
       "name": "Saint Martin",
       "shortName": "Saint Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_68",
-      "name": "Saint Pierre and Miquelon",
-      "shortName": "Saint Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_69",
+      "code": "NI_23",
       "name": "Sint Eustatius",
       "shortName": "Sint Eustatius",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_70",
+      "code": "NI_24",
       "name": "Sint Maarten",
       "shortName": "Sint Maarten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_71",
-      "name": "South Georgia and the South Sandwich Islands",
-      "shortName": "South Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_72",
-      "name": "Turks and Caicos Islands",
-      "shortName": "Turks and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_73",
+      "code": "NI_25",
       "name": "U.S. Virgin Islands",
       "shortName": "U.S. Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_74",
+      "code": "NI_26",
       "name": "North America",
       "shortName": "North America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_75",
+      "code": "NI_27",
       "name": "Central America",
       "shortName": "Central America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_76",
+      "code": "NI_28",
       "name": "Caribbean",
       "shortName": "Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_77",
+      "code": "NI_29",
       "name": "South America",
       "shortName": "South America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NI_78",
-      "name": "Banks of Nicaragua",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_79",
-      "name": "Lists of companies of Nicaragua",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_80",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_81",
-      "name": "Lists of banks in North America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_82",
+      "code": "NI_30",
       "name": "CS1 Spanish-language sources (es)",
       "shortName": "CS1 Spanish-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_83",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_84",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NI_85",
-      "name": "Articles containing Spanish-language text",
-      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

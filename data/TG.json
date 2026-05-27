@@ -26,512 +26,134 @@
     },
     {
       "code": "TG_3",
-      "name": "Orabank Togo, part of Orabank Group",
-      "shortName": "Orabank Togo,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_4",
       "name": "Société Interafricaine de Banque (SIAB)",
       "shortName": "Société Interafricaine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_5",
+      "code": "TG_4",
       "name": "SUNU Bank Togo, part of SUNU Group&#160;&#91;fr&#93;",
       "shortName": "SUNU",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_6",
+      "code": "TG_5",
       "name": "Union Togolaise de Banque (UTB)",
       "shortName": "Union Togolaise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_7",
+      "code": "TG_6",
       "name": "Branch of Banque de Développement du Mali",
       "shortName": "Branch of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_8",
+      "code": "TG_7",
       "name": "Branch of Société Générale Benin (state-owned&#91;2&#93;)",
       "shortName": "Branch of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_9",
+      "code": "TG_8",
       "name": "Economy of Togo",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_10",
+      "code": "TG_9",
       "name": "Website of Central Bank of West African States",
       "shortName": "Website of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_11",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_12",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_13",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_14",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_15",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_16",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_17",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_18",
+      "code": "TG_10",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_19",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_20",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_21",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_22",
+      "code": "TG_11",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_23",
+      "code": "TG_12",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_24",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_25",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_26",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_27",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_28",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_29",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_30",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_31",
+      "code": "TG_13",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_32",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_33",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_34",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_35",
+      "code": "TG_14",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_36",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_37",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_38",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_39",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_40",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_41",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_42",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_43",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_44",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_45",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_46",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_47",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_48",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_49",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_50",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_51",
+      "code": "TG_15",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_52",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_53",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_54",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_55",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_56",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_57",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_58",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_59",
+      "code": "TG_16",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_60",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_61",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_62",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_63",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_64",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_65",
+      "code": "TG_17",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_66",
+      "code": "TG_18",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_67",
+      "code": "TG_19",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_68",
+      "code": "TG_20",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TG_69",
+      "code": "TG_21",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_70",
-      "name": "Banks of Togo",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_71",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_72",
-      "name": "Lists of companies of Togo",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_73",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_74",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TG_75",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

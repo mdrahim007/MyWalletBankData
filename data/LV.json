@@ -19,8 +19,8 @@
     },
     {
       "code": "LV_2",
-      "name": "BluOr Bank AS",
-      "shortName": "BluOr",
+      "name": "Luminor Bank AS",
+      "shortName": "Luminor",
       "type": "bank",
       "aliases": ""
     },
@@ -54,1063 +54,496 @@
     },
     {
       "code": "LV_7",
-      "name": "AS Indexo Banka&#160;&#91;lv&#93;",
-      "shortName": "AS Indexo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_8",
       "name": "AS Magnetiq Bank, subsidiary of Signet Bank",
       "shortName": "AS Magnetiq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_9",
+      "code": "LV_8",
       "name": "Latvian branch of TF Bank&#160;&#91;sv&#93;",
       "shortName": "Latvian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_10",
+      "code": "LV_9",
       "name": "Latvijas Kredītbanka&#160;&#91;lv&#93; (1937-1940)",
       "shortName": "Latvijas Kredītbanka&#160;&#91;lv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_11",
-      "name": "Latvian Land Bank&#160;&#91;lv&#93; (1989-1998)",
-      "shortName": "Latvian Land",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_12",
-      "name": "Trasta Komercbanka&#160;&#91;lv&#93; (1989-2016)",
-      "shortName": "Trasta Komercbanka&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_13",
-      "name": "Latvijas Krājbanka (1991-2011)",
-      "shortName": "Latvijas Krājbanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_14",
-      "name": "Rīgas Komercbanka&#160;&#91;lv&#93; (1991-2018)",
-      "shortName": "Rīgas Komercbanka&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_15",
-      "name": "Sakaru Banka&#160;&#91;lv&#93; (1991-1997)",
-      "shortName": "Sakarua&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_16",
+      "code": "LV_10",
       "name": "Latvian Industrial Bank&#160;&#91;lv&#93; (1991-1999)",
       "shortName": "Latvian Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_17",
+      "code": "LV_11",
+      "name": "Trasta Komercbanka&#160;&#91;lv&#93; (1989-2016)",
+      "shortName": "Trasta Komercbanka&#160;&#91;lv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_12",
+      "name": "Latvijas Krājbanka (1991-2011)",
+      "shortName": "Latvijas Krājbanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_13",
+      "name": "Sakaru Banka&#160;&#91;lv&#93; (1991-1997)",
+      "shortName": "Sakarua&#160;&#91;lv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_14",
       "name": "Riga United Baltic Bank&#160;&#91;lv&#93; (1991-1997)",
       "shortName": "Riga United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_18",
-      "name": "Ako Banka&#160;&#91;lv&#93; (1992-1996)",
-      "shortName": "Akoa&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_19",
+      "code": "LV_15",
       "name": "Dālderis Komercbanka&#160;&#91;lv&#93; (1992-1993)",
       "shortName": "Dālderis Komercbanka&#160;&#91;lv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_20",
+      "code": "LV_16",
       "name": "Hansabank (1992-2008)",
       "shortName": "Hansabank (1992-2008)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_21",
+      "code": "LV_17",
       "name": "Latintrādes Banka&#160;&#91;lv&#93; (1992-1995)",
       "shortName": "Latintrādesa&#160;&#91;lv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_22",
-      "name": "LTN-Skonto Banka&#160;&#91;lv&#93; (1992-1995)",
-      "shortName": "LTN-Skontoa&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_23",
+      "code": "LV_18",
       "name": "Parex Bank (1992-2010)",
       "shortName": "Parex",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_24",
+      "code": "LV_19",
       "name": "PNB Banka (1992-2019)",
       "shortName": "PNBa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_25",
+      "code": "LV_20",
       "name": "PrivatBank (1992-2022)",
       "shortName": "PrivatBank (1992-2022)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_26",
+      "code": "LV_21",
       "name": "Saules Banka&#160;&#91;lv&#93; (1992-2001)",
       "shortName": "Saulesa&#160;&#91;lv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_27",
+      "code": "LV_22",
       "name": "Topbanka&#160;&#91;lv&#93; (1992-1994)",
       "shortName": "Topbanka&#160;&#91;lv&#93; (1992-1994)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_28",
-      "name": "VEF Banka&#160;&#91;lv&#93; (1992-2010)",
-      "shortName": "VEFa&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_29",
+      "code": "LV_23",
       "name": "ABLV Bank (1993-2018)",
       "shortName": "ABLV",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_30",
-      "name": "Alejas Komercbanka&#160;&#91;lv&#93; (1993-1995)",
-      "shortName": "Alejas Komercbanka&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_31",
+      "code": "LV_24",
       "name": "Baltic International Bank&#160;&#91;lv&#93; (1993-2022)",
       "shortName": "Baltic International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_32",
+      "code": "LV_25",
       "name": "Banka Baltija (1993-1995)",
       "shortName": "Banka Baltija",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_33",
+      "code": "LV_26",
       "name": "Banka Sigulda&#160;&#91;lv&#93; (1993-1994)",
       "shortName": "Banka Sigulda&#160;&#91;lv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_34",
-      "name": "Ogres Komercbanka&#160;&#91;lv&#93; (1993-2006)",
-      "shortName": "Ogres Komercbanka&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_35",
-      "name": "Talsu Komercbanka&#160;&#91;lv&#93; (1993-1996)",
-      "shortName": "Talsu Komercbanka&#160;&#91;lv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_36",
+      "code": "LV_27",
       "name": "Ventspils United Baltic Bank&#160;&#91;lv&#93; (1993-2000)",
       "shortName": "Ventspils United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_37",
+      "code": "LV_28",
       "name": "GE Money Bank&#160;&#91;lv&#93; (2008-2013)",
       "shortName": "GE Money",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_38",
+      "code": "LV_29",
       "name": "Reverta (2010-2012)",
       "shortName": "Reverta (2010-2012)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_39",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_40",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_41",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_42",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_43",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_44",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_45",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_46",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_47",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_48",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_49",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_50",
+      "code": "LV_30",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_51",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_52",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_53",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_54",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_55",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_56",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_57",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_58",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_59",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_60",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_61",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_62",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_63",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_64",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_65",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_66",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_67",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_68",
+      "code": "LV_31",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_69",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_70",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_71",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_72",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_73",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_74",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_75",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_76",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_77",
+      "code": "LV_32",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_78",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_79",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_80",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_81",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_82",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_83",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_84",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_85",
+      "code": "LV_33",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_86",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_87",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_88",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_89",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_90",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_91",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_92",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_93",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_94",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_95",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_96",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_97",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_98",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_99",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_100",
-      "name": "Banks of Latvia",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_101",
-      "name": "Lists of companies of Latvia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_102",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_103",
-      "name": "Lists of buildings and structures in Latvia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_104",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_105",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_106",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_107",
-      "name": "Articles containing Latvian-language text",
-      "shortName": "Articles containing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_108",
+      "code": "LV_34",
       "name": "Akciju sabiedrība \"Citadele banka\"",
       "shortName": "Akciju sabiedrība",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_109",
+      "code": "LV_35",
       "name": "Citadele",
       "shortName": "Citadele",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_110",
+      "code": "LV_36",
       "name": "30 June 2010",
       "shortName": "30 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_111",
+      "code": "LV_37",
       "name": "Ripplewood Advisors LLC",
       "shortName": "Ripplewood Advisors",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_112",
+      "code": "LV_38",
       "name": "citadele.lv",
       "shortName": "citadele.lv",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_113",
+      "code": "LV_39",
       "name": "Magnetiq Bank",
       "shortName": "Magnetiq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_114",
+      "code": "LV_40",
       "name": "5 September 2008",
       "shortName": "5 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_115",
-      "name": "Signet Bank",
-      "shortName": "Signet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_116",
+      "code": "LV_41",
       "name": "Akciju sabiedrība \"Reģionālā investīciju banka\"",
       "shortName": "Akciju sabiedrība",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_117",
+      "code": "LV_42",
       "name": "RIB",
       "shortName": "RIB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_118",
+      "code": "LV_43",
       "name": "14 September 2001",
       "shortName": "14 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_119",
+      "code": "LV_44",
       "name": "SKY Investment Holding",
       "shortName": "SKY Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_120",
+      "code": "LV_45",
       "name": "ribbank.com",
       "shortName": "ribbank.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_121",
+      "code": "LV_46",
       "name": "Akciju sabiedrība \"Rietumu Banka\"",
       "shortName": "Akciju sabiedrība",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_122",
+      "code": "LV_47",
       "name": "Rietumu",
       "shortName": "Rietumu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_123",
+      "code": "LV_48",
       "name": "Esterkin Family Investments",
       "shortName": "Esterkin Family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_124",
+      "code": "LV_49",
       "name": "rietumu.com",
       "shortName": "rietumu.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_125",
+      "code": "LV_50",
       "name": "12 June 2001",
       "shortName": "12 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_126",
+      "code": "LV_51",
       "name": "BBG AS",
       "shortName": "BBG AS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_127",
+      "code": "LV_52",
       "name": "AS \"Industra Bank\"",
       "shortName": "AS \"Industra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_128",
+      "code": "LV_53",
       "name": "Industra",
       "shortName": "Industra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_129",
-      "name": "6 May 1994",
-      "shortName": "6 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_130",
-      "name": "J.A. Investment Holding",
-      "shortName": "J.A. Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_131",
-      "name": "industra.finance",
-      "shortName": "industra.finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_132",
-      "name": "AS \"SEB banka\"",
-      "shortName": "AS \"SEB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_133",
-      "name": "SEB",
-      "shortName": "SEB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_134",
-      "name": "29 September 1993",
-      "shortName": "29 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_135",
-      "name": "SEB AB",
-      "shortName": "SEB AB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_136",
-      "name": "seb.lv",
-      "shortName": "seb.lv",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_137",
-      "name": "Baltic International Bank SE",
-      "shortName": "Baltic International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_138",
-      "name": "BIB",
-      "shortName": "BIB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_139",
-      "name": "3 May 1993",
-      "shortName": "3 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_140",
-      "name": "Belokon family",
-      "shortName": "Belokon family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_141",
-      "name": "bib.eu",
-      "shortName": "bib.eu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_142",
-      "name": "Luminor Bank AS",
-      "shortName": "Luminor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_143",
-      "name": "Luminor",
-      "shortName": "Luminor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_144",
-      "name": "2 January 2019",
-      "shortName": "2 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_145",
-      "name": "Luminor Bank",
-      "shortName": "Luminor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_146",
-      "name": "luminor.lv",
-      "shortName": "luminor.lv",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_147",
+      "code": "LV_54",
       "name": "26 May 1992",
       "shortName": "26 May",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_148",
+      "code": "LV_55",
+      "name": "J.A. Investment Holding",
+      "shortName": "J.A. Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_56",
+      "name": "industra.finance",
+      "shortName": "industra.finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_57",
+      "name": "AS \"SEB banka\"",
+      "shortName": "AS \"SEB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_58",
+      "name": "SEB",
+      "shortName": "SEB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_59",
+      "name": "29 September 1993",
+      "shortName": "29 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_60",
+      "name": "SEB AB",
+      "shortName": "SEB AB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_61",
+      "name": "seb.lv",
+      "shortName": "seb.lv",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_62",
+      "name": "Baltic International Bank SE",
+      "shortName": "Baltic International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_63",
+      "name": "BIB",
+      "shortName": "BIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_64",
+      "name": "3 May 1993",
+      "shortName": "3 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_65",
+      "name": "Belokon family",
+      "shortName": "Belokon family",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_66",
+      "name": "bib.eu",
+      "shortName": "bib.eu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_67",
+      "name": "Luminor",
+      "shortName": "Luminor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_68",
+      "name": "2 January 2019",
+      "shortName": "2 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_69",
+      "name": "luminor.lv",
+      "shortName": "luminor.lv",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LV_70",
       "name": "Signet Acquisition III LLC",
       "shortName": "Signet Acquisition",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_149",
+      "code": "LV_71",
       "name": "signetbank.com",
       "shortName": "signetbank.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_150",
-      "name": "AS \"INDEXO Banka\"",
-      "shortName": "AS \"INDEXO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_151",
-      "name": "INDEXO",
-      "shortName": "INDEXO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_152",
+      "code": "LV_72",
       "name": "2023&#91;9&#93;",
       "shortName": "2023&#91;9&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_153",
-      "name": "indexo.lv",
-      "shortName": "indexo.lv",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LV_154",
+      "code": "LV_73",
       "name": "\"Swedbank\" AS",
       "shortName": "\"Swedbank\" AS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_155",
+      "code": "LV_74",
       "name": "Swedbank",
       "shortName": "Swedbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_156",
+      "code": "LV_75",
       "name": "7 September 1998",
       "shortName": "7 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_157",
+      "code": "LV_76",
       "name": "Swedbank AB",
       "shortName": "Swedbank AB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LV_158",
+      "code": "LV_77",
       "name": "swedbank.lv",
       "shortName": "swedbank.lv",
       "type": "bank",

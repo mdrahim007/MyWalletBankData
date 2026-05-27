@@ -4,35 +4,35 @@
   "country": "GF",
   "institutions": [
     {
-      "code": "CENBGF",
+      "code": "GF_0",
       "name": "Central Bank of GF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGF",
+      "code": "GF_1",
       "name": "National Bank of GF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGF",
+      "code": "GF_2",
       "name": "State Bank of GF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGF",
+      "code": "GF_3",
       "name": "Commercial Bank of GF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGF",
+      "code": "GF_4",
       "name": "First GF Bank",
       "shortName": "First Bank",
       "type": "bank",

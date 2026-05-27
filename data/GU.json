@@ -4,35 +4,35 @@
   "country": "GU",
   "institutions": [
     {
-      "code": "CENBGU",
+      "code": "GU_0",
       "name": "Central Bank of GU",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGU",
+      "code": "GU_1",
       "name": "National Bank of GU",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGU",
+      "code": "GU_2",
       "name": "State Bank of GU",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGU",
+      "code": "GU_3",
       "name": "Commercial Bank of GU",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGU",
+      "code": "GU_4",
       "name": "First GU Bank",
       "shortName": "First Bank",
       "type": "bank",

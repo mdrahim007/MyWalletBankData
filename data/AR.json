@@ -355,225 +355,85 @@
     },
     {
       "code": "AR_50",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_51",
       "name": "Argentine peso",
       "shortName": "Argentine peso",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_52",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_53",
+      "code": "AR_51",
       "name": "Infrastructure",
       "shortName": "Infrastructure",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_54",
+      "code": "AR_52",
       "name": "Ministry of Economy",
       "shortName": "Ministry of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_55",
+      "code": "AR_53",
       "name": "Provincial economies",
       "shortName": "Provincial economies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_56",
+      "code": "AR_54",
       "name": "Provinces by HDI",
       "shortName": "Provinces by",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_57",
+      "code": "AR_55",
       "name": "Stock exchange",
       "shortName": "Stock exchange",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_58",
-      "name": "Taxation",
-      "shortName": "Taxation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_59",
+      "code": "AR_56",
       "name": "Trade unions",
       "shortName": "Trade unions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_60",
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_61",
+      "code": "AR_57",
       "name": "Bolivia",
       "shortName": "Bolivia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_62",
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_63",
-      "name": "Chile",
-      "shortName": "Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_64",
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_65",
-      "name": "Ecuador",
-      "shortName": "Ecuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_66",
-      "name": "Guyana",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_67",
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_68",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_69",
-      "name": "Suriname",
-      "shortName": "Suriname",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_70",
-      "name": "Uruguay",
-      "shortName": "Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_71",
+      "code": "AR_58",
       "name": "Venezuela",
       "shortName": "Venezuela",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_72",
+      "code": "AR_59",
       "name": "Falkland Islands",
       "shortName": "Falkland Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_73",
-      "name": "French Guiana",
-      "shortName": "French Guiana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_74",
-      "name": "South Georgia and the South Sandwich Islands",
-      "shortName": "South Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_75",
+      "code": "AR_60",
       "name": "Banking in Argentina",
       "shortName": "Banking in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AR_76",
+      "code": "AR_61",
       "name": "Finance in Argentina",
       "shortName": "Finance in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_77",
-      "name": "Articles to be expanded from January 2024",
-      "shortName": "Articles to",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_78",
-      "name": "Articles lacking in-text citations from July 2025",
-      "shortName": "Articles lacking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_79",
-      "name": "All articles lacking in-text citations",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_80",
-      "name": "Articles with multiple maintenance issues",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AR_81",
-      "name": "Articles with Spanish-language sources (es)",
-      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

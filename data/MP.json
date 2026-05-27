@@ -4,35 +4,35 @@
   "country": "MP",
   "institutions": [
     {
-      "code": "CENBMP",
+      "code": "MP_0",
       "name": "Central Bank of MP",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMP",
+      "code": "MP_1",
       "name": "National Bank of MP",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMP",
+      "code": "MP_2",
       "name": "State Bank of MP",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMP",
+      "code": "MP_3",
       "name": "Commercial Bank of MP",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMP",
+      "code": "MP_4",
       "name": "First MP Bank",
       "shortName": "First Bank",
       "type": "bank",

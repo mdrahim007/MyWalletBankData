@@ -4,35 +4,35 @@
   "country": "CC",
   "institutions": [
     {
-      "code": "CENBCC",
+      "code": "CC_0",
       "name": "Central Bank of CC",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCC",
+      "code": "CC_1",
       "name": "National Bank of CC",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCC",
+      "code": "CC_2",
       "name": "State Bank of CC",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCC",
+      "code": "CC_3",
       "name": "Commercial Bank of CC",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCC",
+      "code": "CC_4",
       "name": "First CC Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "CK",
   "institutions": [
     {
-      "code": "CENBCK",
+      "code": "CK_0",
       "name": "Central Bank of CK",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCK",
+      "code": "CK_1",
       "name": "National Bank of CK",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCK",
+      "code": "CK_2",
       "name": "State Bank of CK",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCK",
+      "code": "CK_3",
       "name": "Commercial Bank of CK",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCK",
+      "code": "CK_4",
       "name": "First CK Bank",
       "shortName": "First Bank",
       "type": "bank",

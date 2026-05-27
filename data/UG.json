@@ -26,722 +26,302 @@
     },
     {
       "code": "UG_3",
-      "name": "Bank of India (Uganda) Limited, part of Bank of India Group",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_4",
       "name": "Cairo Bank Uganda Limited, part of Banque du Caire Group",
       "shortName": "Cairo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_5",
+      "code": "UG_4",
       "name": "Citibank Uganda Limited, part of Citigroup",
       "shortName": "Citibank Uganda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_6",
+      "code": "UG_5",
       "name": "DFCU Bank Limited",
       "shortName": "DFCU",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_7",
+      "code": "UG_6",
       "name": "Ecobank Uganda Limited, part of Ecobank Group",
       "shortName": "Ecobank Uganda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_8",
+      "code": "UG_7",
       "name": "Equity Bank Uganda Limited, part of Equity Group",
       "shortName": "Equity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_9",
+      "code": "UG_8",
       "name": "Housing Finance Bank Uganda Limited, 50 percent state-owned",
       "shortName": "Housing Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_10",
-      "name": "KCB Bank Uganda Limited, part of KCB Group",
-      "shortName": "KCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_11",
-      "name": "NCBA Bank Uganda Limited, part of NCBA Group",
-      "shortName": "NCBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_12",
+      "code": "UG_9",
       "name": "I&amp;M Bank (Uganda) Limited, part of I&amp;M Bank Group",
       "shortName": "I&amp;M",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_13",
+      "code": "UG_10",
       "name": "Salaam Bank Uganda, part of Salaam African Bank in Djibouti",
       "shortName": "Salaam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_14",
+      "code": "UG_11",
       "name": "Stanbic Bank Uganda Limited, part of Standard Bank Group",
       "shortName": "Stanbic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_15",
+      "code": "UG_12",
       "name": "Tropical Bank Limited, part of Libyan Foreign Bank Group",
       "shortName": "Tropical",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_16",
+      "code": "UG_13",
       "name": "United Bank for Africa Uganda Limited, part of UBA Group",
       "shortName": "United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_17",
+      "code": "UG_14",
       "name": "Pearl Bank Uganda Limited, state-owned",
       "shortName": "Pearl",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_18",
+      "code": "UG_15",
       "name": "African Alliance Uganda Limited&#91;4&#93;",
       "shortName": "African Alliance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_19",
-      "name": "Baroda Capital Uganda Limited&#91;4&#93;",
-      "shortName": "Baroda Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_20",
+      "code": "UG_16",
       "name": "Crested Capital Uganda Limited&#91;4&#93;",
       "shortName": "Crested Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_21",
+      "code": "UG_17",
       "name": "Dyer &amp; Blair Uganda Limited&#91;4&#93;",
       "shortName": "Dyer &amp;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_22",
+      "code": "UG_18",
       "name": "Old Mutual Uganda Limited&#91;4&#93;&#91;5&#93;",
       "shortName": "Old Mutual",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_23",
+      "code": "UG_19",
       "name": "ABC Capital Bank Uganda Limited, part of ABC Bank Group",
       "shortName": "ABC Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_24",
+      "code": "UG_20",
       "name": "BRAC Uganda Bank Limited",
       "shortName": "BRAC Uganda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_25",
+      "code": "UG_21",
       "name": "Finance Trust Bank (Effective 1 April 2026)&#91;6&#93;",
       "shortName": "Finance Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_26",
+      "code": "UG_22",
       "name": "Guaranty Trust Bank (Uganda) Limited, part of GTCO Group",
       "shortName": "Guaranty Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_27",
+      "code": "UG_23",
       "name": "Opportunity Bank Uganda Limited",
       "shortName": "Opportunity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_28",
+      "code": "UG_24",
       "name": "Yako Bank Uganda Limited",
       "shortName": "Yako",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_29",
+      "code": "UG_25",
       "name": "Pride Bank Limited, state-owned",
       "shortName": "Pride",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_30",
+      "code": "UG_26",
       "name": "Uganda Development Bank",
       "shortName": "Uganda Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_31",
+      "code": "UG_27",
       "name": "Banking in Uganda",
       "shortName": "Banking in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_32",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_33",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_34",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_35",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_36",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_37",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_38",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_39",
+      "code": "UG_28",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_40",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_41",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_42",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_43",
+      "code": "UG_29",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_44",
+      "code": "UG_30",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_45",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_46",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_47",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_48",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_49",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_50",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_51",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_52",
+      "code": "UG_31",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_53",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_54",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_55",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_56",
+      "code": "UG_32",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_57",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_58",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_59",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_60",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_61",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_62",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_63",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_64",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_65",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_66",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_67",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_68",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_69",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_70",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_71",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_72",
+      "code": "UG_33",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_73",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_74",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_75",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_76",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_77",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_78",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_79",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_80",
+      "code": "UG_34",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_81",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_82",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_83",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_84",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_85",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_86",
+      "code": "UG_35",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_87",
+      "code": "UG_36",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_88",
+      "code": "UG_37",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_89",
+      "code": "UG_38",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_90",
+      "code": "UG_39",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_91",
+      "code": "UG_40",
       "name": "Banking",
       "shortName": "Banking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_92",
+      "code": "UG_41",
       "name": "Bank of Uganda",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_93",
+      "code": "UG_42",
       "name": "Communications",
       "shortName": "Communications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_94",
-      "name": "History of Trade",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_95",
-      "name": "Transportation",
-      "shortName": "Transportation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_96",
+      "code": "UG_43",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_97",
+      "code": "UG_44",
       "name": "Mining",
       "shortName": "Mining",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UG_98",
+      "code": "UG_45",
       "name": "Steel manufacturing",
       "shortName": "Steel manufacturing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_99",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_100",
-      "name": "Banks of Uganda",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_101",
-      "name": "Lists of companies of Uganda",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_102",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_103",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_104",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UG_105",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

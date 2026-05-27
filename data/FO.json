@@ -4,35 +4,35 @@
   "country": "FO",
   "institutions": [
     {
-      "code": "CENBFO",
+      "code": "FO_0",
       "name": "Central Bank of FO",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBFO",
+      "code": "FO_1",
       "name": "National Bank of FO",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABFO",
+      "code": "FO_2",
       "name": "State Bank of FO",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBFO",
+      "code": "FO_3",
       "name": "Commercial Bank of FO",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBFO",
+      "code": "FO_4",
       "name": "First FO Bank",
       "shortName": "First Bank",
       "type": "bank",

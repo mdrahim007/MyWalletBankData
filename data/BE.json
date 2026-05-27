@@ -89,839 +89,377 @@
     },
     {
       "code": "BE_12",
-      "name": "Byblos Bank Europe, subsidiary of Byblos Bank",
-      "shortName": "Byblos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_13",
       "name": "Belgian branch of Hoist Finance AB",
       "shortName": "Belgian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_14",
+      "code": "BE_13",
       "name": "Belgian branch of Saxo Bank A/S",
       "shortName": "Belgian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_15",
+      "code": "BE_14",
       "name": "Bank of India",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_16",
+      "code": "BE_15",
       "name": "State Bank of India",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_17",
+      "code": "BE_16",
       "name": "Sumitomo Mitsui Financial Group",
       "shortName": "Sumitomo Mitsui",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_18",
+      "code": "BE_17",
       "name": "Banque de Commerce (1780-1989)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_19",
+      "code": "BE_18",
       "name": "Bank Du Jardin&#160;&#91;nl&#93; (1801-1874)",
       "shortName": "Bank Du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_20",
+      "code": "BE_19",
       "name": "Société Générale de Belgique (1822-1934)",
       "shortName": "Société Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_21",
+      "code": "BE_20",
       "name": "Banque d'Anvers (1823-1965)",
       "shortName": "Banque d'Anvers",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_22",
+      "code": "BE_21",
       "name": "Banque de Belgique (1835-1885)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_23",
+      "code": "BE_22",
       "name": "Banque Lambert (1835-1975)",
       "shortName": "Banque Lambert",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_24",
+      "code": "BE_23",
       "name": "Banque Liégeoise (1835-c. 1940)",
       "shortName": "Banque Liégeoise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_25",
+      "code": "BE_24",
       "name": "Caisse Générale d'Épargne et de Retraite (1850-1999)",
       "shortName": "Caisse Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_26",
+      "code": "BE_25",
       "name": "Crédit Communal de Belgique (1860-1996)",
       "shortName": "Crédit Communal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_27",
+      "code": "BE_26",
       "name": "Gentsche Volksbank&#160;&#91;nl&#93; (1866-1905)",
       "shortName": "Gentsche Volksbank&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_28",
+      "code": "BE_27",
       "name": "Bank of Brussels (1871-1975)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_29",
+      "code": "BE_28",
       "name": "Banque Philippson (1871-2024)",
       "shortName": "Banque Philippson",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_30",
+      "code": "BE_29",
       "name": "Caisse Générale de Reports et de Dépôts (1874-1953)",
       "shortName": "Caisse Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_31",
+      "code": "BE_30",
       "name": "Antwerpse Hypotheekkas&#160;&#91;nl&#93; (1881-1999)",
       "shortName": "Antwerpse Hypotheekkas&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_32",
+      "code": "BE_31",
       "name": "CERA Bank&#160;&#91;nl&#93; (1892-1998)",
       "shortName": "CERA&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_33",
+      "code": "BE_32",
       "name": "Crédit Anversois (1898-1941)",
       "shortName": "Crédit Anversois",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_34",
+      "code": "BE_33",
       "name": "Société Belge de Banque (1901-1965)",
       "shortName": "Société Belge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_35",
+      "code": "BE_34",
       "name": "Banque Belge pour l'Étranger (1902-2005)",
       "shortName": "Banque Belge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_36",
+      "code": "BE_35",
       "name": "Bank van Roeselare-Tielt&#160;&#91;nl&#93; (1906-1919)",
       "shortName": "Bank van",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_37",
+      "code": "BE_36",
       "name": "Brugse Bank&#160;&#91;nl&#93; (1906-1919)",
       "shortName": "Brugse&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_38",
+      "code": "BE_37",
       "name": "Crédit Foncier d'Extrême-Orient (1907-1959)",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_39",
+      "code": "BE_38",
       "name": "Banque du Congo Belge (1909-1960)",
       "shortName": "Banque du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_40",
+      "code": "BE_39",
       "name": "Banque Italo-Belge (1911-c. 2000)",
       "shortName": "Banque Italo-Belge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_41",
+      "code": "BE_40",
       "name": "Bank van de Arbeid&#160;&#91;nl&#93; (1913-1934)",
       "shortName": "Bank van",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_42",
+      "code": "BE_41",
       "name": "Société Nationale de Crédit à l'Industrie (1919-1997)",
       "shortName": "Société Nationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_43",
+      "code": "BE_42",
       "name": "Belgische Arbeiderscoöperatie&#160;&#91;nl&#93; (1924-2001)",
       "shortName": "Belgische Arbeiderscoöperatie&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_44",
-      "name": "Bank van Roeselare&#160;&#91;nl&#93; (1925-1998)",
-      "shortName": "Bank van",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_45",
+      "code": "BE_43",
       "name": "Banque Belge d'Afrique (1929-1971)",
       "shortName": "Banque Belge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_46",
+      "code": "BE_44",
       "name": "BKCP Bank&#160;&#91;nl&#93; (1929-2001)",
       "shortName": "BKCP&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_47",
+      "code": "BE_45",
       "name": "West-Vlaams Beroepskrediet&#160;&#91;nl&#93; (1930-2009)",
       "shortName": "West-Vlaams Beroepskrediet&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_48",
+      "code": "BE_46",
       "name": "Antwerp Diamond Bank (1934-2014)",
       "shortName": "Antwerp Diamond",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_49",
+      "code": "BE_47",
       "name": "Générale de Banque (1934-1999)",
       "shortName": "Générale de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_50",
+      "code": "BE_48",
       "name": "Office Central de Crédit Hypothécaire (1936-2001)",
       "shortName": "Office Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_51",
+      "code": "BE_49",
       "name": "Landbouwkrediet&#160;&#91;nl&#93; (1937-2013)",
       "shortName": "Landbouwkrediet&#160;&#91;nl&#93; (1937-2013)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_52",
+      "code": "BE_50",
       "name": "Bank of Issue in Belgium&#160;&#91;nl&#93; (1940-1945)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_53",
+      "code": "BE_51",
       "name": "Société Congolaise de Banque (1945-1970)",
       "shortName": "Société Congolaise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_54",
-      "name": "OBK-Bank&#160;&#91;nl&#93; (1956-2013)",
-      "shortName": "OBK-Bank&#160;&#91;nl&#93; (1956-2013)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_55",
+      "code": "BE_52",
       "name": "Banque Belgolaise (1960-2018)",
       "shortName": "Banque Belgolaise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_56",
+      "code": "BE_53",
       "name": "Bank Brussels Lambert (1975-2003)",
       "shortName": "Bank Brussels",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_57",
+      "code": "BE_54",
       "name": "Royale Belge (1986-1999)",
       "shortName": "Royale Belge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_58",
+      "code": "BE_55",
       "name": "Fortis Group (1990-2009)",
       "shortName": "Fortis Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_59",
+      "code": "BE_56",
       "name": "Optima Bank&#160;&#91;nl&#93; (1991-2016)",
       "shortName": "Optima&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_60",
+      "code": "BE_57",
       "name": "bpost banque&#160;&#91;fr&#93; (1995-2024)",
       "shortName": "bpost banque&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_61",
+      "code": "BE_58",
       "name": "Centea&#160;&#91;nl&#93; (1997-2013)",
       "shortName": "Centea&#160;&#91;nl&#93; (1997-2013)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_62",
+      "code": "BE_59",
       "name": "Record Bank&#160;&#91;nl&#93; (2001-2016)",
       "shortName": "Record&#160;&#91;nl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_63",
+      "code": "BE_60",
       "name": "Aion Bank&#160;&#91;pl&#93; (2019-2025)",
       "shortName": "Aion&#160;&#91;pl&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_64",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_65",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_66",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_67",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_68",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_69",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_70",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_71",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_72",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_73",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_74",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_75",
+      "code": "BE_61",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_76",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_77",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_78",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_79",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_80",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_81",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_82",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_83",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_84",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_85",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_86",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_87",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_88",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_89",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_90",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_91",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_92",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_93",
+      "code": "BE_62",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_94",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_95",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_96",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_97",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_98",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_99",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_100",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_101",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_102",
+      "code": "BE_63",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_103",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_104",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_105",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_106",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_107",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_108",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_109",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_110",
+      "code": "BE_64",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BE_111",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_112",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_113",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_114",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_115",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_116",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_117",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_118",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_119",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_120",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_121",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_122",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_123",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_124",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_125",
-      "name": "Lists of companies of Belgium",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_126",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_127",
-      "name": "Banks of Belgium",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_128",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_129",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_130",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_131",
+      "code": "BE_65",
       "name": "Interlanguage link template existing link",
       "shortName": "Interlanguage link",
       "type": "bank",

@@ -54,8 +54,8 @@
     },
     {
       "code": "MM_7",
-      "name": "Naypyitaw Development Bank Limited",
-      "shortName": "Naypyitaw Development",
+      "name": "Nay Pyi Taw Development Bank Limited***",
+      "shortName": "Nay Pyi",
       "type": "bank",
       "aliases": ""
     },
@@ -82,1336 +82,881 @@
     },
     {
       "code": "MM_11",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_12",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_13",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_14",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_15",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_16",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_17",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_18",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_19",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_20",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_21",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_22",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_23",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_24",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_25",
+      "code": "MM_12",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_26",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_27",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_28",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_29",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_30",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_31",
+      "code": "MM_13",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_32",
+      "code": "MM_14",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_33",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_34",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_35",
+      "code": "MM_15",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_36",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_37",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_38",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_39",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_40",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_41",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_42",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_43",
+      "code": "MM_16",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_44",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_45",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_46",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_47",
+      "code": "MM_17",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_48",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_49",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_50",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_51",
+      "code": "MM_18",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_52",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_53",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_54",
+      "code": "MM_19",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_55",
+      "code": "MM_20",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_56",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_57",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_58",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_59",
+      "code": "MM_21",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_60",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_61",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_62",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_63",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_64",
+      "code": "MM_22",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_65",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_66",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_67",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_68",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_69",
+      "code": "MM_23",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_70",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_71",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_72",
-      "name": "Banks of Myanmar",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_73",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_74",
-      "name": "Lists of companies of Myanmar",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_75",
-      "name": "Lists of banks in Southeast Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_76",
+      "code": "MM_24",
       "name": "CS1: long volume value",
       "shortName": "CS1: long",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_77",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_78",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_79",
+      "code": "MM_25",
       "name": "1.",
       "shortName": "1.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_80",
+      "code": "MM_26",
       "name": "Myanmar Credit Bureau Limited",
       "shortName": "Myanmar Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_81",
+      "code": "MM_27",
       "name": "17.5.2018",
       "shortName": "17.5.2018",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_82",
+      "code": "MM_28",
       "name": "1",
       "shortName": "1",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_83",
+      "code": "MM_29",
       "name": "Myanmar Citizens Bank Ltd**",
       "shortName": "Myanmar Citizens",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_84",
+      "code": "MM_30",
       "name": "25.5.1992",
       "shortName": "25.5.1992",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_85",
+      "code": "MM_31",
       "name": "No.383/Mahabandoola Road, Kyuktada Township, Yangon",
       "shortName": "No.383/Mahabandoola Road,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_86",
+      "code": "MM_32",
       "name": "2",
       "shortName": "2",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_87",
+      "code": "MM_33",
       "name": "First Private Bank Ltd***",
       "shortName": "First Private",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_88",
+      "code": "MM_34",
       "name": "3",
       "shortName": "3",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_89",
+      "code": "MM_35",
       "name": "CB Bank PCL*",
       "shortName": "CB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_90",
+      "code": "MM_36",
       "name": "3.8.1992",
       "shortName": "3.8.1992",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_91",
+      "code": "MM_37",
       "name": "4",
       "shortName": "4",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_92",
+      "code": "MM_38",
       "name": "Yadanabon Bank Ltd***",
       "shortName": "Yadanabon",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_93",
+      "code": "MM_39",
       "name": "27.8.1992",
       "shortName": "27.8.1992",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_94",
+      "code": "MM_40",
       "name": "5",
       "shortName": "5",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_95",
+      "code": "MM_41",
       "name": "Myawaddy Bank Ltd**",
       "shortName": "Myawaddy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_96",
+      "code": "MM_42",
       "name": "1.1.1993",
       "shortName": "1.1.1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_97",
+      "code": "MM_43",
       "name": "6",
       "shortName": "6",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_98",
+      "code": "MM_44",
       "name": "Yangon City Bank Ltd**",
       "shortName": "Yangon City",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_99",
+      "code": "MM_45",
       "name": "19.3.1993",
       "shortName": "19.3.1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_100",
+      "code": "MM_46",
       "name": "No.12/18, Sibin Road, Kyauktada Township, Yangon",
       "shortName": "No.12/18, Sibin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_101",
+      "code": "MM_47",
       "name": "7",
       "shortName": "7",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_102",
+      "code": "MM_48",
       "name": "Yoma Bank Ltd*",
       "shortName": "Yoma",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_103",
+      "code": "MM_49",
       "name": "26.7.1993",
       "shortName": "26.7.1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_104",
+      "code": "MM_50",
       "name": "8",
       "shortName": "8",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_105",
+      "code": "MM_51",
       "name": "Myanmar Oriental Bank Ltd***",
       "shortName": "Myanmar Oriental",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_106",
+      "code": "MM_52",
       "name": "No.166/168 Pansodan Street, Kyauktada Township, Yangon",
       "shortName": "No.166/168 Pansodan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_107",
+      "code": "MM_53",
       "name": "9",
       "shortName": "9",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_108",
+      "code": "MM_54",
       "name": "Tun Commercial Bank Ltd***",
       "shortName": "Tun Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_109",
+      "code": "MM_55",
       "name": "8.6.1994",
       "shortName": "8.6.1994",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_110",
+      "code": "MM_56",
       "name": "10",
       "shortName": "10",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_111",
+      "code": "MM_57",
       "name": "Kanbawza Bank Ltd*",
       "shortName": "Kanbawza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_112",
+      "code": "MM_58",
       "name": "615/1, Pyay Road, Kamayut Township, Yangon",
       "shortName": "615/1, Pyay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_113",
+      "code": "MM_59",
       "name": "11",
       "shortName": "11",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_114",
+      "code": "MM_60",
       "name": "Small &amp; Medium Enterprises Development Bank Ltd***",
       "shortName": "Small &amp;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_115",
+      "code": "MM_61",
       "name": "12.1.1996",
       "shortName": "12.1.1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_116",
+      "code": "MM_62",
       "name": "12",
       "shortName": "12",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_117",
+      "code": "MM_63",
       "name": "Global Treasure Bank Ltd**",
       "shortName": "Global Treasure",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_118",
+      "code": "MM_64",
       "name": "9.2.1996",
       "shortName": "9.2.1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_119",
+      "code": "MM_65",
       "name": "No.654/666 Merchant Road Pabedan Township, Yangon",
       "shortName": "No.654/666 Merchant",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_120",
+      "code": "MM_66",
       "name": "13",
       "shortName": "13",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_121",
+      "code": "MM_67",
       "name": "Rural Development Bank Ltd.***",
       "shortName": "Rural Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_122",
+      "code": "MM_68",
       "name": "26.6.1996",
       "shortName": "26.6.1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_123",
+      "code": "MM_69",
       "name": "Plot-2, Compound of Thiriyadanar Super Market, Naypyitaw",
       "shortName": "Plot-2, Compound",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_124",
+      "code": "MM_70",
       "name": "14",
       "shortName": "14",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_125",
+      "code": "MM_71",
       "name": "Innwa Bank Ltd**",
       "shortName": "Innwa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_126",
+      "code": "MM_72",
       "name": "15.5.1997",
       "shortName": "15.5.1997",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_127",
+      "code": "MM_73",
       "name": "15",
       "shortName": "15",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_128",
+      "code": "MM_74",
       "name": "Asia Green Development Bank Ltd**",
       "shortName": "Asia Green",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_129",
+      "code": "MM_75",
       "name": "2.7.2010",
       "shortName": "2.7.2010",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_130",
+      "code": "MM_76",
       "name": "16",
       "shortName": "16",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_131",
+      "code": "MM_77",
       "name": "Ayeyarwady Bank Public Company Limited- AYA Bank PCL*",
       "shortName": "Ayeyarwady",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_132",
+      "code": "MM_78",
       "name": "No.416, Mahabandoola Street, Kyauktada Township, Yangon",
       "shortName": "No.416, Mahabandoola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_133",
+      "code": "MM_79",
       "name": "17",
       "shortName": "17",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_134",
+      "code": "MM_80",
       "name": "uab Bank Limited*",
       "shortName": "uab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_135",
+      "code": "MM_81",
       "name": "18",
       "shortName": "18",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_136",
+      "code": "MM_82",
       "name": "Myanma Apex Bank Ltd*",
       "shortName": "Myanma Apex",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_137",
+      "code": "MM_83",
       "name": "19",
       "shortName": "19",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_138",
-      "name": "Nay Pyi Taw Development Bank Limited***",
-      "shortName": "Nay Pyi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_139",
+      "code": "MM_84",
       "name": "28.2.2013",
       "shortName": "28.2.2013",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_140",
+      "code": "MM_85",
       "name": "20",
       "shortName": "20",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_141",
+      "code": "MM_86",
       "name": "Myanmar Metro Bank Limited***",
       "shortName": "Myanmar Metro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_142",
-      "name": "2.7.2013",
-      "shortName": "2.7.2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_143",
+      "code": "MM_87",
       "name": "21",
       "shortName": "21",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_144",
+      "code": "MM_88",
       "name": "12.7.2013",
       "shortName": "12.7.2013",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_145",
+      "code": "MM_89",
       "name": "No.60, Shwedagon Pagoda Road, Dagon Township, Yangon",
       "shortName": "No.60, Shwedagon",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_146",
+      "code": "MM_90",
       "name": "22",
       "shortName": "22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_147",
+      "code": "MM_91",
       "name": "Shwe (Rural and Urban) Development Bank Limited***",
       "shortName": "Shwe (Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_148",
+      "code": "MM_92",
       "name": "28-7-2014",
       "shortName": "28-7-2014",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_149",
+      "code": "MM_93",
       "name": "23",
       "shortName": "23",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_150",
+      "code": "MM_94",
       "name": "Ayeyarwaddy Farmers Development Bank Limited(A Bank)*",
       "shortName": "Ayeyarwaddy Farmers",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_151",
+      "code": "MM_95",
       "name": "17-11-2015",
       "shortName": "17-11-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_152",
+      "code": "MM_96",
       "name": "24",
       "shortName": "24",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_153",
+      "code": "MM_97",
       "name": "Glory Farmer Development Bank Limited (G Bank)***",
       "shortName": "Glory Farmer",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_154",
+      "code": "MM_98",
       "name": "8.6.2018",
       "shortName": "8.6.2018",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_155",
+      "code": "MM_99",
       "name": "25",
       "shortName": "25",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_156",
+      "code": "MM_100",
       "name": "Mineral Development Bank(Public Company Limited)***",
       "shortName": "Mineral Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_157",
+      "code": "MM_101",
       "name": "6.7.2018",
       "shortName": "6.7.2018",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_158",
+      "code": "MM_102",
       "name": "No.1/66, Kabar Aye Pagoda Road, Mayangone Township, Yangon",
       "shortName": "No.1/66, Kabar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_159",
+      "code": "MM_103",
       "name": "26",
       "shortName": "26",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_160",
-      "name": "Myanma Tourism Bank Limited***",
-      "shortName": "Myanma Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_161",
-      "name": "9.7.2018",
-      "shortName": "9.7.2018",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_162",
+      "code": "MM_104",
       "name": "No.143/149, Sule Pagoda Road, Kyauktada Township, Yangon",
       "shortName": "No.143/149, Sule",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_163",
+      "code": "MM_105",
       "name": "27",
       "shortName": "27",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_164",
+      "code": "MM_106",
       "name": "Farmers Development Bank Limited-Mandalay(FDB)***",
       "shortName": "Farmers Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_165",
+      "code": "MM_107",
       "name": "19.2.2020",
       "shortName": "19.2.2020",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_166",
+      "code": "MM_108",
       "name": "MUFG Bank, Ltd.",
       "shortName": "MUFG,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_167",
-      "name": "2-4-2015",
-      "shortName": "2-4-2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_168",
+      "code": "MM_109",
       "name": "22-4-2015",
       "shortName": "22-4-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_169",
+      "code": "MM_110",
       "name": "Oversea-Chinese Banking Corporation Ltd",
       "shortName": "Oversea-Chineseing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_170",
-      "name": "23-4-2015",
-      "shortName": "23-4-2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_171",
+      "code": "MM_111",
       "name": "Sumitomo Mitsui Banking Corporation",
       "shortName": "Sumitomo Mitsui",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_172",
+      "code": "MM_112",
       "name": "United Overseas Bank Limited",
       "shortName": "United Overseas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_173",
+      "code": "MM_113",
       "name": "30-4-2015",
       "shortName": "30-4-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_174",
+      "code": "MM_114",
       "name": "4-5-2015",
       "shortName": "4-5-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_175",
+      "code": "MM_115",
       "name": "Bangkok Bank Public Company Limited",
       "shortName": "Bangkok",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_176",
+      "code": "MM_116",
       "name": "26-5-2015",
       "shortName": "26-5-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_177",
+      "code": "MM_117",
       "name": "2-6-2015",
       "shortName": "2-6-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_178",
+      "code": "MM_118",
       "name": "Industrial and Commercial Bank of China",
       "shortName": "Industrial and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_179",
+      "code": "MM_119",
       "name": "1-7-2015",
       "shortName": "1-7-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_180",
+      "code": "MM_120",
       "name": "Malayan Banking Berhad (Maybank)",
       "shortName": "Malayaning",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_181",
+      "code": "MM_121",
       "name": "27-7-2015",
       "shortName": "27-7-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_182",
+      "code": "MM_122",
       "name": "3-8-2015",
       "shortName": "3-8-2015",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_183",
+      "code": "MM_123",
       "name": "Mizuho Bank Limited",
       "shortName": "Mizuho",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_184",
+      "code": "MM_124",
       "name": "30-6-2016",
       "shortName": "30-6-2016",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_185",
-      "name": "1-7-2016",
-      "shortName": "1-7-2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_186",
+      "code": "MM_125",
       "name": "Shinhan Bank",
       "shortName": "Shinhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_187",
+      "code": "MM_126",
       "name": "15-9-2016",
       "shortName": "15-9-2016",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_188",
+      "code": "MM_127",
       "name": "20-9-2016",
       "shortName": "20-9-2016",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_189",
+      "code": "MM_128",
       "name": "E.Sun Commercial Bank Limited",
       "shortName": "E.Sun Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_190",
-      "name": "27-9-2016",
-      "shortName": "27-9-2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_191",
+      "code": "MM_129",
       "name": "3-10-2016",
       "shortName": "3-10-2016",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_192",
+      "code": "MM_130",
       "name": "State Bank of India",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_193",
+      "code": "MM_131",
       "name": "Mega International Commercial Bank Co., Ltd.",
       "shortName": "Mega International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_194",
+      "code": "MM_132",
       "name": "5-1-2021",
       "shortName": "5-1-2021",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_195",
-      "name": "7-1-2021",
-      "shortName": "7-1-2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_196",
+      "code": "MM_133",
       "name": "The Korea Development Bank",
       "shortName": "The Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_197",
-      "name": "6-1-2021",
-      "shortName": "6-1-2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_198",
-      "name": "8-1-2021",
-      "shortName": "8-1-2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MM_199",
+      "code": "MM_134",
       "name": "Cathay United Bank Co., Ltd.",
       "shortName": "Cathay United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_200",
+      "code": "MM_135",
       "name": "Bank of China(Hong Kong) Limited",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MM_201",
+      "code": "MM_136",
       "name": "28-1-2021",
       "shortName": "28-1-2021",
       "type": "bank",

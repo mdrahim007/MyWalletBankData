@@ -4,35 +4,35 @@
   "country": "GS",
   "institutions": [
     {
-      "code": "CENBGS",
+      "code": "GS_0",
       "name": "Central Bank of GS",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGS",
+      "code": "GS_1",
       "name": "National Bank of GS",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGS",
+      "code": "GS_2",
       "name": "State Bank of GS",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGS",
+      "code": "GS_3",
       "name": "Commercial Bank of GS",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGS",
+      "code": "GS_4",
       "name": "First GS Bank",
       "shortName": "First Bank",
       "type": "bank",

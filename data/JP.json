@@ -236,7 +236,7 @@
     },
     {
       "code": "JP_33",
-      "name": "Standard Chartered",
+      "name": "Standard Chartered Bank",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
@@ -397,820 +397,400 @@
     },
     {
       "code": "JP_56",
-      "name": "Standard Chartered Bank",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_57",
       "name": "State Bank of India",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_58",
+      "code": "JP_57",
       "name": "UniCredit",
       "shortName": "UniCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_59",
+      "code": "JP_58",
       "name": "Union de Banques Arabes et Françaises",
       "shortName": "Union de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_60",
+      "code": "JP_59",
       "name": "United Overseas Bank",
       "shortName": "United Overseas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_61",
+      "code": "JP_60",
       "name": "WestLB",
       "shortName": "WestLB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_62",
+      "code": "JP_61",
       "name": "Banco Santander",
       "shortName": "Banco Santander",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_63",
+      "code": "JP_62",
       "name": "CIC Banks",
       "shortName": "CICs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_64",
+      "code": "JP_63",
       "name": "Crédit Foncier",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_65",
-      "name": "Euroclear Bank",
-      "shortName": "Euroclear",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_66",
+      "code": "JP_64",
       "name": "Landesbank Baden-Württemberg",
       "shortName": "Landesbank Baden-Württemberg",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_67",
+      "code": "JP_65",
       "name": "Caixa Economica Federal",
       "shortName": "Caixa Economica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_68",
+      "code": "JP_66",
       "name": "Banco Itaú",
       "shortName": "Banco Itaú",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_69",
+      "code": "JP_67",
       "name": "Bank Muamalat Malaysia",
       "shortName": "Bank Muamalat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_70",
+      "code": "JP_68",
       "name": "Bank of China",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_71",
+      "code": "JP_69",
       "name": "Bank of Hawaii",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_72",
+      "code": "JP_70",
       "name": "Bank of New Zealand",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_73",
+      "code": "JP_71",
       "name": "Bank of Taiwan",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_74",
+      "code": "JP_72",
       "name": "BayernLB",
       "shortName": "BayernLB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_75",
+      "code": "JP_73",
       "name": "Canadian Imperial Bank of Commerce",
       "shortName": "Canadian Imperial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_76",
+      "code": "JP_74",
       "name": "Chang Hwa Bank",
       "shortName": "Chang Hwa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_77",
-      "name": "First Commercial Bank",
-      "shortName": "First Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_78",
+      "code": "JP_75",
       "name": "Habib Metropolitan Bank",
       "shortName": "Habib Metropolitan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_79",
+      "code": "JP_76",
       "name": "Hana Financial Group",
       "shortName": "Hana Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_80",
+      "code": "JP_77",
       "name": "Industrial and Commercial Bank of China",
       "shortName": "Industrial and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_81",
+      "code": "JP_78",
       "name": "Kiup Bank",
       "shortName": "Kiup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_82",
+      "code": "JP_79",
       "name": "Kookmin Bank",
       "shortName": "Kookmin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_83",
+      "code": "JP_80",
       "name": "Korea Development Bank",
       "shortName": "Korea Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_84",
+      "code": "JP_81",
       "name": "Mega International Commercial Bank",
       "shortName": "Mega International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_85",
+      "code": "JP_82",
       "name": "SC First Bank",
       "shortName": "SC First",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_86",
+      "code": "JP_83",
       "name": "Shinhan Bank",
       "shortName": "Shinhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_87",
+      "code": "JP_84",
       "name": "Union Bank of California",
       "shortName": "Union",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_88",
+      "code": "JP_85",
       "name": "Westpac",
       "shortName": "Westpac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_89",
+      "code": "JP_86",
       "name": "Woori Bank",
       "shortName": "Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_90",
+      "code": "JP_87",
       "name": "Shinkumis",
       "shortName": "Shinkumis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_91",
+      "code": "JP_88",
       "name": "Labour Banks",
       "shortName": "Labours",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_92",
+      "code": "JP_89",
       "name": "Nippon Kangyo Bank",
       "shortName": "Nippon Kangyo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_93",
+      "code": "JP_90",
       "name": "Fuji Bank",
       "shortName": "Fuji",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_94",
+      "code": "JP_91",
       "name": "Industrial Bank of Japan",
       "shortName": "Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_95",
+      "code": "JP_92",
       "name": "Mitsubishi Bank",
       "shortName": "Mitsubishi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_96",
+      "code": "JP_93",
       "name": "Yamaguchi Bank",
       "shortName": "Yamaguchi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_97",
+      "code": "JP_94",
       "name": "Kōnoike Bank",
       "shortName": "Kōnoike",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_98",
+      "code": "JP_95",
       "name": "Nagoya Bank",
       "shortName": "Nagoya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_99",
+      "code": "JP_96",
       "name": "Itō Bank",
       "shortName": "Itō",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_100",
+      "code": "JP_97",
       "name": "Bank of Kobe",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_101",
+      "code": "JP_98",
       "name": "Saitama Bank",
       "shortName": "Saitama",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_102",
+      "code": "JP_99",
       "name": "Daiwa Bank",
       "shortName": "Daiwa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_103",
-      "name": "Mitsui Trust and Banking Co.",
-      "shortName": "Mitsui Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_104",
-      "name": "Lists of banks",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_105",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_106",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_107",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_108",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_109",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_110",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_111",
+      "code": "JP_100",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_112",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_113",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_114",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_115",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_116",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_117",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_118",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_119",
+      "code": "JP_101",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_120",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_121",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_122",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_123",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_124",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_125",
+      "code": "JP_102",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_126",
+      "code": "JP_103",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_127",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_128",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_129",
+      "code": "JP_104",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_130",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_131",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_132",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_133",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_134",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_135",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_136",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_137",
+      "code": "JP_105",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_138",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_139",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_140",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_141",
+      "code": "JP_106",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_142",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_143",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_144",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_145",
+      "code": "JP_107",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_146",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_147",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_148",
+      "code": "JP_108",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_149",
+      "code": "JP_109",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_150",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_151",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_152",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_153",
+      "code": "JP_110",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_154",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_155",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_156",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_157",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_158",
+      "code": "JP_111",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "JP_159",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_160",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_161",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_162",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_163",
+      "code": "JP_112",
       "name": "Macau",
       "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_164",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_165",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_166",
-      "name": "Banks of Japan",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_167",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_168",
-      "name": "Lists of companies of Japan",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_169",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_170",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_171",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JP_172",
-      "name": "Articles containing Japanese-language text",
-      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

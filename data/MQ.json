@@ -4,35 +4,35 @@
   "country": "MQ",
   "institutions": [
     {
-      "code": "CENBMQ",
+      "code": "MQ_0",
       "name": "Central Bank of MQ",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMQ",
+      "code": "MQ_1",
       "name": "National Bank of MQ",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMQ",
+      "code": "MQ_2",
       "name": "State Bank of MQ",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMQ",
+      "code": "MQ_3",
       "name": "Commercial Bank of MQ",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMQ",
+      "code": "MQ_4",
       "name": "First MQ Bank",
       "shortName": "First Bank",
       "type": "bank",

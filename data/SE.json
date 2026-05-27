@@ -75,8 +75,8 @@
     },
     {
       "code": "SE_10",
-      "name": "NOBA Bank Group AB&#160;&#91;sv&#93;",
-      "shortName": "NOBA",
+      "name": "Enity Bank Group AB&#160;&#91;sv&#93;",
+      "shortName": "Enity",
       "type": "bank",
       "aliases": ""
     },
@@ -96,8 +96,8 @@
     },
     {
       "code": "SE_13",
-      "name": "Sparbanken Skåne AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Skåne",
+      "name": "Sparbanken Lidköping AB&#160;&#91;sv&#93;",
+      "shortName": "Sparbanken Lidköping",
       "type": "bank",
       "aliases": ""
     },
@@ -187,1611 +187,897 @@
     },
     {
       "code": "SE_26",
-      "name": "Enity Bank Group AB&#160;&#91;sv&#93;",
-      "shortName": "Enity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_27",
       "name": "EnterCard Group AB&#160;&#91;sv&#93;",
       "shortName": "EnterCard Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_28",
-      "name": "EP Bank AB&#160;&#91;sv&#93;",
-      "shortName": "EP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_29",
-      "name": "Fedelta Finance AB",
-      "shortName": "Fedelta Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_30",
-      "name": "Frink AB",
-      "shortName": "Frink AB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_31",
-      "name": "Froda AB",
-      "shortName": "Froda AB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_32",
-      "name": "Garantum Fondkommission AB",
-      "shortName": "Garantum Fondkommission",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_33",
-      "name": "Hoist Finance AB",
-      "shortName": "Hoist Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_34",
-      "name": "ICA Banken AB",
-      "shortName": "ICAen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_35",
-      "name": "Ikano Bank AB",
-      "shortName": "Ikano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_36",
-      "name": "Lantmännen Finans AB",
-      "shortName": "Lantmännen Finans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_37",
-      "name": "Lea Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Lea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_38",
-      "name": "Mangold Fondkommission AB",
-      "shortName": "Mangold Fondkommission",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_39",
+      "code": "SE_27",
       "name": "Marginalen Bank AB&#160;&#91;sv&#93;",
       "shortName": "Marginalen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_40",
+      "code": "SE_28",
+      "name": "Fedelta Finance AB",
+      "shortName": "Fedelta Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_29",
+      "name": "Frink AB",
+      "shortName": "Frink AB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_30",
+      "name": "Froda AB",
+      "shortName": "Froda AB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_31",
+      "name": "Garantum Fondkommission AB",
+      "shortName": "Garantum Fondkommission",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_32",
+      "name": "Hoist Finance AB",
+      "shortName": "Hoist Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_33",
+      "name": "ICA Banken AB",
+      "shortName": "ICAen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_34",
+      "name": "Ikano Bank AB",
+      "shortName": "Ikano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_35",
+      "name": "Lantmännen Finans AB",
+      "shortName": "Lantmännen Finans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_36",
+      "name": "Mangold Fondkommission AB",
+      "shortName": "Mangold Fondkommission",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_37",
       "name": "Moank AB",
       "shortName": "Moank AB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_41",
+      "code": "SE_38",
       "name": "Morrow Bank AB&#160;&#91;sv&#93;",
       "shortName": "Morrow",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_42",
+      "code": "SE_39",
       "name": "Mynt AB",
       "shortName": "Mynt AB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_43",
-      "name": "Norion Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Norion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_44",
+      "code": "SE_40",
       "name": "Northmill Bank AB&#160;&#91;sv&#93;",
       "shortName": "Northmill",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_45",
+      "code": "SE_41",
       "name": "OK-Q8 Bank AB",
       "shortName": "OK-Q8",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_46",
+      "code": "SE_42",
       "name": "Pareto Securities AB",
       "shortName": "Pareto Securities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_47",
+      "code": "SE_43",
       "name": "Qliro AB",
       "shortName": "Qliro AB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_48",
-      "name": "Qred Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Qred",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_49",
+      "code": "SE_44",
       "name": "Rediem Capital AB",
       "shortName": "Rediem Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_50",
+      "code": "SE_45",
       "name": "Resurs Bank AB",
       "shortName": "Resurs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_51",
+      "code": "SE_46",
       "name": "Serafim Finans AB",
       "shortName": "Serafim Finans",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_52",
+      "code": "SE_47",
       "name": "Steven AB",
       "shortName": "Steven AB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_53",
+      "code": "SE_48",
       "name": "Svea Bank AB&#160;&#91;sv&#93;",
       "shortName": "Svea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_54",
+      "code": "SE_49",
       "name": "Telia Finance AB, subsidiary of Telia Company",
       "shortName": "Telia Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_55",
+      "code": "SE_50",
       "name": "Ziklo Bank AB&#160;&#91;sv&#93;, part-owned by Volvo Cars",
       "shortName": "Ziklo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_56",
+      "code": "SE_51",
       "name": "Falkenbergs Sparbank AB",
       "shortName": "Falkenbergs Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_57",
-      "name": "Ölands Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Ölands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_58",
+      "code": "SE_52",
       "name": "Sörmlands Sparbank AB&#160;&#91;sv&#93;",
       "shortName": "Sörmlands Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_59",
-      "name": "Sparbanken Alingsås AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Alingsås",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_60",
+      "code": "SE_53",
       "name": "Sparbanken Bergslagen AB&#160;&#91;sv&#93;",
       "shortName": "Sparbanken Bergslagen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_61",
-      "name": "Sparbanken Eken AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Eken",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_62",
-      "name": "Sparbanken Göinge AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Göinge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_63",
-      "name": "Sparbanken Lidköping AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Lidköping",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_64",
-      "name": "Sparbanken Mälardalen AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Mälardalen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_65",
-      "name": "Sparbanken Sjuhärad AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Sjuhärad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_66",
+      "code": "SE_54",
       "name": "Sparbanken Skaraborg AB&#160;&#91;sv&#93;",
       "shortName": "Sparbanken Skaraborg",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_67",
-      "name": "Sparbanken Spira AB&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Spira",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_68",
+      "code": "SE_55",
       "name": "Varbergs Sparbank AB&#160;&#91;sv&#93;",
       "shortName": "Varbergs Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_69",
-      "name": "Vimmerby Sparbank AB&#160;&#91;sv&#93;",
-      "shortName": "Vimmerby Sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_70",
+      "code": "SE_56",
       "name": "Ekobanken medlemsbank&#160;&#91;sv&#93;",
       "shortName": "Ekobanken medlemsbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_71",
+      "code": "SE_57",
       "name": "JAK Medlemsbank",
       "shortName": "JAK Medlemsbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_72",
-      "name": "Ålems Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Ålems Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_73",
-      "name": "Åse Viste Sparbank",
-      "shortName": "Åse Viste",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_74",
+      "code": "SE_58",
       "name": "Bjursås Sparbank&#160;&#91;sv&#93;",
       "shortName": "Bjursås Sparbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_75",
-      "name": "Dalslands Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Dalslands Sparbank&#160;&#91;sv&#93;",
+      "code": "SE_59",
+      "name": "Åse Viste Sparbank",
+      "shortName": "Åse Viste",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_76",
+      "code": "SE_60",
       "name": "Ekeby Sparbank",
       "shortName": "Ekeby Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_77",
+      "code": "SE_61",
       "name": "Fryksdalens Sparbank&#160;&#91;sv&#93;",
       "shortName": "Fryksdalens Sparbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_78",
+      "code": "SE_62",
       "name": "Hälsinglands Sparbank",
       "shortName": "Hälsinglands Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_79",
+      "code": "SE_63",
       "name": "Häradssparbanken Mönsterås",
       "shortName": "Häradssparbanken Mönsterås",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_80",
+      "code": "SE_64",
       "name": "Högsby Sparbank",
       "shortName": "Högsby Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_81",
+      "code": "SE_65",
       "name": "Ivetofta Sparbank i Bromölla&#160;&#91;sv&#93;",
       "shortName": "Ivetofta Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_82",
+      "code": "SE_66",
       "name": "Kinda-Ydre Sparbank",
       "shortName": "Kinda-Ydre Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_83",
-      "name": "Laholms Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Laholms Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_84",
-      "name": "Lekebergs Sparbank",
-      "shortName": "Lekebergs Sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_85",
-      "name": "Leksands Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Leksands Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_86",
-      "name": "Lönneberga-Tuna-Vena Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Lönneberga-Tuna-Vena Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_87",
-      "name": "Markaryds sparbank",
-      "shortName": "Markaryds sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_88",
-      "name": "Mjöbäcks Sparbank",
-      "shortName": "Mjöbäcks Sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_89",
-      "name": "Norrbärke Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Norrbärke Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_90",
-      "name": "Orusts Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Orusts Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_91",
-      "name": "Roslagens Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Roslagens Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_92",
-      "name": "Sala Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Sala Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_93",
-      "name": "Sidensjö sparbank",
-      "shortName": "Sidensjö sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_94",
-      "name": "Skurups Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Skurups Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_95",
-      "name": "Snapphanebygdens Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Snapphanebygdens Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_96",
-      "name": "Södra Hestra Sparbank",
-      "shortName": "Södra Hestra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_97",
-      "name": "Sölvesborg-Mjällby Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Sölvesborg-Mjällby Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_98",
-      "name": "Sparbanken Boken",
-      "shortName": "Sparbanken Boken",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_99",
-      "name": "Sparbanken Gotland&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Gotland&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_100",
-      "name": "Sparbanken i Enköping&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken i",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_101",
-      "name": "Sparbanken i Karlshamn&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken i",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_102",
-      "name": "Sparbanken Nord&#160;&#91;sv&#93;b",
-      "shortName": "Sparbanken Nord&#160;&#91;sv&#93;b",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_103",
-      "name": "Sparbanken Syd&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Syd&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_104",
-      "name": "Sparbanken Tanum",
-      "shortName": "Sparbanken Tanum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_105",
-      "name": "Sparbanken Tranemo&#160;&#91;sv&#93;",
-      "shortName": "Sparbanken Tranemo&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_106",
-      "name": "Tidaholms Sparbank",
-      "shortName": "Tidaholms Sparbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_107",
-      "name": "Tjörns Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Tjörns Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_108",
+      "code": "SE_67",
       "name": "Ulricehamns Sparbank&#160;&#91;sv&#93;",
       "shortName": "Ulricehamns Sparbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_109",
+      "code": "SE_68",
+      "name": "Lekebergs Sparbank",
+      "shortName": "Lekebergs Sparbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_69",
+      "name": "Lönneberga-Tuna-Vena Sparbank&#160;&#91;sv&#93;",
+      "shortName": "Lönneberga-Tuna-Vena Sparbank&#160;&#91;sv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_70",
+      "name": "Markaryds sparbank",
+      "shortName": "Markaryds sparbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_71",
+      "name": "Mjöbäcks Sparbank",
+      "shortName": "Mjöbäcks Sparbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_72",
+      "name": "Norrbärke Sparbank&#160;&#91;sv&#93;",
+      "shortName": "Norrbärke Sparbank&#160;&#91;sv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_73",
+      "name": "Sidensjö sparbank",
+      "shortName": "Sidensjö sparbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_74",
+      "name": "Snapphanebygdens Sparbank&#160;&#91;sv&#93;",
+      "shortName": "Snapphanebygdens Sparbank&#160;&#91;sv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_75",
+      "name": "Södra Hestra Sparbank",
+      "shortName": "Södra Hestra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_76",
+      "name": "Sölvesborg-Mjällby Sparbank&#160;&#91;sv&#93;",
+      "shortName": "Sölvesborg-Mjällby Sparbank&#160;&#91;sv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_77",
+      "name": "Sparbanken Boken",
+      "shortName": "Sparbanken Boken",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_78",
+      "name": "Sparbanken Gotland&#160;&#91;sv&#93;",
+      "shortName": "Sparbanken Gotland&#160;&#91;sv&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_79",
+      "name": "Sparbanken i Karlshamn&#160;&#91;sv&#93;",
+      "shortName": "Sparbanken i",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_80",
+      "name": "Sparbanken Tanum",
+      "shortName": "Sparbanken Tanum",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_81",
+      "name": "Tidaholms Sparbank",
+      "shortName": "Tidaholms Sparbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_82",
       "name": "Vadstena Sparbank&#160;&#91;sv&#93;",
       "shortName": "Vadstena Sparbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_110",
+      "code": "SE_83",
       "name": "Valdemarsviks Sparbank",
       "shortName": "Valdemarsviks Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_111",
-      "name": "Virserums Sparbank&#160;&#91;sv&#93;",
-      "shortName": "Virserums Sparbank&#160;&#91;sv&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_112",
+      "code": "SE_84",
       "name": "Westra Wermlands Sparbank",
       "shortName": "Westra Wermlands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_113",
+      "code": "SE_85",
       "name": "Aareal Bank",
       "shortName": "Aareal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_114",
+      "code": "SE_86",
       "name": "Adyen",
       "shortName": "Adyen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_115",
+      "code": "SE_87",
       "name": "Aion Bank SA, subsidiary of UniCredit",
       "shortName": "Aion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_116",
+      "code": "SE_88",
       "name": "Bank of Åland",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_117",
+      "code": "SE_89",
       "name": "Allfunds Bank",
       "shortName": "Allfunds",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_118",
-      "name": "Bank of China (Europe) S.A., subsidiary of Bank of China",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_119",
+      "code": "SE_90",
       "name": "Banking Circle S.A.",
       "shortName": "Banking Circle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_120",
+      "code": "SE_91",
       "name": "Barclays Bank Ireland PLC, subsidiary of Barclays",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_121",
+      "code": "SE_92",
       "name": "Bigbank",
       "shortName": "Bigbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_122",
+      "code": "SE_93",
       "name": "BNP Paribas",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_123",
-      "name": "Citibank Europe plc, subsidiary of Citigroup",
-      "shortName": "Citibank Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_124",
+      "code": "SE_94",
       "name": "Deutsche Bank",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_125",
+      "code": "SE_95",
       "name": "DNB Bank",
       "shortName": "DNB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_126",
-      "name": "Euroclear Bank",
-      "shortName": "Euroclear",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_127",
+      "code": "SE_96",
       "name": "Express Bank, subsidiary of BNP Paribas",
       "shortName": "Express,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_128",
+      "code": "SE_97",
       "name": "Facit Bank",
       "shortName": "Facit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_129",
+      "code": "SE_98",
       "name": "FNZ Bank SE&#160;&#91;de&#93;",
       "shortName": "FNZ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_130",
-      "name": "Goldman Sachs Bank Europe SE, subsidiary of Goldman Sachs",
-      "shortName": "Goldman Sachs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_131",
-      "name": "HSBC Continental Europe, subsidiary of HSBC",
-      "shortName": "HSBC Continental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_132",
+      "code": "SE_99",
       "name": "Joh. Berenberg, Gossler &amp; Co. KG",
       "shortName": "Joh. Berenberg,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_133",
+      "code": "SE_100",
       "name": "Lån &amp; Spar Bank&#160;&#91;da&#93;",
       "shortName": "Lån &amp;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_134",
+      "code": "SE_101",
       "name": "Landesbank Hessen-Thüringen Girozentrale",
       "shortName": "Landesbank Hessen-Thüringen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_135",
+      "code": "SE_102",
       "name": "NatWest Markets NV, subsidiary of NatWest Markets",
       "shortName": "NatWest Markets",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_136",
+      "code": "SE_103",
       "name": "Pareto Bank",
       "shortName": "Pareto",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_137",
+      "code": "SE_104",
       "name": "PBB Deutsche Pfandbriefbank",
       "shortName": "PBB Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_138",
+      "code": "SE_105",
       "name": "RCI Banque",
       "shortName": "RCI Banque",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_139",
+      "code": "SE_106",
       "name": "Santander Consumer Bank AS, subsidiary of Santander Bank",
       "shortName": "Santander Consumer",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_140",
+      "code": "SE_107",
       "name": "Société Générale",
       "shortName": "Société Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_141",
+      "code": "SE_108",
       "name": "Trade Republic Bank",
       "shortName": "Trade Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_142",
-      "name": "UBS Europe SE, subsidiary of UBS",
-      "shortName": "UBS Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_143",
+      "code": "SE_109",
       "name": "Stockholms Banco (1657-1667)",
       "shortName": "Stockholms Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_144",
+      "code": "SE_110",
       "name": "Östgöta Enskilda Bank (1837-2011)",
       "shortName": "Östgöta Enskilda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_145",
+      "code": "SE_111",
       "name": "Smålands Bank&#160;&#91;sv&#93; (1837-1972)",
       "shortName": "Smålands&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_146",
+      "code": "SE_112",
       "name": "Skandinaviska Banken (1864-1972)",
       "shortName": "Skandinaviskaen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_147",
+      "code": "SE_113",
       "name": "Örebro Folkbank&#160;&#91;sv&#93; (1867-1933)",
       "shortName": "Örebro Folkbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_148",
+      "code": "SE_114",
       "name": "Folkärna Folkbank&#160;&#91;sv&#93; (1868-1913)",
       "shortName": "Folkärna Folkbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_149",
+      "code": "SE_115",
       "name": "Norrköpings Folkbank&#160;&#91;sv&#93; (1871-1940)",
       "shortName": "Norrköpings Folkbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_150",
+      "code": "SE_116",
       "name": "Blekinge Bank&#160;&#91;sv&#93; (1873-1918)",
       "shortName": "Blekinge&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_151",
+      "code": "SE_117",
       "name": "AB Kreditkassan av år 1922&#160;&#91;sv&#93; (1922-1937)",
       "shortName": "AB Kreditkassan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_152",
+      "code": "SE_118",
       "name": "Sveriges Kreditbanken (1923-1974)",
       "shortName": "Sveriges Kreditbanken",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_153",
+      "code": "SE_119",
       "name": "Föreningsbanken Halmstad&#160;&#91;sv&#93; (1949-1988)",
       "shortName": "Föreningsbanken Halmstad&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_154",
+      "code": "SE_120",
       "name": "Postbanken&#160;&#91;sv&#93; (1960-1974)",
       "shortName": "Postbanken&#160;&#91;sv&#93; (1960-1974)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_155",
+      "code": "SE_121",
       "name": "Sveriges Investeringsbank&#160;&#91;sv&#93; (1967-1989)",
       "shortName": "Sveriges Investeringsbank&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_156",
+      "code": "SE_122",
       "name": "PK-Banken (1974-1990)",
       "shortName": "PK-Banken (1974-1990)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_157",
+      "code": "SE_123",
       "name": "Nordbanken (1986-1997)",
       "shortName": "Nordbanken (1986-1997)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_158",
+      "code": "SE_124",
       "name": "Föreningsbanken&#160;&#91;sv&#93; (1992-1997)",
       "shortName": "Föreningsbanken&#160;&#91;sv&#93; (1992-1997)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_159",
+      "code": "SE_125",
       "name": "HQ Bank (2006-2010)",
       "shortName": "HQ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_160",
+      "code": "SE_126",
       "name": "Sparbanken Öresund&#160;&#91;sv&#93; (2010-2014)",
       "shortName": "Sparbanken Öresund&#160;&#91;sv&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_161",
-      "name": "Details of banks and lending companies in Sweden",
-      "shortName": "Details of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_162",
+      "code": "SE_127",
       "name": "Contact details of Swedish banks",
       "shortName": "Contact details",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_163",
-      "name": "Details of all private lenders in Sweden",
-      "shortName": "Details of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_164",
-      "name": "Details and offers for Swedish private lenders",
-      "shortName": "Details and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_165",
-      "name": "Details of lending companies in Sweden",
-      "shortName": "Details of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_166",
+      "code": "SE_128",
       "name": "Details and offers of private lenders in Sweden",
       "shortName": "Details and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_167",
+      "code": "SE_129",
+      "name": "Details and offers for Swedish private lenders",
+      "shortName": "Details and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SE_130",
       "name": "Sveriges Riksbank",
       "shortName": "Sveriges Riksbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_168",
+      "code": "SE_131",
       "name": "JAK Members Bank",
       "shortName": "JAK Members",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_169",
+      "code": "SE_132",
       "name": "Avanza",
       "shortName": "Avanza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_170",
+      "code": "SE_133",
       "name": "Forex Bank",
       "shortName": "Forex",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_171",
-      "name": "ICA Banken",
-      "shortName": "ICAen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_172",
-      "name": "Ikano Bank",
-      "shortName": "Ikano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_173",
+      "code": "SE_134",
       "name": "Klarna",
       "shortName": "Klarna",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_174",
+      "code": "SE_135",
       "name": "Länsförsäkringar Bank",
       "shortName": "Länsförsäkringar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_175",
+      "code": "SE_136",
       "name": "Nordnet",
       "shortName": "Nordnet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_176",
+      "code": "SE_137",
       "name": "Resurs Holding",
       "shortName": "Resurs Holding",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_177",
+      "code": "SE_138",
       "name": "Skandia",
       "shortName": "Skandia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_178",
+      "code": "SE_139",
       "name": "Carnegie Investment Bank",
       "shortName": "Carnegie Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_179",
+      "code": "SE_140",
       "name": "Bankgirot",
       "shortName": "Bankgirot",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_180",
+      "code": "SE_141",
       "name": "PlusGirot",
       "shortName": "PlusGirot",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_181",
+      "code": "SE_142",
       "name": "Danske Bank (Sweden)",
       "shortName": "Danske",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_182",
+      "code": "SE_143",
       "name": "HQ Bank",
       "shortName": "HQ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_183",
+      "code": "SE_144",
       "name": "Kreditbanken",
       "shortName": "Kreditbanken",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_184",
+      "code": "SE_145",
       "name": "Nordenbanken",
       "shortName": "Nordenbanken",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_185",
+      "code": "SE_146",
       "name": "PK-Banken",
       "shortName": "PK-Banken",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_186",
+      "code": "SE_147",
       "name": "Stockholms Banco",
       "shortName": "Stockholms Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_187",
+      "code": "SE_148",
       "name": "Skandinaviska Banken",
       "shortName": "Skandinaviskaen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_188",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_189",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_190",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_191",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_192",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_193",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_194",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_195",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_196",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_197",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_198",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_199",
+      "code": "SE_149",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_200",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_201",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_202",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_203",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_204",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_205",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_206",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_207",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_208",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_209",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_210",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_211",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_212",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_213",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_214",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_215",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_216",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_217",
+      "code": "SE_150",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_218",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_219",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_220",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_221",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_222",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_223",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_224",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_225",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_226",
+      "code": "SE_151",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_227",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_228",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_229",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_230",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_231",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_232",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_233",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_234",
+      "code": "SE_152",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SE_235",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_236",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_237",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_238",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_239",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_240",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_241",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_242",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_243",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_244",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_245",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_246",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_247",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_248",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_249",
+      "code": "SE_153",
       "name": "Economy of Sweden-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_250",
-      "name": "Banks of Sweden",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_251",
-      "name": "Lists of companies of Sweden",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_252",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_253",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_254",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SE_255",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

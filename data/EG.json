@@ -313,1667 +313,1170 @@
     },
     {
       "code": "EG_44",
-      "name": "Algeria",
-      "shortName": "Algeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_45",
-      "name": "Angola",
-      "shortName": "Angola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_46",
-      "name": "Benin",
-      "shortName": "Benin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_47",
-      "name": "Botswana",
-      "shortName": "Botswana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_48",
-      "name": "Burkina Faso",
-      "shortName": "Burkina Faso",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_49",
-      "name": "Burundi",
-      "shortName": "Burundi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_50",
-      "name": "Cameroon",
-      "shortName": "Cameroon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_51",
       "name": "Cape Verde",
       "shortName": "Cape Verde",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_52",
-      "name": "Central African Republic",
-      "shortName": "Central African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_53",
-      "name": "Chad",
-      "shortName": "Chad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_54",
-      "name": "Comoros",
-      "shortName": "Comoros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_55",
+      "code": "EG_45",
       "name": "Democratic Republic of the Congo",
       "shortName": "Democratic Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_56",
+      "code": "EG_46",
       "name": "Republic of the Congo",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_57",
-      "name": "Djibouti",
-      "shortName": "Djibouti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_58",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_59",
-      "name": "Equatorial Guinea",
-      "shortName": "Equatorial Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_60",
-      "name": "Eritrea",
-      "shortName": "Eritrea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_61",
-      "name": "Eswatini",
-      "shortName": "Eswatini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_62",
-      "name": "Ethiopia",
-      "shortName": "Ethiopia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_63",
-      "name": "Gabon",
-      "shortName": "Gabon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_64",
+      "code": "EG_47",
       "name": "The Gambia",
       "shortName": "The Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_65",
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_66",
-      "name": "Guinea",
-      "shortName": "Guinea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_67",
-      "name": "Guinea-Bissau",
-      "shortName": "Guinea-Bissau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_68",
+      "code": "EG_48",
       "name": "Ivory Coast",
       "shortName": "Ivory Coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_69",
-      "name": "Kenya",
-      "shortName": "Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_70",
-      "name": "Lesotho",
-      "shortName": "Lesotho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_71",
-      "name": "Liberia",
-      "shortName": "Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_72",
-      "name": "Libya",
-      "shortName": "Libya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_73",
-      "name": "Madagascar",
-      "shortName": "Madagascar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_74",
-      "name": "Malawi",
-      "shortName": "Malawi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_75",
-      "name": "Mali",
-      "shortName": "Mali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_76",
-      "name": "Mauritania",
-      "shortName": "Mauritania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_77",
-      "name": "Mauritius",
-      "shortName": "Mauritius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_78",
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_79",
-      "name": "Mozambique",
-      "shortName": "Mozambique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_80",
-      "name": "Namibia",
-      "shortName": "Namibia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_81",
-      "name": "Niger",
-      "shortName": "Niger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_82",
-      "name": "Nigeria",
-      "shortName": "Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_83",
-      "name": "Rwanda",
-      "shortName": "Rwanda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_84",
+      "code": "EG_49",
       "name": "São Tomé and Príncipe",
       "shortName": "São Tomé",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_85",
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_86",
-      "name": "Seychelles",
-      "shortName": "Seychelles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_87",
-      "name": "Sierra Leone",
-      "shortName": "Sierra Leone",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_88",
-      "name": "Somalia",
-      "shortName": "Somalia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_89",
-      "name": "South Africa",
-      "shortName": "South Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_90",
-      "name": "South Sudan",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_91",
-      "name": "Sudan",
-      "shortName": "Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_92",
+      "code": "EG_50",
       "name": "Tanzania",
       "shortName": "Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_93",
-      "name": "Togo",
-      "shortName": "Togo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_94",
-      "name": "Tunisia",
-      "shortName": "Tunisia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_95",
-      "name": "Uganda",
-      "shortName": "Uganda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_96",
-      "name": "Zambia",
-      "shortName": "Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_97",
-      "name": "Zimbabwe",
-      "shortName": "Zimbabwe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_98",
+      "code": "EG_51",
       "name": "Sahrawi Arab Democratic Republic",
       "shortName": "Sahrawi Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_99",
+      "code": "EG_52",
       "name": "Somaliland",
       "shortName": "Somaliland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_100",
+      "code": "EG_53",
       "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
       "shortName": "Canary Islands&#160;/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_101",
+      "code": "EG_54",
       "name": "Madeira&#160;(Portugal)",
       "shortName": "Madeira&#160;(Portugal)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_102",
+      "code": "EG_55",
       "name": "Mayotte&#160;/ Réunion&#160;(France)",
       "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_103",
+      "code": "EG_56",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_104",
-      "name": "Transportation",
-      "shortName": "Transportation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_105",
+      "code": "EG_57",
       "name": "Electricity",
       "shortName": "Electricity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_106",
+      "code": "EG_58",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_107",
+      "code": "EG_59",
       "name": "Water",
       "shortName": "Water",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_108",
+      "code": "EG_60",
       "name": "Ancient Egypt",
       "shortName": "Ancient Egypt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_109",
+      "code": "EG_61",
       "name": "Ptolemaic Egypt",
       "shortName": "Ptolemaic Egypt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_110",
+      "code": "EG_62",
       "name": "Roman Egypt",
       "shortName": "Roman Egypt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_111",
+      "code": "EG_63",
       "name": "Medieval Egypt",
       "shortName": "Medieval Egypt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_112",
+      "code": "EG_64",
       "name": "Modern Egypt",
       "shortName": "Modern Egypt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_113",
+      "code": "EG_65",
       "name": "2023–2024 Egyptian financial crisis",
       "shortName": "2023–2024 Egyptian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_114",
+      "code": "EG_66",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_115",
+      "code": "EG_67",
       "name": "Automotive",
       "shortName": "Automotive",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_116",
+      "code": "EG_68",
       "name": "Mass media",
       "shortName": "Mass media",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_117",
+      "code": "EG_69",
       "name": "Defence",
       "shortName": "Defence",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_118",
+      "code": "EG_70",
       "name": "Mining",
       "shortName": "Mining",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_119",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_120",
+      "code": "EG_71",
       "name": "Prehistoric",
       "shortName": "Prehistoric",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_121",
+      "code": "EG_72",
       "name": "31st Dynasty",
       "shortName": "31st Dynasty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_122",
+      "code": "EG_73",
       "name": "Lighthouse of Alexandria",
       "shortName": "Lighthouse of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_123",
+      "code": "EG_74",
       "name": "Library of Alexandria",
       "shortName": "Library of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_124",
+      "code": "EG_75",
       "name": "Christian",
       "shortName": "Christian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_125",
+      "code": "EG_76",
       "name": "Sassanid",
       "shortName": "Sassanid",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_126",
+      "code": "EG_77",
       "name": "Fustat",
       "shortName": "Fustat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_127",
+      "code": "EG_78",
       "name": "Islamization",
       "shortName": "Islamization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_128",
+      "code": "EG_79",
       "name": "Tulunid dynasty",
       "shortName": "Tulunid dynasty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_129",
+      "code": "EG_80",
       "name": "Ikhshidid dynasty",
       "shortName": "Ikhshidid dynasty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_130",
+      "code": "EG_81",
       "name": "Ayyubid dynasty",
       "shortName": "Ayyubid dynasty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_131",
+      "code": "EG_82",
       "name": "Nahda",
       "shortName": "Nahda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_132",
+      "code": "EG_83",
       "name": "Urabi revolt",
       "shortName": "Urabi revolt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_133",
+      "code": "EG_84",
       "name": "Sultanate",
       "shortName": "Sultanate",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_134",
+      "code": "EG_85",
       "name": "World War II",
       "shortName": "World War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_135",
+      "code": "EG_86",
       "name": "Land reform",
       "shortName": "Land reform",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_136",
+      "code": "EG_87",
       "name": "Suez Crisis",
       "shortName": "Suez Crisis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_137",
+      "code": "EG_88",
       "name": "United Arab Republic",
       "shortName": "United Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_138",
+      "code": "EG_89",
       "name": "Six-Day War",
       "shortName": "Six-Day War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_139",
+      "code": "EG_90",
       "name": "Egyptian–Libyan War",
       "shortName": "Egyptian–Libyan War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_140",
+      "code": "EG_91",
       "name": "Assassination of Anwar Sadat",
       "shortName": "Assassination of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_141",
+      "code": "EG_92",
       "name": "Mubarak era",
       "shortName": "Mubarak era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_142",
+      "code": "EG_93",
       "name": "2013 Rabaa massacre",
       "shortName": "2013 Rabaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_143",
+      "code": "EG_94",
       "name": "Anarchism",
       "shortName": "Anarchism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_144",
+      "code": "EG_95",
       "name": "Capital",
       "shortName": "Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_145",
+      "code": "EG_96",
       "name": "Cigarette industry",
       "shortName": "Cigarette industry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_146",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_147",
+      "code": "EG_97",
       "name": "Copts",
       "shortName": "Copts",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_148",
+      "code": "EG_98",
       "name": "Genetic",
       "shortName": "Genetic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_149",
+      "code": "EG_99",
       "name": "Jews",
       "shortName": "Jews",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_150",
+      "code": "EG_100",
       "name": "1939–1954",
       "shortName": "1939–1954",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_151",
+      "code": "EG_101",
       "name": "1954–present",
       "shortName": "1954–present",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_152",
+      "code": "EG_102",
       "name": "Parliament",
       "shortName": "Parliament",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_153",
+      "code": "EG_103",
       "name": "Population",
       "shortName": "Population",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_154",
+      "code": "EG_104",
       "name": "Postal",
       "shortName": "Postal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_155",
+      "code": "EG_105",
       "name": "Saladin",
       "shortName": "Saladin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_156",
+      "code": "EG_106",
       "name": "Timekeeping devices",
       "shortName": "Timekeeping devices",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_157",
+      "code": "EG_107",
       "name": "Alexandria",
       "shortName": "Alexandria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_158",
+      "code": "EG_108",
       "name": "Cairo",
       "shortName": "Cairo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_159",
+      "code": "EG_109",
       "name": "Port Said",
       "shortName": "Port Said",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_160",
+      "code": "EG_110",
       "name": "Cities",
       "shortName": "Cities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_161",
+      "code": "EG_111",
       "name": "Climate",
       "shortName": "Climate",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_162",
+      "code": "EG_112",
       "name": "Earthquakes",
       "shortName": "Earthquakes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_163",
-      "name": "Environmental issues",
-      "shortName": "Environmental issues",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_164",
+      "code": "EG_113",
       "name": "Fossils",
       "shortName": "Fossils",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_165",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_166",
+      "code": "EG_114",
       "name": "Halfaya Pass",
       "shortName": "Halfaya Pass",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_167",
+      "code": "EG_115",
       "name": "Islands",
       "shortName": "Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_168",
+      "code": "EG_116",
       "name": "Nile Delta",
       "shortName": "Nile Delta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_169",
+      "code": "EG_117",
       "name": "Northern coast",
       "shortName": "Northern coast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_170",
+      "code": "EG_118",
       "name": "Oases",
       "shortName": "Oases",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_171",
+      "code": "EG_119",
       "name": "Qattara Depression",
       "shortName": "Qattara Depression",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_172",
+      "code": "EG_120",
       "name": "Red Sea Riviera",
       "shortName": "Red Sea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_173",
+      "code": "EG_121",
       "name": "Sinai Peninsula",
       "shortName": "Sinai Peninsula",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_174",
+      "code": "EG_122",
       "name": "Suez Canal",
       "shortName": "Suez Canal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_175",
+      "code": "EG_123",
       "name": "Towns and villages",
       "shortName": "Towns and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_176",
-      "name": "Wildlife",
-      "shortName": "Wildlife",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_177",
+      "code": "EG_124",
       "name": "Civil Code",
       "shortName": "Civil Code",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_178",
+      "code": "EG_125",
       "name": "Corruption",
       "shortName": "Corruption",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_179",
+      "code": "EG_126",
       "name": "Conscription",
       "shortName": "Conscription",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_180",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_181",
+      "code": "EG_127",
       "name": "Islamic extremism",
       "shortName": "Islamic extremism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_182",
+      "code": "EG_128",
       "name": "Judiciary",
       "shortName": "Judiciary",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_183",
-      "name": "Law enforcement",
-      "shortName": "Law enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_184",
+      "code": "EG_129",
       "name": "Massacres",
       "shortName": "Massacres",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_185",
+      "code": "EG_130",
       "name": "Nationality law",
       "shortName": "Nationality law",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_186",
-      "name": "Passport",
-      "shortName": "Passport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_187",
+      "code": "EG_131",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_188",
+      "code": "EG_132",
       "name": "Proposed new capital",
       "shortName": "Proposed new",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_189",
+      "code": "EG_133",
       "name": "Refugees of the Syrian civil war",
       "shortName": "Refugees of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_190",
+      "code": "EG_134",
       "name": "Twin towns and sister cities",
       "shortName": "Twin towns",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_191",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_192",
+      "code": "EG_135",
       "name": "Economic regions",
       "shortName": "Economic regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_193",
+      "code": "EG_136",
       "name": "Egyptian stock exchange",
       "shortName": "Egyptian stock",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_194",
+      "code": "EG_137",
       "name": "Egyptian pound",
       "shortName": "Egyptian pound",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_195",
+      "code": "EG_138",
       "name": "Entrepreneurship policies",
       "shortName": "Entrepreneurship policies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_196",
+      "code": "EG_139",
       "name": "Fishing",
       "shortName": "Fishing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_197",
-      "name": "Impact on the environment",
-      "shortName": "Impact on",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_198",
+      "code": "EG_140",
       "name": "Lighthouses",
       "shortName": "Lighthouses",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_199",
-      "name": "Military industry",
-      "shortName": "Military industry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_200",
+      "code": "EG_141",
       "name": "Nuclear program",
       "shortName": "Nuclear program",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_201",
+      "code": "EG_142",
       "name": "Role of the Egyptian Armed Forces",
       "shortName": "Role of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_202",
+      "code": "EG_143",
       "name": "Tallest buildings",
       "shortName": "Tallest buildings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_203",
+      "code": "EG_144",
       "name": "Airports",
       "shortName": "Airports",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_204",
+      "code": "EG_145",
       "name": "Railway stations",
       "shortName": "Railway stations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_205",
+      "code": "EG_146",
       "name": "Abortion",
       "shortName": "Abortion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_206",
+      "code": "EG_147",
       "name": "Animal welfare",
       "shortName": "Animal welfare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_207",
+      "code": "EG_148",
       "name": "Billionaires",
       "shortName": "Billionaires",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_208",
+      "code": "EG_149",
       "name": "Cannabis",
       "shortName": "Cannabis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_209",
+      "code": "EG_150",
       "name": "Capital punishment",
       "shortName": "Capital punishment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_210",
+      "code": "EG_151",
       "name": "Censuses",
       "shortName": "Censuses",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_211",
+      "code": "EG_152",
       "name": "Mass sexual assault",
       "shortName": "Mass sexual",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_212",
+      "code": "EG_153",
       "name": "Rape",
       "shortName": "Rape",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_213",
+      "code": "EG_154",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_214",
+      "code": "EG_155",
       "name": "Diaspora",
       "shortName": "Diaspora",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_215",
+      "code": "EG_156",
       "name": "Law schools",
       "shortName": "Law schools",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_216",
+      "code": "EG_157",
       "name": "Medical schools",
       "shortName": "Medical schools",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_217",
+      "code": "EG_158",
       "name": "Schools",
       "shortName": "Schools",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_218",
+      "code": "EG_159",
       "name": "Universities",
       "shortName": "Universities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_219",
+      "code": "EG_160",
       "name": "Hospitals",
       "shortName": "Hospitals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_220",
+      "code": "EG_161",
       "name": "Housing",
       "shortName": "Housing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_221",
+      "code": "EG_162",
       "name": "LGBT rights",
       "shortName": "LGBT rights",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_222",
+      "code": "EG_163",
       "name": "International rankings",
       "shortName": "International rankings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_223",
+      "code": "EG_164",
       "name": "Saʽidi Arabic",
       "shortName": "Saʽidi Arabic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_224",
+      "code": "EG_165",
       "name": "Sign Language",
       "shortName": "Sign Language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_225",
+      "code": "EG_166",
       "name": "Liberalism",
       "shortName": "Liberalism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_226",
+      "code": "EG_167",
       "name": "Literature",
       "shortName": "Literature",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_227",
+      "code": "EG_168",
       "name": "Prostitution",
       "shortName": "Prostitution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_228",
+      "code": "EG_169",
       "name": "Blasphemy law",
       "shortName": "Blasphemy law",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_229",
+      "code": "EG_170",
       "name": "Coptic Churches",
       "shortName": "Coptic Churches",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_230",
+      "code": "EG_171",
       "name": "Hinduism",
       "shortName": "Hinduism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_231",
+      "code": "EG_172",
       "name": "Identification card controversy",
       "shortName": "Identification card",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_232",
+      "code": "EG_173",
       "name": "Irreligion",
       "shortName": "Irreligion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_233",
+      "code": "EG_174",
       "name": "Mosques",
       "shortName": "Mosques",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_234",
+      "code": "EG_175",
       "name": "Niqāb",
       "shortName": "Niqāb",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_235",
+      "code": "EG_176",
       "name": "Scientology",
       "shortName": "Scientology",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_236",
+      "code": "EG_177",
       "name": "Smoking",
       "shortName": "Smoking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_237",
+      "code": "EG_178",
       "name": "Units of measurement",
       "shortName": "Units of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_238",
+      "code": "EG_179",
       "name": "Vehicle registration plates",
       "shortName": "Vehicle registration",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_239",
+      "code": "EG_180",
       "name": "Waste management",
       "shortName": "Waste management",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_240",
+      "code": "EG_181",
       "name": "Women",
       "shortName": "Women",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_241",
+      "code": "EG_182",
       "name": "Architecture",
       "shortName": "Architecture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_242",
+      "code": "EG_183",
       "name": "Art (ancient)",
       "shortName": "Art (ancient)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_243",
+      "code": "EG_184",
       "name": "Art (contemporary)",
       "shortName": "Art (contemporary)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_244",
+      "code": "EG_185",
       "name": "Botanical gardens",
       "shortName": "Botanical gardens",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_245",
+      "code": "EG_186",
       "name": "Castles",
       "shortName": "Castles",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_246",
+      "code": "EG_187",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_247",
+      "code": "EG_188",
       "name": "Clothing in ancient Egypt",
       "shortName": "Clothing in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_248",
+      "code": "EG_189",
       "name": "Almah",
       "shortName": "Almah",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_249",
+      "code": "EG_190",
       "name": "Raqs sharqi",
       "shortName": "Raqs sharqi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_250",
+      "code": "EG_191",
       "name": "Baladi",
       "shortName": "Baladi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_251",
+      "code": "EG_192",
       "name": "Tahtib",
       "shortName": "Tahtib",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_252",
+      "code": "EG_193",
       "name": "Tanoura",
       "shortName": "Tanoura",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_253",
+      "code": "EG_194",
       "name": "Zaffa",
       "shortName": "Zaffa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_254",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_255",
+      "code": "EG_195",
       "name": "Coat of arms",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_256",
+      "code": "EG_196",
       "name": "Beer",
       "shortName": "Beer",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_257",
+      "code": "EG_197",
       "name": "Wine",
       "shortName": "Wine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_258",
+      "code": "EG_198",
       "name": "regions",
       "shortName": "regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_259",
+      "code": "EG_199",
       "name": "Football stadiums",
       "shortName": "Football stadiums",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_260",
+      "code": "EG_200",
       "name": "Egyptians",
       "shortName": "Egyptians",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_261",
+      "code": "EG_201",
       "name": "Newspapers",
       "shortName": "Newspapers",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_262",
+      "code": "EG_202",
       "name": "Radio",
       "shortName": "Radio",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_263",
+      "code": "EG_203",
       "name": "TV",
       "shortName": "TV",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_264",
+      "code": "EG_204",
       "name": "Museums",
       "shortName": "Museums",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_265",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_266",
+      "code": "EG_205",
       "name": "Mythology",
       "shortName": "Mythology",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_267",
+      "code": "EG_206",
       "name": "National anthem",
       "shortName": "National anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_268",
+      "code": "EG_207",
       "name": "Public holidays",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_269",
+      "code": "EG_208",
       "name": "World Heritage Sites",
       "shortName": "World Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_270",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_271",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_272",
+      "code": "EG_209",
       "name": "WikiProject",
       "shortName": "WikiProject",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EG_273",
+      "code": "EG_210",
       "name": "Commons",
       "shortName": "Commons",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_274",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_275",
-      "name": "Lists of buildings and structures in Egypt",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_276",
-      "name": "Lists of companies of Egypt",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_277",
-      "name": "Lists of banks in Africa",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_278",
-      "name": "All articles with dead external links",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_279",
-      "name": "Articles with dead external links from January 2018",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_280",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EG_281",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

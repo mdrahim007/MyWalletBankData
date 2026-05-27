@@ -4,35 +4,35 @@
   "country": "SJ",
   "institutions": [
     {
-      "code": "CENBSJ",
+      "code": "SJ_0",
       "name": "Central Bank of SJ",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSJ",
+      "code": "SJ_1",
       "name": "National Bank of SJ",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSJ",
+      "code": "SJ_2",
       "name": "State Bank of SJ",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSJ",
+      "code": "SJ_3",
       "name": "Commercial Bank of SJ",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSJ",
+      "code": "SJ_4",
       "name": "First SJ Bank",
       "shortName": "First Bank",
       "type": "bank",

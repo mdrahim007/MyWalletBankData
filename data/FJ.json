@@ -4,35 +4,35 @@
   "country": "FJ",
   "institutions": [
     {
-      "code": "CENBFJ",
+      "code": "FJ_0",
       "name": "Central Bank of FJ",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBFJ",
+      "code": "FJ_1",
       "name": "National Bank of FJ",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABFJ",
+      "code": "FJ_2",
       "name": "State Bank of FJ",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBFJ",
+      "code": "FJ_3",
       "name": "Commercial Bank of FJ",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBFJ",
+      "code": "FJ_4",
       "name": "First FJ Bank",
       "shortName": "First Bank",
       "type": "bank",

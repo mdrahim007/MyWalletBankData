@@ -40,8 +40,8 @@
     },
     {
       "code": "DO_5",
-      "name": "Banco Caribe",
-      "shortName": "Banco Caribe",
+      "name": "Banco Del Caribe",
+      "shortName": "Banco Del",
       "type": "bank",
       "aliases": ""
     },
@@ -117,1100 +117,645 @@
     },
     {
       "code": "DO_16",
-      "name": "Banco BDA",
-      "shortName": "Banco BDA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_17",
       "name": "Banco Adopem",
       "shortName": "Banco Adopem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_18",
+      "code": "DO_17",
       "name": "Banco Agrícola De La Republica Dominicana",
       "shortName": "Banco Agrícola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_19",
+      "code": "DO_18",
       "name": "Banco Pyme Bhd",
       "shortName": "Banco Pyme",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_20",
-      "name": "Banco Ademi",
-      "shortName": "Banco Ademi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_21",
+      "code": "DO_19",
       "name": "Banco Confisa",
       "shortName": "Banco Confisa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_22",
+      "code": "DO_20",
       "name": "Banco De Desarrollo Idecosa",
       "shortName": "Banco De",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_23",
+      "code": "DO_21",
       "name": "Banco Empire",
       "shortName": "Banco Empire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_24",
+      "code": "DO_22",
       "name": "Banco Motor Credito",
       "shortName": "Banco Motor",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_25",
+      "code": "DO_23",
       "name": "Banco Río",
       "shortName": "Banco Río",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_26",
+      "code": "DO_24",
       "name": "Banco Providencial",
       "shortName": "Banco Providencial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_27",
-      "name": "Banco Del Caribe",
-      "shortName": "Banco Del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_28",
+      "code": "DO_25",
       "name": "Banco Inmobiliario (Banaci)",
       "shortName": "Banco Inmobiliario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_29",
+      "code": "DO_26",
       "name": "Banco Gruficorp",
       "shortName": "Banco Gruficorp",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_30",
+      "code": "DO_27",
       "name": "Banco Cofaci",
       "shortName": "Banco Cofaci",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_31",
+      "code": "DO_28",
       "name": "Banco Atlas",
       "shortName": "Banco Atlas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_32",
+      "code": "DO_29",
       "name": "Banco Bonanza",
       "shortName": "Banco Bonanza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_33",
+      "code": "DO_30",
       "name": "Banco Bellbank",
       "shortName": "Banco Bellbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_34",
+      "code": "DO_31",
       "name": "Banco Fihogar",
       "shortName": "Banco Fihogar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_35",
+      "code": "DO_32",
       "name": "Banco Federal",
       "shortName": "Banco Federal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_36",
+      "code": "DO_33",
       "name": "Banco Micro",
       "shortName": "Banco Micro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_37",
+      "code": "DO_34",
       "name": "Banco Unión",
       "shortName": "Banco Unión",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_38",
+      "code": "DO_35",
       "name": "Kneutt F.Bank",
       "shortName": "Kneutt F.Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_39",
+      "code": "DO_36",
       "name": "Asociación Popular de Ahorros y Préstamos",
       "shortName": "Asociación Popular",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_40",
+      "code": "DO_37",
       "name": "Asociación Cibao",
       "shortName": "Asociación Cibao",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_41",
-      "name": "Asociación Nortena",
-      "shortName": "Asociación Nortena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_42",
-      "name": "Asociación Romana",
-      "shortName": "Asociación Romana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_43",
-      "name": "Asociación Higuamo",
-      "shortName": "Asociación Higuamo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_44",
-      "name": "Asociación La Vega Real",
-      "shortName": "Asociación La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_45",
-      "name": "Asociación Duarte",
-      "shortName": "Asociación Duarte",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_46",
-      "name": "Asociación Barahona",
-      "shortName": "Asociación Barahona",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_47",
-      "name": "Asociación Maguana",
-      "shortName": "Asociación Maguana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_48",
-      "name": "Asociación Mocana",
-      "shortName": "Asociación Mocana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_49",
-      "name": "Asociación Bonao",
-      "shortName": "Asociación Bonao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_50",
-      "name": "Asociación La Nacional",
-      "shortName": "Asociación La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_51",
+      "code": "DO_38",
       "name": "Asociación Noroestana",
       "shortName": "Asociación Noroestana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_52",
+      "code": "DO_39",
+      "name": "Asociación Maguana",
+      "shortName": "Asociación Maguana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_40",
+      "name": "Asociación Higuamo",
+      "shortName": "Asociación Higuamo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_41",
+      "name": "Asociación La Vega Real",
+      "shortName": "Asociación La",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_42",
+      "name": "Asociación Duarte",
+      "shortName": "Asociación Duarte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_43",
+      "name": "Asociación Barahona",
+      "shortName": "Asociación Barahona",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_44",
+      "name": "Asociación La Nacional",
+      "shortName": "Asociación La",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DO_45",
       "name": "Banco Intercontinental (BANINTER; fell in 2003)",
       "shortName": "Banco Intercontinental",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_53",
+      "code": "DO_46",
       "name": "Bancrédito (fell in 2003)",
       "shortName": "Bancrédito (fell",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_54",
+      "code": "DO_47",
       "name": "Banco Mercantil (fell in 2003)",
       "shortName": "Banco Mercantil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_55",
+      "code": "DO_48",
       "name": "Banco Peravia; Asociación Peravia (disestablished in 2014)",
       "shortName": "Banco Peravia;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_56",
+      "code": "DO_49",
       "name": "There are 2462 automated teller machine",
       "shortName": "There are",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_57",
-      "name": "Antigua and Barbuda",
-      "shortName": "Antigua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_58",
-      "name": "Bahamas",
-      "shortName": "Bahamas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_59",
-      "name": "Barbados",
-      "shortName": "Barbados",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_60",
-      "name": "Belize",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_61",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_62",
-      "name": "Costa Rica",
-      "shortName": "Costa Rica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_63",
-      "name": "Cuba",
-      "shortName": "Cuba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_64",
-      "name": "Dominica",
-      "shortName": "Dominica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_65",
-      "name": "Dominican Republic",
-      "shortName": "Dominican Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_66",
-      "name": "El Salvador",
-      "shortName": "El Salvador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_67",
-      "name": "Grenada",
-      "shortName": "Grenada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_68",
-      "name": "Guatemala",
-      "shortName": "Guatemala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_69",
-      "name": "Haiti",
-      "shortName": "Haiti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_70",
-      "name": "Honduras",
-      "shortName": "Honduras",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_71",
-      "name": "Jamaica",
-      "shortName": "Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_72",
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_73",
-      "name": "Nicaragua",
-      "shortName": "Nicaragua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_74",
-      "name": "Panama",
-      "shortName": "Panama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_75",
-      "name": "Saint Kitts and Nevis",
-      "shortName": "Saint Kitts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_76",
-      "name": "Saint Lucia",
-      "shortName": "Saint Lucia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_77",
-      "name": "Saint Vincent and the Grenadines",
-      "shortName": "Saint Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_78",
-      "name": "Trinidad and Tobago",
-      "shortName": "Trinidad and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_79",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_80",
-      "name": "Anguilla",
-      "shortName": "Anguilla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_81",
-      "name": "Aruba",
-      "shortName": "Aruba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_82",
-      "name": "Bermuda",
-      "shortName": "Bermuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_83",
+      "code": "DO_50",
       "name": "Bonaire",
       "shortName": "Bonaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_84",
+      "code": "DO_51",
       "name": "British Virgin Islands",
       "shortName": "British Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_85",
-      "name": "Cayman Islands",
-      "shortName": "Cayman Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_86",
-      "name": "Curaçao",
-      "shortName": "Curaçao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_87",
-      "name": "Greenland",
-      "shortName": "Greenland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_88",
-      "name": "Guadeloupe",
-      "shortName": "Guadeloupe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_89",
-      "name": "Martinique",
-      "shortName": "Martinique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_90",
-      "name": "Montserrat",
-      "shortName": "Montserrat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_91",
-      "name": "Puerto Rico",
-      "shortName": "Puerto Rico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_92",
-      "name": "Saint Barthélemy",
-      "shortName": "Saint Barthélemy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_93",
+      "code": "DO_52",
       "name": "Saint Martin",
       "shortName": "Saint Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_94",
-      "name": "Saint Pierre and Miquelon",
-      "shortName": "Saint Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_95",
+      "code": "DO_53",
       "name": "Saba",
       "shortName": "Saba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_96",
+      "code": "DO_54",
       "name": "Sint Eustatius",
       "shortName": "Sint Eustatius",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_97",
+      "code": "DO_55",
       "name": "Sint Maarten",
       "shortName": "Sint Maarten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_98",
-      "name": "Turks and Caicos Islands",
-      "shortName": "Turks and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_99",
+      "code": "DO_56",
       "name": "United States Virgin Islands",
       "shortName": "United States",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_100",
+      "code": "DO_57",
       "name": "Cacicazgo",
       "shortName": "Cacicazgo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_101",
+      "code": "DO_58",
       "name": "Devastations of Osorio",
       "shortName": "Devastations of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_102",
+      "code": "DO_59",
       "name": "Slave trade",
       "shortName": "Slave trade",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_103",
+      "code": "DO_60",
       "name": "Maroons",
       "shortName": "Maroons",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_104",
+      "code": "DO_61",
       "name": "Era de Francia",
       "shortName": "Era de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_105",
+      "code": "DO_62",
       "name": "Spanish reconquest",
       "shortName": "Spanish reconquest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_106",
+      "code": "DO_63",
       "name": "España Boba",
       "shortName": "España Boba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_107",
+      "code": "DO_64",
       "name": "Spanish Haiti",
       "shortName": "Spanish Haiti",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_108",
+      "code": "DO_65",
       "name": "Unification of Hispaniola",
       "shortName": "Unification of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_109",
+      "code": "DO_66",
       "name": "La Trinitaria",
       "shortName": "La Trinitaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_110",
+      "code": "DO_67",
       "name": "War of Independence",
       "shortName": "War of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_111",
+      "code": "DO_68",
       "name": "Spanish occupation 1861&#8211;1865",
       "shortName": "Spanish occupation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_112",
+      "code": "DO_69",
       "name": "Restoration War",
       "shortName": "Restoration War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_113",
+      "code": "DO_70",
       "name": "U.S. occupation 1916&#8211;1924",
       "shortName": "U.S. occupation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_114",
+      "code": "DO_71",
       "name": "Trujillo Era (Rafael and Héctor Trujillo)",
       "shortName": "Trujillo Era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_115",
+      "code": "DO_72",
       "name": "Parsley massacre",
       "shortName": "Parsley massacre",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_116",
+      "code": "DO_73",
       "name": "Dominican Civil War",
       "shortName": "Dominican Civil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_117",
+      "code": "DO_74",
       "name": "DOMREP",
       "shortName": "DOMREP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_118",
+      "code": "DO_75",
       "name": "COVID-19 pandemic",
       "shortName": "COVID-19 pandemic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_119",
+      "code": "DO_76",
       "name": "Border",
       "shortName": "Border",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_120",
+      "code": "DO_77",
       "name": "Cities",
       "shortName": "Cities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_121",
+      "code": "DO_78",
       "name": "Ciudad Colonial",
       "shortName": "Ciudad Colonial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_122",
+      "code": "DO_79",
       "name": "Hispaniola",
       "shortName": "Hispaniola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_123",
+      "code": "DO_80",
       "name": "Islands",
       "shortName": "Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_124",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_125",
+      "code": "DO_81",
       "name": "Municipalities",
       "shortName": "Municipalities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_126",
+      "code": "DO_82",
       "name": "Protected areas",
       "shortName": "Protected areas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_127",
+      "code": "DO_83",
       "name": "Provinces",
       "shortName": "Provinces",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_128",
+      "code": "DO_84",
       "name": "Regions",
       "shortName": "Regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_129",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_130",
-      "name": "Wildlife",
-      "shortName": "Wildlife",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_131",
+      "code": "DO_85",
       "name": "Cabinet",
       "shortName": "Cabinet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_132",
+      "code": "DO_86",
       "name": "Chamber of Deputies",
       "shortName": "Chamber of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_133",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_134",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_135",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_136",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_137",
+      "code": "DO_87",
       "name": "Politics",
       "shortName": "Politics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_138",
+      "code": "DO_88",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_139",
+      "code": "DO_89",
       "name": "President",
       "shortName": "President",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_140",
+      "code": "DO_90",
       "name": "Peso (currency)",
       "shortName": "Peso (currency)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_141",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_142",
+      "code": "DO_91",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_143",
+      "code": "DO_92",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_144",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_145",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_146",
+      "code": "DO_93",
       "name": "Crime",
       "shortName": "Crime",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_147",
+      "code": "DO_94",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_148",
+      "code": "DO_95",
       "name": "Education",
       "shortName": "Education",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_149",
+      "code": "DO_96",
       "name": "Health",
       "shortName": "Health",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_150",
+      "code": "DO_97",
       "name": "Language",
       "shortName": "Language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_151",
+      "code": "DO_98",
       "name": "Public holidays",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_152",
+      "code": "DO_99",
       "name": "Religion",
       "shortName": "Religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_153",
+      "code": "DO_100",
       "name": "Water and sanitation",
       "shortName": "Water and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_154",
+      "code": "DO_101",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_155",
+      "code": "DO_102",
       "name": "Art",
       "shortName": "Art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_156",
+      "code": "DO_103",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_157",
+      "code": "DO_104",
       "name": "Coat of arms",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_158",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_159",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_160",
+      "code": "DO_105",
       "name": "Literature",
       "shortName": "Literature",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_161",
-      "name": "Sports",
-      "shortName": "Sports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_162",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_163",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_164",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_165",
-      "name": "Banks of the Dominican Republic",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_166",
-      "name": "Lists of companies of the Dominican Republic",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_167",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_168",
+      "code": "DO_106",
       "name": "Economy of the Dominican Republic",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DO_169",
-      "name": "Lists of banks in North America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_170",
+      "code": "DO_107",
       "name": "CS1 Spanish-language sources (es)",
       "shortName": "CS1 Spanish-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_171",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DO_172",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

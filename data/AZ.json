@@ -75,1693 +75,874 @@
     },
     {
       "code": "AZ_10",
-      "name": "AtaBank&#160;(1993-2020)",
-      "shortName": "AtaBank&#160;(1993-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_11",
       "name": "NBCBank&#160;(1992-2020)",
       "shortName": "NBCBank&#160;(1992-2020)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_12",
+      "code": "AZ_11",
       "name": "Vahid bank",
       "shortName": "Vahid bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_13",
+      "code": "AZ_12",
       "name": "Zaminbank&#160;(1992-2016)",
       "shortName": "Zaminbank&#160;(1992-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_14",
+      "code": "AZ_13",
       "name": "KredoBank&#160;(1994-2016)",
       "shortName": "KredoBank&#160;(1994-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_15",
+      "code": "AZ_14",
       "name": "United Credit Bank&#160;(1996-2016)",
       "shortName": "United Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_16",
+      "code": "AZ_15",
       "name": "Bank of Azerbaijan&#160;(1993-2016)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_17",
+      "code": "AZ_16",
       "name": "Ganjabank&#160;(1994-2016)",
       "shortName": "Ganjabank&#160;(1994-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_18",
-      "name": "Parabank&#160;(1991-2016)",
-      "shortName": "Parabank&#160;(1991-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_19",
+      "code": "AZ_17",
       "name": "Bank Technique&#160;(1994-2016)",
       "shortName": "Bank Technique&#160;(1994-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_20",
+      "code": "AZ_18",
       "name": "Royal Bank (1993-2012)",
       "shortName": "Royal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_21",
+      "code": "AZ_19",
       "name": "DekaBank&#160;(1989-2016)",
       "shortName": "DekaBank&#160;(1989-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_22",
-      "name": "Atrabank&#160;(1992-2016)",
-      "shortName": "Atrabank&#160;(1992-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_23",
+      "code": "AZ_20",
       "name": "Caspian Development Bank",
       "shortName": "Caspian Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_24",
+      "code": "AZ_21",
       "name": "Bank Standard&#160;(1995-2016)",
       "shortName": "Bank Standard&#160;(1995-2016)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_25",
+      "code": "AZ_22",
       "name": "DəmirBank&#160;(1989-2017)",
       "shortName": "DəmirBank&#160;(1989-2017)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_26",
+      "code": "AZ_23",
       "name": "Caucasus Development Bank&#160;(-2016)",
       "shortName": "Caucasus Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_27",
+      "code": "AZ_24",
       "name": "Günay Bank (1992-2023)",
       "shortName": "Günay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_28",
+      "code": "AZ_25",
       "name": "Muğanbank (1992-2023)",
       "shortName": "Muğanbank (1992-2023)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_29",
+      "code": "AZ_26",
       "name": "Banking in Azerbaijan",
       "shortName": "Banking in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_30",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_31",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_32",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_33",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_34",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_35",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_36",
+      "code": "AZ_27",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_37",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_38",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_39",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_40",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_41",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_42",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_43",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_44",
+      "code": "AZ_28",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_45",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_46",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_47",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_48",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_49",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_50",
+      "code": "AZ_29",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_51",
+      "code": "AZ_30",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_52",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_53",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_54",
+      "code": "AZ_31",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_55",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_56",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_57",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_58",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_59",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_60",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_61",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_62",
+      "code": "AZ_32",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_63",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_64",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_65",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_66",
+      "code": "AZ_33",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_67",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_68",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_69",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_70",
+      "code": "AZ_34",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_71",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_72",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_73",
+      "code": "AZ_35",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_74",
+      "code": "AZ_36",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_75",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_76",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_77",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_78",
+      "code": "AZ_37",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_79",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_80",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_81",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_82",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_83",
+      "code": "AZ_38",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_84",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_85",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_86",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_87",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_88",
+      "code": "AZ_39",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_89",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_90",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_91",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_92",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_93",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_94",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_95",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_96",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_97",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_98",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_99",
+      "code": "AZ_40",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_100",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_101",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_102",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_103",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_104",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_105",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_106",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_107",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_108",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_109",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_110",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_111",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_112",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_113",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_114",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_115",
+      "code": "AZ_41",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_116",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_117",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_118",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_119",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_120",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_121",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_122",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_123",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_124",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_125",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_126",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_127",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_128",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_129",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_130",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_131",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_132",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_133",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_134",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_135",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_136",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_137",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_138",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_139",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_140",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_141",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_142",
-      "name": "Banks of Azerbaijan",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_143",
-      "name": "Lists of companies of Azerbaijan",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_144",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_145",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_146",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_147",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_148",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_149",
-      "name": "Articles with Azerbaijani-language sources (az)",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_150",
+      "code": "AZ_42",
       "name": "“Accessbank” CJSC",
       "shortName": "“Accessbank” CJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_151",
-      "name": "Accessbank",
-      "shortName": "Accessbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_152",
-      "name": "25 October 2002",
-      "shortName": "25 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_153",
-      "name": "ADB",
-      "shortName": "ADB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_154",
+      "code": "AZ_43",
       "name": "accessbank.az",
       "shortName": "accessbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_155",
+      "code": "AZ_44",
+      "name": "25 October 2002",
+      "shortName": "25 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AZ_45",
+      "name": "ADB",
+      "shortName": "ADB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AZ_46",
       "name": "“AFB Bank” CJSC",
       "shortName": "“AFB”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_156",
+      "code": "AZ_47",
       "name": "AFB Bank",
       "shortName": "AFB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_157",
+      "code": "AZ_48",
       "name": "28 November 2008",
       "shortName": "28 November",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_158",
+      "code": "AZ_49",
       "name": "afb.az",
       "shortName": "afb.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_159",
+      "code": "AZ_50",
       "name": "“International Bank of Azerbaijan” OJSC",
       "shortName": "“International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_160",
+      "code": "AZ_51",
       "name": "ABB",
       "shortName": "ABB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_161",
+      "code": "AZ_52",
       "name": "30 December 1992",
       "shortName": "30 December",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_162",
+      "code": "AZ_53",
       "name": "Azerbaijan Investment Holding",
       "shortName": "Azerbaijan Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_163",
+      "code": "AZ_54",
       "name": "abb-bank.az",
       "shortName": "abb-bank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_164",
+      "code": "AZ_55",
       "name": "“Azerbaijan Industry Bank” OJSC",
       "shortName": "“Azerbaijan Industry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_165",
+      "code": "AZ_56",
       "name": "ASB",
       "shortName": "ASB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_166",
+      "code": "AZ_57",
       "name": "28 September 1996",
       "shortName": "28 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_167",
+      "code": "AZ_58",
       "name": "Anadolu Investment",
       "shortName": "Anadolu Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_168",
+      "code": "AZ_59",
       "name": "asb.az",
       "shortName": "asb.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_169",
+      "code": "AZ_60",
       "name": "“Azer-Turk Bank” OJSC",
       "shortName": "“Azer-Turk”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_170",
+      "code": "AZ_61",
       "name": "ATB",
       "shortName": "ATB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_171",
+      "code": "AZ_62",
       "name": "29 June 1995",
       "shortName": "29 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_172",
+      "code": "AZ_63",
       "name": "State Service on Property Issues",
       "shortName": "State Service",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_173",
+      "code": "AZ_64",
       "name": "atb.az",
       "shortName": "atb.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_174",
+      "code": "AZ_65",
       "name": "“Bank Eurasia” OJSC",
       "shortName": "“Bank Eurasia”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_175",
-      "name": "BankAvrasiya",
-      "shortName": "BankAvrasiya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_176",
-      "name": "28 November 2007",
-      "shortName": "28 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_177",
+      "code": "AZ_66",
       "name": "bankavrasiya.az",
       "shortName": "bankavrasiya.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_178",
+      "code": "AZ_67",
       "name": "“Bank of Baku” OJSC",
       "shortName": "“Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_179",
+      "code": "AZ_68",
       "name": "Bank of Baku",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_180",
+      "code": "AZ_69",
       "name": "18 February 2005",
       "shortName": "18 February",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_181",
+      "code": "AZ_70",
       "name": "NAB Holding",
       "shortName": "NAB Holding",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_182",
+      "code": "AZ_71",
       "name": "bankofbaku.az",
       "shortName": "bankofbaku.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_183",
+      "code": "AZ_72",
       "name": "Bank \"BTB” OJSC",
       "shortName": "Bank \"BTB”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_184",
+      "code": "AZ_73",
       "name": "Bank BTB",
       "shortName": "Bank BTB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_185",
+      "code": "AZ_74",
       "name": "19 March 2010",
       "shortName": "19 March",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_186",
+      "code": "AZ_75",
       "name": "btb.az",
       "shortName": "btb.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_187",
+      "code": "AZ_76",
       "name": "“Bank Respublika” OJSC",
       "shortName": "“Bank Respublika”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_188",
-      "name": "Bank Respublika",
-      "shortName": "Bank Respublika",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_189",
-      "name": "15 December 1992",
-      "shortName": "15 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_190",
-      "name": "Guliyev family",
-      "shortName": "Guliyev family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_191",
+      "code": "AZ_77",
       "name": "bankrespublika.az",
       "shortName": "bankrespublika.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_192",
+      "code": "AZ_78",
+      "name": "Guliyev family",
+      "shortName": "Guliyev family",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AZ_79",
       "name": "\"Premium Bank” OJSC",
       "shortName": "\"Premium”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_193",
+      "code": "AZ_80",
       "name": "Premium Bank",
       "shortName": "Premium",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_194",
+      "code": "AZ_81",
       "name": "6 January 1994",
       "shortName": "6 January",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_195",
+      "code": "AZ_82",
       "name": "Hamzayeva Zaria Kamil",
       "shortName": "Hamzayeva Zaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_196",
+      "code": "AZ_83",
       "name": "premiumbank.az",
       "shortName": "premiumbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_197",
+      "code": "AZ_84",
       "name": "“Bank VTB (Azerbaijan)” OJSC",
       "shortName": "“Bank VTB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_198",
+      "code": "AZ_85",
       "name": "VTB",
       "shortName": "VTB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_199",
+      "code": "AZ_86",
       "name": "22 October 1993",
       "shortName": "22 October",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_200",
+      "code": "AZ_87",
       "name": "VTB Group",
       "shortName": "VTB Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_201",
+      "code": "AZ_88",
       "name": "vtb.az",
       "shortName": "vtb.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_202",
+      "code": "AZ_89",
       "name": "“Expressbank” OJSC",
       "shortName": "“Expressbank” OJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_203",
-      "name": "Expressbank",
-      "shortName": "Expressbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_204",
-      "name": "Azenco",
-      "shortName": "Azenco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_205",
+      "code": "AZ_90",
       "name": "expressbank.az",
       "shortName": "expressbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_206",
+      "code": "AZ_91",
+      "name": "Azenco",
+      "shortName": "Azenco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AZ_92",
       "name": "\"Xalq Bank\" OJSC",
       "shortName": "\"Xalq\"",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_207",
+      "code": "AZ_93",
       "name": "Xalq Bank",
       "shortName": "Xalq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_208",
+      "code": "AZ_94",
       "name": "27 December 2004",
       "shortName": "27 December",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_209",
+      "code": "AZ_95",
       "name": "İdeal Business Ko",
       "shortName": "İdeal Business",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_210",
+      "code": "AZ_96",
       "name": "xalqbank.az",
       "shortName": "xalqbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_211",
+      "code": "AZ_97",
       "name": "“Kapital Bank” OJSC",
       "shortName": "“Kapital”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_212",
+      "code": "AZ_98",
       "name": "Kapital Bank",
       "shortName": "Kapital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_213",
-      "name": "8 February 2000",
-      "shortName": "8 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_214",
+      "code": "AZ_99",
       "name": "PASHA Holding",
       "shortName": "PASHA Holding",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_215",
+      "code": "AZ_100",
       "name": "kapitalbank.az",
       "shortName": "kapitalbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_216",
+      "code": "AZ_101",
       "name": "“Yelo” OJSC",
       "shortName": "“Yelo” OJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_217",
+      "code": "AZ_102",
       "name": "Yelo Bank",
       "shortName": "Yelo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_218",
+      "code": "AZ_103",
       "name": "25 February 1994",
       "shortName": "25 February",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_219",
+      "code": "AZ_104",
       "name": "Topaz Investment",
       "shortName": "Topaz Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_220",
+      "code": "AZ_105",
       "name": "yelo.az",
       "shortName": "yelo.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_221",
+      "code": "AZ_106",
       "name": "“Pasha Bank” OJSC",
       "shortName": "“Pasha”",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_222",
+      "code": "AZ_107",
       "name": "Pasha Bank",
       "shortName": "Pasha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_223",
+      "code": "AZ_108",
       "name": "pashabank.az",
       "shortName": "pashabank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_224",
+      "code": "AZ_109",
       "name": "“Rabitabank” OJSC",
       "shortName": "“Rabitabank” OJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_225",
+      "code": "AZ_110",
       "name": "Rabitəbank",
       "shortName": "Rabitəbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_226",
+      "code": "AZ_111",
       "name": "30 June 1993",
       "shortName": "30 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_227",
+      "code": "AZ_112",
       "name": "Zakir Nuriyev",
       "shortName": "Zakir Nuriyev",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_228",
+      "code": "AZ_113",
       "name": "rabitabank.com",
       "shortName": "rabitabank.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_229",
+      "code": "AZ_114",
       "name": "\"TuranBank\" OJSC",
       "shortName": "\"TuranBank\" OJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_230",
-      "name": "TuranBank",
-      "shortName": "TuranBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_231",
+      "code": "AZ_115",
       "name": "turanbank.az",
       "shortName": "turanbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_232",
+      "code": "AZ_116",
       "name": "“Unibank” OJSC",
       "shortName": "“Unibank” OJSC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_233",
+      "code": "AZ_117",
       "name": "Unibank",
       "shortName": "Unibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_234",
-      "name": "10 December 1992",
-      "shortName": "10 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_235",
+      "code": "AZ_118",
       "name": "Eldar Garibov",
       "shortName": "Eldar Garibov",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_236",
+      "code": "AZ_119",
       "name": "unibank.az",
       "shortName": "unibank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_237",
+      "code": "AZ_120",
       "name": "“Yapi Kredi Bank Azerbaijan” CJSC",
       "shortName": "“Yapi Kredi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_238",
+      "code": "AZ_121",
       "name": "YapıKredi Bank",
       "shortName": "YapıKredi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_239",
+      "code": "AZ_122",
       "name": "11 January 2000",
       "shortName": "11 January",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_240",
+      "code": "AZ_123",
       "name": "Yapı ve Kredi A.Ş.",
       "shortName": "Yapı ve",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_241",
+      "code": "AZ_124",
       "name": "yapikredi.com.az",
       "shortName": "yapikredi.com.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_242",
+      "code": "AZ_125",
       "name": "“Ziraat Bank Azerbaijan” OJSC",
       "shortName": "“Ziraat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_243",
+      "code": "AZ_126",
       "name": "Ziraat Bank",
       "shortName": "Ziraat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_244",
+      "code": "AZ_127",
       "name": "30 December 2014",
       "shortName": "30 December",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_245",
+      "code": "AZ_128",
       "name": "T.C. Ziraat Bankası A.Ş.",
       "shortName": "T.C. Ziraat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_246",
+      "code": "AZ_129",
       "name": "ziraatbank.az",
       "shortName": "ziraatbank.az",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_247",
+      "code": "AZ_130",
       "name": "\"Bank Melli Iran\" (Baku Branch)",
       "shortName": "\"Bank Melli",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_248",
+      "code": "AZ_131",
       "name": "BMI Baku",
       "shortName": "BMI Baku",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_249",
+      "code": "AZ_132",
       "name": "29 January 1993",
       "shortName": "29 January",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_250",
+      "code": "AZ_133",
       "name": "Bank Melli Iran",
       "shortName": "Bank Melli",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_251",
+      "code": "AZ_134",
       "name": "bmibaku.az",
       "shortName": "bmibaku.az",
       "type": "bank",

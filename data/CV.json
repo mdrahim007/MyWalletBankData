@@ -4,35 +4,35 @@
   "country": "CV",
   "institutions": [
     {
-      "code": "CENBCV",
+      "code": "CV_0",
       "name": "Central Bank of CV",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCV",
+      "code": "CV_1",
       "name": "National Bank of CV",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCV",
+      "code": "CV_2",
       "name": "State Bank of CV",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCV",
+      "code": "CV_3",
       "name": "Commercial Bank of CV",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCV",
+      "code": "CV_4",
       "name": "First CV Bank",
       "shortName": "First Bank",
       "type": "bank",

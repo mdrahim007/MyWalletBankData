@@ -4,35 +4,35 @@
   "country": "KN",
   "institutions": [
     {
-      "code": "CENBKN",
+      "code": "KN_0",
       "name": "Central Bank of KN",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBKN",
+      "code": "KN_1",
       "name": "National Bank of KN",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABKN",
+      "code": "KN_2",
       "name": "State Bank of KN",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBKN",
+      "code": "KN_3",
       "name": "Commercial Bank of KN",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBKN",
+      "code": "KN_4",
       "name": "First KN Bank",
       "shortName": "First Bank",
       "type": "bank",

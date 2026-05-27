@@ -47,981 +47,386 @@
     },
     {
       "code": "MC_6",
-      "name": "EFG Eurofinancière d'Investissements  SWIFT: EFGBMCMCXXX",
-      "shortName": "EFG Eurofinancière",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_7",
       "name": "Compagnie Monégasque de Banque  SWIFT: CMBMMCMXXXX",
       "shortName": "Compagnie Monégasque",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_8",
+      "code": "MC_7",
       "name": "BNP Paribas Private Bank Monaco  SWIFT: BPPBMCMCXXX",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_9",
-      "name": "HSBC Private Bank (Monaco)  SWIFT: BLICMCMCXXX",
-      "shortName": "HSBC Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_10",
+      "code": "MC_8",
       "name": "Union Bancaire Privée  SWIFT: UBPGMCMXXXX",
       "shortName": "Union Bancaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_11",
+      "code": "MC_9",
       "name": "Banque J. Safra (Monaco)  SWIFT: BJSBMCMXXXX",
       "shortName": "Banque J.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_12",
+      "code": "MC_10",
       "name": "Banque Havilland  SWIFT: HAVLMCMXXX",
       "shortName": "Banque Havilland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_13",
+      "code": "MC_11",
       "name": "BSI Monaco  SWIFT: BSILMCMCXXX",
       "shortName": "BSI Monaco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_14",
+      "code": "MC_12",
       "name": "Fortis Banque Monaco  SWIFT: FTSBMCMCXXX",
       "shortName": "Fortis Banque",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_15",
+      "code": "MC_13",
       "name": "ING Bank (Monaco)  SWIFT: INGBMCMCXXX",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_16",
+      "code": "MC_14",
       "name": "KB Luxembourg (Monaco)  SWIFT: KBLXMCMCXXX",
       "shortName": "KB Luxembourg",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_17",
+      "code": "MC_15",
       "name": "Monte Paschi Monaco  SWIFT: MONTMCMCXXX",
       "shortName": "Monte Paschi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_18",
+      "code": "MC_16",
       "name": "François Grimaldi",
       "shortName": "François Grimaldi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_19",
+      "code": "MC_17",
       "name": "Republic of Genoa",
       "shortName": "Republic of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_20",
+      "code": "MC_18",
       "name": "France–Monaco relations",
       "shortName": "France–Monaco relations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_21",
+      "code": "MC_19",
       "name": "Treaty of Tordesillas (1524)",
       "shortName": "Treaty of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_22",
+      "code": "MC_20",
       "name": "Treaty of Péronne (1641)",
       "shortName": "Treaty of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_23",
+      "code": "MC_21",
       "name": "Treaty of Stupinigi",
       "shortName": "Treaty of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_24",
+      "code": "MC_22",
       "name": "Franco-Monégasque Treaties",
       "shortName": "Franco-Monégasque Treaties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_25",
+      "code": "MC_23",
       "name": "House of Grimaldi",
       "shortName": "House of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_26",
+      "code": "MC_24",
       "name": "Anarchism in Monaco",
       "shortName": "Anarchism in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_27",
+      "code": "MC_25",
       "name": "1918 succession crisis",
       "shortName": "1918 succession",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_28",
+      "code": "MC_26",
       "name": "Monégasque Revolution",
       "shortName": "Monégasque Revolution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_29",
+      "code": "MC_27",
       "name": "Rulers of Monaco",
       "shortName": "Rulers of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_30",
+      "code": "MC_28",
       "name": "France–Monaco border",
       "shortName": "France–Monaco border",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_31",
+      "code": "MC_29",
       "name": "Land reclamation in Monaco",
       "shortName": "Land reclamation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_32",
+      "code": "MC_30",
       "name": "Mont Agel",
       "shortName": "Mont Agel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_33",
+      "code": "MC_31",
       "name": "Port Hercules",
       "shortName": "Port Hercules",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_34",
+      "code": "MC_32",
       "name": "Rock of Monaco",
       "shortName": "Rock of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_35",
+      "code": "MC_33",
       "name": "Cabinet",
       "shortName": "Cabinet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_36",
+      "code": "MC_34",
       "name": "Communal Council",
       "shortName": "Communal Council",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_37",
+      "code": "MC_35",
       "name": "Concordat",
       "shortName": "Concordat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_38",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_39",
+      "code": "MC_36",
       "name": "Court of Appeal",
       "shortName": "Court of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_40",
+      "code": "MC_37",
       "name": "Court of Revision",
       "shortName": "Court of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_41",
+      "code": "MC_38",
       "name": "Crown Council",
       "shortName": "Crown Council",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_42",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_43",
+      "code": "MC_39",
       "name": "Justice of the peace",
       "shortName": "Justice of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_44",
-      "name": "European microstates and the European Union",
-      "shortName": "European microstates",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_45",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_46",
+      "code": "MC_40",
       "name": "High Council of Judges and Prosecutors",
       "shortName": "High Council",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_47",
-      "name": "Law enforcement",
-      "shortName": "Law enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_48",
+      "code": "MC_41",
       "name": "Mayors",
       "shortName": "Mayors",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_49",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_50",
+      "code": "MC_42",
       "name": "Minister of State",
       "shortName": "Minister of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_51",
+      "code": "MC_43",
       "name": "Parliament",
       "shortName": "Parliament",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_52",
+      "code": "MC_44",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_53",
-      "name": "Supreme Court",
-      "shortName": "Supreme Court",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_54",
+      "code": "MC_45",
       "name": "Banks",
       "shortName": "Banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_55",
+      "code": "MC_46",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_56",
-      "name": "Euro coins",
-      "shortName": "Euro coins",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_57",
+      "code": "MC_47",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_58",
+      "code": "MC_48",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_59",
+      "code": "MC_49",
       "name": "Architecture",
       "shortName": "Architecture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_60",
+      "code": "MC_50",
       "name": "Coat of arms",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_61",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_62",
+      "code": "MC_51",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_63",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_64",
-      "name": "Languages",
-      "shortName": "Languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_65",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_66",
+      "code": "MC_52",
       "name": "Orders, decorations and medals",
       "shortName": "Orders, decorations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_67",
+      "code": "MC_53",
       "name": "Public art",
       "shortName": "Public art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_68",
+      "code": "MC_54",
       "name": "Religion",
       "shortName": "Religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_69",
+      "code": "MC_55",
       "name": "Santos-Dumont's experiments",
       "shortName": "Santos-Dumont's experiments",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_70",
-      "name": "Sports",
-      "shortName": "Sports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_71",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_72",
-      "name": "Index",
-      "shortName": "Index",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_73",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_74",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_75",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_76",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_77",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_78",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_79",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_80",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_81",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_82",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_83",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_84",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_85",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_86",
+      "code": "MC_56",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_87",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_88",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_89",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_90",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_91",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_92",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_93",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_94",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_95",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_96",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_97",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_98",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_99",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_100",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_101",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_102",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_103",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_104",
+      "code": "MC_57",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_105",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_106",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_107",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_108",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_109",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_110",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_111",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_112",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_113",
+      "code": "MC_58",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_114",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_115",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_116",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_117",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_118",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_119",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_120",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_121",
+      "code": "MC_59",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MC_122",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_123",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_124",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_125",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_126",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_127",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_128",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_129",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_130",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_131",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_132",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_133",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_134",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_135",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_136",
+      "code": "MC_60",
       "name": "Economy of Monaco-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_137",
-      "name": "Lists of organisations based in Monaco",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_138",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_139",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_140",
-      "name": "Banks of Monaco",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_141",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_142",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_143",
-      "name": "All articles needing references cleanup",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_144",
-      "name": "Articles covered by WikiProject Wikify from April 2025",
-      "shortName": "Articles covered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_145",
-      "name": "All articles covered by WikiProject Wikify",
-      "shortName": "All articles",
       "type": "bank",
       "aliases": ""
     }

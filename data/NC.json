@@ -4,35 +4,35 @@
   "country": "NC",
   "institutions": [
     {
-      "code": "CENBNC",
+      "code": "NC_0",
       "name": "Central Bank of NC",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBNC",
+      "code": "NC_1",
       "name": "National Bank of NC",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABNC",
+      "code": "NC_2",
       "name": "State Bank of NC",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBNC",
+      "code": "NC_3",
       "name": "Commercial Bank of NC",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBNC",
+      "code": "NC_4",
       "name": "First NC Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -75,8 +75,8 @@
     },
     {
       "code": "ID_10",
-      "name": "Bank Indonesia",
-      "shortName": "Bank Indonesia",
+      "name": "Bank Maybank Indonesia",
+      "shortName": "Bank Maybank",
       "type": "bank",
       "aliases": ""
     },
@@ -180,4374 +180,3177 @@
     },
     {
       "code": "ID_25",
-      "name": "Bank of India&#91;24&#93;",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_26",
       "name": "State Bank of India&#91;24&#93;",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_27",
+      "code": "ID_26",
       "name": "Japan Bank for International Cooperation&#91;24&#93;",
       "shortName": "Japan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_28",
+      "code": "ID_27",
       "name": "The Sumitomo Trust &amp; Banking Co. Ltd&#91;24&#93;",
       "shortName": "The Sumitomo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_29",
+      "code": "ID_28",
       "name": "ING Bank NV&#91;24&#93;",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_30",
+      "code": "ID_29",
       "name": "NV De Indonesische Overzeese Bank&#91;24&#93;",
       "shortName": "NV De",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_31",
-      "name": "OCBC Bank&#91;24&#93;",
-      "shortName": "OCBC&#91;24&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_32",
+      "code": "ID_30",
       "name": "United Overseas Bank&#91;24&#93;",
       "shortName": "United Overseas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_33",
+      "code": "ID_31",
       "name": "EFG Bank&#91;24&#93;",
       "shortName": "EFG&#91;24&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_34",
+      "code": "ID_32",
       "name": "UBS AG Jakarta Representative Office&#91;24&#93;",
       "shortName": "UBS AG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_35",
+      "code": "ID_33",
       "name": "The Exim Bank of Republic of China&#91;24&#93;",
       "shortName": "The Exim",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_36",
+      "code": "ID_34",
       "name": "Bank of New York&#91;24&#93;",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_37",
+      "code": "ID_35",
       "name": "Wachovia Bank N.A.&#91;24&#93;",
       "shortName": "Wachovia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_38",
+      "code": "ID_36",
       "name": "ATM Bersama",
       "shortName": "ATM Bersama",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_39",
+      "code": "ID_37",
       "name": "Economy of Indonesia",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_40",
+      "code": "ID_38",
       "name": "Regional Banks Association (Asbanda)",
       "shortName": "Regionals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_41",
+      "code": "ID_39",
       "name": "Indonesian Banks Association (Perbanas)",
       "shortName": "Indonesians",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_42",
-      "name": "Bank Negara Indonesia",
-      "shortName": "Bank Negara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_43",
-      "name": "Bank Rakyat Indonesia",
-      "shortName": "Bank Rakyat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_44",
-      "name": "Bank Tabungan Negara",
-      "shortName": "Bank Tabungan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_45",
-      "name": "Bank Anda",
-      "shortName": "Bank Anda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_46",
-      "name": "Bank Artha Graha Internasional",
-      "shortName": "Bank Artha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_47",
-      "name": "Bank Bukopin",
-      "shortName": "Bank Bukopin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_48",
-      "name": "Bank Bumi Arta",
-      "shortName": "Bank Bumi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_49",
-      "name": "Bank Capital Indonesia",
-      "shortName": "Bank Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_50",
-      "name": "Bank Central Asia",
-      "shortName": "Bank Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_51",
-      "name": "BCA Digital Bank",
-      "shortName": "BCA Digital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_52",
-      "name": "CIMB Niaga",
-      "shortName": "CIMB Niaga",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_53",
-      "name": "Bank Ganesha",
-      "shortName": "Bank Ganesha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_54",
-      "name": "Bank Hana",
-      "shortName": "Bank Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_55",
-      "name": "Bank ICB Bumiputera",
-      "shortName": "Bank ICB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_56",
-      "name": "Bank ICBC Indonesia",
-      "shortName": "Bank ICBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_57",
-      "name": "Bank Index Selindo",
-      "shortName": "Bank Index",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_58",
-      "name": "Maybank Indonesia",
-      "shortName": "Maybank Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_59",
-      "name": "Bank Maspion",
-      "shortName": "Bank Maspion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_60",
-      "name": "Bank Mayapada",
-      "shortName": "Bank Mayapada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_61",
-      "name": "Bank Mega",
-      "shortName": "Bank Mega",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_62",
-      "name": "Bank Mestika Dharma",
-      "shortName": "Bank Mestika",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_63",
-      "name": "Bank Metro Express",
-      "shortName": "Bank Metro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_64",
-      "name": "Mutiara Bank",
-      "shortName": "Mutiara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_65",
-      "name": "Bank Nusantara Parahyangan",
-      "shortName": "Bank Nusantara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_66",
-      "name": "OCBC Indonesia",
-      "shortName": "OCBC Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_67",
-      "name": "Bank of India Indonesia",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_68",
-      "name": "Panin Bank",
-      "shortName": "Panin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_69",
-      "name": "Bank QNB Kesawan",
-      "shortName": "Bank QNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_70",
-      "name": "Bank SBI Indonesia",
-      "shortName": "Bank SBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_71",
-      "name": "Bank Sinarmas",
-      "shortName": "Bank Sinarmas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_72",
-      "name": "Bank UOB Indonesia",
-      "shortName": "Bank UOB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_73",
-      "name": "Bank Woori Saudara",
-      "shortName": "Bank Woori",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_74",
-      "name": "Bank BNP Paribas Indonesia",
-      "shortName": "Bank BNP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_75",
-      "name": "China Construction Bank Indonesia",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_76",
-      "name": "CTBC Indonesia",
-      "shortName": "CTBC Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_77",
-      "name": "Bank DBS Indonesia",
-      "shortName": "Bank DBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_78",
-      "name": "Bank HSBC Indonesia",
-      "shortName": "Bank HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_79",
-      "name": "IBK Indonesia",
-      "shortName": "IBK Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_80",
-      "name": "KEB Hana Indonesia",
-      "shortName": "KEB Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_81",
-      "name": "Mizuho Indonesia",
-      "shortName": "Mizuho Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_82",
-      "name": "Bank Resona Perdania",
-      "shortName": "Bank Resona",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_83",
-      "name": "Bank Woori Indonesia",
-      "shortName": "Bank Woori",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_84",
-      "name": "Anglomas Internasional Bank",
-      "shortName": "Anglomas Internasional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_85",
+      "code": "ID_40",
       "name": "Bank Andara",
       "shortName": "Bank Andara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_86",
-      "name": "Bank Artos Indonesia",
-      "shortName": "Bank Artos",
+      "code": "ID_41",
+      "name": "Bank Artha Graha Internasional",
+      "shortName": "Bank Artha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_87",
-      "name": "Bank Bisnis Internasional",
-      "shortName": "Bank Bisnis",
+      "code": "ID_42",
+      "name": "Bank Bukopin",
+      "shortName": "Bank Bukopin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_88",
-      "name": "Centratama Nasional Bank",
-      "shortName": "Centratama Nasional",
+      "code": "ID_43",
+      "name": "Bank Bumi Arta",
+      "shortName": "Bank Bumi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_89",
-      "name": "Bank Dipo International",
-      "shortName": "Bank Dipo",
+      "code": "ID_44",
+      "name": "Bank Capital Indonesia",
+      "shortName": "Bank Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_90",
-      "name": "Bank Fama Internasional",
-      "shortName": "Bank Fama",
+      "code": "ID_45",
+      "name": "Bank Central Asia",
+      "shortName": "Bank Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_91",
-      "name": "Bank Harda Internasional",
-      "shortName": "Bank Harda",
+      "code": "ID_46",
+      "name": "BCA Digital Bank",
+      "shortName": "BCA Digital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_92",
-      "name": "Bank Ina Perdana",
-      "shortName": "Bank Ina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_93",
-      "name": "Bank Jasa Jakarta",
-      "shortName": "Bank Jasa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_94",
-      "name": "Bank Kesejahteraan Ekonomi",
-      "shortName": "Bank Kesejahteraan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_95",
-      "name": "Bank Liman International",
-      "shortName": "Bank Liman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_96",
-      "name": "Bank Mayora",
-      "shortName": "Bank Mayora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_97",
-      "name": "Bank Mitraniaga",
-      "shortName": "Bank Mitraniaga",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_98",
-      "name": "Bank Multi Arta Sentosa",
-      "shortName": "Bank Multi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_99",
-      "name": "Bank Nationalnobu",
-      "shortName": "Bank Nationalnobu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_100",
-      "name": "Prima Master Bank",
-      "shortName": "Prima Master",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_101",
-      "name": "Bank Sahabat Purba Danarta",
-      "shortName": "Bank Sahabat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_102",
-      "name": "Bank Sinar Harapan Bali",
-      "shortName": "Bank Sinar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_103",
-      "name": "Bank SMBC Indonesia",
-      "shortName": "Bank SMBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_104",
-      "name": "Bank Victoria Internasional",
-      "shortName": "Bank Victoria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_105",
-      "name": "Bank Yudha Bhakti",
-      "shortName": "Bank Yudha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_106",
-      "name": "Bank Banten",
-      "shortName": "Bank Banten",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_107",
-      "name": "Bank Bengkulu",
-      "shortName": "Bank Bengkulu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_108",
-      "name": "Bank BJB",
-      "shortName": "Bank BJB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_109",
-      "name": "Bank BPD Bali",
-      "shortName": "Bank BPD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_110",
-      "name": "Bank BPD DIY",
-      "shortName": "Bank BPD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_111",
-      "name": "Bank DKI",
-      "shortName": "Bank DKI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_112",
-      "name": "Bank Jambi",
-      "shortName": "Bank Jambi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_113",
-      "name": "Bank Jateng",
-      "shortName": "Bank Jateng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_114",
-      "name": "Bank Jatim",
-      "shortName": "Bank Jatim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_115",
-      "name": "Bank Kalbar",
-      "shortName": "Bank Kalbar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_116",
-      "name": "Bank Kalsel",
-      "shortName": "Bank Kalsel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_117",
-      "name": "Bank Kalteng",
-      "shortName": "Bank Kalteng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_118",
-      "name": "Bankaltimtara",
-      "shortName": "Bankaltimtara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_119",
-      "name": "Bank Lampung",
-      "shortName": "Bank Lampung",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_120",
-      "name": "Bank Maluku",
-      "shortName": "Bank Maluku",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_121",
-      "name": "Bank Nagari",
-      "shortName": "Bank Nagari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_122",
-      "name": "Bank NTT",
-      "shortName": "Bank NTT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_123",
-      "name": "Bank Papua",
-      "shortName": "Bank Papua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_124",
-      "name": "BRK Syariah",
-      "shortName": "BRK Syariah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_125",
-      "name": "Bank Sulsel",
-      "shortName": "Bank Sulsel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_126",
-      "name": "Bank Sultra",
-      "shortName": "Bank Sultra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_127",
-      "name": "Bank Sulteng",
-      "shortName": "Bank Sulteng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_128",
-      "name": "Bank BSG",
-      "shortName": "Bank BSG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_129",
-      "name": "Bank Sumsel Babel",
-      "shortName": "Bank Sumsel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_130",
-      "name": "Bank Sumut",
-      "shortName": "Bank Sumut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_131",
-      "name": "Bank of America",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_132",
-      "name": "Bank of China",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_133",
-      "name": "Deutsche Bank",
-      "shortName": "Deutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_134",
-      "name": "Citibank",
-      "shortName": "Citibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_135",
-      "name": "JPMorgan Chase",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_136",
-      "name": "MUFG",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_137",
-      "name": "Standard Chartered",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_138",
-      "name": "Bank Syariah Indonesia",
-      "shortName": "Bank Syariah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_139",
-      "name": "BCA Syariah",
-      "shortName": "BCA Syariah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_140",
-      "name": "Bank BJB Syariah",
-      "shortName": "Bank BJB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_141",
-      "name": "Bank DKI Syariah",
-      "shortName": "Bank DKI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_142",
-      "name": "Bank BRI Syariah",
-      "shortName": "Bank BRI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_143",
-      "name": "Bank Mega Syariah",
-      "shortName": "Bank Mega",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_144",
-      "name": "Bank Muamalat",
-      "shortName": "Bank Muamalat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_145",
-      "name": "Panin Bank Syariah",
-      "shortName": "Panin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_146",
-      "name": "KB Bank Syariah",
-      "shortName": "KB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_147",
-      "name": "Bank Victoria Syariah",
-      "shortName": "Bank Victoria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_148",
-      "name": "Bank Aceh Syariah",
-      "shortName": "Bank Aceh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_149",
-      "name": "Bank NTB Syariah",
-      "shortName": "Bank NTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_150",
-      "name": "CIMB Niaga Syariah",
+      "code": "ID_47",
+      "name": "CIMB Niaga",
       "shortName": "CIMB Niaga",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_151",
-      "name": "Bank Maybank Syariah Indonesia",
-      "shortName": "Bank Maybank",
+      "code": "ID_48",
+      "name": "Bank Ganesha",
+      "shortName": "Bank Ganesha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_152",
-      "name": "Bank Danamon Syariah",
-      "shortName": "Bank Danamon",
+      "code": "ID_49",
+      "name": "Bank ICB Bumiputera",
+      "shortName": "Bank ICB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_153",
-      "name": "OCBC Syariah",
-      "shortName": "OCBC Syariah",
+      "code": "ID_50",
+      "name": "Bank Maspion",
+      "shortName": "Bank Maspion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_154",
-      "name": "Permata Bank Syariah",
-      "shortName": "Permata",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_155",
-      "name": "Bank BPD DIY Syariah",
-      "shortName": "Bank BPD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_156",
-      "name": "Bank Kalbar Syariah",
-      "shortName": "Bank Kalbar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_157",
-      "name": "Bank Kalsel Syariah",
-      "shortName": "Bank Kalsel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_158",
-      "name": "Bank Riau Kepri Syariah",
-      "shortName": "Bank Riau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_159",
-      "name": "Bank Sumsel Babel Syariah",
-      "shortName": "Bank Sumsel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_160",
-      "name": "Bank Sumut Syariah",
-      "shortName": "Bank Sumut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_161",
-      "name": "HSBC Amanah",
-      "shortName": "HSBC Amanah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_162",
-      "name": "Benteng program",
-      "shortName": "Benteng program",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_163",
-      "name": "Berkeley Mafia",
-      "shortName": "Berkeley Mafia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_164",
-      "name": "Gang of Four",
-      "shortName": "Gang of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_165",
-      "name": "Asian financial crisis",
-      "shortName": "Asian financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_166",
-      "name": "COVID-19 pandemic",
-      "shortName": "COVID-19 pandemic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_167",
-      "name": "Indonesian rupiah",
-      "shortName": "Indonesian rupiah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_168",
-      "name": "Financial Services Authority",
-      "shortName": "Financial Services",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_169",
-      "name": "Indonesia Stock Exchange",
-      "shortName": "Indonesia Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_170",
-      "name": "GPN",
-      "shortName": "GPN",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_171",
-      "name": "QRIS",
-      "shortName": "QRIS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_172",
-      "name": "Commercial banks",
-      "shortName": "Commercial banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_173",
-      "name": "Regional development banks",
-      "shortName": "Regional development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_174",
-      "name": "Industry",
-      "shortName": "Industry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_175",
-      "name": "Trade",
-      "shortName": "Trade",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_176",
-      "name": "Energy and Mineral Resources",
-      "shortName": "Energy and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_177",
-      "name": "Investment and Downstream Industry",
-      "shortName": "Investment and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_178",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_179",
-      "name": "Public Works",
-      "shortName": "Public Works",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_180",
-      "name": "Housing and Residential Area",
-      "shortName": "Housing and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_181",
-      "name": "Transmigration",
-      "shortName": "Transmigration",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_182",
-      "name": "Transportation",
-      "shortName": "Transportation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_183",
-      "name": "Migrant Workers Protection",
-      "shortName": "Migrant Workers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_184",
-      "name": "Villages and Development of Disadvantaged Regions",
-      "shortName": "Villages and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_185",
-      "name": "Cooperatives",
-      "shortName": "Cooperatives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_186",
-      "name": "Micro, Small, and Medium Enterprises",
-      "shortName": "Micro, Small,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_187",
-      "name": "Creative Economy",
-      "shortName": "Creative Economy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_188",
-      "name": "National Development Planning",
-      "shortName": "National Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_189",
-      "name": "Finance",
-      "shortName": "Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_190",
-      "name": "National Economics Council",
-      "shortName": "National Economics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_191",
-      "name": "Automotive",
-      "shortName": "Automotive",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_192",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_193",
-      "name": "State-owned enterprises",
-      "shortName": "State-owned enterprises",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_194",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_195",
-      "name": "Banana",
-      "shortName": "Banana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_196",
-      "name": "Coconut",
-      "shortName": "Coconut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_197",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_198",
-      "name": "Palm oil",
-      "shortName": "Palm oil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_199",
-      "name": "Peanut",
-      "shortName": "Peanut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_200",
-      "name": "Pulp and paper",
-      "shortName": "Pulp and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_201",
-      "name": "Rice",
-      "shortName": "Rice",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_202",
-      "name": "Tea",
-      "shortName": "Tea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_203",
-      "name": "Tobacco",
-      "shortName": "Tobacco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_204",
-      "name": "Bauxite",
-      "shortName": "Bauxite",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_205",
-      "name": "Coal",
-      "shortName": "Coal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_206",
-      "name": "Copper",
-      "shortName": "Copper",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_207",
-      "name": "Nickel",
-      "shortName": "Nickel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_208",
-      "name": "Tin",
-      "shortName": "Tin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_209",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_210",
-      "name": "Timeline",
-      "shortName": "Timeline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_211",
-      "name": "Prehistory",
-      "shortName": "Prehistory",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_212",
-      "name": "Hindu-Buddhist era",
-      "shortName": "Hindu-Buddhist era",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_213",
-      "name": "Spread of Islam",
-      "shortName": "Spread of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_214",
-      "name": "Portuguese era (1512–1605)",
-      "shortName": "Portuguese era",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_215",
-      "name": "VOC era (1603–1800)",
-      "shortName": "VOC era",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_216",
-      "name": "French and British era (1806–1816)",
-      "shortName": "French and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_217",
-      "name": "Dutch East Indies (1800–1949)",
-      "shortName": "Dutch East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_218",
-      "name": "Japanese occupation (1942–1945)",
-      "shortName": "Japanese occupation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_219",
-      "name": "National Revolution (1945–1949)",
-      "shortName": "National Revolution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_220",
-      "name": "Liberal democracy era (1950–1959)",
-      "shortName": "Liberal democracy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_221",
-      "name": "Guided Democracy era (1959–1966)",
-      "shortName": "Guided Democracy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_222",
-      "name": "Transitional era (1965–1968)",
-      "shortName": "Transitional era",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_223",
-      "name": "New Order (1966–1998)",
-      "shortName": "New Order",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_224",
-      "name": "Reformasi (since 1998)",
-      "shortName": "Reformasi (since",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_225",
-      "name": "Borders",
-      "shortName": "Borders",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_226",
-      "name": "National parks",
-      "shortName": "National parks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_227",
-      "name": "Deforestation",
-      "shortName": "Deforestation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_228",
-      "name": "Earthquakes",
-      "shortName": "Earthquakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_229",
-      "name": "Environmental issues",
-      "shortName": "Environmental issues",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_230",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_231",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_232",
-      "name": "Lakes",
-      "shortName": "Lakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_233",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_234",
-      "name": "Provincial highest points",
-      "shortName": "Provincial highest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_235",
-      "name": "Flora",
-      "shortName": "Flora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_236",
-      "name": "Regions",
-      "shortName": "Regions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_237",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_238",
-      "name": "Volcanoes",
-      "shortName": "Volcanoes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_239",
-      "name": "Provinces",
-      "shortName": "Provinces",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_240",
-      "name": "Regencies and cities",
-      "shortName": "Regencies and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_241",
-      "name": "Districts",
-      "shortName": "Districts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_242",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_243",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_244",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_245",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_246",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_247",
-      "name": "Human rights",
-      "shortName": "Human rights",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_248",
-      "name": "Enforcement",
-      "shortName": "Enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_249",
-      "name": "Military (Babinsa)",
-      "shortName": "Military (Babinsa)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_250",
-      "name": "National capital",
-      "shortName": "National capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_251",
-      "name": "Pancasila",
-      "shortName": "Pancasila",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_252",
-      "name": "People's Consultative Assembly",
-      "shortName": "People's Consultative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_253",
-      "name": "Police",
-      "shortName": "Police",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_254",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_255",
-      "name": "President (List)",
-      "shortName": "President (List)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_256",
-      "name": "Wawasan Nusantara",
-      "shortName": "Wawasan Nusantara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_257",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_258",
-      "name": "Aviation",
-      "shortName": "Aviation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_259",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_260",
-      "name": "History",
-      "shortName": "History",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_261",
-      "name": "Postal codes",
-      "shortName": "Postal codes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_262",
-      "name": "Rupiah",
-      "shortName": "Rupiah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_263",
-      "name": "Science and technology",
-      "shortName": "Science and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_264",
-      "name": "Stock exchange",
-      "shortName": "Stock exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_265",
-      "name": "Water supply and sanitation",
-      "shortName": "Water supply",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_266",
-      "name": "Abortion",
-      "shortName": "Abortion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_267",
-      "name": "Crime",
-      "shortName": "Crime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_268",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_269",
-      "name": "Migrant workers",
-      "shortName": "Migrant workers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_270",
-      "name": "Piracy",
-      "shortName": "Piracy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_271",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_272",
-      "name": "Smoking",
-      "shortName": "Smoking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_273",
-      "name": "Colonial",
-      "shortName": "Colonial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_274",
-      "name": "Mosques",
-      "shortName": "Mosques",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_275",
-      "name": "Rumah adat",
-      "shortName": "Rumah adat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_276",
-      "name": "Art",
-      "shortName": "Art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_277",
-      "name": "Batik",
-      "shortName": "Batik",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_278",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_279",
-      "name": "Costume",
-      "shortName": "Costume",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_280",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_281",
-      "name": "Dance",
-      "shortName": "Dance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_282",
-      "name": "Festivals",
-      "shortName": "Festivals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_283",
-      "name": "Legends",
-      "shortName": "Legends",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_284",
-      "name": "Libraries",
-      "shortName": "Libraries",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_285",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_286",
-      "name": "Martial arts",
-      "shortName": "Martial arts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_287",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_288",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_289",
-      "name": "Mythology",
-      "shortName": "Mythology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_290",
-      "name": "National heroes",
-      "shortName": "National heroes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_291",
-      "name": "National Pedestrian Day",
-      "shortName": "National Pedestrian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_292",
-      "name": "Painting",
-      "shortName": "Painting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_293",
-      "name": "Properties",
-      "shortName": "Properties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_294",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_295",
-      "name": "Sport",
-      "shortName": "Sport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_296",
-      "name": "Theatre",
-      "shortName": "Theatre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_297",
-      "name": "Video games",
-      "shortName": "Video games",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_298",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_299",
-      "name": "Homelessness",
-      "shortName": "Homelessness",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_300",
-      "name": "Languages",
-      "shortName": "Languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_301",
-      "name": "Refugees",
-      "shortName": "Refugees",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_302",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_303",
-      "name": "LGBT rights",
-      "shortName": "LGBT rights",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_304",
-      "name": "Islam",
-      "shortName": "Islam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_305",
-      "name": "Protestantism",
-      "shortName": "Protestantism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_306",
-      "name": "Hinduism",
-      "shortName": "Hinduism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_307",
-      "name": "Buddhism",
-      "shortName": "Buddhism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_308",
-      "name": "Confucianism",
-      "shortName": "Confucianism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_309",
-      "name": "Judaism",
-      "shortName": "Judaism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_310",
-      "name": "Sikhism",
-      "shortName": "Sikhism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_311",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_312",
-      "name": "Subdivision",
-      "shortName": "Subdivision",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_313",
-      "name": "Faunal emblems",
-      "shortName": "Faunal emblems",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_314",
-      "name": "Floral emblems",
-      "shortName": "Floral emblems",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_315",
-      "name": "Motto",
-      "shortName": "Motto",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_316",
-      "name": "Nusantara",
-      "shortName": "Nusantara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_317",
-      "name": "Personification",
-      "shortName": "Personification",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_318",
-      "name": "Songs",
-      "shortName": "Songs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_319",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_320",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_321",
-      "name": "Gallery",
-      "shortName": "Gallery",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_322",
-      "name": "Atlas",
-      "shortName": "Atlas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_323",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_324",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_325",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_326",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_327",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_328",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_329",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_330",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_331",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_332",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_333",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_334",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_335",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_336",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_337",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_338",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_339",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_340",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_341",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_342",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_343",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_344",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_345",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_346",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_347",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_348",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_349",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_350",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_351",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_352",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_353",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_354",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_355",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_356",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_357",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_358",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_359",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_360",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_361",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_362",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_363",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_364",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_365",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_366",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_367",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_368",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_369",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_370",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_371",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_372",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_373",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_374",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_375",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_376",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_377",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_378",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_379",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_380",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_381",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_382",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_383",
-      "name": "Banks of Indonesia",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_384",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_385",
-      "name": "Lists of companies of Indonesia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_386",
-      "name": "Lists of banks in Southeast Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_387",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_388",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_389",
-      "name": "Use British English from September 2015",
-      "shortName": "Use British",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_390",
-      "name": "Use dmy dates from September 2015",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_391",
-      "name": "2 October 1998",
-      "shortName": "2 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_392",
-      "name": "5 July 1946",
-      "shortName": "5 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_393",
-      "name": "16 December 1895",
-      "shortName": "16 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_394",
-      "name": "16 October 1897&#91;2&#93;",
-      "shortName": "16 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_395",
-      "name": "Bank Mandiri Taspen",
-      "shortName": "Bank Mandiri",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_396",
-      "name": "23 February 1970",
-      "shortName": "23 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_397",
-      "name": "Bank Mandiri, PT Taspen",
-      "shortName": "Bank Mandiri,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_398",
-      "name": "Non-foreign exchange bank",
-      "shortName": "Non-foreign exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_399",
-      "name": "Hibank",
-      "shortName": "Hibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_400",
-      "name": "25 February 1993",
-      "shortName": "25 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_401",
-      "name": "Bank Raya Indonesia",
-      "shortName": "Bank Raya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_402",
-      "name": "27 September 1989",
-      "shortName": "27 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_403",
-      "name": "5 July 1962",
-      "shortName": "5 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_404",
-      "name": "Bali Government",
-      "shortName": "Bali Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_405",
-      "name": "Foreign exchange bank",
-      "shortName": "Foreign exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_406",
-      "name": "15 December 1961",
-      "shortName": "15 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_407",
-      "name": "Special Region of Yogyakarta Government",
-      "shortName": "Special Region",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_408",
-      "name": "11 September 1992",
-      "shortName": "11 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_409",
-      "name": "Banten Government",
-      "shortName": "Banten Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_410",
-      "name": "9 August 1969",
-      "shortName": "9 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_411",
-      "name": "Bengkulu Government",
-      "shortName": "Bengkulu Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_412",
-      "name": "20 May 1961",
-      "shortName": "20 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_413",
-      "name": "West Java Government",
-      "shortName": "West Java",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_414",
-      "name": "17 March 1961",
-      "shortName": "17 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_415",
-      "name": "Gorontalo and North Sulawesi Government",
-      "shortName": "Gorontalo and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_416",
-      "name": "Bank Jakarta",
-      "shortName": "Bank Jakarta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_417",
-      "name": "11 April 1961",
-      "shortName": "11 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_418",
-      "name": "Jakarta Government",
-      "shortName": "Jakarta Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_419",
-      "name": "12 February 1959",
-      "shortName": "12 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_420",
-      "name": "Jambi Government",
-      "shortName": "Jambi Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_421",
-      "name": "13 March 1963",
-      "shortName": "13 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_422",
-      "name": "Central Java Government",
-      "shortName": "Central Java",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_423",
-      "name": "17 August 1961",
-      "shortName": "17 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_424",
-      "name": "East Java Government",
-      "shortName": "East Java",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_425",
-      "name": "28 November 1963",
-      "shortName": "28 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_426",
-      "name": "West Kalimantan Government",
-      "shortName": "West Kalimantan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_427",
-      "name": "25 March 1964",
-      "shortName": "25 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_428",
-      "name": "South Kalimantan Government",
-      "shortName": "South Kalimantan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_429",
-      "name": "28 October 1961",
-      "shortName": "28 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_430",
-      "name": "Central Kalimantan Government",
-      "shortName": "Central Kalimantan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_431",
-      "name": "14 October 1965",
-      "shortName": "14 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_432",
-      "name": "East Kalimantan and North Kalimantan Government",
-      "shortName": "East Kalimantan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_433",
-      "name": "1 August 1964",
-      "shortName": "1 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_434",
-      "name": "Lampung Government",
-      "shortName": "Lampung Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_435",
-      "name": "Bank Maluku Malut",
-      "shortName": "Bank Maluku",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_436",
-      "name": "25 October 1961",
-      "shortName": "25 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_437",
-      "name": "Maluku and North Maluku Government",
-      "shortName": "Maluku and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_438",
-      "name": "12 March 1962",
-      "shortName": "12 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_439",
-      "name": "West Sumatra Government",
-      "shortName": "West Sumatra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_440",
-      "name": "17 July 1962",
-      "shortName": "17 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_441",
-      "name": "East Nusa Tenggara Government",
-      "shortName": "East Nusa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_442",
-      "name": "13 April 1966",
-      "shortName": "13 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_443",
-      "name": "Papua and West Papua Government",
-      "shortName": "Papua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_444",
-      "name": "Bank Sulselbar",
-      "shortName": "Bank Sulselbar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_445",
-      "name": "13 January 1961",
-      "shortName": "13 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_446",
-      "name": "South Sulawesi and West Sulawesi Government",
-      "shortName": "South Sulawesi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_447",
-      "name": "1 April 1969",
-      "shortName": "1 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_448",
-      "name": "Central Sulawesi Government",
-      "shortName": "Central Sulawesi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_449",
-      "name": "2 March 1968",
-      "shortName": "2 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_450",
-      "name": "Southeast Sulawesi Government",
-      "shortName": "Southeast Sulawesi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_451",
-      "name": "6 November 1957",
-      "shortName": "6 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_452",
-      "name": "South Sumatra and Bangka Belitung Islands Government",
-      "shortName": "South Sumatra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_453",
-      "name": "4 November 1961",
-      "shortName": "4 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_454",
-      "name": "North Sumatra Government",
-      "shortName": "North Sumatra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_455",
-      "name": "Bank ANZ Indonesia",
-      "shortName": "Bank ANZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_456",
-      "name": "5 September 1990&#91;3&#93;",
-      "shortName": "5 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_457",
-      "name": "ANZ Bank",
-      "shortName": "ANZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_458",
-      "name": "7 September 1973",
-      "shortName": "7 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_459",
-      "name": "Artha Graha Network",
-      "shortName": "Artha Graha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_460",
-      "name": "10 November 1989",
-      "shortName": "10 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_461",
-      "name": "BNP Paribas",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_462",
-      "name": "3 March 1967",
-      "shortName": "3 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_463",
-      "name": "Ajaib Group",
-      "shortName": "Ajaib Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_464",
-      "name": "20 April 1989",
-      "shortName": "20 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_465",
-      "name": "PT Capital Financial Indonesia",
-      "shortName": "PT Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_466",
-      "name": "21 February 1957",
-      "shortName": "21 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_467",
-      "name": "Djarum Group",
-      "shortName": "Djarum Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_468",
-      "name": "2 April 1974",
-      "shortName": "2 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_469",
-      "name": "China Construction Bank",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_470",
-      "name": "26 September 1955",
-      "shortName": "26 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_471",
-      "name": "CIMB Group",
-      "shortName": "CIMB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_472",
-      "name": "Bank CTBC Indonesia",
-      "shortName": "Bank CTBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_473",
-      "name": "21 July 1995",
-      "shortName": "21 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_474",
-      "name": "CTBC Financial Holding",
-      "shortName": "CTBC Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_475",
-      "name": "16 July 1956",
-      "shortName": "16 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_476",
-      "name": "MUFG&#91;4&#93;",
-      "shortName": "MUFG&#91;4&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_477",
-      "name": "30 June 1989&#91;5&#93;",
-      "shortName": "30 June",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_478",
-      "name": "DBS Bank",
-      "shortName": "DBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_479",
-      "name": "15 May 1990&#91;5&#93;",
-      "shortName": "15 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_480",
-      "name": "PT Equity Development Investment",
-      "shortName": "PT Equity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_481",
-      "name": "Bank Hana Indonesia",
-      "shortName": "Bank Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_482",
-      "name": "27 April 1971",
-      "shortName": "27 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_483",
-      "name": "Hana Financial Group",
-      "shortName": "Hana Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_484",
-      "name": "15 May 1989",
-      "shortName": "15 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_485",
-      "name": "HSBC",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_486",
-      "name": "Bank IBK Indonesia",
-      "shortName": "Bank IBK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_487",
-      "name": "13 November 1973",
-      "shortName": "13 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_488",
-      "name": "Industrial Bank of Korea",
-      "shortName": "Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_489",
-      "name": "15 May 1970",
-      "shortName": "15 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_490",
-      "name": "ICBC",
-      "shortName": "ICBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_491",
-      "name": "9 February 1990",
-      "shortName": "9 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_492",
-      "name": "Salim Group",
-      "shortName": "Salim Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_493",
-      "name": "30 July 1992",
-      "shortName": "30 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_494",
-      "name": "PT Kazanah Indexindo",
-      "shortName": "PT Kazanah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_495",
-      "name": "J Trust Bank",
-      "shortName": "J Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_496",
-      "name": "30 May 1989",
-      "shortName": "30 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_497",
-      "name": "J Trust",
-      "shortName": "J Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_498",
-      "name": "KB Bank",
-      "shortName": "KB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_499",
-      "name": "10 July 1970",
-      "shortName": "10 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_500",
-      "name": "KB Financial Group",
-      "shortName": "KB Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_501",
-      "name": "6 November 1989",
-      "shortName": "6 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_502",
-      "name": "Kasikornbank",
-      "shortName": "Kasikornbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_503",
-      "name": "Based in Surabaya",
-      "shortName": "Based in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_504",
-      "name": "Bank Mayapada Internasional",
+      "code": "ID_51",
+      "name": "Bank Mayapada",
       "shortName": "Bank Mayapada",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_505",
-      "name": "7 September 1989",
-      "shortName": "7 September",
+      "code": "ID_52",
+      "name": "Bank Mega",
+      "shortName": "Bank Mega",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_506",
-      "name": "Mayapada Group",
-      "shortName": "Mayapada Group",
+      "code": "ID_53",
+      "name": "Bank Mestika Dharma",
+      "shortName": "Bank Mestika",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_507",
-      "name": "Bank Maybank Indonesia",
-      "shortName": "Bank Maybank",
+      "code": "ID_54",
+      "name": "Bank Metro Express",
+      "shortName": "Bank Metro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_508",
-      "name": "15 May 1959",
-      "shortName": "15 May",
+      "code": "ID_55",
+      "name": "Mutiara Bank",
+      "shortName": "Mutiara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_509",
-      "name": "Maybank",
-      "shortName": "Maybank",
+      "code": "ID_56",
+      "name": "Bank Nusantara Parahyangan",
+      "shortName": "Bank Nusantara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_510",
-      "name": "15 April 1969",
-      "shortName": "15 April",
+      "code": "ID_57",
+      "name": "OCBC Indonesia",
+      "shortName": "OCBC Indonesia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_511",
-      "name": "Mega Corp",
-      "shortName": "Mega Corp",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_512",
-      "name": "27 April 1955",
-      "shortName": "27 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_513",
-      "name": "PT Mestika Buana Mas&#91;6&#93;",
-      "shortName": "PT Mestika",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_514",
-      "name": "Based in Medan",
-      "shortName": "Based in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_515",
-      "name": "Bank Mizuho Indonesia",
-      "shortName": "Bank Mizuho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_516",
-      "name": "23 February 1989",
-      "shortName": "23 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_517",
-      "name": "Mizuho Financial Group",
-      "shortName": "Mizuho Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_518",
-      "name": "Bank MNC Internasional",
-      "shortName": "Bank MNC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_519",
-      "name": "12 January 1990&#91;7&#93;",
-      "shortName": "12 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_520",
-      "name": "MNC Financial Services",
-      "shortName": "MNC Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_521",
-      "name": "Bank Multiarta Sentosa",
-      "shortName": "Bank Multiarta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_522",
-      "name": "28 July 1992",
-      "shortName": "28 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_523",
-      "name": "Wings Group",
-      "shortName": "Wings Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_524",
-      "name": "Nobu Bank",
-      "shortName": "Nobu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_525",
-      "name": "16 August 1990",
-      "shortName": "16 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_526",
-      "name": "Lippo Group",
-      "shortName": "Lippo Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_527",
-      "name": "4 April 1941",
-      "shortName": "4 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_528",
-      "name": "OCBC Bank",
-      "shortName": "OCBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_529",
-      "name": "28 September 1968",
-      "shortName": "28 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_530",
-      "name": "Bank of India",
+      "code": "ID_58",
+      "name": "Bank of India Indonesia",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_531",
-      "name": "17 August 1971",
-      "shortName": "17 August",
+      "code": "ID_59",
+      "name": "Panin Bank",
+      "shortName": "Panin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_532",
-      "name": "Panin Financial",
-      "shortName": "Panin Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_533",
-      "name": "17 December 1954&#91;8&#93;",
-      "shortName": "17 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_534",
-      "name": "Bangkok Bank&#91;9&#93;",
-      "shortName": "Bangkok&#91;9&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_535",
-      "name": "Bank QNB Indonesia",
+      "code": "ID_60",
+      "name": "Bank QNB Kesawan",
       "shortName": "Bank QNB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_536",
-      "name": "28 April 1913&#91;10&#93;",
-      "shortName": "28 April",
+      "code": "ID_61",
+      "name": "Bank Sinarmas",
+      "shortName": "Bank Sinarmas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_537",
-      "name": "QNB Group",
-      "shortName": "QNB Group",
+      "code": "ID_62",
+      "name": "Bank Woori Saudara",
+      "shortName": "Bank Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_538",
-      "name": "31 December 1953",
-      "shortName": "31 December",
+      "code": "ID_63",
+      "name": "Bank BNP Paribas Indonesia",
+      "shortName": "Bank BNP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_539",
-      "name": "Resona Holdings",
-      "shortName": "Resona Holdings",
+      "code": "ID_64",
+      "name": "China Construction Bank Indonesia",
+      "shortName": "China Construction",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_540",
-      "name": "21 October 1970&#91;10&#93;",
-      "shortName": "21 October",
+      "code": "ID_65",
+      "name": "IBK Indonesia",
+      "shortName": "IBK Indonesia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_541",
-      "name": "State Bank of India",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_542",
+      "code": "ID_66",
       "name": "Bank Shinhan Indonesia",
       "shortName": "Bank Shinhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_543",
-      "name": "8 September 1967",
-      "shortName": "8 September",
+      "code": "ID_67",
+      "name": "Bank Mizuho Indonesia",
+      "shortName": "Bank Mizuho",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_544",
-      "name": "Shinhan Financial Group",
-      "shortName": "Shinhan Financial",
+      "code": "ID_68",
+      "name": "Bank Resona Perdania",
+      "shortName": "Bank Resona",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_545",
-      "name": "18 August 1989",
-      "shortName": "18 August",
+      "code": "ID_69",
+      "name": "Bank Woori Indonesia",
+      "shortName": "Bank Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_546",
-      "name": "Sinar Mas",
-      "shortName": "Sinar Mas",
+      "code": "ID_70",
+      "name": "Anglomas Internasional Bank",
+      "shortName": "Anglomas Internasional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_547",
-      "name": "5 February 1958&#91;11&#93;",
-      "shortName": "5 February",
+      "code": "ID_71",
+      "name": "Bank Artos Indonesia",
+      "shortName": "Bank Artos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_548",
-      "name": "SMBC Group",
-      "shortName": "SMBC Group",
+      "code": "ID_72",
+      "name": "Bank Bisnis Internasional",
+      "shortName": "Bank Bisnis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_549",
-      "name": "31 August 1956",
-      "shortName": "31 August",
+      "code": "ID_73",
+      "name": "Centratama Nasional Bank",
+      "shortName": "Centratama Nasional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_550",
-      "name": "United Overseas Bank",
-      "shortName": "United Overseas",
+      "code": "ID_74",
+      "name": "Bank Liman International",
+      "shortName": "Bank Liman",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_551",
-      "name": "28 October 1992",
-      "shortName": "28 October",
+      "code": "ID_75",
+      "name": "Bank Fama Internasional",
+      "shortName": "Bank Fama",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_552",
-      "name": "PT Victoria Investama&#91;12&#93;",
-      "shortName": "PT Victoria",
+      "code": "ID_76",
+      "name": "Bank Ina Perdana",
+      "shortName": "Bank Ina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_553",
-      "name": "18 April 1906&#91;13&#93;",
-      "shortName": "18 April",
+      "code": "ID_77",
+      "name": "Bank Jasa Jakarta",
+      "shortName": "Bank Jasa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_554",
-      "name": "Woori Financial Group",
-      "shortName": "Woori Financial",
+      "code": "ID_78",
+      "name": "Bank Kesejahteraan Ekonomi",
+      "shortName": "Bank Kesejahteraan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_555",
-      "name": "Allo Bank",
-      "shortName": "Allo",
+      "code": "ID_79",
+      "name": "Bank Mayora",
+      "shortName": "Bank Mayora",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_556",
-      "name": "21 October 1992",
-      "shortName": "21 October",
+      "code": "ID_80",
+      "name": "Bank Mitraniaga",
+      "shortName": "Bank Mitraniaga",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_557",
-      "name": "Amar Bank",
-      "shortName": "Amar",
+      "code": "ID_81",
+      "name": "Bank Multi Arta Sentosa",
+      "shortName": "Bank Multi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_558",
-      "name": "15 March 1991",
-      "shortName": "15 March",
+      "code": "ID_82",
+      "name": "Bank Nationalnobu",
+      "shortName": "Bank Nationalnobu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_559",
-      "name": "Tolaram Group",
-      "shortName": "Tolaram Group",
+      "code": "ID_83",
+      "name": "Prima Master Bank",
+      "shortName": "Prima Master",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_560",
-      "name": "Bank Digital BCA",
-      "shortName": "Bank Digital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_561",
-      "name": "25 October 1965",
-      "shortName": "25 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_562",
-      "name": "Bank Jago",
-      "shortName": "Bank Jago",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_563",
-      "name": "1 May 1992",
-      "shortName": "1 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_564",
-      "name": "Krom Bank",
-      "shortName": "Krom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_565",
-      "name": "16 March 1957",
-      "shortName": "16 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_566",
-      "name": "Kredivo",
-      "shortName": "Kredivo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_567",
-      "name": "Bank Neo Commerce",
-      "shortName": "Bank Neo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_568",
-      "name": "19 September 1989",
-      "shortName": "19 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_569",
-      "name": "Akulaku",
-      "shortName": "Akulaku",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_570",
-      "name": "Bank Oke Indonesia",
-      "shortName": "Bank Oke",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_571",
-      "name": "15 August 1990",
-      "shortName": "15 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_572",
-      "name": "Rush &amp; Cash",
-      "shortName": "Rush &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_573",
-      "name": "Bank Sahabat Sampoerna",
+      "code": "ID_84",
+      "name": "Bank Sahabat Purba Danarta",
       "shortName": "Bank Sahabat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_574",
-      "name": "27 September 1990&#91;14&#93;",
-      "shortName": "27 September",
+      "code": "ID_85",
+      "name": "Bank Sinar Harapan Bali",
+      "shortName": "Bank Sinar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_575",
-      "name": "Sampoerna Strategic and Xendit",
-      "shortName": "Sampoerna Strategic",
+      "code": "ID_86",
+      "name": "Bank Victoria Internasional",
+      "shortName": "Bank Victoria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_576",
-      "name": "Bank Saqu",
-      "shortName": "Bank Saqu",
+      "code": "ID_87",
+      "name": "Bank Yudha Bhakti",
+      "shortName": "Bank Yudha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_577",
-      "name": "23 March 1971&#91;14&#93;",
-      "shortName": "23 March",
+      "code": "ID_88",
+      "name": "Bank Banten",
+      "shortName": "Bank Banten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_578",
-      "name": "WeLab and Astra International",
-      "shortName": "WeLab and",
+      "code": "ID_89",
+      "name": "Bank Bengkulu",
+      "shortName": "Bank Bengkulu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_579",
-      "name": "Seabank",
-      "shortName": "Seabank",
+      "code": "ID_90",
+      "name": "Bank BJB",
+      "shortName": "Bank BJB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_580",
-      "name": "4 October 1991",
-      "shortName": "4 October",
+      "code": "ID_91",
+      "name": "Bank BPD Bali",
+      "shortName": "Bank BPD",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_581",
-      "name": "Sea Ltd",
-      "shortName": "Sea",
+      "code": "ID_92",
+      "name": "Bank BPD DIY",
+      "shortName": "Bank BPD",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_582",
-      "name": "Superbank",
-      "shortName": "Superbank",
+      "code": "ID_93",
+      "name": "Bank DKI",
+      "shortName": "Bank DKI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_583",
-      "name": "5 March 1993",
-      "shortName": "5 March",
+      "code": "ID_94",
+      "name": "Bank Jambi",
+      "shortName": "Bank Jambi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_584",
-      "name": "Emtek, Grab, Singtel, and KakaoBank",
-      "shortName": "Emtek, Grab,",
+      "code": "ID_95",
+      "name": "Bank Kalteng",
+      "shortName": "Bank Kalteng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_585",
-      "name": "25 June 1968",
-      "shortName": "25 June",
+      "code": "ID_96",
+      "name": "Bank Jatim",
+      "shortName": "Bank Jatim",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_586",
-      "name": "13 January 2003",
-      "shortName": "13 January",
+      "code": "ID_97",
+      "name": "Bank Kalbar",
+      "shortName": "Bank Kalbar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_587",
-      "name": "14 June 1968",
-      "shortName": "14 June",
+      "code": "ID_98",
+      "name": "Bank Kalsel",
+      "shortName": "Bank Kalsel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_588",
-      "name": "18 March 1969",
-      "shortName": "18 March",
+      "code": "ID_99",
+      "name": "Bankaltimtara",
+      "shortName": "Bankaltimtara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_589",
-      "name": "JPMorgan Chase Bank",
+      "code": "ID_100",
+      "name": "Bank Lampung",
+      "shortName": "Bank Lampung",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_101",
+      "name": "Bank Maluku",
+      "shortName": "Bank Maluku",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_102",
+      "name": "Bank Nagari",
+      "shortName": "Bank Nagari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_103",
+      "name": "Bank NTT",
+      "shortName": "Bank NTT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_104",
+      "name": "Bank Papua",
+      "shortName": "Bank Papua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_105",
+      "name": "BRK Syariah",
+      "shortName": "BRK Syariah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_106",
+      "name": "Bank Sulselbar",
+      "shortName": "Bank Sulselbar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_107",
+      "name": "Bank Sultra",
+      "shortName": "Bank Sultra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_108",
+      "name": "Bank Sulteng",
+      "shortName": "Bank Sulteng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_109",
+      "name": "Bank BSG",
+      "shortName": "Bank BSG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_110",
+      "name": "Bank Sumsel Babel",
+      "shortName": "Bank Sumsel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_111",
+      "name": "Bank Sumut",
+      "shortName": "Bank Sumut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_112",
+      "name": "Bank of America",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_113",
+      "name": "Bank of China",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_114",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_115",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_116",
+      "name": "JPMorgan Chase",
       "shortName": "JPMorgan Chase",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_590",
-      "name": "17 June 1968",
-      "shortName": "17 June",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_591",
-      "name": "MUFG Bank",
+      "code": "ID_117",
+      "name": "MUFG",
       "shortName": "MUFG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_592",
-      "name": "24 August 1968",
-      "shortName": "24 August",
+      "code": "ID_118",
+      "name": "Standard Chartered",
+      "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_593",
-      "name": "1 October 1968",
-      "shortName": "1 October",
+      "code": "ID_119",
+      "name": "OCBC Syariah",
+      "shortName": "OCBC Syariah",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_594",
-      "name": "3 July 1969",
-      "shortName": "3 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_595",
-      "name": "Government of Indonesia",
-      "shortName": "Government of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_596",
-      "name": "Bank Syariah Nasional",
-      "shortName": "Bank Syariah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_597",
-      "name": "15 April 1966",
-      "shortName": "15 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_598",
-      "name": "7 September 1957",
-      "shortName": "7 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_599",
-      "name": "Aceh Government",
-      "shortName": "Aceh Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_600",
-      "name": "15 January 2010",
-      "shortName": "15 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_601",
-      "name": "Bank BRK Syariah",
-      "shortName": "Bank BRK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_602",
-      "name": "15 August 1961",
-      "shortName": "15 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_603",
-      "name": "Riau dan Riau Islands Government",
-      "shortName": "Riau dan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_604",
-      "name": "5 July 1964",
-      "shortName": "5 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_605",
-      "name": "West Nusa Tenggara Government",
-      "shortName": "West Nusa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_606",
-      "name": "Bank Aladin Syariah",
-      "shortName": "Bank Aladin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_607",
-      "name": "16 September 1994&#91;15&#93;",
-      "shortName": "16 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_608",
-      "name": "Aladin Global Ventures",
-      "shortName": "Aladin Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_609",
-      "name": "Bank BCA Syariah",
-      "shortName": "Bank BCA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_610",
-      "name": "21 May 1991",
-      "shortName": "21 May",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_611",
-      "name": "Bank BTPN Syariah",
-      "shortName": "Bank BTPN",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_612",
-      "name": "7 March 1991",
-      "shortName": "7 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_613",
-      "name": "24 December 1971",
-      "shortName": "24 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_614",
-      "name": "14 July 1990",
-      "shortName": "14 July",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_615",
-      "name": "Bank Muamalat Indonesia",
-      "shortName": "Bank Muamalat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_616",
-      "name": "1 November 1991",
-      "shortName": "1 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_617",
-      "name": "Hajj Fund Management Agency",
-      "shortName": "Hajj Fund",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_618",
-      "name": "Bank Nano Syariah",
-      "shortName": "Bank Nano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_619",
-      "name": "2 January 2024",
-      "shortName": "2 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_620",
-      "name": "Panin Dubai Syariah Bank",
-      "shortName": "Panin Dubai",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_621",
-      "name": "8 January 1972&#91;10&#93;",
-      "shortName": "8 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_622",
-      "name": "Panin Bank and Dubai Islamic Bank",
-      "shortName": "Panin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_623",
-      "name": "19 February 2007",
-      "shortName": "19 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_624",
-      "name": "8 March 2004",
-      "shortName": "8 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_625",
+      "code": "ID_120",
       "name": "Bank Jambi Syariah",
       "shortName": "Bank Jambi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_626",
-      "name": "December 2011&#91;16&#93;",
-      "shortName": "December 2011&#91;16&#93;",
+      "code": "ID_121",
+      "name": "Bank Aladin Syariah",
+      "shortName": "Bank Aladin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_627",
-      "name": "Bank Jateng Syariah",
-      "shortName": "Bank Jateng",
+      "code": "ID_122",
+      "name": "Bank Mega Syariah",
+      "shortName": "Bank Mega",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_628",
-      "name": "26 April 2008",
-      "shortName": "26 April",
+      "code": "ID_123",
+      "name": "Bank Muamalat",
+      "shortName": "Bank Muamalat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_629",
-      "name": "Bank Jatim Syariah",
-      "shortName": "Bank Jatim",
+      "code": "ID_124",
+      "name": "Panin Bank Syariah",
+      "shortName": "Panin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_630",
-      "name": "21 August 2007",
-      "shortName": "21 August",
+      "code": "ID_125",
+      "name": "KB Bank Syariah",
+      "shortName": "KB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_631",
-      "name": "12 December 2005",
-      "shortName": "12 December",
+      "code": "ID_126",
+      "name": "Bank Victoria Syariah",
+      "shortName": "Bank Victoria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_632",
-      "name": "13 August 2004",
-      "shortName": "13 August",
+      "code": "ID_127",
+      "name": "Bank Aceh Syariah",
+      "shortName": "Bank Aceh",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_633",
-      "name": "Bankaltimtara Syariah",
-      "shortName": "Bankaltimtara Syariah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_634",
-      "name": "27 December 2006",
-      "shortName": "27 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_635",
-      "name": "Bank Nagari Syariah",
-      "shortName": "Bank Nagari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_636",
-      "name": "28 September 2006",
-      "shortName": "28 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_637",
-      "name": "Bank Sulselbar Syariah",
-      "shortName": "Bank Sulselbar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_638",
-      "name": "28 April 2007",
-      "shortName": "28 April",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_639",
-      "name": "2 January 2006",
-      "shortName": "2 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_640",
-      "name": "4 November 2004",
-      "shortName": "4 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_641",
+      "code": "ID_128",
       "name": "Bank CIMB Niaga Syariah",
       "shortName": "Bank CIMB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_642",
-      "name": "27 September 2004&#91;17&#93;",
+      "code": "ID_129",
+      "name": "Bank Maybank Syariah Indonesia",
+      "shortName": "Bank Maybank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_130",
+      "name": "Bank Danamon Syariah",
+      "shortName": "Bank Danamon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_131",
+      "name": "Permata Bank Syariah",
+      "shortName": "Permata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_132",
+      "name": "Bank BPD DIY Syariah",
+      "shortName": "Bank BPD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_133",
+      "name": "Bank Kalbar Syariah",
+      "shortName": "Bank Kalbar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_134",
+      "name": "Bank Kalsel Syariah",
+      "shortName": "Bank Kalsel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_135",
+      "name": "Bank Riau Kepri Syariah",
+      "shortName": "Bank Riau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_136",
+      "name": "Bank Sumsel Babel Syariah",
+      "shortName": "Bank Sumsel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_137",
+      "name": "Bank Sumut Syariah",
+      "shortName": "Bank Sumut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_138",
+      "name": "HSBC Amanah",
+      "shortName": "HSBC Amanah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_139",
+      "name": "Benteng program",
+      "shortName": "Benteng program",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_140",
+      "name": "Berkeley Mafia",
+      "shortName": "Berkeley Mafia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_141",
+      "name": "Gang of Four",
+      "shortName": "Gang of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_142",
+      "name": "Asian financial crisis",
+      "shortName": "Asian financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_143",
+      "name": "COVID-19 pandemic",
+      "shortName": "COVID-19 pandemic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_144",
+      "name": "Indonesian rupiah",
+      "shortName": "Indonesian rupiah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_145",
+      "name": "Financial Services Authority",
+      "shortName": "Financial Services",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_146",
+      "name": "Indonesia Stock Exchange",
+      "shortName": "Indonesia Stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_147",
+      "name": "GPN",
+      "shortName": "GPN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_148",
+      "name": "QRIS",
+      "shortName": "QRIS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_149",
+      "name": "Commercial banks",
+      "shortName": "Commercial banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_150",
+      "name": "Regional development banks",
+      "shortName": "Regional development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_151",
+      "name": "Industry",
+      "shortName": "Industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_152",
+      "name": "Trade",
+      "shortName": "Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_153",
+      "name": "Energy and Mineral Resources",
+      "shortName": "Energy and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_154",
+      "name": "Investment and Downstream Industry",
+      "shortName": "Investment and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_155",
+      "name": "Public Works",
+      "shortName": "Public Works",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_156",
+      "name": "Housing and Residential Area",
+      "shortName": "Housing and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_157",
+      "name": "Transmigration",
+      "shortName": "Transmigration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_158",
+      "name": "Migrant Workers Protection",
+      "shortName": "Migrant Workers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_159",
+      "name": "Villages and Development of Disadvantaged Regions",
+      "shortName": "Villages and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_160",
+      "name": "Cooperatives",
+      "shortName": "Cooperatives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_161",
+      "name": "Micro, Small, and Medium Enterprises",
+      "shortName": "Micro, Small,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_162",
+      "name": "Creative Economy",
+      "shortName": "Creative Economy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_163",
+      "name": "National Development Planning",
+      "shortName": "National Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_164",
+      "name": "Finance",
+      "shortName": "Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_165",
+      "name": "National Economics Council",
+      "shortName": "National Economics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_166",
+      "name": "Automotive",
+      "shortName": "Automotive",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_167",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_168",
+      "name": "State-owned enterprises",
+      "shortName": "State-owned enterprises",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_169",
+      "name": "Banana",
+      "shortName": "Banana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_170",
+      "name": "Coconut",
+      "shortName": "Coconut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_171",
+      "name": "Coffee",
+      "shortName": "Coffee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_172",
+      "name": "Palm oil",
+      "shortName": "Palm oil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_173",
+      "name": "Peanut",
+      "shortName": "Peanut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_174",
+      "name": "Pulp and paper",
+      "shortName": "Pulp and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_175",
+      "name": "Rice",
+      "shortName": "Rice",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_176",
+      "name": "Tea",
+      "shortName": "Tea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_177",
+      "name": "Tobacco",
+      "shortName": "Tobacco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_178",
+      "name": "Bauxite",
+      "shortName": "Bauxite",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_179",
+      "name": "Coal",
+      "shortName": "Coal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_180",
+      "name": "Copper",
+      "shortName": "Copper",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_181",
+      "name": "Nickel",
+      "shortName": "Nickel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_182",
+      "name": "Tin",
+      "shortName": "Tin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_183",
+      "name": "Timeline",
+      "shortName": "Timeline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_184",
+      "name": "Hindu-Buddhist era",
+      "shortName": "Hindu-Buddhist era",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_185",
+      "name": "Spread of Islam",
+      "shortName": "Spread of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_186",
+      "name": "Portuguese era (1512–1605)",
+      "shortName": "Portuguese era",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_187",
+      "name": "VOC era (1603–1800)",
+      "shortName": "VOC era",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_188",
+      "name": "French and British era (1806–1816)",
+      "shortName": "French and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_189",
+      "name": "Dutch East Indies (1800–1949)",
+      "shortName": "Dutch East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_190",
+      "name": "Japanese occupation (1942–1945)",
+      "shortName": "Japanese occupation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_191",
+      "name": "National Revolution (1945–1949)",
+      "shortName": "National Revolution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_192",
+      "name": "Liberal democracy era (1950–1959)",
+      "shortName": "Liberal democracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_193",
+      "name": "Guided Democracy era (1959–1966)",
+      "shortName": "Guided Democracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_194",
+      "name": "Transitional era (1965–1968)",
+      "shortName": "Transitional era",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_195",
+      "name": "New Order (1966–1998)",
+      "shortName": "New Order",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_196",
+      "name": "Reformasi (since 1998)",
+      "shortName": "Reformasi (since",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_197",
+      "name": "Borders",
+      "shortName": "Borders",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_198",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_199",
+      "name": "Deforestation",
+      "shortName": "Deforestation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_200",
+      "name": "Earthquakes",
+      "shortName": "Earthquakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_201",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_202",
+      "name": "Provincial highest points",
+      "shortName": "Provincial highest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_203",
+      "name": "Flora",
+      "shortName": "Flora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_204",
+      "name": "Regions",
+      "shortName": "Regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_205",
+      "name": "Volcanoes",
+      "shortName": "Volcanoes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_206",
+      "name": "Provinces",
+      "shortName": "Provinces",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_207",
+      "name": "Regencies and cities",
+      "shortName": "Regencies and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_208",
+      "name": "Districts",
+      "shortName": "Districts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_209",
+      "name": "Cabinet",
+      "shortName": "Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_210",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_211",
+      "name": "Human rights",
+      "shortName": "Human rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_212",
+      "name": "Enforcement",
+      "shortName": "Enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_213",
+      "name": "National capital",
+      "shortName": "National capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_214",
+      "name": "Pancasila",
+      "shortName": "Pancasila",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_215",
+      "name": "Police",
+      "shortName": "Police",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_216",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_217",
+      "name": "President (List)",
+      "shortName": "President (List)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_218",
+      "name": "Wawasan Nusantara",
+      "shortName": "Wawasan Nusantara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_219",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_220",
+      "name": "Aviation",
+      "shortName": "Aviation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_221",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_222",
+      "name": "Postal codes",
+      "shortName": "Postal codes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_223",
+      "name": "Rupiah",
+      "shortName": "Rupiah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_224",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_225",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_226",
+      "name": "Water supply and sanitation",
+      "shortName": "Water supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_227",
+      "name": "Abortion",
+      "shortName": "Abortion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_228",
+      "name": "Crime",
+      "shortName": "Crime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_229",
+      "name": "Human trafficking",
+      "shortName": "Human trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_230",
+      "name": "Migrant workers",
+      "shortName": "Migrant workers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_231",
+      "name": "Piracy",
+      "shortName": "Piracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_232",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_233",
+      "name": "Smoking",
+      "shortName": "Smoking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_234",
+      "name": "Colonial",
+      "shortName": "Colonial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_235",
+      "name": "Mosques",
+      "shortName": "Mosques",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_236",
+      "name": "Rumah adat",
+      "shortName": "Rumah adat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_237",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_238",
+      "name": "Batik",
+      "shortName": "Batik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_239",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_240",
+      "name": "Costume",
+      "shortName": "Costume",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_241",
+      "name": "Dance",
+      "shortName": "Dance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_242",
+      "name": "Festivals",
+      "shortName": "Festivals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_243",
+      "name": "Legends",
+      "shortName": "Legends",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_244",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_245",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_246",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_247",
+      "name": "Mythology",
+      "shortName": "Mythology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_248",
+      "name": "National heroes",
+      "shortName": "National heroes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_249",
+      "name": "National Pedestrian Day",
+      "shortName": "National Pedestrian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_250",
+      "name": "Painting",
+      "shortName": "Painting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_251",
+      "name": "Properties",
+      "shortName": "Properties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_252",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_253",
+      "name": "Theatre",
+      "shortName": "Theatre",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_254",
+      "name": "Video games",
+      "shortName": "Video games",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_255",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_256",
+      "name": "Homelessness",
+      "shortName": "Homelessness",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_257",
+      "name": "Refugees",
+      "shortName": "Refugees",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_258",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_259",
+      "name": "LGBT rights",
+      "shortName": "LGBT rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_260",
+      "name": "Islam",
+      "shortName": "Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_261",
+      "name": "Protestantism",
+      "shortName": "Protestantism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_262",
+      "name": "Hinduism",
+      "shortName": "Hinduism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_263",
+      "name": "Buddhism",
+      "shortName": "Buddhism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_264",
+      "name": "Confucianism",
+      "shortName": "Confucianism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_265",
+      "name": "Judaism",
+      "shortName": "Judaism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_266",
+      "name": "Sikhism",
+      "shortName": "Sikhism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_267",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_268",
+      "name": "Subdivision",
+      "shortName": "Subdivision",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_269",
+      "name": "Faunal emblems",
+      "shortName": "Faunal emblems",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_270",
+      "name": "Floral emblems",
+      "shortName": "Floral emblems",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_271",
+      "name": "Motto",
+      "shortName": "Motto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_272",
+      "name": "Nusantara",
+      "shortName": "Nusantara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_273",
+      "name": "Personification",
+      "shortName": "Personification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_274",
+      "name": "Songs",
+      "shortName": "Songs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_275",
+      "name": "Gallery",
+      "shortName": "Gallery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_276",
+      "name": "Atlas",
+      "shortName": "Atlas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_277",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_278",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_279",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_280",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_281",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_282",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_283",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_284",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_285",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_286",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_287",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_288",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_289",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_290",
+      "name": "Use British English from September 2015",
+      "shortName": "Use British",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_291",
+      "name": "Use dmy dates from September 2015",
+      "shortName": "Use dmy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_292",
+      "name": "28 October 1992",
+      "shortName": "28 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_293",
+      "name": "5 July 1946",
+      "shortName": "5 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_294",
+      "name": "16 December 1895",
+      "shortName": "16 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_295",
+      "name": "21 October 1970&#91;10&#93;",
+      "shortName": "21 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_296",
+      "name": "Bank Mandiri, PT Taspen",
+      "shortName": "Bank Mandiri,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_297",
+      "name": "23 February 1970",
+      "shortName": "23 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_298",
+      "name": "Non-foreign exchange bank",
+      "shortName": "Non-foreign exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_299",
+      "name": "Hibank",
+      "shortName": "Hibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_300",
+      "name": "25 February 1993",
+      "shortName": "25 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_301",
+      "name": "Bank Raya Indonesia",
+      "shortName": "Bank Raya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_302",
+      "name": "27 September 1989",
       "shortName": "27 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_643",
+      "code": "ID_303",
+      "name": "Bali Government",
+      "shortName": "Bali Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_304",
+      "name": "15 December 1961",
+      "shortName": "15 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_305",
+      "name": "Special Region of Yogyakarta Government",
+      "shortName": "Special Region",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_306",
+      "name": "11 September 1992",
+      "shortName": "11 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_307",
+      "name": "Banten Government",
+      "shortName": "Banten Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_308",
+      "name": "9 August 1969",
+      "shortName": "9 August",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_309",
+      "name": "Bengkulu Government",
+      "shortName": "Bengkulu Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_310",
+      "name": "20 May 1961",
+      "shortName": "20 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_311",
+      "name": "West Java Government",
+      "shortName": "West Java",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_312",
+      "name": "17 March 1961",
+      "shortName": "17 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_313",
+      "name": "Gorontalo and North Sulawesi Government",
+      "shortName": "Gorontalo and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_314",
+      "name": "Bank Jakarta",
+      "shortName": "Bank Jakarta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_315",
+      "name": "11 April 1961",
+      "shortName": "11 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_316",
+      "name": "Jakarta Government",
+      "shortName": "Jakarta Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_317",
+      "name": "Jambi Government",
+      "shortName": "Jambi Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_318",
+      "name": "13 March 1963",
+      "shortName": "13 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_319",
+      "name": "Central Java Government",
+      "shortName": "Central Java",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_320",
+      "name": "17 August 1961",
+      "shortName": "17 August",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_321",
+      "name": "28 November 1963",
+      "shortName": "28 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_322",
+      "name": "South Kalimantan Government",
+      "shortName": "South Kalimantan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_323",
+      "name": "25 March 1964",
+      "shortName": "25 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_324",
+      "name": "28 October 1961",
+      "shortName": "28 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_325",
+      "name": "Central Kalimantan Government",
+      "shortName": "Central Kalimantan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_326",
+      "name": "14 October 1965",
+      "shortName": "14 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_327",
+      "name": "East Kalimantan and North Kalimantan Government",
+      "shortName": "East Kalimantan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_328",
+      "name": "Lampung Government",
+      "shortName": "Lampung Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_329",
+      "name": "Bank Maluku Malut",
+      "shortName": "Bank Maluku",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_330",
+      "name": "Maluku and North Maluku Government",
+      "shortName": "Maluku and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_331",
+      "name": "12 March 1962",
+      "shortName": "12 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_332",
+      "name": "North Sumatra Government",
+      "shortName": "North Sumatra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_333",
+      "name": "17 July 1962",
+      "shortName": "17 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_334",
+      "name": "East Nusa Tenggara Government",
+      "shortName": "East Nusa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_335",
+      "name": "13 April 1966",
+      "shortName": "13 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_336",
+      "name": "Papua and West Papua Government",
+      "shortName": "Papua and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_337",
+      "name": "13 January 1961",
+      "shortName": "13 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_338",
+      "name": "South Sulawesi and West Sulawesi Government",
+      "shortName": "South Sulawesi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_339",
+      "name": "Central Sulawesi Government",
+      "shortName": "Central Sulawesi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_340",
+      "name": "Southeast Sulawesi Government",
+      "shortName": "Southeast Sulawesi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_341",
+      "name": "6 November 1957",
+      "shortName": "6 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_342",
+      "name": "South Sumatra and Bangka Belitung Islands Government",
+      "shortName": "South Sumatra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_343",
+      "name": "4 November 1961",
+      "shortName": "4 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_344",
+      "name": "27 September 1990&#91;14&#93;",
+      "shortName": "27 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_345",
+      "name": "ANZ Bank",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_346",
+      "name": "7 September 1973",
+      "shortName": "7 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_347",
+      "name": "Artha Graha Network",
+      "shortName": "Artha Graha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_348",
+      "name": "10 November 1989",
+      "shortName": "10 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_349",
+      "name": "BNP Paribas",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_350",
+      "name": "Ajaib Group",
+      "shortName": "Ajaib Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_351",
+      "name": "20 April 1989",
+      "shortName": "20 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_352",
+      "name": "PT Capital Financial Indonesia",
+      "shortName": "PT Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_353",
+      "name": "Djarum Group",
+      "shortName": "Djarum Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_354",
+      "name": "27 April 1971",
+      "shortName": "27 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_355",
+      "name": "China Construction Bank",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_356",
+      "name": "26 September 1955",
+      "shortName": "26 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_357",
+      "name": "CIMB Group",
+      "shortName": "CIMB Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_358",
+      "name": "21 July 1995",
+      "shortName": "21 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_359",
+      "name": "CTBC Financial Holding",
+      "shortName": "CTBC Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_360",
+      "name": "16 July 1956",
+      "shortName": "16 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_361",
+      "name": "MUFG&#91;4&#93;",
+      "shortName": "MUFG&#91;4&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_362",
+      "name": "30 June 1989&#91;5&#93;",
+      "shortName": "30 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_363",
+      "name": "DBS Bank",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_364",
+      "name": "15 May 1990&#91;5&#93;",
+      "shortName": "15 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_365",
+      "name": "PT Equity Development Investment",
+      "shortName": "PT Equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_366",
+      "name": "Shinhan Financial Group",
+      "shortName": "Shinhan Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_367",
+      "name": "15 May 1989",
+      "shortName": "15 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_368",
+      "name": "HSBC",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_369",
+      "name": "13 November 1973",
+      "shortName": "13 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_370",
+      "name": "Industrial Bank of Korea",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_371",
+      "name": "15 May 1970",
+      "shortName": "15 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_372",
+      "name": "ICBC",
+      "shortName": "ICBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_373",
+      "name": "9 February 1990",
+      "shortName": "9 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_374",
+      "name": "Salim Group",
+      "shortName": "Salim Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_375",
+      "name": "30 July 1992",
+      "shortName": "30 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_376",
+      "name": "J Trust Bank",
+      "shortName": "J Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_377",
+      "name": "30 May 1989",
+      "shortName": "30 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_378",
+      "name": "J Trust",
+      "shortName": "J Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_379",
+      "name": "KB Bank",
+      "shortName": "KB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_380",
+      "name": "10 July 1970",
+      "shortName": "10 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_381",
+      "name": "KB Financial Group",
+      "shortName": "KB Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_382",
+      "name": "Kasikornbank",
+      "shortName": "Kasikornbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_383",
+      "name": "Based in Surabaya",
+      "shortName": "Based in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_384",
+      "name": "Bank Mayapada Internasional",
+      "shortName": "Bank Mayapada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_385",
+      "name": "Mayapada Group",
+      "shortName": "Mayapada Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_386",
+      "name": "Maybank",
+      "shortName": "Maybank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_387",
+      "name": "15 April 1969",
+      "shortName": "15 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_388",
+      "name": "Mega Corp",
+      "shortName": "Mega Corp",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_389",
+      "name": "27 April 1955",
+      "shortName": "27 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_390",
+      "name": "PT Mestika Buana Mas&#91;6&#93;",
+      "shortName": "PT Mestika",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_391",
+      "name": "Based in Medan",
+      "shortName": "Based in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_392",
+      "name": "Mizuho Financial Group",
+      "shortName": "Mizuho Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_393",
+      "name": "12 January 1990&#91;7&#93;",
+      "shortName": "12 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_394",
+      "name": "MNC Financial Services",
+      "shortName": "MNC Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_395",
+      "name": "28 July 1992",
+      "shortName": "28 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_396",
+      "name": "Wings Group",
+      "shortName": "Wings Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_397",
+      "name": "Nobu Bank",
+      "shortName": "Nobu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_398",
+      "name": "16 August 1990",
+      "shortName": "16 August",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_399",
+      "name": "Lippo Group",
+      "shortName": "Lippo Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_400",
+      "name": "4 April 1941",
+      "shortName": "4 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_401",
+      "name": "OCBC Bank",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_402",
+      "name": "Bank of India",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_403",
+      "name": "Panin Financial",
+      "shortName": "Panin Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_404",
+      "name": "17 December 1954&#91;8&#93;",
+      "shortName": "17 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_405",
+      "name": "Bangkok Bank&#91;9&#93;",
+      "shortName": "Bangkok&#91;9&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_406",
+      "name": "28 April 1913&#91;10&#93;",
+      "shortName": "28 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_407",
+      "name": "QNB Group",
+      "shortName": "QNB Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_408",
+      "name": "Resona Holdings",
+      "shortName": "Resona Holdings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_409",
+      "name": "State Bank of India",
+      "shortName": "State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_410",
+      "name": "Sinar Mas",
+      "shortName": "Sinar Mas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_411",
+      "name": "5 February 1958&#91;11&#93;",
+      "shortName": "5 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_412",
+      "name": "SMBC Group",
+      "shortName": "SMBC Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_413",
+      "name": "United Overseas Bank",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_414",
+      "name": "PT Victoria Investama&#91;12&#93;",
+      "shortName": "PT Victoria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_415",
+      "name": "18 April 1906&#91;13&#93;",
+      "shortName": "18 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_416",
+      "name": "Woori Financial Group",
+      "shortName": "Woori Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_417",
+      "name": "Allo Bank",
+      "shortName": "Allo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_418",
+      "name": "Amar Bank",
+      "shortName": "Amar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_419",
+      "name": "15 March 1991",
+      "shortName": "15 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_420",
+      "name": "Tolaram Group",
+      "shortName": "Tolaram Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_421",
+      "name": "Bank Digital BCA",
+      "shortName": "Bank Digital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_422",
+      "name": "Bank Jago",
+      "shortName": "Bank Jago",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_423",
+      "name": "Krom Bank",
+      "shortName": "Krom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_424",
+      "name": "16 March 1957",
+      "shortName": "16 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_425",
+      "name": "Kredivo",
+      "shortName": "Kredivo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_426",
+      "name": "Bank Neo Commerce",
+      "shortName": "Bank Neo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_427",
+      "name": "Akulaku",
+      "shortName": "Akulaku",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_428",
+      "name": "Rush &amp; Cash",
+      "shortName": "Rush &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_429",
+      "name": "Bank Sahabat Sampoerna",
+      "shortName": "Bank Sahabat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_430",
+      "name": "Sampoerna Strategic and Xendit",
+      "shortName": "Sampoerna Strategic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_431",
+      "name": "Bank Saqu",
+      "shortName": "Bank Saqu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_432",
+      "name": "23 March 1971&#91;14&#93;",
+      "shortName": "23 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_433",
+      "name": "WeLab and Astra International",
+      "shortName": "WeLab and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_434",
+      "name": "Seabank",
+      "shortName": "Seabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_435",
+      "name": "4 October 1991",
+      "shortName": "4 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_436",
+      "name": "Sea Ltd",
+      "shortName": "Sea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_437",
+      "name": "Superbank",
+      "shortName": "Superbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_438",
+      "name": "Emtek, Grab, Singtel, and KakaoBank",
+      "shortName": "Emtek, Grab,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_439",
+      "name": "25 June 1968",
+      "shortName": "25 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_440",
+      "name": "13 January 2003",
+      "shortName": "13 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_441",
+      "name": "14 June 1968",
+      "shortName": "14 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_442",
+      "name": "18 March 1969",
+      "shortName": "18 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_443",
+      "name": "JPMorgan Chase Bank",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_444",
+      "name": "MUFG Bank",
+      "shortName": "MUFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_445",
+      "name": "24 August 1968",
+      "shortName": "24 August",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_446",
+      "name": "Government of Indonesia",
+      "shortName": "Government of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_447",
+      "name": "Bank Syariah Nasional",
+      "shortName": "Bank Syariah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_448",
+      "name": "Aceh Government",
+      "shortName": "Aceh Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_449",
+      "name": "Riau dan Riau Islands Government",
+      "shortName": "Riau dan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_450",
+      "name": "Aladin Global Ventures",
+      "shortName": "Aladin Global",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_451",
+      "name": "21 May 1991",
+      "shortName": "21 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_452",
+      "name": "Bank BTPN Syariah",
+      "shortName": "Bank BTPN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_453",
+      "name": "24 December 1971",
+      "shortName": "24 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_454",
+      "name": "14 July 1990",
+      "shortName": "14 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_455",
+      "name": "Bank Muamalat Indonesia",
+      "shortName": "Bank Muamalat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_456",
+      "name": "Hajj Fund Management Agency",
+      "shortName": "Hajj Fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_457",
+      "name": "2 January 2024",
+      "shortName": "2 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_458",
+      "name": "Panin Dubai Syariah Bank",
+      "shortName": "Panin Dubai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_459",
+      "name": "8 January 1972&#91;10&#93;",
+      "shortName": "8 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_460",
+      "name": "Panin Bank and Dubai Islamic Bank",
+      "shortName": "Panin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_461",
+      "name": "19 February 2007",
+      "shortName": "19 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_462",
+      "name": "8 March 2004",
+      "shortName": "8 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_463",
+      "name": "December 2011&#91;16&#93;",
+      "shortName": "December 2011&#91;16&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_464",
+      "name": "Bank Jateng Syariah",
+      "shortName": "Bank Jateng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_465",
+      "name": "26 April 2008",
+      "shortName": "26 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_466",
+      "name": "21 August 2007",
+      "shortName": "21 August",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_467",
+      "name": "12 December 2005",
+      "shortName": "12 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_468",
+      "name": "Bankaltimtara Syariah",
+      "shortName": "Bankaltimtara Syariah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_469",
+      "name": "Bank Nagari Syariah",
+      "shortName": "Bank Nagari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_470",
+      "name": "28 September 2006",
+      "shortName": "28 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_471",
+      "name": "28 April 2007",
+      "shortName": "28 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_472",
+      "name": "4 November 2004",
+      "shortName": "4 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ID_473",
       "name": "14 May 2002&#91;18&#93;",
       "shortName": "14 May",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_644",
-      "name": "Bank Jago Syariah",
-      "shortName": "Bank Jago",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ID_645",
+      "code": "ID_474",
       "name": "23 September 2021",
       "shortName": "23 September",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_646",
+      "code": "ID_475",
       "name": "20 May 2003",
       "shortName": "20 May",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_647",
+      "code": "ID_476",
       "name": "Bank OCBC Syariah Indonesia",
       "shortName": "Bank OCBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_648",
+      "code": "ID_477",
       "name": "12 October 2009&#91;19&#93;",
       "shortName": "12 October",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ID_649",
+      "code": "ID_478",
       "name": "10 November 2004&#91;20&#93;",
       "shortName": "10 November",
       "type": "bank",

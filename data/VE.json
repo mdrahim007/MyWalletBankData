@@ -5,692 +5,475 @@
   "institutions": [
     {
       "code": "VE_0",
-      "name": "Banks of Venezuela",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_1",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_2",
-      "name": "Lists of companies of Venezuela",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_3",
-      "name": "Lists of banks in South America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_4",
       "name": "CS1 maint: archived copy as title",
       "shortName": "CS1 maint:",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_5",
-      "name": "Articles with Spanish-language sources (es)",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_6",
+      "code": "VE_1",
       "name": "Webarchive template wayback links",
       "shortName": "Webarchive template",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_7",
+      "code": "VE_2",
       "name": "CS1 maint: multiple names: authors list",
       "shortName": "CS1 maint:",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_8",
-      "name": "CS1 European Spanish-language sources (es-es)",
-      "shortName": "CS1 European",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_9",
-      "name": "All articles with dead external links",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_10",
-      "name": "Articles with dead external links from January 2022",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_11",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_12",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_13",
+      "code": "VE_3",
       "name": "Use dmy dates from July 2021",
       "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_14",
-      "name": "All articles with unsourced statements",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_15",
-      "name": "Articles with unsourced statements from September 2023",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_16",
+      "code": "VE_4",
       "name": "Central Bank of Venezuela",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_17",
+      "code": "VE_5",
       "name": "Central bank&#91;1&#93;",
       "shortName": "Central bank&#91;1&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_18",
-      "name": "Caracas&#91;2&#93;",
-      "shortName": "Caracas&#91;2&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_19",
-      "name": "1939&#91;3&#93;",
-      "shortName": "1939&#91;3&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_20",
-      "name": "Banco Bicentenario",
-      "shortName": "Banco Bicentenario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_21",
-      "name": "State-owned",
-      "shortName": "State-owned",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_22",
-      "name": "Caracas",
-      "shortName": "Caracas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_23",
-      "name": "2009",
-      "shortName": "2009",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_24",
-      "name": "Banco Industrial de Venezuela",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_25",
-      "name": "1937",
-      "shortName": "1937",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_26",
-      "name": "2016",
-      "shortName": "2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_27",
-      "name": "Banco de Venezuela",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_28",
-      "name": "Privately owned",
-      "shortName": "Privately owned",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_29",
-      "name": "1890",
-      "shortName": "1890",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_30",
-      "name": "Banesco",
-      "shortName": "Banesco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_31",
-      "name": "Publicly traded",
-      "shortName": "Publicly traded",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_32",
-      "name": "1992&#91;4&#93;",
-      "shortName": "1992&#91;4&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_33",
-      "name": "Mercantil Banco",
-      "shortName": "Mercantil Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_34",
-      "name": "1925",
-      "shortName": "1925",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_35",
-      "name": "BBVA Provincial",
-      "shortName": "BBVA Provincial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_36",
-      "name": "1953",
-      "shortName": "1953",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_37",
-      "name": "Banco Occidental de Descuento",
-      "shortName": "Banco Occidental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_38",
-      "name": "Maracaibo",
-      "shortName": "Maracaibo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_39",
-      "name": "1957&#91;5&#93;",
-      "shortName": "1957&#91;5&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_40",
-      "name": "2022",
-      "shortName": "2022",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_41",
-      "name": "Banco Nacional de Crédito",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_42",
-      "name": "1977",
-      "shortName": "1977",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_43",
-      "name": "Fondo Común",
-      "shortName": "Fondo Común",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_44",
-      "name": "1963",
-      "shortName": "1963",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_45",
-      "name": "100% Banco",
-      "shortName": "100% Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_46",
-      "name": "2006&#91;6&#93;",
-      "shortName": "2006&#91;6&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_47",
-      "name": "Women's Development Bank",
-      "shortName": "Women's Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_48",
-      "name": "2001",
-      "shortName": "2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_49",
-      "name": "Sofitasa",
-      "shortName": "Sofitasa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_50",
-      "name": "San Cristóbal",
-      "shortName": "San Cristóbal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_51",
-      "name": "1990",
-      "shortName": "1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_52",
-      "name": "Iran-Venezuela Bi-National Bank",
-      "shortName": "Iran-Venezuela Bi-National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_53",
-      "name": "Tehran, Iran&#91;7&#93;",
-      "shortName": "Tehran, Iran&#91;7&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_54",
-      "name": "2010&#91;8&#93;",
-      "shortName": "2010&#91;8&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_55",
-      "name": "Bancaribe",
-      "shortName": "Bancaribe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_56",
-      "name": "Caracas&#91;9&#93;",
-      "shortName": "Caracas&#91;9&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_57",
-      "name": "1954&#91;10&#93;",
-      "shortName": "1954&#91;10&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_58",
-      "name": "Banco Venezolano de Crédito",
-      "shortName": "Banco Venezolano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_59",
-      "name": "1925&#91;11&#93;",
-      "shortName": "1925&#91;11&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_60",
-      "name": "BANDES",
-      "shortName": "BANDES",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_61",
-      "name": "2001&#91;12&#93;",
-      "shortName": "2001&#91;12&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_62",
-      "name": "Banco Federal",
-      "shortName": "Banco Federal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_63",
-      "name": "1982",
-      "shortName": "1982",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_64",
-      "name": "2010&#91;13&#93;",
-      "shortName": "2010&#91;13&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_65",
-      "name": "Banco Latino",
-      "shortName": "Banco Latino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_66",
+      "code": "VE_6",
       "name": "Caracas&#91;14&#93;",
       "shortName": "Caracas&#91;14&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_67",
-      "name": "1950&#91;14&#93;",
-      "shortName": "1950&#91;14&#93;",
+      "code": "VE_7",
+      "name": "1939&#91;3&#93;",
+      "shortName": "1939&#91;3&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_68",
-      "name": "1994&#91;14&#93;",
-      "shortName": "1994&#91;14&#93;",
+      "code": "VE_8",
+      "name": "Banco Bicentenario",
+      "shortName": "Banco Bicentenario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_69",
+      "code": "VE_9",
+      "name": "State-owned",
+      "shortName": "State-owned",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_10",
+      "name": "Caracas",
+      "shortName": "Caracas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_11",
+      "name": "2009",
+      "shortName": "2009",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_12",
+      "name": "Banco Industrial de Venezuela",
+      "shortName": "Banco Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_13",
+      "name": "1937",
+      "shortName": "1937",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_14",
+      "name": "2016",
+      "shortName": "2016",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_15",
+      "name": "Banco de Venezuela",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_16",
+      "name": "Privately owned",
+      "shortName": "Privately owned",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_17",
+      "name": "1890",
+      "shortName": "1890",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_18",
+      "name": "Banesco",
+      "shortName": "Banesco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_19",
+      "name": "Publicly traded",
+      "shortName": "Publicly traded",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_20",
+      "name": "Mercantil Banco",
+      "shortName": "Mercantil Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_21",
+      "name": "1925",
+      "shortName": "1925",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_22",
+      "name": "BBVA Provincial",
+      "shortName": "BBVA Provincial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_23",
+      "name": "1953",
+      "shortName": "1953",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_24",
+      "name": "Banco Occidental de Descuento",
+      "shortName": "Banco Occidental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_25",
+      "name": "Maracaibo",
+      "shortName": "Maracaibo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_26",
+      "name": "1957&#91;5&#93;",
+      "shortName": "1957&#91;5&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_27",
+      "name": "2022",
+      "shortName": "2022",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_28",
+      "name": "Banco Nacional de Crédito",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_29",
+      "name": "1977",
+      "shortName": "1977",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_30",
+      "name": "Fondo Común",
+      "shortName": "Fondo Común",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_31",
+      "name": "1963",
+      "shortName": "1963",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_32",
+      "name": "100% Banco",
+      "shortName": "100% Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_33",
+      "name": "2006&#91;6&#93;",
+      "shortName": "2006&#91;6&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_34",
+      "name": "Women's Development Bank",
+      "shortName": "Women's Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_35",
+      "name": "2001",
+      "shortName": "2001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_36",
+      "name": "Sofitasa",
+      "shortName": "Sofitasa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_37",
+      "name": "San Cristóbal",
+      "shortName": "San Cristóbal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_38",
+      "name": "1990",
+      "shortName": "1990",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_39",
+      "name": "Iran-Venezuela Bi-National Bank",
+      "shortName": "Iran-Venezuela Bi-National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_40",
+      "name": "Tehran, Iran&#91;7&#93;",
+      "shortName": "Tehran, Iran&#91;7&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_41",
+      "name": "Bancaribe",
+      "shortName": "Bancaribe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_42",
+      "name": "1954&#91;10&#93;",
+      "shortName": "1954&#91;10&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_43",
+      "name": "Banco Venezolano de Crédito",
+      "shortName": "Banco Venezolano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_44",
+      "name": "BANDES",
+      "shortName": "BANDES",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_45",
+      "name": "2001&#91;12&#93;",
+      "shortName": "2001&#91;12&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_46",
+      "name": "Banco Federal",
+      "shortName": "Banco Federal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_47",
+      "name": "1982",
+      "shortName": "1982",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_48",
+      "name": "Banco Latino",
+      "shortName": "Banco Latino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_49",
       "name": "Stanford Bank Venezuela",
       "shortName": "Stanford",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_70",
-      "name": "Caracas&#91;15&#93;",
-      "shortName": "Caracas&#91;15&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_71",
+      "code": "VE_50",
       "name": "2009&#91;citation needed&#93;",
       "shortName": "2009&#91;citation needed&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_72",
-      "name": "Banco Activo&#160;&#91;es&#93;",
-      "shortName": "Banco Activo&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_73",
-      "name": "1978",
-      "shortName": "1978",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_74",
-      "name": "Banco Caroní&#160;&#91;es&#93;",
-      "shortName": "Banco Caroní&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_75",
-      "name": "Ciudad Guayana",
-      "shortName": "Ciudad Guayana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_76",
-      "name": "1981",
-      "shortName": "1981",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_77",
-      "name": "Banco Exterior&#160;&#91;es&#93;",
-      "shortName": "Banco Exterior&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_78",
-      "name": "1956&#91;16&#93;",
-      "shortName": "1956&#91;16&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_79",
-      "name": "Banco Guayana&#160;&#91;es&#93;",
-      "shortName": "Banco Guayana&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_80",
-      "name": "1955",
-      "shortName": "1955",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_81",
-      "name": "2012&#91;17&#93;",
-      "shortName": "2012&#91;17&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_82",
+      "code": "VE_51",
       "name": "Banco del Tesoro&#160;&#91;es&#93;",
       "shortName": "Banco del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_83",
+      "code": "VE_52",
+      "name": "1978",
+      "shortName": "1978",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_53",
+      "name": "Ciudad Guayana",
+      "shortName": "Ciudad Guayana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_54",
+      "name": "1981",
+      "shortName": "1981",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_55",
+      "name": "Banco Guayana&#160;&#91;es&#93;",
+      "shortName": "Banco Guayana&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_56",
+      "name": "1955",
+      "shortName": "1955",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_57",
       "name": "2005",
       "shortName": "2005",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_84",
-      "name": "Banco Plaza&#160;&#91;es&#93;",
-      "shortName": "Banco Plaza&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_85",
-      "name": "Caracas&#91;18&#93;",
-      "shortName": "Caracas&#91;18&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_86",
+      "code": "VE_58",
       "name": "1989",
       "shortName": "1989",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_87",
+      "code": "VE_59",
       "name": "Banplus&#160;&#91;es&#93;",
       "shortName": "Banplus&#160;&#91;es&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_88",
+      "code": "VE_60",
       "name": "2007",
       "shortName": "2007",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_89",
+      "code": "VE_61",
       "name": "Agricultural Bank of Venezuela&#160;&#91;es&#93;",
       "shortName": "Agricultural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_90",
-      "name": "2005&#91;19&#93;",
-      "shortName": "2005&#91;19&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_91",
-      "name": "Citibank Venezuela&#160;&#91;es&#93;",
-      "shortName": "Citibank Venezuela&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_92",
-      "name": "1917",
-      "shortName": "1917",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_93",
-      "name": "2021",
-      "shortName": "2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_94",
+      "code": "VE_62",
       "name": "Corp Banca Venezuela&#160;&#91;es&#93;",
       "shortName": "Corp Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_95",
+      "code": "VE_63",
+      "name": "1917",
+      "shortName": "1917",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_64",
+      "name": "2021",
+      "shortName": "2021",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VE_65",
       "name": "1997",
       "shortName": "1997",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_96",
-      "name": "2013&#91;20&#93;",
-      "shortName": "2013&#91;20&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VE_97",
+      "code": "VE_66",
       "name": "DELSUR Banco Universal&#160;&#91;es&#93;",
       "shortName": "DELSUR Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VE_98",
+      "code": "VE_67",
       "name": "1978&#91;21&#93;",
       "shortName": "1978&#91;21&#93;",
       "type": "bank",

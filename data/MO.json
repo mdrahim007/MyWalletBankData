@@ -12,1574 +12,1119 @@
     },
     {
       "code": "MO_1",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_2",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_3",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_4",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_5",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_6",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_7",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_8",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_9",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_10",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_11",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_12",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_13",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_14",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_15",
+      "code": "MO_2",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_16",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_17",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_18",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_19",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_20",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_21",
+      "code": "MO_3",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_22",
+      "code": "MO_4",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_23",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_24",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_25",
+      "code": "MO_5",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_26",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_27",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_28",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_29",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_30",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_31",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_32",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_33",
+      "code": "MO_6",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_34",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_35",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_36",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_37",
+      "code": "MO_7",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_38",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_39",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_40",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_41",
+      "code": "MO_8",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_42",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_43",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_44",
+      "code": "MO_9",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_45",
+      "code": "MO_10",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_46",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_47",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_48",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_49",
+      "code": "MO_11",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_50",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_51",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_52",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_53",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_54",
+      "code": "MO_12",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_55",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_56",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_57",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_58",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_59",
+      "code": "MO_13",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_60",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_61",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_62",
-      "name": "Banks of Macau",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_63",
+      "code": "MO_14",
       "name": "Macau-related lists",
       "shortName": "Macau-related lists",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_64",
-      "name": "Lists of banks by dependent territory",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_65",
+      "code": "MO_15",
       "name": "CS1 errors: unsupported parameter",
       "shortName": "CS1 errors:",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_66",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_67",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_68",
-      "name": "Articles containing Portuguese-language text",
-      "shortName": "Articles containing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_69",
-      "name": "Articles containing Yue Chinese-language text",
-      "shortName": "Articles containing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_70",
-      "name": "Commons category link is on Wikidata",
-      "shortName": "Commons category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_71",
+      "code": "MO_16",
       "name": "Banco Tai Fung",
       "shortName": "Banco Tai",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_72",
+      "code": "MO_17",
       "name": "大豐銀行",
       "shortName": "大豐銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_73",
+      "code": "MO_18",
       "name": "1942",
       "shortName": "1942",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_74",
+      "code": "MO_19",
       "name": "TFBLMOMXXXX",
       "shortName": "TFBLMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_75",
+      "code": "MO_20",
       "name": "Banco OCBC (Macau)",
       "shortName": "Banco OCBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_76",
+      "code": "MO_21",
       "name": "華僑銀行（澳門）",
       "shortName": "華僑銀行（澳門）",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_77",
+      "code": "MO_22",
       "name": "1995",
       "shortName": "1995",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_78",
+      "code": "MO_23",
       "name": "WIHBMOMXXXX",
       "shortName": "WIHBMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_79",
+      "code": "MO_24",
       "name": "Banco Delta Ásia",
       "shortName": "Banco Delta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_80",
+      "code": "MO_25",
       "name": "滙業銀行",
       "shortName": "滙業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_81",
+      "code": "MO_26",
       "name": "1931",
       "shortName": "1931",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_82",
+      "code": "MO_27",
       "name": "DABGMOMXXXX",
       "shortName": "DABGMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_83",
+      "code": "MO_28",
       "name": "Banco Industrial e Comercial da China (Macau)",
       "shortName": "Banco Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_84",
+      "code": "MO_29",
       "name": "中國工商銀行（澳門）",
       "shortName": "中國工商銀行（澳門）",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_85",
+      "code": "MO_30",
       "name": "2009",
       "shortName": "2009",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_86",
+      "code": "MO_31",
       "name": "ICBKMOMXXXX",
       "shortName": "ICBKMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_87",
+      "code": "MO_32",
       "name": "Banco Luso Internacional",
       "shortName": "Banco Luso",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_88",
+      "code": "MO_33",
       "name": "澳門國際銀行",
       "shortName": "澳門國際銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_89",
+      "code": "MO_34",
       "name": "1999",
       "shortName": "1999",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_90",
+      "code": "MO_35",
       "name": "LUSOMOMXXXX",
       "shortName": "LUSOMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_91",
+      "code": "MO_36",
       "name": "Banco Comercial de Macau",
       "shortName": "Banco Comercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_92",
+      "code": "MO_37",
       "name": "澳門商業銀行",
       "shortName": "澳門商業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_93",
+      "code": "MO_38",
       "name": "1959",
       "shortName": "1959",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_94",
+      "code": "MO_39",
       "name": "CMACMOMXXXX",
       "shortName": "CMACMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_95",
+      "code": "MO_40",
       "name": "Banco Chinês de Macau",
       "shortName": "Banco Chinês",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_96",
+      "code": "MO_41",
       "name": "澳門華人銀行",
       "shortName": "澳門華人銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_97",
+      "code": "MO_42",
       "name": "1993",
       "shortName": "1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_98",
+      "code": "MO_43",
       "name": "Banco Well Link",
       "shortName": "Banco Well",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_99",
+      "code": "MO_44",
       "name": "立橋銀行",
       "shortName": "立橋銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_100",
+      "code": "MO_45",
       "name": "2008",
       "shortName": "2008",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_101",
+      "code": "MO_46",
       "name": "BESCMOMXXXX",
       "shortName": "BESCMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_102",
+      "code": "MO_47",
       "name": "Banco Nacional Ultramarino",
       "shortName": "Banco Nacional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_103",
+      "code": "MO_48",
       "name": "大西洋銀行",
       "shortName": "大西洋銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_104",
+      "code": "MO_49",
       "name": "1902",
       "shortName": "1902",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_105",
+      "code": "MO_50",
       "name": "BNULMOMXXXX",
       "shortName": "BNULMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_106",
+      "code": "MO_51",
       "name": "Banco de Desenvolvimento de Macau",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_107",
+      "code": "MO_52",
       "name": "澳門發展銀行",
       "shortName": "澳門發展銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_108",
+      "code": "MO_53",
       "name": "2001",
       "shortName": "2001",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_109",
+      "code": "MO_54",
       "name": "Banco da China (Macau)",
       "shortName": "Banco da",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_110",
-      "name": "中國銀行（澳門）",
-      "shortName": "中國銀行（澳門）",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_111",
+      "code": "MO_55",
       "name": "2022",
       "shortName": "2022",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_112",
+      "code": "MO_56",
       "name": "BKCHMOMXXXX",
       "shortName": "BKCHMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_113",
+      "code": "MO_57",
       "name": "12",
       "shortName": "12",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_114",
+      "code": "MO_58",
       "name": "Banco de Formiga (Macau)",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_115",
+      "code": "MO_59",
       "name": "螞蟻銀行（澳門）",
       "shortName": "螞蟻銀行（澳門）",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_116",
+      "code": "MO_60",
       "name": "2019",
       "shortName": "2019",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_117",
+      "code": "MO_61",
       "name": "The Hongkong &amp; Shanghai Banking Corporation",
       "shortName": "The Hongkong",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_118",
+      "code": "MO_62",
       "name": "香港上海滙豐銀行",
       "shortName": "香港上海滙豐銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_119",
+      "code": "MO_63",
       "name": "1972",
       "shortName": "1972",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_120",
+      "code": "MO_64",
       "name": "HSBCMOMXXXX",
       "shortName": "HSBCMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_121",
+      "code": "MO_65",
       "name": "DBS Bank (Hong Kong)",
       "shortName": "DBS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_122",
+      "code": "MO_66",
       "name": "星展銀行（香港）",
       "shortName": "星展銀行（香港）",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_123",
+      "code": "MO_67",
       "name": "1973",
       "shortName": "1973",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_124",
+      "code": "MO_68",
       "name": "DBSSMOMXXXX",
       "shortName": "DBSSMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_125",
+      "code": "MO_69",
       "name": "&#160;China",
       "shortName": "&#160;China",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_126",
+      "code": "MO_70",
       "name": "中國銀行",
       "shortName": "中國銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_127",
+      "code": "MO_71",
       "name": "1950",
       "shortName": "1950",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_128",
+      "code": "MO_72",
       "name": "BKCHMOMXCUS",
       "shortName": "BKCHMOMXCUS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_129",
+      "code": "MO_73",
       "name": "&#160;United Kingdom",
       "shortName": "&#160;United Kingdom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_130",
+      "code": "MO_74",
       "name": "Standard Chartered Bank",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_131",
+      "code": "MO_75",
       "name": "渣打銀行",
       "shortName": "渣打銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_132",
+      "code": "MO_76",
       "name": "1983",
       "shortName": "1983",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_133",
+      "code": "MO_77",
       "name": "SCBLMOMXXXX",
       "shortName": "SCBLMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_134",
+      "code": "MO_78",
       "name": "Banco de Guangfa da China",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_135",
+      "code": "MO_79",
       "name": "廣發銀行",
       "shortName": "廣發銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_136",
+      "code": "MO_80",
       "name": "GDBKMOMXXXX",
       "shortName": "GDBKMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_137",
+      "code": "MO_81",
       "name": "&#160;Taiwan",
       "shortName": "&#160;Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_138",
+      "code": "MO_82",
       "name": "Bank SinoPac",
       "shortName": "Bank SinoPac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_139",
+      "code": "MO_83",
       "name": "永豐商業銀行",
       "shortName": "永豐商業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_140",
+      "code": "MO_84",
       "name": "1997",
       "shortName": "1997",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_141",
+      "code": "MO_85",
       "name": "SINOMOMXXXX",
       "shortName": "SINOMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_142",
+      "code": "MO_86",
       "name": "Chong Hing Bank",
       "shortName": "Chong Hing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_143",
+      "code": "MO_87",
       "name": "創興銀行",
       "shortName": "創興銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_144",
+      "code": "MO_88",
       "name": "LCHBMOMXXXX",
       "shortName": "LCHBMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_145",
+      "code": "MO_89",
       "name": "Banco da East Asia",
       "shortName": "Banco da",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_146",
+      "code": "MO_90",
       "name": "東亞銀行",
       "shortName": "東亞銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_147",
-      "name": "BEAMOMXXXX",
-      "shortName": "BEAMOMXXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_148",
+      "code": "MO_91",
       "name": "Hang Seng Bank",
       "shortName": "Hang Seng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_149",
+      "code": "MO_92",
       "name": "恒生銀行",
       "shortName": "恒生銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_150",
+      "code": "MO_93",
       "name": "2003",
       "shortName": "2003",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_151",
+      "code": "MO_94",
       "name": "HASEMOMXXXX",
       "shortName": "HASEMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_152",
+      "code": "MO_95",
       "name": "Banco CITIC Internacional (China)",
       "shortName": "Banco CITIC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_153",
+      "code": "MO_96",
       "name": "中信銀行（國際）",
       "shortName": "中信銀行（國際）",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_154",
+      "code": "MO_97",
       "name": "2005",
       "shortName": "2005",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_155",
+      "code": "MO_98",
       "name": "KWHKMOMX",
       "shortName": "KWHKMOMX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_156",
+      "code": "MO_99",
       "name": "Bank of Communication",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_157",
+      "code": "MO_100",
       "name": "交通銀行",
       "shortName": "交通銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_158",
+      "code": "MO_101",
       "name": "2007",
       "shortName": "2007",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_159",
+      "code": "MO_102",
       "name": "COMMMOMXXXX",
       "shortName": "COMMMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_160",
+      "code": "MO_103",
       "name": "&#160;Portugal",
       "shortName": "&#160;Portugal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_161",
+      "code": "MO_104",
       "name": "Banco Comercial Português",
       "shortName": "Banco Comercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_162",
+      "code": "MO_105",
       "name": "葡萄牙商業銀行",
       "shortName": "葡萄牙商業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_163",
-      "name": "BCOMMOMXXXX",
-      "shortName": "BCOMMOMXXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_164",
+      "code": "MO_106",
       "name": "Banco Comercial Primeiro",
       "shortName": "Banco Comercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_165",
+      "code": "MO_107",
       "name": "第一商業銀行",
       "shortName": "第一商業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_166",
+      "code": "MO_108",
       "name": "2010",
       "shortName": "2010",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_167",
+      "code": "MO_109",
       "name": "FCBKMOMX",
       "shortName": "FCBKMOMX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_168",
+      "code": "MO_110",
       "name": "&#160;Hong Kong",
       "shortName": "&#160;Hong Kong",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_169",
+      "code": "MO_111",
       "name": "Banco CMB Wing Lung",
       "shortName": "Banco CMB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_170",
+      "code": "MO_112",
       "name": "招商永隆銀行",
       "shortName": "招商永隆銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_171",
-      "name": "CMBMMOMXXXX",
-      "shortName": "CMBMMOMXXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_172",
+      "code": "MO_113",
       "name": "Banco Comercial Hua Nan",
       "shortName": "Banco Comercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_173",
+      "code": "MO_114",
       "name": "華南商業銀行",
       "shortName": "華南商業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_174",
+      "code": "MO_115",
       "name": "2012",
       "shortName": "2012",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_175",
+      "code": "MO_116",
       "name": "HNBMMOMXXXX",
       "shortName": "HNBMMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_176",
+      "code": "MO_117",
       "name": "Banco de Construção da China",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_177",
+      "code": "MO_118",
       "name": "中國建設銀行",
       "shortName": "中國建設銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_178",
+      "code": "MO_119",
       "name": "2014",
       "shortName": "2014",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_179",
+      "code": "MO_120",
       "name": "PCBMMOMXXXX",
       "shortName": "PCBMMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_180",
+      "code": "MO_121",
       "name": "Banco Agrícola da China",
       "shortName": "Banco Agrícola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_181",
+      "code": "MO_122",
       "name": "中國農業銀行",
       "shortName": "中國農業銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_182",
+      "code": "MO_123",
       "name": "2018",
       "shortName": "2018",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_183",
+      "code": "MO_124",
       "name": "ABCMMOMXXXX",
       "shortName": "ABCMMOMXXXX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_184",
-      "name": "Banco Industrial e Comercial da China",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_185",
+      "code": "MO_125",
       "name": "中國工商銀行",
       "shortName": "中國工商銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_186",
+      "code": "MO_126",
       "name": "2020",
       "shortName": "2020",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_187",
-      "name": "ICBKMOMMXXX",
-      "shortName": "ICBKMOMMXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_188",
+      "code": "MO_127",
       "name": "Banco de Everbright da China",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_189",
+      "code": "MO_128",
       "name": "中國光大銀行",
       "shortName": "中國光大銀行",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_190",
+      "code": "MO_129",
       "name": "2023",
       "shortName": "2023",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_191",
-      "name": "CEBMMOMXXXX",
-      "shortName": "CEBMMOMXXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_192",
+      "code": "MO_130",
       "name": "Bank of China (Macau)&#91;a&#93;",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_193",
+      "code": "MO_131",
       "name": "246,234.01 &#91;3&#93;",
       "shortName": "246,234.01 &#91;3&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_194",
+      "code": "MO_132",
       "name": "Bank of China Macau Branch",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_195",
+      "code": "MO_133",
       "name": "746,376.74 &#91;4&#93;",
       "shortName": "746,376.74 &#91;4&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_196",
-      "name": "Industrial and Commercial Bank of China (Macau)",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_197",
-      "name": "387,243.09 &#91;5&#93;",
-      "shortName": "387,243.09 &#91;5&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_198",
+      "code": "MO_134",
       "name": "Industrial and Commercial Bank of China Macau Branch",
       "shortName": "Industrial and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_199",
+      "code": "MO_135",
+      "name": "387,243.09 &#91;5&#93;",
+      "shortName": "387,243.09 &#91;5&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_136",
       "name": "95,673.55&#91;6&#93;",
       "shortName": "95,673.55&#91;6&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_200",
+      "code": "MO_137",
       "name": "LUSO International Banking",
       "shortName": "LUSO International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_201",
+      "code": "MO_138",
       "name": "Tai Fung Bank",
       "shortName": "Tai Fung",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_202",
+      "code": "MO_139",
       "name": "China Construction Bank Macau Branch",
       "shortName": "China Construction",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_203",
+      "code": "MO_140",
       "name": "Bank of Communications Macau Branch",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_204",
+      "code": "MO_141",
       "name": "Agricultural Bank of China Macau Branch",
       "shortName": "Agricultural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_205",
+      "code": "MO_142",
       "name": "China Guangfa Bank Macau Branch",
       "shortName": "China Guangfa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_206",
+      "code": "MO_143",
       "name": "Well Link Bank",
       "shortName": "Well Link",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_207",
+      "code": "MO_144",
       "name": "OCBC Bank (Macau)",
       "shortName": "OCBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_208",
+      "code": "MO_145",
       "name": "HSBC Bank Macau Branch",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_209",
+      "code": "MO_146",
       "name": "21,980.11&#91;16&#93;",
       "shortName": "21,980.11&#91;16&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_210",
-      "name": "Hang Seng Bank Macau Branch",
-      "shortName": "Hang Seng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_211",
-      "name": "9,171.20 &#91;17&#93;",
-      "shortName": "9,171.20 &#91;17&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_212",
-      "name": "CMB Wing Lung Bank Macau Branch",
-      "shortName": "CMB Wing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_213",
-      "name": "Macau Development Bank",
-      "shortName": "Macau Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_214",
-      "name": "China Everbright Bank Macau Branch",
-      "shortName": "China Everbright",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_215",
-      "name": "Macau Chinese Bank",
-      "shortName": "Macau Chinese",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_216",
-      "name": "Ant Bank (Macau)",
-      "shortName": "Ant",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_217",
-      "name": "Bank SinoPac Macau Branch",
-      "shortName": "Bank SinoPac",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_218",
-      "name": "DBS Bank Macau Branch",
-      "shortName": "DBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MO_219",
+      "code": "MO_147",
       "name": "Chong Hing Bank Macau Branch",
       "shortName": "Chong Hing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_220",
+      "code": "MO_148",
+      "name": "9,171.20 &#91;17&#93;",
+      "shortName": "9,171.20 &#91;17&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_149",
+      "name": "CMB Wing Lung Bank Macau Branch",
+      "shortName": "CMB Wing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_150",
+      "name": "Macau Development Bank",
+      "shortName": "Macau Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_151",
+      "name": "China Everbright Bank Macau Branch",
+      "shortName": "China Everbright",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_152",
+      "name": "Macau Chinese Bank",
+      "shortName": "Macau Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_153",
+      "name": "Ant Bank (Macau)",
+      "shortName": "Ant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_154",
+      "name": "Bank SinoPac Macau Branch",
+      "shortName": "Bank SinoPac",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MO_155",
       "name": "Bank of East Asia Macau Branch",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_221",
+      "code": "MO_156",
       "name": "Millennium bcp Macau Branch",
       "shortName": "Millennium bcp",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_222",
+      "code": "MO_157",
       "name": "China CITIC Bank International Macau Branch",
       "shortName": "China CITIC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_223",
+      "code": "MO_158",
       "name": "Standard Chartered Bank Macau Branch",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_224",
+      "code": "MO_159",
       "name": "First Commercial Bank Macau Branch",
       "shortName": "First Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MO_225",
+      "code": "MO_160",
       "name": "Hua Nan Bank Macau Branch",
       "shortName": "Hua Nan",
       "type": "bank",

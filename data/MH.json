@@ -4,35 +4,35 @@
   "country": "MH",
   "institutions": [
     {
-      "code": "CENBMH",
+      "code": "MH_0",
       "name": "Central Bank of MH",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMH",
+      "code": "MH_1",
       "name": "National Bank of MH",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMH",
+      "code": "MH_2",
       "name": "State Bank of MH",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMH",
+      "code": "MH_3",
       "name": "Commercial Bank of MH",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMH",
+      "code": "MH_4",
       "name": "First MH Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "GM",
   "institutions": [
     {
-      "code": "CENBGM",
+      "code": "GM_0",
       "name": "Central Bank of GM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGM",
+      "code": "GM_1",
       "name": "National Bank of GM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGM",
+      "code": "GM_2",
       "name": "State Bank of GM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGM",
+      "code": "GM_3",
       "name": "Commercial Bank of GM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGM",
+      "code": "GM_4",
       "name": "First GM Bank",
       "shortName": "First Bank",
       "type": "bank",

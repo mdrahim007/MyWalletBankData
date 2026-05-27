@@ -4,35 +4,35 @@
   "country": "AX",
   "institutions": [
     {
-      "code": "CENBAX",
+      "code": "AX_0",
       "name": "Central Bank of AX",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAX",
+      "code": "AX_1",
       "name": "National Bank of AX",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAX",
+      "code": "AX_2",
       "name": "State Bank of AX",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAX",
+      "code": "AX_3",
       "name": "Commercial Bank of AX",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAX",
+      "code": "AX_4",
       "name": "First AX Bank",
       "shortName": "First Bank",
       "type": "bank",

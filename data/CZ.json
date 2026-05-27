@@ -4,35 +4,35 @@
   "country": "CZ",
   "institutions": [
     {
-      "code": "CENBCZ",
+      "code": "CZ_0",
       "name": "Central Bank of CZ",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCZ",
+      "code": "CZ_1",
       "name": "National Bank of CZ",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCZ",
+      "code": "CZ_2",
       "name": "State Bank of CZ",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCZ",
+      "code": "CZ_3",
       "name": "Commercial Bank of CZ",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCZ",
+      "code": "CZ_4",
       "name": "First CZ Bank",
       "shortName": "First Bank",
       "type": "bank",

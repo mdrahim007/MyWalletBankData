@@ -40,15 +40,15 @@
     },
     {
       "code": "FI_5",
-      "name": "Aito Säästöpankki&#160;&#91;fi&#93;",
-      "shortName": "Aito Säästöpankki&#160;&#91;fi&#93;",
+      "name": "Someron Säästöpankki&#160;&#91;fi&#93;",
+      "shortName": "Someron Säästöpankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FI_6",
-      "name": "Avain Säästöpankki",
-      "shortName": "Avain Säästöpankki",
+      "name": "Lammin Säästöpankki",
+      "shortName": "Lammin Säästöpankki",
       "type": "bank",
       "aliases": ""
     },
@@ -68,862 +68,365 @@
     },
     {
       "code": "FI_9",
-      "name": "Lammin Säästöpankki",
-      "shortName": "Lammin Säästöpankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_10",
       "name": "Länsi-Uudenmaan Säästöpankki&#160;&#91;fi&#93;",
       "shortName": "Länsi-Uudenmaan Säästöpankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_11",
+      "code": "FI_10",
       "name": "Myrskylän Säästöpankki",
       "shortName": "Myrskylän Säästöpankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_12",
-      "name": "Nooa Säästöpankki&#160;&#91;fi&#93;",
-      "shortName": "Nooa Säästöpankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_13",
+      "code": "FI_11",
       "name": "Närpes Sparbank ab",
       "shortName": "Närpes Sparbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_14",
-      "name": "Someron Säästöpankki&#160;&#91;fi&#93;",
-      "shortName": "Someron Säästöpankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_15",
+      "code": "FI_12",
       "name": "Säästöpankki Kalanti-Pyhäranta",
       "shortName": "Säästöpankki Kalanti-Pyhäranta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_16",
+      "code": "FI_13",
       "name": "Säästöpankki Optia Oy",
       "shortName": "Säästöpankki Optia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_17",
+      "code": "FI_14",
       "name": "Säästöpankki Sinetti",
       "shortName": "Säästöpankki Sinetti",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_18",
+      "code": "FI_15",
       "name": "Ekenäs Sparbank&#160;&#91;fi&#93;",
       "shortName": "Ekenäs Sparbank&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_19",
+      "code": "FI_16",
       "name": "Honkajoen Osuuspankki",
       "shortName": "Honkajoen Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_20",
+      "code": "FI_17",
       "name": "Isojoen Osuuspankki",
       "shortName": "Isojoen Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_21",
+      "code": "FI_18",
       "name": "Kannonkosken Osuuspankki",
       "shortName": "Kannonkosken Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_22",
+      "code": "FI_19",
       "name": "Hetki Osuuspankki",
       "shortName": "Hetki Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_23",
+      "code": "FI_20",
       "name": "Konneveden Osuuspankki",
       "shortName": "Konneveden Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_24",
-      "name": "Kosken Osuuspankki",
-      "shortName": "Kosken Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_25",
+      "code": "FI_21",
       "name": "Kurikan Osuuspankki",
       "shortName": "Kurikan Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_26",
+      "code": "FI_22",
       "name": "Kyrön Seudun Osuuspankki",
       "shortName": "Kyrön Seudun",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_27",
+      "code": "FI_23",
       "name": "Kyyjärven Osuuspankki",
       "shortName": "Kyyjärven Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_28",
+      "code": "FI_24",
       "name": "Lammin Osuuspankki",
       "shortName": "Lammin Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_29",
-      "name": "Lanneveden Osuuspankki",
-      "shortName": "Lanneveden Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_30",
+      "code": "FI_25",
       "name": "Lappajärven Osuuspankki&#160;&#91;fi&#93;",
       "shortName": "Lappajärven Osuuspankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_31",
+      "code": "FI_26",
       "name": "Lakeuden Osuuspankki",
       "shortName": "Lakeuden Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_32",
-      "name": "Lavian Osuuspankki",
-      "shortName": "Lavian Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_33",
+      "code": "FI_27",
       "name": "Nivalan Järvikylän Osuuspankki&#160;&#91;fi&#93;",
       "shortName": "Nivalan Järvikylän",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_34",
+      "code": "FI_28",
       "name": "Pohjanmaan Osuuspankki",
       "shortName": "Pohjanmaan Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_35",
+      "code": "FI_29",
       "name": "Järvi-Suomen Osuuspankki",
       "shortName": "Järvi-Suomen Osuuspankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_36",
+      "code": "FI_30",
       "name": "Suupohjan (Suomen) Osuuspankki&#160;&#91;fi&#93;",
       "shortName": "Suupohjan (Suomen)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_37",
+      "code": "FI_31",
       "name": "Ålandsbanken",
       "shortName": "Ålandsbanken",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_38",
+      "code": "FI_32",
       "name": "Alisa Pankki&#160;&#91;fi&#93;",
       "shortName": "Alisa Pankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_39",
+      "code": "FI_33",
       "name": "Danske Kiinnitysluottopankki Oyj",
       "shortName": "Danske Kiinnitysluottopankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_40",
+      "code": "FI_34",
       "name": "Oma Savings Bank&#160;&#91;fi&#93;",
       "shortName": "Oma Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_41",
+      "code": "FI_35",
       "name": "Suomen AsuntoHypoPankki",
       "shortName": "Suomen AsuntoHypoPankki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_42",
+      "code": "FI_36",
       "name": "Suomen Hypoteekkiyhdistys&#160;&#91;fi&#93;",
       "shortName": "Suomen Hypoteekkiyhdistys&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_43",
+      "code": "FI_37",
       "name": "Finnish branch of Avida Finans AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_44",
+      "code": "FI_38",
       "name": "Finnish branch of Brocc Finance AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_45",
+      "code": "FI_39",
       "name": "Finnish branch of Collector Bank AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_46",
+      "code": "FI_40",
       "name": "Finnish branch of Ecster AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_47",
+      "code": "FI_41",
       "name": "Finnish branch of Enity Bank Group AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_48",
+      "code": "FI_42",
       "name": "Finnish branch of Ikano Bank AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_49",
+      "code": "FI_43",
       "name": "Finnish branch of Nordnet",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_50",
+      "code": "FI_44",
       "name": "Finnish branch of Northmill Bank AB&#160;&#91;sv&#93;",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_51",
+      "code": "FI_45",
       "name": "Finnish branch of PayEx Sverige AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_52",
-      "name": "Finnish branch of Resurs Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_53",
-      "name": "Finnish branch of Saxo Bank A/S",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_54",
+      "code": "FI_46",
       "name": "Finnish branch of Svea Bank&#160;&#91;sv&#93;",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_55",
+      "code": "FI_47",
       "name": "Finnish branch of Swedbank AB",
       "shortName": "Finnish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_56",
+      "code": "FI_48",
       "name": "Helsinki Savings Bank (1825-1991), merged into Aktia Bank",
       "shortName": "Helsinki Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_57",
+      "code": "FI_49",
       "name": "Kansallis-Osake-Pankki (1889-1995), merged into Merita Bank",
       "shortName": "Kansallis-Osake-Pankki (1889-1995),",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_58",
+      "code": "FI_50",
       "name": "Nisula Cooperative Bank&#160;&#91;fi&#93; (1903-?)",
       "shortName": "Nisula Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_59",
+      "code": "FI_51",
       "name": "Atlas Pankki&#160;&#91;fi&#93; (1919-1929), absorbed by HOP",
       "shortName": "Atlas Pankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_60",
+      "code": "FI_52",
       "name": "Liittopankki (1920-1931), absorbed by HOP",
       "shortName": "Liittopankki (1920-1931),",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_61",
+      "code": "FI_53",
       "name": "Bank of Turku&#160;&#91;fi&#93; (1924-1933), liquidated",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_62",
+      "code": "FI_54",
       "name": "Peruspankki&#160;&#91;fi&#93; (1963-1990), merged into STS",
       "shortName": "Peruspankki&#160;&#91;fi&#93; (1963-1990),",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_63",
+      "code": "FI_55",
       "name": "Sofia Pankki&#160;&#91;fi&#93; (2008-2010), liquidated",
       "shortName": "Sofia Pankki&#160;&#91;fi&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_64",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_65",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_66",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_67",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_68",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_69",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_70",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_71",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_72",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_73",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_74",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_75",
+      "code": "FI_56",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_76",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_77",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_78",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_79",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_80",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_81",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_82",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_83",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_84",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_85",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_86",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_87",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_88",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_89",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_90",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_91",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_92",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_93",
+      "code": "FI_57",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_94",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_95",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_96",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_97",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_98",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_99",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_100",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_101",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_102",
+      "code": "FI_58",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_103",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_104",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_105",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_106",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_107",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_108",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_109",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_110",
+      "code": "FI_59",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FI_111",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_112",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_113",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_114",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_115",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_116",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_117",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_118",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_119",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_120",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_121",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_122",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_123",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_124",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_125",
-      "name": "Banks of Finland",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_126",
+      "code": "FI_60",
       "name": "Economy of Finland-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_127",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_128",
-      "name": "Lists of companies of Finland",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_129",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_130",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_131",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

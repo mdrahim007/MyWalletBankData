@@ -12,2885 +12,2206 @@
     },
     {
       "code": "GR_1",
-      "name": "Eurobank Ergasias Services and Holdings SA",
-      "shortName": "Eurobank Ergasias",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_2",
       "name": "National Bank of Greece SA",
       "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_3",
+      "code": "GR_2",
       "name": "Piraeus Financial Holdings SA",
       "shortName": "Piraeus Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_4",
+      "code": "GR_3",
       "name": "Aegean Baltic Bank SA",
       "shortName": "Aegean Baltic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_5",
+      "code": "GR_4",
       "name": "CrediaBank SA",
       "shortName": "CrediaBank SA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_6",
+      "code": "GR_5",
       "name": "Optima bank SA",
       "shortName": "Optima bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_7",
+      "code": "GR_6",
       "name": "Cooperative Bank of Epirus Ltd",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_8",
+      "code": "GR_7",
       "name": "Cooperative Bank of Karditsa Coop. LL",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_9",
-      "name": "Cooperative Bank of Thessaly Coop. LL",
-      "shortName": "Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_10",
+      "code": "GR_8",
       "name": "Vivabank SA",
       "shortName": "Vivabank SA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_11",
+      "code": "GR_9",
       "name": "Snappi Bank SA",
       "shortName": "Snappi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_12",
+      "code": "GR_10",
       "name": "Bank Saderat Iran",
       "shortName": "Bank Saderat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_13",
+      "code": "GR_11",
       "name": "Ziraat Bank",
       "shortName": "Ziraat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_14",
+      "code": "GR_12",
       "name": "National Financial Bank&#160;&#91;el&#93; (1828-1834)",
       "shortName": "National Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_15",
+      "code": "GR_13",
       "name": "Ionian Bank (1839-2000)",
       "shortName": "Ionian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_16",
+      "code": "GR_14",
       "name": "Privileged Bank of Epirothessaly (1882-1899)",
       "shortName": "Privileged",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_17",
+      "code": "GR_15",
       "name": "Bank of Salonica (1886-1947)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_18",
+      "code": "GR_16",
       "name": "Bank of Athens (1893-1953)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_19",
+      "code": "GR_17",
       "name": "Bank of Crete (1899–1919)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_20",
+      "code": "GR_18",
       "name": "Banque d'Orient (1904-1932)",
       "shortName": "Banque d'Orient",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_21",
+      "code": "GR_19",
       "name": "Emporiki Bank (1907-2013)",
       "shortName": "Emporiki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_22",
+      "code": "GR_20",
       "name": "National Economy Bank&#160;&#91;el&#93; (1918-1930)",
       "shortName": "National Economy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_23",
+      "code": "GR_21",
       "name": "Agricultural Bank of Greece (1919-2013)",
       "shortName": "Agricultural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_24",
+      "code": "GR_22",
       "name": "Attica Bank (1925-2025)",
       "shortName": "Attica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_25",
+      "code": "GR_23",
       "name": "Geniki Bank (1937-2014)",
       "shortName": "Geniki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_26",
+      "code": "GR_24",
       "name": "Ergasias Bank&#160;&#91;el&#93; (1975-2000)",
       "shortName": "Ergasias&#160;&#91;el&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_27",
+      "code": "GR_25",
       "name": "Arab-Hellenic Bank&#160;&#91;el&#93; (1979-1994)",
       "shortName": "Arab-Hellenic&#160;&#91;el&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_28",
-      "name": "Bank of Crete (1980–1999)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_29",
+      "code": "GR_26",
       "name": "HSBC Bank Greece (1981-2022)",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_30",
+      "code": "GR_27",
       "name": "Aspis Bank (1992-2013)",
       "shortName": "Aspis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_31",
+      "code": "GR_28",
       "name": "Cyprus Popular Bank Greece (1992-2013)",
       "shortName": "Cyprus Popular",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_32",
+      "code": "GR_29",
       "name": "Pancretan Cooperative Bank&#160;&#91;el&#93; (1994-2024)",
       "shortName": "Pancretan Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_33",
+      "code": "GR_30",
       "name": "Millennium Bank (2000-2013)",
       "shortName": "Millennium",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_34",
-      "name": "FBBank (2001-2013)",
-      "shortName": "FBBank (2001-2013)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_35",
-      "name": "Omega Bank (2001-2006)",
-      "shortName": "Omega",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_36",
+      "code": "GR_31",
       "name": "PROBANK (2001-2013)",
       "shortName": "PROBANK (2001-2013)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_37",
+      "code": "GR_32",
+      "name": "Omega Bank (2001-2006)",
+      "shortName": "Omega",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GR_33",
       "name": "Basic topics",
       "shortName": "Basic topics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_38",
+      "code": "GR_34",
       "name": "Neolithic Age",
       "shortName": "Neolithic Age",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_39",
+      "code": "GR_35",
       "name": "Bronze Age",
       "shortName": "Bronze Age",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_40",
+      "code": "GR_36",
       "name": "Pelasgians",
       "shortName": "Pelasgians",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_41",
+      "code": "GR_37",
       "name": "Cycladic civilization",
       "shortName": "Cycladic civilization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_42",
+      "code": "GR_38",
       "name": "Minoan civilization",
       "shortName": "Minoan civilization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_43",
+      "code": "GR_39",
       "name": "Helladic period",
       "shortName": "Helladic period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_44",
+      "code": "GR_40",
       "name": "Mycenaean period",
       "shortName": "Mycenaean period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_45",
+      "code": "GR_41",
       "name": "Bronze Age collapse",
       "shortName": "Bronze Age",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_46",
+      "code": "GR_42",
       "name": "Greek Dark Ages",
       "shortName": "Greek Dark",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_47",
+      "code": "GR_43",
       "name": "Iron Age migrations",
       "shortName": "Iron Age",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_48",
+      "code": "GR_44",
       "name": "Archaic period",
       "shortName": "Archaic period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_49",
+      "code": "GR_45",
       "name": "Greco-Persian Wars",
       "shortName": "Greco-Persian Wars",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_50",
+      "code": "GR_46",
       "name": "Classical period",
       "shortName": "Classical period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_51",
+      "code": "GR_47",
       "name": "Delian and Peloponnesian League",
       "shortName": "Delian and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_52",
+      "code": "GR_48",
       "name": "Peloponnesian War",
       "shortName": "Peloponnesian War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_53",
+      "code": "GR_49",
       "name": "League of Corinth",
       "shortName": "League of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_54",
+      "code": "GR_50",
       "name": "Wars of Alexander the Great",
       "shortName": "Wars of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_55",
+      "code": "GR_51",
       "name": "Hellenistic period",
       "shortName": "Hellenistic period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_56",
+      "code": "GR_52",
       "name": "Wars of the Diadochi",
       "shortName": "Wars of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_57",
+      "code": "GR_53",
       "name": "Roman–Greek wars",
       "shortName": "Roman–Greek wars",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_58",
+      "code": "GR_54",
       "name": "Roman era",
       "shortName": "Roman era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_59",
+      "code": "GR_55",
       "name": "Foundation of Constantinople",
       "shortName": "Foundation of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_60",
+      "code": "GR_56",
       "name": "Byzantine period",
       "shortName": "Byzantine period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_61",
+      "code": "GR_57",
       "name": "Persecution of paganism",
       "shortName": "Persecution of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_62",
+      "code": "GR_58",
       "name": "Migration period",
       "shortName": "Migration period",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_63",
+      "code": "GR_59",
       "name": "Plague of Justinian",
       "shortName": "Plague of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_64",
+      "code": "GR_60",
       "name": "Arab–Byzantine wars",
       "shortName": "Arab–Byzantine wars",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_65",
+      "code": "GR_61",
       "name": "Iconoclasm",
       "shortName": "Iconoclasm",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_66",
+      "code": "GR_62",
       "name": "Macedonian Renaissance",
       "shortName": "Macedonian Renaissance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_67",
+      "code": "GR_63",
       "name": "East–West Schism",
       "shortName": "East–West Schism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_68",
+      "code": "GR_64",
       "name": "Fourth Crusade",
       "shortName": "Fourth Crusade",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_69",
+      "code": "GR_65",
       "name": "Frankokratia",
       "shortName": "Frankokratia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_70",
+      "code": "GR_66",
       "name": "Fall of Constantinople",
       "shortName": "Fall of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_71",
+      "code": "GR_67",
       "name": "Stato da Màr (Venetian Ionian islands, Kingdom of Candia)",
       "shortName": "Stato da",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_72",
+      "code": "GR_68",
       "name": "Ottoman Greece",
       "shortName": "Ottoman Greece",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_73",
+      "code": "GR_69",
       "name": "Modern Greek Enlightenment",
       "shortName": "Modern Greek",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_74",
+      "code": "GR_70",
       "name": "Septinsular Republic",
       "shortName": "Septinsular Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_75",
+      "code": "GR_71",
       "name": "War of Independence",
       "shortName": "War of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_76",
+      "code": "GR_72",
       "name": "First Republic",
       "shortName": "First Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_77",
+      "code": "GR_73",
       "name": "Kingdom",
       "shortName": "Kingdom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_78",
+      "code": "GR_74",
       "name": "Balkan Wars",
       "shortName": "Balkan Wars",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_79",
-      "name": "World War I",
-      "shortName": "World War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_80",
-      "name": "National Schism",
-      "shortName": "National Schism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_81",
-      "name": "Greco-Turkish War",
-      "shortName": "Greco-Turkish War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_82",
-      "name": "History of Greece (1923–1940)",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_83",
-      "name": "Second Republic",
-      "shortName": "Second Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_84",
-      "name": "4th of August Regime",
-      "shortName": "4th of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_85",
+      "code": "GR_75",
       "name": "World War II",
       "shortName": "World War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_86",
+      "code": "GR_76",
+      "name": "National Schism",
+      "shortName": "National Schism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GR_77",
+      "name": "Greco-Turkish War",
+      "shortName": "Greco-Turkish War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GR_78",
+      "name": "Second Republic",
+      "shortName": "Second Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GR_79",
+      "name": "4th of August Regime",
+      "shortName": "4th of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GR_80",
       "name": "Civil War",
       "shortName": "Civil War",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_87",
-      "name": "Military junta",
-      "shortName": "Military junta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_88",
+      "code": "GR_81",
       "name": "Democratization",
       "shortName": "Democratization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_89",
+      "code": "GR_82",
       "name": "Third Republic",
       "shortName": "Third Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_90",
+      "code": "GR_83",
       "name": "Ancient regions and tribes",
       "shortName": "Ancient regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_91",
+      "code": "GR_84",
       "name": "Byzantine and Ottoman Greeks",
       "shortName": "Byzantine and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_92",
+      "code": "GR_85",
       "name": "Christianization",
       "shortName": "Christianization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_93",
+      "code": "GR_86",
       "name": "Colonization",
       "shortName": "Colonization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_94",
+      "code": "GR_87",
       "name": "Coups d'état",
       "shortName": "Coups d'état",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_95",
+      "code": "GR_88",
       "name": "Demographic (Modern)",
       "shortName": "Demographic (Modern)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_96",
+      "code": "GR_89",
       "name": "Economic",
       "shortName": "Economic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_97",
+      "code": "GR_90",
       "name": "Geographical name changes",
       "shortName": "Geographical name",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_98",
+      "code": "GR_91",
       "name": "Greek countries and regions",
       "shortName": "Greek countries",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_99",
+      "code": "GR_92",
       "name": "Greek Muslims",
       "shortName": "Greek Muslims",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_100",
+      "code": "GR_93",
       "name": "Renaissance scholars",
       "shortName": "Renaissance scholars",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_101",
-      "name": "Hellenic languages and Proto-Greek",
-      "shortName": "Hellenic languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_102",
+      "code": "GR_94",
       "name": "Inventions and discoveries",
       "shortName": "Inventions and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_103",
+      "code": "GR_95",
       "name": "Language question",
       "shortName": "Language question",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_104",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_105",
+      "code": "GR_96",
       "name": "Monarchy (Kings and royal family)",
       "shortName": "Monarchy (Kings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_106",
+      "code": "GR_97",
       "name": "Phanariotes",
       "shortName": "Phanariotes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_107",
+      "code": "GR_98",
       "name": "Polis",
       "shortName": "Polis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_108",
+      "code": "GR_99",
       "name": "Population exchange of 1923",
       "shortName": "Population exchange",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_109",
+      "code": "GR_100",
       "name": "Borders",
       "shortName": "Borders",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_110",
+      "code": "GR_101",
       "name": "Cities (capital and co-capital)",
       "shortName": "Cities (capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_111",
+      "code": "GR_102",
       "name": "Extreme points",
       "shortName": "Extreme points",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_112",
+      "code": "GR_103",
       "name": "Place names",
       "shortName": "Place names",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_113",
+      "code": "GR_104",
       "name": "Crete (Chania, Heraklion, Rethymno, Lasithi)",
       "shortName": "Crete (Chania,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_114",
+      "code": "GR_105",
       "name": "Epirus (Arta, Ioannina, Preveza, Thesprotia)",
       "shortName": "Epirus (Arta,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_115",
+      "code": "GR_106",
       "name": "North Aegean islands (Chios, Ikaria, Lemnos, Lesbos, Samos)",
       "shortName": "North Aegean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_116",
+      "code": "GR_107",
       "name": "Thessaly (Karditsa, Larissa, Magnesia, Trikala, Sporades)",
       "shortName": "Thessaly (Karditsa,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_117",
+      "code": "GR_108",
       "name": "Thrace (Evros, Rhodope, Xanthi)",
       "shortName": "Thrace (Evros,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_118",
+      "code": "GR_109",
       "name": "Canyons and gorges",
       "shortName": "Canyons and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_119",
+      "code": "GR_110",
       "name": "Caves",
       "shortName": "Caves",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_120",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_121",
+      "code": "GR_111",
       "name": "Islands (Aegean, Ionian, Crete)",
       "shortName": "Islands (Aegean,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_122",
-      "name": "Mountains (Olympus, Pindus, Rhodopes)",
-      "shortName": "Mountains (Olympus,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_123",
+      "code": "GR_112",
       "name": "Peninsulas",
       "shortName": "Peninsulas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_124",
+      "code": "GR_113",
       "name": "Plains",
       "shortName": "Plains",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_125",
+      "code": "GR_114",
       "name": "Volcanoes",
       "shortName": "Volcanoes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_126",
+      "code": "GR_115",
       "name": "Coasts",
       "shortName": "Coasts",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_127",
-      "name": "Lakes",
-      "shortName": "Lakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_128",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_129",
+      "code": "GR_116",
       "name": "Mediterranean Sea",
       "shortName": "Mediterranean Sea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_130",
+      "code": "GR_117",
       "name": "Ionian Sea",
       "shortName": "Ionian Sea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_131",
+      "code": "GR_118",
       "name": "Libyan Sea",
       "shortName": "Libyan Sea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_132",
+      "code": "GR_119",
       "name": "Climate",
       "shortName": "Climate",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_133",
+      "code": "GR_120",
       "name": "Natural disasters (earthquakes)",
       "shortName": "Natural disasters",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_134",
+      "code": "GR_121",
       "name": "Ecoregions",
       "shortName": "Ecoregions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_135",
-      "name": "Environmental issues",
-      "shortName": "Environmental issues",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_136",
+      "code": "GR_122",
       "name": "Forests",
       "shortName": "Forests",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_137",
+      "code": "GR_123",
       "name": "Mammals and birds",
       "shortName": "Mammals and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_138",
+      "code": "GR_124",
       "name": "National Parks",
       "shortName": "National Parks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_139",
+      "code": "GR_125",
       "name": "Protected areas",
       "shortName": "Protected areas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_140",
+      "code": "GR_126",
       "name": "1827",
       "shortName": "1827",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_141",
+      "code": "GR_127",
       "name": "1844",
       "shortName": "1844",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_142",
+      "code": "GR_128",
       "name": "1864",
       "shortName": "1864",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_143",
+      "code": "GR_129",
       "name": "1911",
       "shortName": "1911",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_144",
+      "code": "GR_130",
       "name": "1975",
       "shortName": "1975",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_145",
-      "name": "Constitutional amendments (1986, 2001, 2008, 2019)",
-      "shortName": "Constitutional amendments",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_146",
+      "code": "GR_131",
       "name": "1862",
       "shortName": "1862",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_147",
+      "code": "GR_132",
       "name": "1910",
       "shortName": "1910",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_148",
+      "code": "GR_133",
       "name": "1917",
       "shortName": "1917",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_149",
+      "code": "GR_134",
       "name": "1965",
       "shortName": "1965",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_150",
+      "code": "GR_135",
       "name": "1985",
       "shortName": "1985",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_151",
+      "code": "GR_136",
       "name": "Supreme Special Court",
       "shortName": "Supreme Special",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_152",
+      "code": "GR_137",
       "name": "Cabinet",
       "shortName": "Cabinet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_153",
+      "code": "GR_138",
       "name": "Government (Government Gazette)",
       "shortName": "Government (Government",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_154",
+      "code": "GR_139",
       "name": "President (Presidential Mansion)",
       "shortName": "President (Presidential",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_155",
+      "code": "GR_140",
       "name": "Prime Minister (Maximos Mansion)",
       "shortName": "Prime Minister",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_156",
+      "code": "GR_141",
       "name": "Conference of Presidents",
       "shortName": "Conference of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_157",
+      "code": "GR_142",
       "name": "Hellenic Parliament (Speaker)",
       "shortName": "Hellenic Parliament",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_158",
+      "code": "GR_143",
       "name": "Parliamentary Committees",
       "shortName": "Parliamentary Committees",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_159",
+      "code": "GR_144",
       "name": "Presidium",
       "shortName": "Presidium",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_160",
+      "code": "GR_145",
       "name": "Nationality law",
       "shortName": "Nationality law",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_161",
+      "code": "GR_146",
       "name": "Parataxis",
       "shortName": "Parataxis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_162",
+      "code": "GR_147",
       "name": "Parliamentary constituencies",
       "shortName": "Parliamentary constituencies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_163",
+      "code": "GR_148",
       "name": "Pasokification",
       "shortName": "Pasokification",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_164",
+      "code": "GR_149",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_165",
+      "code": "GR_150",
       "name": "Council of State",
       "shortName": "Council of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_166",
+      "code": "GR_151",
       "name": "Court of Audit",
       "shortName": "Court of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_167",
-      "name": "Supreme Court",
-      "shortName": "Supreme Court",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_168",
+      "code": "GR_152",
       "name": "Police",
       "shortName": "Police",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_169",
+      "code": "GR_153",
       "name": "Capital punishment",
       "shortName": "Capital punishment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_170",
+      "code": "GR_154",
       "name": "Corruption",
       "shortName": "Corruption",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_171",
+      "code": "GR_155",
       "name": "Crime (Greek mafia)",
       "shortName": "Crime (Greek",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_172",
+      "code": "GR_156",
       "name": "Life imprisonment",
       "shortName": "Life imprisonment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_173",
+      "code": "GR_157",
       "name": "Terrorism",
       "shortName": "Terrorism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_174",
+      "code": "GR_158",
       "name": "Coast Guard",
       "shortName": "Coast Guard",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_175",
+      "code": "GR_159",
       "name": "Aegean dispute",
       "shortName": "Aegean dispute",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_176",
+      "code": "GR_160",
       "name": "Cyprus dispute",
       "shortName": "Cyprus dispute",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_177",
-      "name": "Council of Europe",
-      "shortName": "Council of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_178",
-      "name": "European Union",
-      "shortName": "European Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_179",
+      "code": "GR_161",
       "name": "Macedonia naming dispute",
       "shortName": "Macedonia naming",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_180",
+      "code": "GR_162",
       "name": "NATO",
       "shortName": "NATO",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_181",
-      "name": "Passport",
-      "shortName": "Passport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_182",
+      "code": "GR_163",
       "name": "Treaties",
       "shortName": "Treaties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_183",
+      "code": "GR_164",
       "name": "United Nations",
       "shortName": "United Nations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_184",
+      "code": "GR_165",
       "name": "Air Force",
       "shortName": "Air Force",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_185",
+      "code": "GR_166",
       "name": "Alliances",
       "shortName": "Alliances",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_186",
+      "code": "GR_167",
       "name": "Army",
       "shortName": "Army",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_187",
+      "code": "GR_168",
       "name": "Conscription",
       "shortName": "Conscription",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_188",
-      "name": "Military ranks",
-      "shortName": "Military ranks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_189",
+      "code": "GR_169",
       "name": "Navy",
       "shortName": "Navy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_190",
+      "code": "GR_170",
       "name": "Evzones (Presidential Guard)",
       "shortName": "Evzones (Presidential",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_191",
+      "code": "GR_171",
       "name": "National Guard",
       "shortName": "National Guard",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_192",
+      "code": "GR_172",
       "name": "Tomb of the Unknown Soldier",
       "shortName": "Tomb of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_193",
+      "code": "GR_173",
       "name": "Abortion",
       "shortName": "Abortion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_194",
+      "code": "GR_174",
       "name": "Cannabis",
       "shortName": "Cannabis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_195",
+      "code": "GR_175",
       "name": "Education (universities)",
       "shortName": "Education (universities)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_196",
+      "code": "GR_176",
       "name": "Healthcare (hospitals, obesity, smoking)",
       "shortName": "Healthcare (hospitals,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_197",
+      "code": "GR_177",
       "name": "Human rights",
       "shortName": "Human rights",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_198",
+      "code": "GR_178",
       "name": "Human rights abuses",
       "shortName": "Human rights",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_199",
+      "code": "GR_179",
       "name": "LGBT rights",
       "shortName": "LGBT rights",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_200",
+      "code": "GR_180",
       "name": "Prostitution",
       "shortName": "Prostitution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_201",
+      "code": "GR_181",
       "name": "Political scandals",
       "shortName": "Political scandals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_202",
+      "code": "GR_182",
       "name": "Racism",
       "shortName": "Racism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_203",
+      "code": "GR_183",
       "name": "Conservatism (Monarchism)",
       "shortName": "Conservatism (Monarchism)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_204",
+      "code": "GR_184",
       "name": "Fascism (Metaxism)",
       "shortName": "Fascism (Metaxism)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_205",
+      "code": "GR_185",
       "name": "Liberalism (Republicanism, Venizelism)",
       "shortName": "Liberalism (Republicanism,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_206",
+      "code": "GR_186",
       "name": "Nationalism (Hellenocentrism, Megali Idea, Enosis)",
       "shortName": "Nationalism (Hellenocentrism,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_207",
-      "name": "New Social Movements (Environmentalism, Feminism, Pacifism)",
-      "shortName": "New Social",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_208",
+      "code": "GR_187",
       "name": "Socialism (Laocracy, Trotskyism)",
       "shortName": "Socialism (Laocracy,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_209",
+      "code": "GR_188",
       "name": "Anarchism",
       "shortName": "Anarchism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_210",
+      "code": "GR_189",
       "name": "Municipalities and communities",
       "shortName": "Municipalities and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_211",
+      "code": "GR_190",
       "name": "Administrative regions",
       "shortName": "Administrative regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_212",
+      "code": "GR_191",
       "name": "Regional units",
       "shortName": "Regional units",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_213",
+      "code": "GR_192",
       "name": "Decentralized administrations",
       "shortName": "Decentralized administrations",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_214",
+      "code": "GR_193",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_215",
+      "code": "GR_194",
       "name": "Airports",
       "shortName": "Airports",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_216",
-      "name": "Athens Stock Exchange (companies)",
-      "shortName": "Athens Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_217",
+      "code": "GR_195",
       "name": "Banking (Central bank)",
       "shortName": "Banking (Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_218",
+      "code": "GR_196",
       "name": "Central bank",
       "shortName": "Central bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_219",
+      "code": "GR_197",
       "name": "Brands",
       "shortName": "Brands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_220",
-      "name": "Companies (electric power)",
-      "shortName": "Companies (electric",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_221",
+      "code": "GR_198",
       "name": "Debt crisis (Grexit)",
       "shortName": "Debt crisis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_222",
+      "code": "GR_199",
       "name": "Drachma",
       "shortName": "Drachma",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_223",
+      "code": "GR_200",
       "name": "Energy (renewable, nuclear)",
       "shortName": "Energy (renewable,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_224",
-      "name": "Euro coins",
-      "shortName": "Euro coins",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_225",
+      "code": "GR_201",
       "name": "Greece and the International Monetary Fund",
       "shortName": "Greece and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_226",
+      "code": "GR_202",
       "name": "Greek economic miracle",
       "shortName": "Greek economic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_227",
+      "code": "GR_203",
       "name": "Highways",
       "shortName": "Highways",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_228",
+      "code": "GR_204",
       "name": "Laiki agora",
       "shortName": "Laiki agora",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_229",
+      "code": "GR_205",
       "name": "Ports",
       "shortName": "Ports",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_230",
+      "code": "GR_206",
       "name": "Public pensions",
       "shortName": "Public pensions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_231",
-      "name": "Railways (history)",
-      "shortName": "Railways (history)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_232",
+      "code": "GR_207",
       "name": "Rankings",
       "shortName": "Rankings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_233",
+      "code": "GR_208",
       "name": "Science and technology",
       "shortName": "Science and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_234",
+      "code": "GR_209",
       "name": "Shipping (Merchant Marine)",
       "shortName": "Shipping (Merchant",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_235",
+      "code": "GR_210",
       "name": "Space Agency",
       "shortName": "Space Agency",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_236",
+      "code": "GR_211",
       "name": "Subdivisions by GDP",
       "shortName": "Subdivisions by",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_237",
-      "name": "Taxation",
-      "shortName": "Taxation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_238",
+      "code": "GR_212",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_239",
+      "code": "GR_213",
       "name": "Thessaloniki International Fair",
       "shortName": "Thessaloniki International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_240",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_241",
+      "code": "GR_214",
       "name": "Trade unions",
       "shortName": "Trade unions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_242",
+      "code": "GR_215",
       "name": "Water supply and sanitation",
       "shortName": "Water supply",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_243",
+      "code": "GR_216",
       "name": "Diaspora",
       "shortName": "Diaspora",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_244",
+      "code": "GR_217",
       "name": "Greeks (names of Greece and the Greeks)",
       "shortName": "Greeks (names",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_245",
+      "code": "GR_218",
       "name": "Immigration",
       "shortName": "Immigration",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_246",
+      "code": "GR_219",
       "name": "Women",
       "shortName": "Women",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_247",
+      "code": "GR_220",
       "name": "Life expectancy",
       "shortName": "Life expectancy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_248",
+      "code": "GR_221",
       "name": "Anastenaria",
       "shortName": "Anastenaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_249",
+      "code": "GR_222",
       "name": "Caryatid",
       "shortName": "Caryatid",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_250",
+      "code": "GR_223",
       "name": "Clean Monday",
       "shortName": "Clean Monday",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_251",
+      "code": "GR_224",
       "name": "Concept of kingship",
       "shortName": "Concept of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_252",
+      "code": "GR_225",
       "name": "Eastern Party",
       "shortName": "Eastern Party",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_253",
+      "code": "GR_226",
       "name": "Festivals",
       "shortName": "Festivals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_254",
+      "code": "GR_227",
       "name": "Folklore",
       "shortName": "Folklore",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_255",
+      "code": "GR_228",
       "name": "Greek East and Latin West",
       "shortName": "Greek East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_256",
+      "code": "GR_229",
       "name": "Greektown",
       "shortName": "Greektown",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_257",
+      "code": "GR_230",
       "name": "Hellenization",
       "shortName": "Hellenization",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_258",
+      "code": "GR_231",
       "name": "Hospitality",
       "shortName": "Hospitality",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_259",
+      "code": "GR_232",
       "name": "Carols (Christmas, New Year's, Theophany's)",
       "shortName": "Carols (Christmas,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_260",
+      "code": "GR_233",
       "name": "Mangas",
       "shortName": "Mangas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_261",
+      "code": "GR_234",
       "name": "Mountza",
       "shortName": "Mountza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_262",
+      "code": "GR_235",
       "name": "Naming customs",
       "shortName": "Naming customs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_263",
+      "code": "GR_236",
       "name": "Paideia",
       "shortName": "Paideia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_264",
+      "code": "GR_237",
       "name": "Philhellenism and Hellenophobia",
       "shortName": "Philhellenism and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_265",
+      "code": "GR_238",
       "name": "Plate smashing",
       "shortName": "Plate smashing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_266",
+      "code": "GR_239",
       "name": "Philosophy",
       "shortName": "Philosophy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_267",
+      "code": "GR_240",
       "name": "Public holidays (Independence Day, Ohi Day)",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_268",
+      "code": "GR_241",
       "name": "Rouketopolemos",
       "shortName": "Rouketopolemos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_269",
+      "code": "GR_242",
       "name": "Souliotic songs",
       "shortName": "Souliotic songs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_270",
+      "code": "GR_243",
       "name": "Theophany",
       "shortName": "Theophany",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_271",
+      "code": "GR_244",
       "name": "Tsiknopempti",
       "shortName": "Tsiknopempti",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_272",
+      "code": "GR_245",
       "name": "Units of measurement",
       "shortName": "Units of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_273",
+      "code": "GR_246",
       "name": "Worry beads",
       "shortName": "Worry beads",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_274",
+      "code": "GR_247",
       "name": "Architecture (Castles)",
       "shortName": "Architecture (Castles)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_275",
+      "code": "GR_248",
       "name": "Cretan and Heptanese school",
       "shortName": "Cretan and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_276",
+      "code": "GR_249",
       "name": "Modern art (19th century)",
       "shortName": "Modern art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_277",
+      "code": "GR_250",
       "name": "Theatre (Ancient)",
       "shortName": "Theatre (Ancient)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_278",
+      "code": "GR_251",
       "name": "Religious art",
       "shortName": "Religious art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_279",
+      "code": "GR_252",
       "name": "Breads (Daktyla, Kritsini, Lagana, Paximadi, Tsoureki)",
       "shortName": "Breads (Daktyla,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_280",
+      "code": "GR_253",
       "name": "Greek salad (Dakos)",
       "shortName": "Greek salad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_281",
+      "code": "GR_254",
       "name": "Meze",
       "shortName": "Meze",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_282",
+      "code": "GR_255",
       "name": "Pasta (Gogges, Flomaria, Hilopites)",
       "shortName": "Pasta (Gogges,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_283",
+      "code": "GR_256",
       "name": "Restaurants (Kafenio, Ouzeri, Taverna)",
       "shortName": "Restaurants (Kafenio,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_284",
+      "code": "GR_257",
       "name": "Sauces (Skordalia, Taramosalata, Tirokafteri, Tzatziki)",
       "shortName": "Sauces (Skordalia,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_285",
+      "code": "GR_258",
       "name": "Souvlaki",
       "shortName": "Souvlaki",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_286",
+      "code": "GR_259",
       "name": "Varieties (Heptanesean, Cretan, Epirote, Macedonian)",
       "shortName": "Varieties (Heptanesean,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_287",
+      "code": "GR_260",
       "name": "Greek Sign Language",
       "shortName": "Greek Sign",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_288",
+      "code": "GR_261",
       "name": "Literature (Ancient, Medieval, Modern)",
       "shortName": "Literature (Ancient,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_289",
+      "code": "GR_262",
       "name": "Proverbs",
       "shortName": "Proverbs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_290",
+      "code": "GR_263",
       "name": "Words for love",
       "shortName": "Words for",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_291",
+      "code": "GR_264",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_292",
+      "code": "GR_265",
       "name": "Internet",
       "shortName": "Internet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_293",
+      "code": "GR_266",
       "name": "Newspapers",
       "shortName": "Newspapers",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_294",
+      "code": "GR_267",
       "name": "Television",
       "shortName": "Television",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_295",
+      "code": "GR_268",
       "name": "Media freedom",
       "shortName": "Media freedom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_296",
-      "name": "Church music",
-      "shortName": "Church music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_297",
+      "code": "GR_269",
       "name": "Éntekhno",
       "shortName": "Éntekhno",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_298",
+      "code": "GR_270",
       "name": "Hip Hop",
       "shortName": "Hip Hop",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_299",
+      "code": "GR_271",
       "name": "Ionian School",
       "shortName": "Ionian School",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_300",
+      "code": "GR_272",
       "name": "Laïko (Skyladiko)",
       "shortName": "Laïko (Skyladiko)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_301",
+      "code": "GR_273",
       "name": "Rebetiko",
       "shortName": "Rebetiko",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_302",
+      "code": "GR_274",
       "name": "Rock (Punk)",
       "shortName": "Rock (Punk)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_303",
+      "code": "GR_275",
       "name": "Ancient religion (Origins, Modern Revival)",
       "shortName": "Ancient religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_304",
+      "code": "GR_276",
       "name": "Aerico",
       "shortName": "Aerico",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_305",
+      "code": "GR_277",
       "name": "Atheism",
       "shortName": "Atheism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_306",
+      "code": "GR_278",
       "name": "Buddhism",
       "shortName": "Buddhism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_307",
+      "code": "GR_279",
       "name": "Catholicism",
       "shortName": "Catholicism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_308",
+      "code": "GR_280",
       "name": "Drosoulites",
       "shortName": "Drosoulites",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_309",
+      "code": "GR_281",
       "name": "Fairy tales",
       "shortName": "Fairy tales",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_310",
+      "code": "GR_282",
       "name": "Gello",
       "shortName": "Gello",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_311",
+      "code": "GR_283",
       "name": "Greek Old Calendarists",
       "shortName": "Greek Old",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_312",
+      "code": "GR_284",
       "name": "Hinduism",
       "shortName": "Hinduism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_313",
+      "code": "GR_285",
       "name": "Hypertimos",
       "shortName": "Hypertimos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_314",
+      "code": "GR_286",
       "name": "Islam",
       "shortName": "Islam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_315",
-      "name": "Judaism (History)",
-      "shortName": "Judaism (History)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_316",
+      "code": "GR_287",
       "name": "Kallikantzaros",
       "shortName": "Kallikantzaros",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_317",
+      "code": "GR_288",
       "name": "Lamia",
       "shortName": "Lamia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_318",
+      "code": "GR_289",
       "name": "Mormo",
       "shortName": "Mormo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_319",
+      "code": "GR_290",
       "name": "Mount Athos",
       "shortName": "Mount Athos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_320",
+      "code": "GR_291",
       "name": "Nymph",
       "shortName": "Nymph",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_321",
+      "code": "GR_292",
       "name": "Protestantism",
       "shortName": "Protestantism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_322",
+      "code": "GR_293",
       "name": "Psychai",
       "shortName": "Psychai",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_323",
+      "code": "GR_294",
       "name": "Sikhism",
       "shortName": "Sikhism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_324",
+      "code": "GR_295",
       "name": "Thymiaterion",
       "shortName": "Thymiaterion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_325",
+      "code": "GR_296",
       "name": "Name days",
       "shortName": "Name days",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_326",
+      "code": "GR_297",
       "name": "Vrykolakas",
       "shortName": "Vrykolakas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_327",
+      "code": "GR_298",
       "name": "Wayside shrine",
       "shortName": "Wayside shrine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_328",
+      "code": "GR_299",
       "name": "Ancient Olympics",
       "shortName": "Ancient Olympics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_329",
-      "name": "Baseball",
-      "shortName": "Baseball",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_330",
+      "code": "GR_300",
       "name": "Basketball",
       "shortName": "Basketball",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_331",
+      "code": "GR_301",
       "name": "Cricket",
       "shortName": "Cricket",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_332",
+      "code": "GR_302",
       "name": "Football",
       "shortName": "Football",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_333",
+      "code": "GR_303",
       "name": "Hockey",
       "shortName": "Hockey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_334",
+      "code": "GR_304",
       "name": "Ice hockey",
       "shortName": "Ice hockey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_335",
+      "code": "GR_305",
       "name": "Modern Olympics (1896, 1906, 2004)",
       "shortName": "Modern Olympics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_336",
+      "code": "GR_306",
       "name": "Rugby league",
       "shortName": "Rugby league",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_337",
+      "code": "GR_307",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_338",
+      "code": "GR_308",
       "name": "Coat of arms",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_339",
-      "name": "Flag and national colours",
-      "shortName": "Flag and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_340",
-      "name": "Flags",
-      "shortName": "Flags",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_341",
+      "code": "GR_309",
       "name": "Motto",
       "shortName": "Motto",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_342",
+      "code": "GR_310",
       "name": "Orders and decorations",
       "shortName": "Orders and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_343",
+      "code": "GR_311",
       "name": "World Heritage Sites",
       "shortName": "World Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_344",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_345",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_346",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_347",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_348",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_349",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_350",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_351",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_352",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_353",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_354",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_355",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_356",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_357",
+      "code": "GR_312",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_358",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_359",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_360",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_361",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_362",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_363",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_364",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_365",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_366",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_367",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_368",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_369",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_370",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_371",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_372",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_373",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_374",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_375",
+      "code": "GR_313",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_376",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_377",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_378",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_379",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_380",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_381",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_382",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_383",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_384",
+      "code": "GR_314",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GR_385",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_386",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_387",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_388",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_389",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_390",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_391",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_392",
+      "code": "GR_315",
       "name": "Turkey",
       "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_393",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_394",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_395",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_396",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_397",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_398",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_399",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_400",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_401",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_402",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_403",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_404",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_405",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_406",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_407",
-      "name": "Banks of Greece",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_408",
-      "name": "Lists of companies of Greece",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_409",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_410",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_411",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GR_412",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

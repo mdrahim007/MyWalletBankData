@@ -4,35 +4,35 @@
   "country": "PM",
   "institutions": [
     {
-      "code": "CENBPM",
+      "code": "PM_0",
       "name": "Central Bank of PM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPM",
+      "code": "PM_1",
       "name": "National Bank of PM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPM",
+      "code": "PM_2",
       "name": "State Bank of PM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPM",
+      "code": "PM_3",
       "name": "Commercial Bank of PM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPM",
+      "code": "PM_4",
       "name": "First PM Bank",
       "shortName": "First Bank",
       "type": "bank",

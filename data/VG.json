@@ -4,35 +4,35 @@
   "country": "VG",
   "institutions": [
     {
-      "code": "CENBVG",
+      "code": "VG_0",
       "name": "Central Bank of VG",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBVG",
+      "code": "VG_1",
       "name": "National Bank of VG",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABVG",
+      "code": "VG_2",
       "name": "State Bank of VG",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBVG",
+      "code": "VG_3",
       "name": "Commercial Bank of VG",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBVG",
+      "code": "VG_4",
       "name": "First VG Bank",
       "shortName": "First Bank",
       "type": "bank",

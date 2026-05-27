@@ -26,1317 +26,764 @@
     },
     {
       "code": "IE_3",
-      "name": "Bank of Montreal Europe plc, subsidiary of Bank of Montreal",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_4",
       "name": "Danske Bank (Ireland), Irish branch of Danske Bank A/S",
       "shortName": "Danske",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_5",
+      "code": "IE_4",
       "name": "Irish branch of Klarna Bank AB",
       "shortName": "Irish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_6",
+      "code": "IE_5",
       "name": "Irish branch of LGT Bank AG",
       "shortName": "Irish branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_7",
+      "code": "IE_6",
       "name": "Newcomen Bank (1722-1825)",
       "shortName": "Newcomen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_8",
+      "code": "IE_7",
       "name": "National Irish Bank (1809-2012)",
       "shortName": "National Irish",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_9",
+      "code": "IE_8",
       "name": "Guinness Mahon (1836-1998)",
       "shortName": "Guinness Mahon",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_10",
+      "code": "IE_9",
       "name": "Ulster Bank (1836-2025)",
       "shortName": "Ulster",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_11",
+      "code": "IE_10",
       "name": "First Active (1861-2009)",
       "shortName": "First Active",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_12",
+      "code": "IE_11",
       "name": "Irish Nationwide Building Society (1873-2011)",
       "shortName": "Irish Nationwide",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_13",
+      "code": "IE_12",
       "name": "Sinn Féin Bank (1908-1921)",
       "shortName": "Sinn Féin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_14",
+      "code": "IE_13",
       "name": "Depfa Bank (1922-2022)",
       "shortName": "Depfa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_15",
+      "code": "IE_14",
       "name": "Agricultural Credit Corporation (1927-2002)",
       "shortName": "Agricultural Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_16",
+      "code": "IE_15",
       "name": "Anglo Irish Bank (1964-2011)",
       "shortName": "Anglo Irish",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_17",
+      "code": "IE_16",
       "name": "Equity Bank (1965-2010)",
       "shortName": "Equity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_18",
+      "code": "IE_17",
       "name": "KBC Bank Ireland (1972-2024)",
       "shortName": "KBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_19",
+      "code": "IE_18",
       "name": "Rabobank Ireland (1994-2018)",
       "shortName": "Rabobank Ireland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_20",
+      "code": "IE_19",
       "name": "First-e Group (1999-2001)",
       "shortName": "First-e Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_21",
+      "code": "IE_20",
       "name": "Postbank (2003-2010)",
       "shortName": "Postbank (2003-2010)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_22",
-      "name": "European Central Bank (Central Bank of Ireland)",
-      "shortName": "European Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_23",
+      "code": "IE_21",
       "name": "AIB",
       "shortName": "AIB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_24",
-      "name": "Bank of Ireland",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_25",
-      "name": "PTSB",
-      "shortName": "PTSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_26",
-      "name": "Avant Money",
-      "shortName": "Avant Money",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_27",
-      "name": "EBS",
-      "shortName": "EBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_28",
-      "name": "Investec",
-      "shortName": "Investec",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_29",
-      "name": "An Post Money",
-      "shortName": "An Post",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_30",
-      "name": "Wayflyer",
-      "shortName": "Wayflyer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_31",
-      "name": "ACC Bank",
-      "shortName": "ACC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_32",
-      "name": "Anglo Irish Bank",
-      "shortName": "Anglo Irish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_33",
-      "name": "Danske Bank",
-      "shortName": "Danske",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_34",
-      "name": "Depfa Bank",
-      "shortName": "Depfa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_35",
-      "name": "Halifax Ireland",
-      "shortName": "Halifax Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_36",
-      "name": "First Active",
-      "shortName": "First Active",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_37",
-      "name": "First-e",
-      "shortName": "First-e",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_38",
-      "name": "Irish Nationwide",
-      "shortName": "Irish Nationwide",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_39",
-      "name": "KBC Bank Ireland",
-      "shortName": "KBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_40",
-      "name": "Leeds Building Society Ireland",
-      "shortName": "Leeds Building",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_41",
-      "name": "Nationwide UK (Ireland)",
-      "shortName": "Nationwide UK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_42",
-      "name": "Newcomen Bank",
-      "shortName": "Newcomen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_43",
-      "name": "Rabobank Ireland",
-      "shortName": "Rabobank Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_44",
-      "name": "Ulster Bank",
-      "shortName": "Ulster",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_45",
-      "name": "Sinn Féin Bank",
-      "shortName": "Sinn Féin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_46",
-      "name": "Economy of Ireland",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_47",
-      "name": "Economy of Northern Ireland",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_48",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_49",
-      "name": "Largest companies",
-      "shortName": "Largest companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_50",
-      "name": "Breweries",
-      "shortName": "Breweries",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_51",
-      "name": "Airlines",
-      "shortName": "Airlines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_52",
-      "name": "Companies on Euronext Dublin",
-      "shortName": "Companies on",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_53",
-      "name": "Hotels",
-      "shortName": "Hotels",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_54",
-      "name": "Newspapers",
-      "shortName": "Newspapers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_55",
-      "name": "Restaurant chains",
-      "shortName": "Restaurant chains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_56",
-      "name": "Supermarket chains",
-      "shortName": "Supermarket chains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_57",
-      "name": "Currency Centre",
-      "shortName": "Currency Centre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_58",
-      "name": "Currency Commission",
-      "shortName": "Currency Commission",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_59",
-      "name": "Euro",
-      "shortName": "Euro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_60",
-      "name": "First Trust Bank",
-      "shortName": "First Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_61",
-      "name": "Northern Bank",
-      "shortName": "Northern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_62",
-      "name": "Allied Irish Banks",
-      "shortName": "Allied Irish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_63",
-      "name": "Permanent TSB",
-      "shortName": "Permanent TSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_64",
-      "name": "Ireland state owned Banks:",
-      "shortName": "Ireland state",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_65",
-      "name": "Central Bank",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_66",
-      "name": "Strategic Banking Corporation of Ireland",
-      "shortName": "Strategicing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_67",
-      "name": "Other:",
-      "shortName": "Other:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_68",
-      "name": "Insolvency",
-      "shortName": "Insolvency",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_69",
-      "name": "Minister for Enterprise, Tourism and Employment",
-      "shortName": "Minister for",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_70",
-      "name": "Budgets",
-      "shortName": "Budgets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_71",
-      "name": "July Jobs Stimulus",
-      "shortName": "July Jobs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_72",
-      "name": "Croke Park Agreement",
-      "shortName": "Croke Park",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_73",
-      "name": "Invest Northern Ireland",
-      "shortName": "Invest Northern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_74",
-      "name": "United Ireland",
-      "shortName": "United Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_75",
-      "name": "Regions by Human Development Index",
-      "shortName": "Regions by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_76",
-      "name": "Dublin economy",
-      "shortName": "Dublin economy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_77",
-      "name": "Belfast economy",
-      "shortName": "Belfast economy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_78",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_79",
-      "name": "Transport",
-      "shortName": "Transport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_80",
-      "name": "Billionaires",
-      "shortName": "Billionaires",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_81",
-      "name": "Inventors",
-      "shortName": "Inventors",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_82",
-      "name": "Businesspeople",
-      "shortName": "Businesspeople",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_83",
-      "name": "Demography",
-      "shortName": "Demography",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_84",
-      "name": "Pensions",
-      "shortName": "Pensions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_85",
-      "name": "Brands",
-      "shortName": "Brands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_86",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_87",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_88",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_89",
-      "name": "Beer",
-      "shortName": "Beer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_90",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_91",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_92",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_93",
-      "name": "Healthcare",
-      "shortName": "Healthcare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_94",
-      "name": "Architecture",
-      "shortName": "Architecture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_95",
-      "name": "Supermarkets",
-      "shortName": "Supermarkets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_96",
-      "name": "Aurivo Co-operative Society Limited",
-      "shortName": "Aurivo Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_97",
-      "name": "The Cope",
-      "shortName": "The Cope",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_98",
-      "name": "Dairygold",
-      "shortName": "Dairygold",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_99",
-      "name": "Dublin Food Co-op",
-      "shortName": "Dublin Food",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_100",
-      "name": "Irish Agricultural Organisation Society",
-      "shortName": "Irish Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_101",
-      "name": "Irish Co-operative Organisation Society",
-      "shortName": "Irish Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_102",
-      "name": "Lakeland Dairies",
-      "shortName": "Lakeland Dairies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_103",
-      "name": "Londis (Ireland)",
-      "shortName": "Londis (Ireland)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_104",
-      "name": "Near FM",
-      "shortName": "Near FM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_105",
-      "name": "Ornua",
-      "shortName": "Ornua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_106",
-      "name": "Quay Co-op",
-      "shortName": "Quay Co-op",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_107",
-      "name": "The Urban Co-op",
-      "shortName": "The Urban",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_108",
-      "name": "Tirlán",
-      "shortName": "Tirlán",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_109",
-      "name": "COVID-19",
-      "shortName": "COVID-19",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_110",
-      "name": "Post-2008 economic downturn",
-      "shortName": "Post-2008 economic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_111",
-      "name": "Post-2008 banking crisis",
-      "shortName": "Post-2008 banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_112",
-      "name": "Celtic tiger",
-      "shortName": "Celtic tiger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_113",
-      "name": "Irish pound",
-      "shortName": "Irish pound",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_114",
+      "code": "IE_22",
       "name": "Banknotes of Ireland",
       "shortName": "Banknotes of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_115",
+      "code": "IE_23",
+      "name": "PTSB",
+      "shortName": "PTSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_24",
+      "name": "Avant Money",
+      "shortName": "Avant Money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_25",
+      "name": "EBS",
+      "shortName": "EBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_26",
+      "name": "Investec",
+      "shortName": "Investec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_27",
+      "name": "An Post Money",
+      "shortName": "An Post",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_28",
+      "name": "Wayflyer",
+      "shortName": "Wayflyer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_29",
+      "name": "ACC Bank",
+      "shortName": "ACC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_30",
+      "name": "Anglo Irish Bank",
+      "shortName": "Anglo Irish",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_31",
+      "name": "Danske Bank",
+      "shortName": "Danske",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_32",
+      "name": "Depfa Bank",
+      "shortName": "Depfa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_33",
+      "name": "Halifax Ireland",
+      "shortName": "Halifax Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_34",
+      "name": "First Active",
+      "shortName": "First Active",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_35",
+      "name": "First-e",
+      "shortName": "First-e",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_36",
+      "name": "Irish Nationwide",
+      "shortName": "Irish Nationwide",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_37",
+      "name": "KBC Bank Ireland",
+      "shortName": "KBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_38",
+      "name": "Leeds Building Society Ireland",
+      "shortName": "Leeds Building",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_39",
+      "name": "Nationwide UK (Ireland)",
+      "shortName": "Nationwide UK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_40",
+      "name": "Newcomen Bank",
+      "shortName": "Newcomen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_41",
+      "name": "Rabobank Ireland",
+      "shortName": "Rabobank Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_42",
+      "name": "Ulster Bank",
+      "shortName": "Ulster",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_43",
+      "name": "Sinn Féin Bank",
+      "shortName": "Sinn Féin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_44",
+      "name": "Economy of Ireland",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_45",
+      "name": "Economy of Northern Ireland",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_46",
+      "name": "Breweries",
+      "shortName": "Breweries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_47",
+      "name": "Airlines",
+      "shortName": "Airlines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_48",
+      "name": "Hotels",
+      "shortName": "Hotels",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_49",
+      "name": "Newspapers",
+      "shortName": "Newspapers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_50",
+      "name": "Restaurant chains",
+      "shortName": "Restaurant chains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_51",
+      "name": "Supermarket chains",
+      "shortName": "Supermarket chains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_52",
+      "name": "Currency Centre",
+      "shortName": "Currency Centre",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_53",
+      "name": "Currency Commission",
+      "shortName": "Currency Commission",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_54",
+      "name": "First Trust Bank",
+      "shortName": "First Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_55",
+      "name": "Northern Bank",
+      "shortName": "Northern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_56",
+      "name": "Allied Irish Banks",
+      "shortName": "Allied Irish",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_57",
+      "name": "Permanent TSB",
+      "shortName": "Permanent TSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_58",
+      "name": "Ireland state owned Banks:",
+      "shortName": "Ireland state",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_59",
+      "name": "Central Bank",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_60",
+      "name": "Strategic Banking Corporation of Ireland",
+      "shortName": "Strategicing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_61",
+      "name": "Other:",
+      "shortName": "Other:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_62",
+      "name": "Insolvency",
+      "shortName": "Insolvency",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_63",
+      "name": "Budgets",
+      "shortName": "Budgets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_64",
+      "name": "July Jobs Stimulus",
+      "shortName": "July Jobs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_65",
+      "name": "Croke Park Agreement",
+      "shortName": "Croke Park",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_66",
+      "name": "Invest Northern Ireland",
+      "shortName": "Invest Northern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_67",
+      "name": "United Ireland",
+      "shortName": "United Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_68",
+      "name": "Dublin economy",
+      "shortName": "Dublin economy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_69",
+      "name": "Belfast economy",
+      "shortName": "Belfast economy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_70",
+      "name": "Billionaires",
+      "shortName": "Billionaires",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_71",
+      "name": "Inventors",
+      "shortName": "Inventors",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_72",
+      "name": "Demography",
+      "shortName": "Demography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_73",
+      "name": "Pensions",
+      "shortName": "Pensions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_74",
+      "name": "Brands",
+      "shortName": "Brands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_75",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_76",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_77",
+      "name": "Beer",
+      "shortName": "Beer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_78",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_79",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_80",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_81",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_82",
+      "name": "Supermarkets",
+      "shortName": "Supermarkets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_83",
+      "name": "Aurivo Co-operative Society Limited",
+      "shortName": "Aurivo Co-operative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_84",
+      "name": "The Cope",
+      "shortName": "The Cope",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_85",
+      "name": "Dairygold",
+      "shortName": "Dairygold",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_86",
+      "name": "Dublin Food Co-op",
+      "shortName": "Dublin Food",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_87",
+      "name": "Irish Agricultural Organisation Society",
+      "shortName": "Irish Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_88",
+      "name": "Irish Co-operative Organisation Society",
+      "shortName": "Irish Co-operative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_89",
+      "name": "Lakeland Dairies",
+      "shortName": "Lakeland Dairies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_90",
+      "name": "Londis (Ireland)",
+      "shortName": "Londis (Ireland)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_91",
+      "name": "Near FM",
+      "shortName": "Near FM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_92",
+      "name": "Ornua",
+      "shortName": "Ornua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_93",
+      "name": "Quay Co-op",
+      "shortName": "Quay Co-op",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_94",
+      "name": "The Urban Co-op",
+      "shortName": "The Urban",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_95",
+      "name": "Tirlán",
+      "shortName": "Tirlán",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_96",
+      "name": "COVID-19",
+      "shortName": "COVID-19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_97",
+      "name": "Post-2008 economic downturn",
+      "shortName": "Post-2008 economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_98",
+      "name": "Post-2008 banking crisis",
+      "shortName": "Post-2008 banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_99",
+      "name": "Celtic tiger",
+      "shortName": "Celtic tiger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_100",
+      "name": "Irish pound",
+      "shortName": "Irish pound",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IE_101",
       "name": "Banknotes of Northern Ireland",
       "shortName": "Banknotes of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_116",
+      "code": "IE_102",
       "name": "Anglo-Irish trade war",
       "shortName": "Anglo-Irish trade",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_117",
+      "code": "IE_103",
       "name": "Partition",
       "shortName": "Partition",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_118",
+      "code": "IE_104",
       "name": "Loan funds",
       "shortName": "Loan funds",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_119",
+      "code": "IE_105",
       "name": "Famine",
       "shortName": "Famine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_120",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_121",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_122",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_123",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_124",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_125",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_126",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_127",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_128",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_129",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_130",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_131",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_132",
+      "code": "IE_106",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_133",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_134",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_135",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_136",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_137",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_138",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_139",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_140",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_141",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_142",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_143",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_144",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_145",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_146",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_147",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_148",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_149",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_150",
+      "code": "IE_107",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_151",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_152",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_153",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_154",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_155",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_156",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_157",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_158",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_159",
+      "code": "IE_108",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_160",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_161",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_162",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_163",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_164",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_165",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_166",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_167",
+      "code": "IE_109",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_168",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_169",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_170",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_171",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_172",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_173",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_174",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_175",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_176",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_177",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_178",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_179",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_180",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_181",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_182",
-      "name": "Banks of Ireland",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_183",
+      "code": "IE_110",
       "name": "Economy of the Republic of Ireland",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IE_184",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_185",
-      "name": "Lists of organisations based in the Republic of Ireland",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_186",
-      "name": "Lists of companies of Ireland",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_187",
+      "code": "IE_111",
       "name": "Economy of Ireland-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_188",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_189",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IE_190",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

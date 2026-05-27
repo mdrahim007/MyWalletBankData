@@ -215,820 +215,337 @@
     },
     {
       "code": "CH_30",
-      "name": "AXA Bank Europe, Brüssel, Zweigniederlassung Winterthur",
-      "shortName": "AXA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_31",
       "name": "Fortis Banque, SA/NV, Bruxelles, Succursale de Zurich",
       "shortName": "Fortis Banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_32",
+      "code": "CH_31",
       "name": "Itaú Private Bank, Zürich",
       "shortName": "Itaú Private",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_33",
+      "code": "CH_32",
       "name": "Jyske Bank (Schweiz) AG",
       "shortName": "Jyske",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_34",
+      "code": "CH_33",
       "name": "Banque du Léman SA, Geneva",
       "shortName": "Banque du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_35",
+      "code": "CH_34",
       "name": "BNP Paribas (Suisse) SA, Geneva",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_36",
+      "code": "CH_35",
       "name": "Crédit Agricole (Suisse) SA, Geneva",
       "shortName": "Crédit Agricole",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_37",
+      "code": "CH_36",
       "name": "Société Générale Private Banking (Suisse) SA, Geneva",
       "shortName": "Société Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_38",
+      "code": "CH_37",
       "name": "Deutsche Bank (Suisse) SA, Geneva",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_39",
+      "code": "CH_38",
       "name": "Bank Hapoalim (Switzerland) Ltd",
       "shortName": "Bank Hapoalim",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_40",
+      "code": "CH_39",
       "name": "Bank Leumi (Schweiz) AG, Geneva",
       "shortName": "Bank Leumi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_41",
+      "code": "CH_40",
       "name": "IDB (Swiss) Bank Ltd, Geneva",
       "shortName": "IDB (Swiss)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_42",
+      "code": "CH_41",
       "name": "United Mizrahi Bank (Schweiz) AG",
       "shortName": "United Mizrahi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_43",
+      "code": "CH_42",
       "name": "Intesa Sanpaolo, Geneva",
       "shortName": "Intesa Sanpaolo,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_44",
+      "code": "CH_43",
       "name": "Sella Bank AG, Geneva",
       "shortName": "Sella",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_45",
+      "code": "CH_44",
       "name": "UniCredit (Suisse) Bank SA, Zurich",
       "shortName": "UniCredit (Suisse)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_46",
+      "code": "CH_45",
       "name": "Mitsubishi UFJ Wealth Management Bank (Switzerland), Ltd.",
       "shortName": "Mitsubishi UFJ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_47",
+      "code": "CH_46",
       "name": "Nomura Bank (Schweiz) AG",
       "shortName": "Nomura",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_48",
+      "code": "CH_47",
       "name": "Banque Audi (Suisse) SA, Geneva",
       "shortName": "Banque Audi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_49",
+      "code": "CH_48",
       "name": "BankMed",
       "shortName": "BankMed",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_50",
+      "code": "CH_49",
       "name": "BlomBank",
       "shortName": "BlomBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_51",
+      "code": "CH_50",
       "name": "LGT Bank (Schweiz) AG, Basel",
       "shortName": "LGT",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_52",
+      "code": "CH_51",
       "name": "KBL (Switzerland) Ltd, Geneva",
       "shortName": "KBL (Switzerland)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_53",
+      "code": "CH_52",
       "name": "Arab Bank (Switzerland) Ltd, Geneva",
       "shortName": "Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_54",
+      "code": "CH_53",
       "name": "NBAD Private Bank (Suisse) SA, Geneva",
       "shortName": "NBAD Private",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_55",
+      "code": "CH_54",
       "name": "NBK Banque Privée (Suisse) SA, Geneva",
       "shortName": "NBK Banque",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_56",
-      "name": "QNB Banque Privée (Suisse) SA, Geneva",
-      "shortName": "QNB Banque",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_57",
-      "name": "Credit Europe Bank (SA), Geneva",
-      "shortName": "Credit Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_58",
+      "code": "CH_55",
       "name": "Van Lanschot Switzerland, Zurich&#91;4&#93;",
       "shortName": "Van Lanschot",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_59",
+      "code": "CH_56",
       "name": "Sberbank, Zurich",
       "shortName": "Sberbank, Zurich",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_60",
+      "code": "CH_57",
       "name": "VTB Capital, Zug",
       "shortName": "VTB Capital,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_61",
+      "code": "CH_58",
       "name": "Investec Bank (Switzerland) AG",
       "shortName": "Investec",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_62",
+      "code": "CH_59",
       "name": "Banco Santander (Suisse) SA, Geneva",
       "shortName": "Banco Santander",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_63",
+      "code": "CH_60",
       "name": "NCG Banco S.A., succursale de Genève, Geneva",
       "shortName": "NCG Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_64",
+      "code": "CH_61",
       "name": "Barclays Bank (Suisse) SA, Geneva",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_65",
-      "name": "HSBC Private Bank (Suisse) SA, Geneva",
-      "shortName": "HSBC Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_66",
+      "code": "CH_62",
       "name": "IG Bank S.A., Geneva",
       "shortName": "IG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_67",
+      "code": "CH_63",
       "name": "Lloyds Bank plc, Londres, succursale de Genève, Geneva",
       "shortName": "Lloyds",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_68",
+      "code": "CH_64",
       "name": "Citibank, NA, Las Vegas, Succursale de Genève",
       "shortName": "Citibank, NA,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_69",
+      "code": "CH_65",
       "name": "Citibank, NA, Las Vegas, Zurich Branch",
       "shortName": "Citibank, NA,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_70",
+      "code": "CH_66",
       "name": "Goldman Sachs Bank AG",
       "shortName": "Goldman Sachs",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_71",
+      "code": "CH_67",
       "name": "J.P. Morgan (Suisse) SA, Geneva",
       "shortName": "J.P. Morgan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_72",
+      "code": "CH_68",
       "name": "Merrill Lynch Capital Markets AG",
       "shortName": "Merrill Lynch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_73",
+      "code": "CH_69",
       "name": "Morgan Stanley AG",
       "shortName": "Morgan Stanley",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_74",
+      "code": "CH_70",
       "name": "State Street Bank GmbH, München, Zweigniederlassung Zürich",
       "shortName": "State Street",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_75",
+      "code": "CH_71",
       "name": "Banking in Switzerland",
       "shortName": "Banking in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_76",
+      "code": "CH_72",
       "name": "Foreign Banks in Switzerland Association",
       "shortName": "Foreigns",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_77",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_78",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_79",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_80",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_81",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_82",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_83",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_84",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_85",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_86",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_87",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_88",
+      "code": "CH_73",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_89",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_90",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_91",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_92",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_93",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_94",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_95",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_96",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_97",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_98",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_99",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_100",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_101",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_102",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_103",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_104",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_105",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_106",
+      "code": "CH_74",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_107",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_108",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_109",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_110",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_111",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_112",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_113",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_114",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_115",
+      "code": "CH_75",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_116",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_117",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_118",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_119",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_120",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_121",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_122",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_123",
+      "code": "CH_76",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CH_124",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_125",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_126",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_127",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_128",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_129",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_130",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_131",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_132",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_133",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_134",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_135",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_136",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_137",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_138",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_139",
-      "name": "Banks of Switzerland",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_140",
-      "name": "Lists of companies of Switzerland",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_141",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_142",
+      "code": "CH_77",
       "name": "Economy of Switzerland-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_143",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_144",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_145",
-      "name": "All articles with unsourced statements",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CH_146",
-      "name": "Articles with unsourced statements from August 2020",
-      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

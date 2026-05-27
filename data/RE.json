@@ -4,35 +4,35 @@
   "country": "RE",
   "institutions": [
     {
-      "code": "CENBRE",
+      "code": "RE_0",
       "name": "Central Bank of RE",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBRE",
+      "code": "RE_1",
       "name": "National Bank of RE",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABRE",
+      "code": "RE_2",
       "name": "State Bank of RE",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBRE",
+      "code": "RE_3",
       "name": "Commercial Bank of RE",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBRE",
+      "code": "RE_4",
       "name": "First RE Bank",
       "shortName": "First Bank",
       "type": "bank",

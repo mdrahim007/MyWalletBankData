@@ -4,35 +4,35 @@
   "country": "SV",
   "institutions": [
     {
-      "code": "CENBSV",
+      "code": "SV_0",
       "name": "Central Bank of SV",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSV",
+      "code": "SV_1",
       "name": "National Bank of SV",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSV",
+      "code": "SV_2",
       "name": "State Bank of SV",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSV",
+      "code": "SV_3",
       "name": "Commercial Bank of SV",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSV",
+      "code": "SV_4",
       "name": "First SV Bank",
       "shortName": "First Bank",
       "type": "bank",

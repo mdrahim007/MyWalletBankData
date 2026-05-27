@@ -4,35 +4,35 @@
   "country": "TK",
   "institutions": [
     {
-      "code": "CENBTK",
+      "code": "TK_0",
       "name": "Central Bank of TK",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTK",
+      "code": "TK_1",
       "name": "National Bank of TK",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTK",
+      "code": "TK_2",
       "name": "State Bank of TK",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTK",
+      "code": "TK_3",
       "name": "Commercial Bank of TK",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTK",
+      "code": "TK_4",
       "name": "First TK Bank",
       "shortName": "First Bank",
       "type": "bank",

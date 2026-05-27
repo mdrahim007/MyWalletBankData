@@ -26,3240 +26,2610 @@
     },
     {
       "code": "BO_3",
-      "name": "Bank of the City of Buenos Aires",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_4",
       "name": "Banco Patagonia",
       "shortName": "Banco Patagonia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_5",
+      "code": "BO_4",
       "name": "Banco Santiago del Estero",
       "shortName": "Banco Santiago",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_6",
+      "code": "BO_5",
       "name": "Grupo Financiero Galicia",
       "shortName": "Grupo Financiero",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_7",
+      "code": "BO_6",
       "name": "Banco Santander Argentina",
       "shortName": "Banco Santander",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_8",
+      "code": "BO_7",
       "name": "Banco Macro",
       "shortName": "Banco Macro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_9",
+      "code": "BO_8",
       "name": "BBVA Argentina",
       "shortName": "BBVA Argentina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_10",
+      "code": "BO_9",
       "name": "Banco Credicoop",
       "shortName": "Banco Credicoop",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_11",
+      "code": "BO_10",
       "name": "Citibank Argentina",
       "shortName": "Citibank Argentina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_12",
+      "code": "BO_11",
       "name": "Banco Hipotecario",
       "shortName": "Banco Hipotecario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_13",
+      "code": "BO_12",
       "name": "New Bank of Santa Fe",
       "shortName": "New",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_14",
+      "code": "BO_13",
       "name": "Municipal Bank of Rosario",
       "shortName": "Municipal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_15",
+      "code": "BO_14",
       "name": "Central Bank of The Bahamas",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_16",
+      "code": "BO_15",
       "name": "Bank of The Bahamas International",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_17",
+      "code": "BO_16",
       "name": "Commonwealth Bank of Bahamas",
       "shortName": "Commonwealth",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_18",
+      "code": "BO_17",
       "name": "Citibank",
       "shortName": "Citibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_19",
+      "code": "BO_18",
       "name": "Fidelity Bank",
       "shortName": "Fidelity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_20",
+      "code": "BO_19",
       "name": "Finance Corporation of The Bahamas",
       "shortName": "Finance Corporation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_21",
+      "code": "BO_20",
       "name": "CIBC Caribbean",
       "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_22",
-      "name": "Royal Bank of Canada",
-      "shortName": "Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_23",
-      "name": "Scotiabank",
-      "shortName": "Scotiabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_24",
-      "name": "Central Bank of Barbados",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_25",
-      "name": "African Export–Import Bank (Afreximbank)",
-      "shortName": "African Export–Import",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_26",
-      "name": "Caribbean Development Bank (CDB)",
-      "shortName": "Caribbean Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_27",
-      "name": "Central Bank of Belize",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_28",
-      "name": "National Bank of Belize Limited",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_29",
-      "name": "Belize Bank Ltd.",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_30",
-      "name": "Heritage Bank Limited",
-      "shortName": "Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_31",
-      "name": "Atlantic Bank Limited",
-      "shortName": "Atlantic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_32",
-      "name": "The Bank of N. T. Butterfield &amp; Son Limited",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_33",
-      "name": "HSBC Bank of Bermuda Limited",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_34",
-      "name": "Bermuda Commercial Bank Limited",
-      "shortName": "Bermuda Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_35",
-      "name": "Clarien Bank",
-      "shortName": "Clarien",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_36",
-      "name": "Central Bank of Bolivia",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_37",
-      "name": "Banco Unión",
-      "shortName": "Banco Unión",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_38",
-      "name": "Banco de Desarrollo Productivo",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_39",
-      "name": "Banco Mercantil Santa Cruz",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_40",
-      "name": "Banco Nacional de Bolivia",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_41",
-      "name": "Banco BISA",
-      "shortName": "Banco BISA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_42",
-      "name": "Banco de Crédito BCP",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_43",
-      "name": "Banco FIE&#160;&#91;es&#93;",
-      "shortName": "Banco FIE&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_44",
-      "name": "BancoSol&#160;&#91;es&#93;",
-      "shortName": "BancoSol&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_45",
-      "name": "Banco Ganadero&#160;&#91;es&#93;",
-      "shortName": "Banco Ganadero&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_46",
-      "name": "Banco Económico",
-      "shortName": "Banco Económico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_47",
-      "name": "Banco Prodem",
-      "shortName": "Banco Prodem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_48",
-      "name": "Banco Fortaleza",
-      "shortName": "Banco Fortaleza",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_49",
-      "name": "Banco PyME Ecofuturo",
-      "shortName": "Banco PyME",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_50",
-      "name": "Bancomunidad",
-      "shortName": "Bancomunidad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_51",
-      "name": "Banco Agrícola de Bolivia",
-      "shortName": "Banco Agrícola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_52",
-      "name": "Banco Boliviano Americano",
-      "shortName": "Banco Boliviano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_53",
-      "name": "Banco de Credito Oruro",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_54",
-      "name": "Banco de Cochabamba",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_55",
-      "name": "Banco de Financiamiento Industrial",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_56",
-      "name": "Banco de La Paz",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_57",
-      "name": "Banco de la Vivienda",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_58",
-      "name": "Banco de Potosí",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_59",
-      "name": "Banco de San Carlos",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_60",
-      "name": "Banco del Progreso",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_61",
-      "name": "Banco Fassil&#160;&#91;es&#93;",
-      "shortName": "Banco Fassil&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_62",
-      "name": "Banco Intenacional de Desarrollo",
-      "shortName": "Banco Intenacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_63",
-      "name": "Banco Minero de Bolivia",
-      "shortName": "Banco Minero",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_64",
-      "name": "Banco PyME Los Andes ProCredit",
-      "shortName": "Banco PyME",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_65",
-      "name": "Banco Santa Cruz",
-      "shortName": "Banco Santa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_66",
-      "name": "Banco Sur",
-      "shortName": "Banco Sur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_67",
-      "name": "BHN Multibanco",
-      "shortName": "BHN Multibanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_68",
-      "name": "Central Bank of Brazil",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_69",
-      "name": "Banco do Brasil (Federal Government as main shareholder)",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_70",
-      "name": "Caixa Econômica Federal (Federal Government-owned)",
-      "shortName": "Caixa Econômica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_71",
-      "name": "Itaú Unibanco",
-      "shortName": "Itaú Unibanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_72",
-      "name": "Banco Bradesco",
-      "shortName": "Banco Bradesco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_73",
-      "name": "Banco Santander Brasil; (owned by Spanish Banco Santander)",
-      "shortName": "Banco Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_74",
-      "name": "Banco de Brasília (BRB) (Federal District-owned)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_75",
-      "name": "Banco do Estado do Pará (Banpará) (State of Pará-owned)",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_76",
-      "name": "Banco do Nordeste (Federal Government as main shareholder)",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_77",
-      "name": "Banco BMG",
-      "shortName": "Banco BMG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_78",
-      "name": "Banco Daycoval S.A.",
-      "shortName": "Banco Daycoval",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_79",
-      "name": "Banco BV (co-owned by Votorantim Group and Banco do Brasil)",
-      "shortName": "Banco BV",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_80",
-      "name": "Banco Fibra&#160;&#91;pt&#93;",
-      "shortName": "Banco Fibra&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_81",
-      "name": "Banco Industrial do Brasil&#160;&#91;pt&#93;",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_82",
-      "name": "Banco Mercantil do Brasil&#160;&#91;pt&#93;",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_83",
-      "name": "Paraná Banco&#160;&#91;pt&#93;",
-      "shortName": "Paraná Banco&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_84",
-      "name": "Banco Paulista&#160;&#91;pt&#93;",
-      "shortName": "Banco Paulista&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_85",
-      "name": "Banco Safra",
-      "shortName": "Banco Safra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_86",
-      "name": "Banco Sofisa&#160;&#91;pt&#93;",
-      "shortName": "Banco Sofisa&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_87",
-      "name": "Agibank&#160;&#91;pt&#93;",
-      "shortName": "Agibank&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_88",
-      "name": "Banco Bari",
-      "shortName": "Banco Bari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_89",
-      "name": "Banco BS2&#160;&#91;pt&#93;",
-      "shortName": "Banco BS2&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_90",
-      "name": "C6 Bank&#160;&#91;pt&#93;",
-      "shortName": "C6&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_91",
-      "name": "Banco Digimais&#160;&#91;pt&#93;",
-      "shortName": "Banco Digimais&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_92",
-      "name": "Banco Digio&#160;&#91;pt&#93;",
-      "shortName": "Banco Digio&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_93",
-      "name": "Banco Inter&#160;&#91;pt&#93;",
-      "shortName": "Banco Inter&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_94",
-      "name": "Nubank",
-      "shortName": "Nubank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_95",
-      "name": "Banco Original (Pic Pay)&#160;&#91;pt&#93;",
-      "shortName": "Banco Original",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_96",
-      "name": "Sistema de Cooperativas de Crédito Ailos",
-      "shortName": "Sistema de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_97",
-      "name": "Sistema de Crédito Cooperativo&#160;&#91;pt&#93; (Sicred)",
-      "shortName": "Sistema de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_98",
-      "name": "Unicred&#160;&#91;pt&#93;",
-      "shortName": "Unicred&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_99",
-      "name": "Cresol",
-      "shortName": "Cresol",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_100",
-      "name": "Banco BTG Pactual (private)",
-      "shortName": "Banco BTG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_101",
-      "name": "Banco Clássico&#160;&#91;pt&#93; (private)",
-      "shortName": "Banco Clássico&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_102",
-      "name": "Banco Modal&#160;&#91;pt&#93; (private)",
-      "shortName": "Banco Modal&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_103",
-      "name": "Banco Alfa; acquired by Banco Safra",
-      "shortName": "Banco Alfa;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_104",
-      "name": "Banco Boavista; acquired by Banco Bradesco",
-      "shortName": "Banco Boavista;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_105",
-      "name": "Banco Credireal; acquired by BCN, now Banco Bradesco",
-      "shortName": "Banco Credireal;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_106",
-      "name": "Banco de Crédito Nacional (BCN); acquired by Banco Bradesco",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_107",
-      "name": "Banco do Estado do Ceará (BEC); acquired by Banco Bradesco",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_108",
-      "name": "Banco do Estado de Goiás (BEG); acquired by Banco Itaú",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_109",
-      "name": "Banco do Estado do Piauí (BEP); acquired by Banco do Brasil",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_110",
-      "name": "Banco Mercantil Finasa; acquired by Banco Bradesco",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_111",
-      "name": "Banco Nacional; acquired by Unibanco, now Banco Itaú",
-      "shortName": "Banco Nacional;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_112",
-      "name": "Banco Noroeste; acquired by Santander Brasil",
-      "shortName": "Banco Noroeste;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_113",
-      "name": "Banco Nossa Caixa; acquired by Banco do Brasil",
-      "shortName": "Banco Nossa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_114",
-      "name": "Unibanco; merged with Banco Itaú",
-      "shortName": "Unibanco; merged",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_115",
-      "name": "Central Bank of Chile",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_116",
-      "name": "Banco del Estado de Chile",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_117",
-      "name": "Banco de Crédito e Inversiones",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_118",
-      "name": "Banco Consorcio&#160;&#91;es&#93;",
-      "shortName": "Banco Consorcio&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_119",
-      "name": "Banco BICE",
-      "shortName": "Banco BICE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_120",
-      "name": "Banco Security&#160;&#91;es&#93;",
-      "shortName": "Banco Security&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_121",
-      "name": "Banco Falabella",
-      "shortName": "Banco Falabella",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_122",
-      "name": "Banco Internacional (Chile)&#160;&#91;es&#93;",
-      "shortName": "Banco Internacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_123",
-      "name": "Banco Ripley",
-      "shortName": "Banco Ripley",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_124",
-      "name": "Banco Santander (Chile) (owned by Banco Santander)",
-      "shortName": "Banco Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_125",
-      "name": "Itaú (Chile) (56,6% owned by Itaú Unibanco)&#91;2&#93;",
-      "shortName": "Itaú (Chile)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_126",
-      "name": "Tenpo&#91;4&#93;",
-      "shortName": "Tenpo&#91;4&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_127",
-      "name": "Tanner Banco Digital&#91;5&#93;",
-      "shortName": "Tanner Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_128",
-      "name": "Citibank Chile",
-      "shortName": "Citibank Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_129",
-      "name": "Banco do Brasil",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_130",
-      "name": "DnB NOR Bank ASA&#91;6&#93;",
-      "shortName": "DnB NOR",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_131",
-      "name": "JP Morgan Chase Bank",
-      "shortName": "JP Morgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_132",
-      "name": "The Bank of Tokyo-Mitsubishi UFJ",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_133",
-      "name": "Banco de A. Edwards; merged with Banco de Chile.&#91;7&#93;",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_134",
-      "name": "Banco Sud Americano; bought by Scotiabank Chile.",
-      "shortName": "Banco Sud",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_135",
-      "name": "Banco Paris; closed in 2016.&#91;12&#93;",
-      "shortName": "Banco Paris;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_136",
-      "name": "Banco Penta; assets sold to Banco de Chile.&#91;13&#93;",
-      "shortName": "Banco Penta;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_137",
-      "name": "Corpbanca; merged with Banco Itaú Chile.&#91;15&#93;",
-      "shortName": "Corpbanca; merged",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_138",
-      "name": "Deutsche Bank; left the Chilean market in 2016.&#91;18&#93;",
-      "shortName": "Deutsche;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_139",
-      "name": "Banco de la República",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_140",
-      "name": "Bancóldex",
-      "shortName": "Bancóldex",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_141",
-      "name": "Bancolombia",
-      "shortName": "Bancolombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_142",
-      "name": "Davivienda",
-      "shortName": "Davivienda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_143",
-      "name": "Banco de Bogotá",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_144",
-      "name": "BBVA Colombia",
-      "shortName": "BBVA Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_145",
-      "name": "Banco de Occidente Credencial",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_146",
-      "name": "GNB Sudameris&#160;&#91;es&#93;",
-      "shortName": "GNB Sudameris&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_147",
-      "name": "Colpatria&#160;&#91;es&#93;",
-      "shortName": "Colpatria&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_148",
-      "name": "Itaú Colombia",
-      "shortName": "Itaú Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_149",
-      "name": "Banco Popular (Colombia)&#160;&#91;es&#93;",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_150",
-      "name": "Banco Caja Social&#160;&#91;es&#93;",
-      "shortName": "Banco Caja",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_151",
-      "name": "Banco AV Villas",
-      "shortName": "Banco AV",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_152",
-      "name": "Bancoomeva&#160;&#91;es&#93;",
-      "shortName": "Bancoomeva&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_153",
-      "name": "Banco Finandina&#160;&#91;es&#93;",
-      "shortName": "Banco Finandina&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_154",
-      "name": "Banco Mundo Mujer&#160;&#91;es&#93;",
-      "shortName": "Banco Mundo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_155",
-      "name": "Banco Pichincha",
-      "shortName": "Banco Pichincha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_156",
-      "name": "Banco W",
-      "shortName": "Banco W",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_157",
-      "name": "Bancamía",
-      "shortName": "Bancamía",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_158",
-      "name": "Banco Agrario de Colombia&#160;&#91;es&#93;",
-      "shortName": "Banco Agrario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_159",
-      "name": "Granahorrar Bank",
-      "shortName": "Granahorrar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_160",
-      "name": "Citibank assets sold to Scotiabank.&#91;19&#93;",
-      "shortName": "Citibank assets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_161",
-      "name": "Banco Central de Costa Rica",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_162",
-      "name": "Banco de Costa Rica",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_163",
-      "name": "Banco Nacional de Costa Rica",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_164",
-      "name": "Banco Popular (Costa Rica)&#160;&#91;es&#93;",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_165",
-      "name": "BAC Credomatic",
-      "shortName": "BAC Credomatic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_166",
-      "name": "Banco BCT",
-      "shortName": "Banco BCT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_167",
-      "name": "Banco Cathay de Costa Rica",
-      "shortName": "Banco Cathay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_168",
-      "name": "Banco CMB",
-      "shortName": "Banco CMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_169",
-      "name": "Banco General (Panamá)&#160;&#91;es&#93;",
-      "shortName": "Banco General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_170",
-      "name": "Banco Improsa",
-      "shortName": "Banco Improsa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_171",
-      "name": "Banco Lafise",
-      "shortName": "Banco Lafise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_172",
-      "name": "Prival Bank",
-      "shortName": "Prival",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_173",
-      "name": "Grupo Promerica&#160;&#91;es&#93;",
-      "shortName": "Grupo Promerica&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_174",
-      "name": "Central Bank of Cuba",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_175",
-      "name": "Banco de Crédito y Comercio",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_176",
-      "name": "Banco de Inversiones",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_177",
-      "name": "Banco Exterior de Cuba",
-      "shortName": "Banco Exterior",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_178",
-      "name": "Banco Financiero Internacional",
-      "shortName": "Banco Financiero",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_179",
-      "name": "Banco Industrial de Venezuela-Cuba",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_180",
-      "name": "Banco Internacional de Comercio",
-      "shortName": "Banco Internacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_181",
-      "name": "Banco Metropolitano",
-      "shortName": "Banco Metropolitano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_182",
-      "name": "Banco Nacional de Cuba",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_183",
-      "name": "Banco Popular de Ahorro&#160;&#91;es&#93;",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_184",
-      "name": "National Bank of Dominica (NBD)",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_185",
-      "name": "Republic Bank",
-      "shortName": "Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_186",
-      "name": "Griffon Bank",
-      "shortName": "Griffon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_187",
-      "name": "Central Bank of the Dominican Republic",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_188",
-      "name": "BanReservas&#160;&#91;es&#93;",
-      "shortName": "BanReservas&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_189",
-      "name": "Banco Popular",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_190",
-      "name": "Banco BHD",
-      "shortName": "Banco BHD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_191",
-      "name": "Banesco",
-      "shortName": "Banesco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_192",
-      "name": "Central Bank of Ecuador",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_193",
-      "name": "Banco de Desarrollo del Ecuador&#160;&#91;es&#93;",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_194",
-      "name": "BanEcuador",
-      "shortName": "BanEcuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_195",
-      "name": "Banco Ecuatoriano de Seguridad Social&#160;&#91;es&#93;",
-      "shortName": "Banco Ecuatoriano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_196",
-      "name": "Produbanco",
-      "shortName": "Produbanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_197",
-      "name": "Banco de Guayaquil&#160;&#91;es&#93;",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_198",
-      "name": "Banco del Pacífico",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_199",
-      "name": "Banco Bolivariano&#160;&#91;es&#93;",
-      "shortName": "Banco Bolivariano&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_200",
-      "name": "Banco Internacional&#160;&#91;es&#93;",
-      "shortName": "Banco Internacional&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_201",
-      "name": "Banco del Austro&#160;&#91;es&#93;",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_202",
-      "name": "Banco de Machala&#160;&#91;es&#93;",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_203",
-      "name": "Central Reserve Bank of El Salvador",
-      "shortName": "Central Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_204",
-      "name": "Banco Agricola",
-      "shortName": "Banco Agricola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_205",
-      "name": "Banco Azul&#160;&#91;es&#93;",
-      "shortName": "Banco Azul&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_206",
-      "name": "Banco Davivienda El Salvador",
-      "shortName": "Banco Davivienda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_207",
-      "name": "Banco Cuscatlán",
-      "shortName": "Banco Cuscatlán",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_208",
-      "name": "Banco Hipotecario de El Salvador&#160;&#91;es&#93;",
-      "shortName": "Banco Hipotecario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_209",
-      "name": "Grenada Co-operative Bank (only locally owned bank)",
-      "shortName": "Grenada Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_210",
-      "name": "RBTT Bank Grenada Limited",
-      "shortName": "RBTT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_211",
-      "name": "Republic Bank(Grenada) Limited",
-      "shortName": "Republic(Grenada)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_212",
-      "name": "Bank of Guatemala",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_213",
-      "name": "Banco Industrial Guatemala&#160;&#91;es&#93;",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_214",
-      "name": "Banrural&#160;&#91;es&#93;",
-      "shortName": "Banrural&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_215",
-      "name": "Banco G&amp;T Continental&#160;&#91;es&#93;",
-      "shortName": "Banco G&amp;T",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_216",
-      "name": "Banco Agromercantil&#160;&#91;es&#93;",
-      "shortName": "Banco Agromercantil&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_217",
-      "name": "BANTRAB",
-      "shortName": "BANTRAB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_218",
-      "name": "Bank of Guyana",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_219",
-      "name": "Republic Bank (Guyana) (Subsidiary of Republic Bank)",
-      "shortName": "Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_220",
-      "name": "Guyana Bank for Trade &amp; Industry Ltd. (GBTI)",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_221",
-      "name": "Demerara Bank Ltd.",
-      "shortName": "Demerara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_222",
-      "name": "Citizen's Bank Guyana Inc.",
-      "shortName": "Citizen's",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_223",
-      "name": "Bank of Baroda",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_224",
-      "name": "Banco Central de Honduras",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_225",
-      "name": "Banadesa",
-      "shortName": "Banadesa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_226",
-      "name": "Banco Atlántida&#160;&#91;es&#93;",
-      "shortName": "Banco Atlántida&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_227",
-      "name": "Banco Ficohsa&#160;&#91;es&#93;",
-      "shortName": "Banco Ficohsa&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_228",
-      "name": "Banco de Occidente",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_229",
-      "name": "Banco de Los Trabajadores",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_230",
-      "name": "Banco Azteca",
-      "shortName": "Banco Azteca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_231",
-      "name": "The Bank of Jamaica",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_232",
-      "name": "First Global Bank (Parent -Grace Kennedy)",
-      "shortName": "First Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_233",
-      "name": "National Commercial Bank (NCB)",
-      "shortName": "National Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_234",
-      "name": "Jamaica Money Market Brokers (JMMB)",
-      "shortName": "Jamaica Money",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_235",
-      "name": "Sagicor Bank",
-      "shortName": "Sagicor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_236",
-      "name": "The Bank of Nova Scotia (Parent - Scotia Bank)",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_237",
-      "name": "Citibank Jamaica (Parent - Citibank)",
-      "shortName": "Citibank Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_238",
-      "name": "CIBC Caribbean (Parent - CIBC)",
-      "shortName": "CIBC Caribbean",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_239",
-      "name": "National Commercial of Jamaica (Parent -Portland Holdings)",
-      "shortName": "National Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_240",
-      "name": "Cornerstone Trust &amp; Merchant Bank",
-      "shortName": "Cornerstone Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_241",
-      "name": "Scotia Investments (Parent -The Bank of Nova Scotia)",
-      "shortName": "Scotia Investments",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_242",
-      "name": "Central Bank of Nicaragua",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_243",
-      "name": "Banco LAFISE",
-      "shortName": "Banco LAFISE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_244",
-      "name": "Banco Nacional de Panama",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_245",
-      "name": "Caja de Ahorros de Panamá",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_246",
-      "name": "Banco de Desarrollo Agropecuario",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_247",
-      "name": "Banistmo",
-      "shortName": "Banistmo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_248",
-      "name": "Global Bank",
-      "shortName": "Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_249",
-      "name": "Multibank",
-      "shortName": "Multibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_250",
-      "name": "Metrobank",
-      "shortName": "Metrobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_251",
-      "name": "Banco Universal",
-      "shortName": "Banco Universal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_252",
-      "name": "Banco Aliado",
-      "shortName": "Banco Aliado",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_253",
-      "name": "Credicorp Bank",
-      "shortName": "Credicorp",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_254",
-      "name": "Banco Atlantico Panama (subsidiary of Banco Santander)",
-      "shortName": "Banco Atlantico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_255",
-      "name": "Banco Central del Paraguay",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_256",
-      "name": "Sudameris",
-      "shortName": "Sudameris",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_257",
-      "name": "Banco Itaú (Paraguay)",
-      "shortName": "Banco Itaú",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_258",
-      "name": "Banco Continental (Paraguay)&#160;&#91;es&#93;",
-      "shortName": "Banco Continental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_259",
-      "name": "Banco GNB (Paraguay)&#160;&#91;es&#93;",
-      "shortName": "Banco GNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_260",
-      "name": "Banco Atlas-Familiar&#160;&#91;es&#93;",
-      "shortName": "Banco Atlas-Familiar&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_261",
-      "name": "Banco Nacional de Fomento&#160;&#91;es&#93;",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_262",
-      "name": "Banco BASA",
-      "shortName": "Banco BASA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_263",
-      "name": "Banco Río",
-      "shortName": "Banco Río",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_264",
-      "name": "Interfisa Banco",
-      "shortName": "Interfisa Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_265",
-      "name": "Crédito Agrícola de Habilitación",
-      "shortName": "Crédito Agrícola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_266",
-      "name": "Banco Regional",
-      "shortName": "Banco Regional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_267",
-      "name": "Visión Banco",
-      "shortName": "Visión Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_268",
-      "name": "Banco Central de Reserva del Perú",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_269",
-      "name": "Bank of the Nation (Peru)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_270",
-      "name": "Banco de Crédito del Perú",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_271",
-      "name": "BBVA Perú",
-      "shortName": "BBVA Perú",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_272",
-      "name": "Interbank",
-      "shortName": "Interbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_273",
-      "name": "BanBif&#160;&#91;es&#93;",
-      "shortName": "BanBif&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_274",
-      "name": "Mibanco",
-      "shortName": "Mibanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_275",
-      "name": "Grupo Santander",
-      "shortName": "Grupo Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_276",
-      "name": "Banco de Comercio",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_277",
-      "name": "Caja Trujillo",
-      "shortName": "Caja Trujillo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_278",
-      "name": "Standard Chartered",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_279",
-      "name": "Deutsche Bank",
-      "shortName": "Deutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_280",
-      "name": "Banco Interamericano de Finanzas",
-      "shortName": "Banco Interamericano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_281",
-      "name": "Banco Financiero",
-      "shortName": "Banco Financiero",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_282",
-      "name": "Banco del Trabajo",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_283",
-      "name": "Banco de Materiales",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_284",
-      "name": "Agrobanco",
-      "shortName": "Agrobanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_285",
-      "name": "NBK Bank",
-      "shortName": "NBK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_286",
-      "name": "Banco del Pais",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_287",
-      "name": "Banco Republica",
-      "shortName": "Banco Republica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_288",
-      "name": "Banco Solventa",
-      "shortName": "Banco Solventa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_289",
-      "name": "Serbanco",
-      "shortName": "Serbanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_290",
-      "name": "Banco Latino Operations acquired by Interbank",
-      "shortName": "Banco Latino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_291",
-      "name": "Banco Interandino Acquired by Banco Santander",
-      "shortName": "Banco Interandino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_292",
-      "name": "Banco Mercantil Acquired by Banco Santander",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_293",
-      "name": "Banco de Desarrollo",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_294",
-      "name": "Banco Popular del Peru",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_295",
-      "name": "Banco CCC",
-      "shortName": "Banco CCC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_296",
-      "name": "Surmeban top Gen",
-      "shortName": "Surmeban top",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_297",
-      "name": "Banpeco",
-      "shortName": "Banpeco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_298",
-      "name": "Bancoop",
-      "shortName": "Bancoop",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_299",
-      "name": "Banco Agrario",
-      "shortName": "Banco Agrario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_300",
-      "name": "Banco Industrial del Peru",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_301",
-      "name": "Banco Minero",
-      "shortName": "Banco Minero",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_302",
-      "name": "Banco Comercial del Peru",
-      "shortName": "Banco Comercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_303",
-      "name": "1st National Bank of St Lucia",
-      "shortName": "1st National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_304",
-      "name": "Bank of Saint Lucia",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_305",
+      "code": "BO_21",
       "name": "Royal Bank of Canada (RBC)",
       "shortName": "Royal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_306",
-      "name": "Eastern Caribbean Central Bank",
-      "shortName": "Eastern Caribbean",
+      "code": "BO_22",
+      "name": "Scotiabank",
+      "shortName": "Scotiabank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_307",
-      "name": "Bank of St. Vincent and the Grenadines",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_308",
-      "name": "First St. Vincent Bank",
-      "shortName": "First St.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_309",
-      "name": "1st National Bank",
-      "shortName": "1st National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_310",
-      "name": "St. Vincent Co-operative Bank",
-      "shortName": "St. Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_311",
-      "name": "Loyal Bank Limited",
-      "shortName": "Loyal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_312",
-      "name": "United Bank Limited",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_313",
-      "name": "European Commerce Bank",
-      "shortName": "European Commerce",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_314",
-      "name": "Safe Harbor Bank Ltd.",
-      "shortName": "Safe Harbor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_315",
-      "name": "Trend Bank Ltd.",
-      "shortName": "Trend",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_316",
-      "name": "Millennium Bank Inc.",
-      "shortName": "Millennium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_317",
-      "name": "Central Bank of Suriname",
+      "code": "BO_23",
+      "name": "Central Bank of Barbados",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_318",
-      "name": "De Surinaamsche Bank",
-      "shortName": "De Surinaamsche",
+      "code": "BO_24",
+      "name": "African Export–Import Bank (Afreximbank)",
+      "shortName": "African Export–Import",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_319",
-      "name": "Hakrinbank",
-      "shortName": "Hakrinbank",
+      "code": "BO_25",
+      "name": "Caribbean Development Bank (CDB)",
+      "shortName": "Caribbean Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_320",
-      "name": "Surinaamse Volkscredietbank",
-      "shortName": "Surinaamse Volkscredietbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_321",
-      "name": "Surinaamse Postspaarbank",
-      "shortName": "Surinaamse Postspaarbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_322",
-      "name": "Landbouwbank",
-      "shortName": "Landbouwbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_323",
-      "name": "Surichangebank",
-      "shortName": "Surichangebank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_324",
-      "name": "Finabank",
-      "shortName": "Finabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_325",
-      "name": "Cooperatieve spaar- en kredietbank Godo",
-      "shortName": "Cooperatieve spaar-",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_326",
-      "name": "Southern Commercial Bank Suriname",
-      "shortName": "Southern Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_327",
-      "name": "Central Bank of Trinidad and Tobago",
+      "code": "BO_26",
+      "name": "Central Bank of Belize",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_328",
-      "name": "Bank of Baroda Trinidad and Tobago Limited",
-      "shortName": "Bank of",
+      "code": "BO_27",
+      "name": "National Bank of Belize Limited",
+      "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_329",
-      "name": "Citicorp Merchant Bank Ltd",
-      "shortName": "Citicorp Merchant",
+      "code": "BO_28",
+      "name": "Belize Bank Ltd.",
+      "shortName": "Belize",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_330",
-      "name": "First Citizens Bank (Trinidad and Tobago)",
-      "shortName": "First Citizens",
+      "code": "BO_29",
+      "name": "Heritage Bank Limited",
+      "shortName": "Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_331",
-      "name": "Intercommercial Bank Limited",
-      "shortName": "Intercommercial",
+      "code": "BO_30",
+      "name": "Atlantic Bank Limited",
+      "shortName": "Atlantic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_332",
-      "name": "Royal Bank of Trinidad and Tobago (RBTT)",
-      "shortName": "Royal",
+      "code": "BO_31",
+      "name": "The Bank of N. T. Butterfield &amp; Son Limited",
+      "shortName": "The",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_333",
-      "name": "Scotiabank Trinidad and Tobago Limited",
-      "shortName": "Scotiabank Trinidad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_334",
-      "name": "Banco Central del Uruguay",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_335",
-      "name": "Banco de la República Oriental del Uruguay",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_336",
-      "name": "Banco Hipotecario del Uruguay",
-      "shortName": "Banco Hipotecario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_337",
-      "name": "Banco Santander (Uruguay)&#160;&#91;es&#93;",
-      "shortName": "Banco Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_338",
-      "name": "Banco Itaú (Uruguay)&#160;&#91;es&#93;",
-      "shortName": "Banco Itaú",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_339",
-      "name": "BBVA Uruguay&#160;&#91;es&#93;",
-      "shortName": "BBVA Uruguay&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_340",
-      "name": "Scotiabank (Uruguay)&#160;&#91;es&#93;",
-      "shortName": "Scotiabank (Uruguay)&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_341",
-      "name": "Banque Heritage (Uruguay)&#160;&#91;es&#93;",
-      "shortName": "Banque Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_342",
-      "name": "BANDES",
-      "shortName": "BANDES",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_343",
-      "name": "Discount Bank (Latin America) S.A.",
-      "shortName": "Discount",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_344",
-      "name": "HSBC Bank (Uruguay) S.A.",
+      "code": "BO_32",
+      "name": "HSBC Bank of Bermuda Limited",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_345",
-      "name": "Banco Surinvest S.A.",
-      "shortName": "Banco Surinvest",
+      "code": "BO_33",
+      "name": "Bermuda Commercial Bank Limited",
+      "shortName": "Bermuda Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_346",
-      "name": "Citibank N.A. Sucursal Uruguay",
-      "shortName": "Citibank N.A.",
+      "code": "BO_34",
+      "name": "Clarien Bank",
+      "shortName": "Clarien",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_347",
-      "name": "Lloyds TSB Bank plc",
-      "shortName": "Lloyds TSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_348",
-      "name": "Central Bank of Venezuela",
+      "code": "BO_35",
+      "name": "Central Bank of Bolivia",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_349",
-      "name": "Banco de Venezuela",
+      "code": "BO_36",
+      "name": "Banco Unión",
+      "shortName": "Banco Unión",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_37",
+      "name": "Banco de Desarrollo Productivo",
       "shortName": "Banco de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_350",
-      "name": "Banco Bicentenario",
-      "shortName": "Banco Bicentenario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_351",
-      "name": "Banco Nacional de Crédito",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_352",
-      "name": "BBVA Provincial",
-      "shortName": "BBVA Provincial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_353",
-      "name": "Banco Mercantil",
+      "code": "BO_38",
+      "name": "Banco Mercantil Santa Cruz",
       "shortName": "Banco Mercantil",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_354",
-      "name": "Banco del Tesoro&#160;&#91;es&#93;",
+      "code": "BO_39",
+      "name": "Banco Nacional de Bolivia",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_40",
+      "name": "Banco BISA",
+      "shortName": "Banco BISA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_41",
+      "name": "Banco de Crédito BCP",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_42",
+      "name": "Banco Caja Social&#160;&#91;es&#93;",
+      "shortName": "Banco Caja",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_43",
+      "name": "Banco Ganadero&#160;&#91;es&#93;",
+      "shortName": "Banco Ganadero&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_44",
+      "name": "Banco Económico",
+      "shortName": "Banco Económico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_45",
+      "name": "Banco Prodem",
+      "shortName": "Banco Prodem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_46",
+      "name": "Banco Fortaleza",
+      "shortName": "Banco Fortaleza",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_47",
+      "name": "Banco PyME Ecofuturo",
+      "shortName": "Banco PyME",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_48",
+      "name": "Bancomunidad",
+      "shortName": "Bancomunidad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_49",
+      "name": "Banco Agrícola de Bolivia",
+      "shortName": "Banco Agrícola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_50",
+      "name": "Banco Boliviano Americano",
+      "shortName": "Banco Boliviano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_51",
+      "name": "Banco de Credito Oruro",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_52",
+      "name": "Banco de Cochabamba",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_53",
+      "name": "Banco de Financiamiento Industrial",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_54",
+      "name": "Banco de La Paz",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_55",
+      "name": "Banco de la Vivienda",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_56",
+      "name": "Banco de Potosí",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_57",
+      "name": "Banco de San Carlos",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_58",
+      "name": "Banco del Progreso",
       "shortName": "Banco del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_355",
-      "name": "Bancamiga&#160;&#91;es&#93;",
-      "shortName": "Bancamiga&#160;&#91;es&#93;",
+      "code": "BO_59",
+      "name": "Banco Intenacional de Desarrollo",
+      "shortName": "Banco Intenacional",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_356",
+      "code": "BO_60",
+      "name": "Banco Minero de Bolivia",
+      "shortName": "Banco Minero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_61",
+      "name": "Banco PyME Los Andes ProCredit",
+      "shortName": "Banco PyME",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_62",
+      "name": "Banco Santa Cruz",
+      "shortName": "Banco Santa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_63",
+      "name": "Banco Sur",
+      "shortName": "Banco Sur",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_64",
+      "name": "BHN Multibanco",
+      "shortName": "BHN Multibanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_65",
+      "name": "Central Bank of Brazil",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_66",
+      "name": "Banco do Nordeste (Federal Government as main shareholder)",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_67",
+      "name": "Caixa Econômica Federal (Federal Government-owned)",
+      "shortName": "Caixa Econômica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_68",
+      "name": "Itaú Unibanco",
+      "shortName": "Itaú Unibanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_69",
+      "name": "Banco Bradesco",
+      "shortName": "Banco Bradesco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_70",
+      "name": "Banco Santander Brasil; (owned by Spanish Banco Santander)",
+      "shortName": "Banco Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_71",
+      "name": "Banco de Brasília (BRB) (Federal District-owned)",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_72",
+      "name": "Banco do Estado do Pará (Banpará) (State of Pará-owned)",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_73",
+      "name": "Banco BMG",
+      "shortName": "Banco BMG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_74",
+      "name": "Banco Daycoval S.A.",
+      "shortName": "Banco Daycoval",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_75",
+      "name": "Banco BV (co-owned by Votorantim Group and Banco do Brasil)",
+      "shortName": "Banco BV",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_76",
+      "name": "Banco Paulista&#160;&#91;pt&#93;",
+      "shortName": "Banco Paulista&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_77",
+      "name": "Banco Industrial do Brasil&#160;&#91;pt&#93;",
+      "shortName": "Banco Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_78",
+      "name": "Paraná Banco&#160;&#91;pt&#93;",
+      "shortName": "Paraná Banco&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_79",
+      "name": "Banco Safra",
+      "shortName": "Banco Safra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_80",
+      "name": "Agibank&#160;&#91;pt&#93;",
+      "shortName": "Agibank&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_81",
+      "name": "Banco Bari",
+      "shortName": "Banco Bari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_82",
+      "name": "Banco Digio&#160;&#91;pt&#93;",
+      "shortName": "Banco Digio&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_83",
+      "name": "Banco Digimais&#160;&#91;pt&#93;",
+      "shortName": "Banco Digimais&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_84",
+      "name": "Nubank",
+      "shortName": "Nubank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_85",
+      "name": "Banco Original (Pic Pay)&#160;&#91;pt&#93;",
+      "shortName": "Banco Original",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_86",
+      "name": "Sistema de Cooperativas de Crédito Ailos",
+      "shortName": "Sistema de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_87",
+      "name": "Sistema de Crédito Cooperativo&#160;&#91;pt&#93; (Sicred)",
+      "shortName": "Sistema de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_88",
+      "name": "Unicred&#160;&#91;pt&#93;",
+      "shortName": "Unicred&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_89",
+      "name": "Cresol",
+      "shortName": "Cresol",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_90",
+      "name": "Banco BTG Pactual (private)",
+      "shortName": "Banco BTG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_91",
+      "name": "Banco Clássico&#160;&#91;pt&#93; (private)",
+      "shortName": "Banco Clássico&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_92",
+      "name": "Banco Alfa; acquired by Banco Safra",
+      "shortName": "Banco Alfa;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_93",
+      "name": "Banco Boavista; acquired by Banco Bradesco",
+      "shortName": "Banco Boavista;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_94",
+      "name": "Banco Credireal; acquired by BCN, now Banco Bradesco",
+      "shortName": "Banco Credireal;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_95",
+      "name": "Banco de Crédito Nacional (BCN); acquired by Banco Bradesco",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_96",
+      "name": "Banco do Estado do Ceará (BEC); acquired by Banco Bradesco",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_97",
+      "name": "Banco do Estado de Goiás (BEG); acquired by Banco Itaú",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_98",
+      "name": "Banco do Estado do Piauí (BEP); acquired by Banco do Brasil",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_99",
+      "name": "Banco Mercantil Finasa; acquired by Banco Bradesco",
+      "shortName": "Banco Mercantil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_100",
+      "name": "Banco Nacional; acquired by Unibanco, now Banco Itaú",
+      "shortName": "Banco Nacional;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_101",
+      "name": "Banco Noroeste; acquired by Santander Brasil",
+      "shortName": "Banco Noroeste;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_102",
+      "name": "Banco Nossa Caixa; acquired by Banco do Brasil",
+      "shortName": "Banco Nossa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_103",
+      "name": "Unibanco; merged with Banco Itaú",
+      "shortName": "Unibanco; merged",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_104",
+      "name": "Central Bank of Chile",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_105",
+      "name": "Banco del Estado de Chile",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_106",
+      "name": "Banco de Crédito e Inversiones",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_107",
+      "name": "Banco Consorcio&#160;&#91;es&#93;",
+      "shortName": "Banco Consorcio&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_108",
+      "name": "Banco BICE",
+      "shortName": "Banco BICE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_109",
+      "name": "Banco Security&#160;&#91;es&#93;",
+      "shortName": "Banco Security&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_110",
+      "name": "Banco Falabella",
+      "shortName": "Banco Falabella",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_111",
+      "name": "Banco Internacional (Chile)&#160;&#91;es&#93;",
+      "shortName": "Banco Internacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_112",
+      "name": "Banco Ripley",
+      "shortName": "Banco Ripley",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_113",
+      "name": "Banco Santander (Chile) (owned by Banco Santander)",
+      "shortName": "Banco Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_114",
+      "name": "Itaú (Chile) (56,6% owned by Itaú Unibanco)&#91;2&#93;",
+      "shortName": "Itaú (Chile)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_115",
+      "name": "Tenpo&#91;4&#93;",
+      "shortName": "Tenpo&#91;4&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_116",
+      "name": "Tanner Banco Digital&#91;5&#93;",
+      "shortName": "Tanner Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_117",
+      "name": "Citibank Chile",
+      "shortName": "Citibank Chile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_118",
+      "name": "Banco do Brasil",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_119",
+      "name": "DnB NOR Bank ASA&#91;6&#93;",
+      "shortName": "DnB NOR",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_120",
+      "name": "JP Morgan Chase Bank",
+      "shortName": "JP Morgan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_121",
+      "name": "The Bank of Tokyo-Mitsubishi UFJ",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_122",
+      "name": "Banco de A. Edwards; merged with Banco de Chile.&#91;7&#93;",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_123",
+      "name": "Banco Sud Americano; bought by Scotiabank Chile.",
+      "shortName": "Banco Sud",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_124",
+      "name": "Banco Paris; closed in 2016.&#91;12&#93;",
+      "shortName": "Banco Paris;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_125",
+      "name": "Banco Penta; assets sold to Banco de Chile.&#91;13&#93;",
+      "shortName": "Banco Penta;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_126",
+      "name": "Corpbanca; merged with Banco Itaú Chile.&#91;15&#93;",
+      "shortName": "Corpbanca; merged",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_127",
+      "name": "Deutsche Bank; left the Chilean market in 2016.&#91;18&#93;",
+      "shortName": "Deutsche;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_128",
+      "name": "Banco de la República",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_129",
+      "name": "Bancóldex",
+      "shortName": "Bancóldex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_130",
+      "name": "Bancolombia",
+      "shortName": "Bancolombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_131",
+      "name": "Davivienda",
+      "shortName": "Davivienda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_132",
+      "name": "Banco de Bogotá",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_133",
+      "name": "BBVA Colombia",
+      "shortName": "BBVA Colombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_134",
+      "name": "Banco de Occidente Credencial",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_135",
+      "name": "GNB Sudameris&#160;&#91;es&#93;",
+      "shortName": "GNB Sudameris&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_136",
+      "name": "Colpatria&#160;&#91;es&#93;",
+      "shortName": "Colpatria&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_137",
+      "name": "Itaú Colombia",
+      "shortName": "Itaú Colombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_138",
+      "name": "Banco Popular (Costa Rica)&#160;&#91;es&#93;",
+      "shortName": "Banco Popular",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_139",
+      "name": "Banco AV Villas",
+      "shortName": "Banco AV",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_140",
+      "name": "Bancoomeva&#160;&#91;es&#93;",
+      "shortName": "Bancoomeva&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_141",
+      "name": "Banco Finandina&#160;&#91;es&#93;",
+      "shortName": "Banco Finandina&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_142",
+      "name": "Banco Mundo Mujer&#160;&#91;es&#93;",
+      "shortName": "Banco Mundo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_143",
+      "name": "Banco Pichincha",
+      "shortName": "Banco Pichincha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_144",
+      "name": "Banco W",
+      "shortName": "Banco W",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_145",
+      "name": "Bancamía",
+      "shortName": "Bancamía",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_146",
+      "name": "Banco Agrario de Colombia&#160;&#91;es&#93;",
+      "shortName": "Banco Agrario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_147",
+      "name": "Granahorrar Bank",
+      "shortName": "Granahorrar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_148",
+      "name": "Citibank assets sold to Scotiabank.&#91;19&#93;",
+      "shortName": "Citibank assets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_149",
+      "name": "Banco Central de Costa Rica",
+      "shortName": "Banco Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_150",
+      "name": "Banco de Costa Rica",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_151",
+      "name": "Banco Nacional de Costa Rica",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_152",
+      "name": "BAC Credomatic",
+      "shortName": "BAC Credomatic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_153",
+      "name": "Banco BCT",
+      "shortName": "Banco BCT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_154",
+      "name": "Banco Cathay de Costa Rica",
+      "shortName": "Banco Cathay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_155",
+      "name": "Banco CMB",
+      "shortName": "Banco CMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_156",
+      "name": "Banco General (Panamá)&#160;&#91;es&#93;",
+      "shortName": "Banco General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_157",
+      "name": "Banco Improsa",
+      "shortName": "Banco Improsa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_158",
+      "name": "Banco Lafise",
+      "shortName": "Banco Lafise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_159",
+      "name": "Prival Bank",
+      "shortName": "Prival",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_160",
+      "name": "Grupo Promerica&#160;&#91;es&#93;",
+      "shortName": "Grupo Promerica&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_161",
+      "name": "Banco de Crédito y Comercio",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_162",
+      "name": "Banco de Inversiones",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_163",
+      "name": "Banco Exterior de Cuba",
+      "shortName": "Banco Exterior",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_164",
+      "name": "Banco Financiero Internacional",
+      "shortName": "Banco Financiero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_165",
+      "name": "Banco Industrial de Venezuela-Cuba",
+      "shortName": "Banco Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_166",
+      "name": "Banco Internacional de Comercio",
+      "shortName": "Banco Internacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_167",
+      "name": "Banco Metropolitano",
+      "shortName": "Banco Metropolitano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_168",
+      "name": "Banco Popular de Ahorro&#160;&#91;es&#93;",
+      "shortName": "Banco Popular",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_169",
+      "name": "National Bank of Dominica (NBD)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_170",
+      "name": "Republic Bank",
+      "shortName": "Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_171",
+      "name": "Griffon Bank",
+      "shortName": "Griffon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_172",
+      "name": "Central Bank of the Dominican Republic",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_173",
+      "name": "BanReservas&#160;&#91;es&#93;",
+      "shortName": "BanReservas&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_174",
+      "name": "Banco Popular",
+      "shortName": "Banco Popular",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_175",
+      "name": "Banco BHD",
+      "shortName": "Banco BHD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_176",
+      "name": "Banesco",
+      "shortName": "Banesco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_177",
+      "name": "Central Bank of Ecuador",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_178",
+      "name": "Banco de Desarrollo del Ecuador&#160;&#91;es&#93;",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_179",
+      "name": "BanEcuador",
+      "shortName": "BanEcuador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_180",
+      "name": "Banco Ecuatoriano de Seguridad Social&#160;&#91;es&#93;",
+      "shortName": "Banco Ecuatoriano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_181",
+      "name": "Produbanco",
+      "shortName": "Produbanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_182",
+      "name": "Banco de Guayaquil&#160;&#91;es&#93;",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_183",
+      "name": "Banco del Pacífico",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_184",
+      "name": "Banco Bolivariano&#160;&#91;es&#93;",
+      "shortName": "Banco Bolivariano&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_185",
+      "name": "Banco del Austro&#160;&#91;es&#93;",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_186",
+      "name": "Central Reserve Bank of El Salvador",
+      "shortName": "Central Reserve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_187",
+      "name": "Banco Agricola",
+      "shortName": "Banco Agricola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_188",
+      "name": "Banco Davivienda El Salvador",
+      "shortName": "Banco Davivienda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_189",
+      "name": "Banco Cuscatlán",
+      "shortName": "Banco Cuscatlán",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_190",
+      "name": "Banco Hipotecario de El Salvador&#160;&#91;es&#93;",
+      "shortName": "Banco Hipotecario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_191",
+      "name": "Grenada Co-operative Bank (only locally owned bank)",
+      "shortName": "Grenada Co-operative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_192",
+      "name": "RBTT Bank Grenada Limited",
+      "shortName": "RBTT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_193",
+      "name": "Republic Bank(Grenada) Limited",
+      "shortName": "Republic(Grenada)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_194",
+      "name": "Bank of Guatemala",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_195",
+      "name": "Banco Industrial Guatemala&#160;&#91;es&#93;",
+      "shortName": "Banco Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_196",
+      "name": "Banco G&amp;T Continental&#160;&#91;es&#93;",
+      "shortName": "Banco G&amp;T",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_197",
+      "name": "Banco Agromercantil&#160;&#91;es&#93;",
+      "shortName": "Banco Agromercantil&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_198",
+      "name": "BANTRAB",
+      "shortName": "BANTRAB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_199",
+      "name": "Bank of Guyana",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_200",
+      "name": "Republic Bank (Guyana) (Subsidiary of Republic Bank)",
+      "shortName": "Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_201",
+      "name": "Guyana Bank for Trade &amp; Industry Ltd. (GBTI)",
+      "shortName": "Guyana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_202",
+      "name": "Demerara Bank Ltd.",
+      "shortName": "Demerara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_203",
+      "name": "Citizen's Bank Guyana Inc.",
+      "shortName": "Citizen's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_204",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_205",
+      "name": "Banco Central de Honduras",
+      "shortName": "Banco Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_206",
+      "name": "Banadesa",
+      "shortName": "Banadesa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_207",
+      "name": "Banco Atlántida&#160;&#91;es&#93;",
+      "shortName": "Banco Atlántida&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_208",
+      "name": "Banco Ficohsa&#160;&#91;es&#93;",
+      "shortName": "Banco Ficohsa&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_209",
+      "name": "Banco de Occidente",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_210",
+      "name": "Banco de Los Trabajadores",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_211",
+      "name": "Banco Azteca",
+      "shortName": "Banco Azteca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_212",
+      "name": "The Bank of Jamaica",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_213",
+      "name": "First Global Bank (Parent -Grace Kennedy)",
+      "shortName": "First Global",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_214",
+      "name": "National Commercial Bank (NCB)",
+      "shortName": "National Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_215",
+      "name": "Jamaica Money Market Brokers (JMMB)",
+      "shortName": "Jamaica Money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_216",
+      "name": "Sagicor Bank",
+      "shortName": "Sagicor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_217",
+      "name": "The Bank of Nova Scotia (Parent - Scotia Bank)",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_218",
+      "name": "Citibank Jamaica (Parent - Citibank)",
+      "shortName": "Citibank Jamaica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_219",
+      "name": "CIBC Caribbean (Parent - CIBC)",
+      "shortName": "CIBC Caribbean",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_220",
+      "name": "National Commercial of Jamaica (Parent -Portland Holdings)",
+      "shortName": "National Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_221",
+      "name": "Cornerstone Trust &amp; Merchant Bank",
+      "shortName": "Cornerstone Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_222",
+      "name": "Scotia Investments (Parent -The Bank of Nova Scotia)",
+      "shortName": "Scotia Investments",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_223",
+      "name": "Central Bank of Nicaragua",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_224",
+      "name": "Banco Nacional de Panama",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_225",
+      "name": "Caja de Ahorros de Panamá",
+      "shortName": "Caja de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_226",
+      "name": "Banco de Desarrollo Agropecuario",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_227",
+      "name": "Banistmo",
+      "shortName": "Banistmo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_228",
+      "name": "Global Bank",
+      "shortName": "Global",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_229",
+      "name": "Multibank",
+      "shortName": "Multibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_230",
+      "name": "Metrobank",
+      "shortName": "Metrobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_231",
+      "name": "Banco Universal",
+      "shortName": "Banco Universal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_232",
+      "name": "Banco Aliado",
+      "shortName": "Banco Aliado",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_233",
+      "name": "Credicorp Bank",
+      "shortName": "Credicorp",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_234",
+      "name": "Banco Atlantico Panama (subsidiary of Banco Santander)",
+      "shortName": "Banco Atlantico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_235",
+      "name": "Banco Central del Paraguay",
+      "shortName": "Banco Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_236",
+      "name": "Sudameris",
+      "shortName": "Sudameris",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_237",
+      "name": "Banco Itaú (Paraguay)",
+      "shortName": "Banco Itaú",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_238",
+      "name": "Banco Continental (Paraguay)&#160;&#91;es&#93;",
+      "shortName": "Banco Continental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_239",
+      "name": "Banco Atlas-Familiar&#160;&#91;es&#93;",
+      "shortName": "Banco Atlas-Familiar&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_240",
+      "name": "Banco Nacional de Fomento&#160;&#91;es&#93;",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_241",
+      "name": "Banco Río",
+      "shortName": "Banco Río",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_242",
+      "name": "Interfisa Banco",
+      "shortName": "Interfisa Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_243",
+      "name": "Crédito Agrícola de Habilitación",
+      "shortName": "Crédito Agrícola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_244",
+      "name": "Banco Regional",
+      "shortName": "Banco Regional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_245",
+      "name": "Visión Banco",
+      "shortName": "Visión Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_246",
+      "name": "Banco Central de Reserva del Perú",
+      "shortName": "Banco Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_247",
+      "name": "Bank of the Nation (Peru)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_248",
+      "name": "Banco de Crédito del Perú",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_249",
+      "name": "BBVA Perú",
+      "shortName": "BBVA Perú",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_250",
+      "name": "Interbank",
+      "shortName": "Interbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_251",
       "name": "Banplus&#160;&#91;es&#93;",
       "shortName": "Banplus&#160;&#91;es&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_357",
+      "code": "BO_252",
+      "name": "Mibanco",
+      "shortName": "Mibanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_253",
+      "name": "Grupo Santander",
+      "shortName": "Grupo Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_254",
+      "name": "Banco de Comercio",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_255",
+      "name": "Caja Trujillo",
+      "shortName": "Caja Trujillo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_256",
+      "name": "Standard Chartered",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_257",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_258",
+      "name": "Banco Interamericano de Finanzas",
+      "shortName": "Banco Interamericano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_259",
+      "name": "Banco Financiero",
+      "shortName": "Banco Financiero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_260",
+      "name": "Banco del Trabajo",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_261",
+      "name": "Banco de Materiales",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_262",
+      "name": "Agrobanco",
+      "shortName": "Agrobanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_263",
+      "name": "NBK Bank",
+      "shortName": "NBK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_264",
+      "name": "Banco del Pais",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_265",
+      "name": "Banco Republica",
+      "shortName": "Banco Republica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_266",
+      "name": "Banco Solventa",
+      "shortName": "Banco Solventa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_267",
+      "name": "Serbanco",
+      "shortName": "Serbanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_268",
+      "name": "Banco Latino Operations acquired by Interbank",
+      "shortName": "Banco Latino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_269",
+      "name": "Banco Interandino Acquired by Banco Santander",
+      "shortName": "Banco Interandino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_270",
+      "name": "Banco de Desarrollo",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_271",
+      "name": "Banco Popular del Peru",
+      "shortName": "Banco Popular",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_272",
+      "name": "Banco CCC",
+      "shortName": "Banco CCC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_273",
+      "name": "Surmeban top Gen",
+      "shortName": "Surmeban top",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_274",
+      "name": "Bancoop",
+      "shortName": "Bancoop",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_275",
+      "name": "Banco Agrario",
+      "shortName": "Banco Agrario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_276",
+      "name": "Banco Industrial del Peru",
+      "shortName": "Banco Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_277",
+      "name": "Banco Minero",
+      "shortName": "Banco Minero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_278",
+      "name": "Banco Comercial del Peru",
+      "shortName": "Banco Comercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_279",
+      "name": "1st National Bank of St Lucia",
+      "shortName": "1st National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_280",
+      "name": "Bank of Saint Lucia",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_281",
+      "name": "Eastern Caribbean Central Bank",
+      "shortName": "Eastern Caribbean",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_282",
+      "name": "Bank of St. Vincent and the Grenadines",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_283",
+      "name": "First St. Vincent Bank",
+      "shortName": "First St.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_284",
+      "name": "1st National Bank",
+      "shortName": "1st National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_285",
+      "name": "St. Vincent Co-operative Bank",
+      "shortName": "St. Vincent",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_286",
+      "name": "Loyal Bank Limited",
+      "shortName": "Loyal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_287",
+      "name": "United Bank Limited",
+      "shortName": "United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_288",
+      "name": "Safe Harbor Bank Ltd.",
+      "shortName": "Safe Harbor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_289",
+      "name": "Trend Bank Ltd.",
+      "shortName": "Trend",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_290",
+      "name": "Millennium Bank Inc.",
+      "shortName": "Millennium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_291",
+      "name": "Central Bank of Suriname",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_292",
+      "name": "De Surinaamsche Bank",
+      "shortName": "De Surinaamsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_293",
+      "name": "Hakrinbank",
+      "shortName": "Hakrinbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_294",
+      "name": "Surinaamse Volkscredietbank",
+      "shortName": "Surinaamse Volkscredietbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_295",
+      "name": "Surinaamse Postspaarbank",
+      "shortName": "Surinaamse Postspaarbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_296",
+      "name": "Landbouwbank",
+      "shortName": "Landbouwbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_297",
+      "name": "Surichangebank",
+      "shortName": "Surichangebank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_298",
+      "name": "Finabank",
+      "shortName": "Finabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_299",
+      "name": "Cooperatieve spaar- en kredietbank Godo",
+      "shortName": "Cooperatieve spaar-",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_300",
+      "name": "Southern Commercial Bank Suriname",
+      "shortName": "Southern Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_301",
+      "name": "Central Bank of Trinidad and Tobago",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_302",
+      "name": "Bank of Baroda Trinidad and Tobago Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_303",
+      "name": "Citicorp Merchant Bank Ltd",
+      "shortName": "Citicorp Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_304",
+      "name": "First Citizens Bank (Trinidad and Tobago)",
+      "shortName": "First Citizens",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_305",
+      "name": "Intercommercial Bank Limited",
+      "shortName": "Intercommercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_306",
+      "name": "Royal Bank of Trinidad and Tobago (RBTT)",
+      "shortName": "Royal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_307",
+      "name": "Scotiabank Trinidad and Tobago Limited",
+      "shortName": "Scotiabank Trinidad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_308",
+      "name": "Banco de la República Oriental del Uruguay",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_309",
+      "name": "Banco Hipotecario del Uruguay",
+      "shortName": "Banco Hipotecario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_310",
+      "name": "Banco Santander (Uruguay)&#160;&#91;es&#93;",
+      "shortName": "Banco Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_311",
+      "name": "BBVA Uruguay&#160;&#91;es&#93;",
+      "shortName": "BBVA Uruguay&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_312",
+      "name": "Scotiabank (Uruguay)&#160;&#91;es&#93;",
+      "shortName": "Scotiabank (Uruguay)&#160;&#91;es&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_313",
+      "name": "Banque Heritage (Uruguay)&#160;&#91;es&#93;",
+      "shortName": "Banque Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_314",
+      "name": "Discount Bank (Latin America) S.A.",
+      "shortName": "Discount",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_315",
+      "name": "HSBC Bank (Uruguay) S.A.",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_316",
+      "name": "Banco Surinvest S.A.",
+      "shortName": "Banco Surinvest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_317",
+      "name": "Citibank N.A. Sucursal Uruguay",
+      "shortName": "Citibank N.A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_318",
+      "name": "Lloyds TSB Bank plc",
+      "shortName": "Lloyds TSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_319",
+      "name": "Central Bank of Venezuela",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_320",
+      "name": "Banco de Venezuela",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_321",
+      "name": "Banco Bicentenario",
+      "shortName": "Banco Bicentenario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_322",
+      "name": "Banco Nacional de Crédito",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_323",
+      "name": "BBVA Provincial",
+      "shortName": "BBVA Provincial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_324",
+      "name": "Banco Mercantil",
+      "shortName": "Banco Mercantil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BO_325",
       "name": "Bancaribe",
       "shortName": "Bancaribe",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_358",
+      "code": "BO_326",
       "name": "Banco Venezolano de Crédito",
       "shortName": "Banco Venezolano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_359",
-      "name": "Banco Plaza&#160;&#91;es&#93;",
-      "shortName": "Banco Plaza&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_360",
+      "code": "BO_327",
       "name": "Fondo Común",
       "shortName": "Fondo Común",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_361",
-      "name": "Banco DELSUR&#160;&#91;es&#93;",
-      "shortName": "Banco DELSUR&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_362",
+      "code": "BO_328",
       "name": "Banco Exterior (Venezuela)&#160;&#91;es&#93;",
       "shortName": "Banco Exterior",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_363",
+      "code": "BO_329",
       "name": "Bancrecer",
       "shortName": "Bancrecer",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_364",
-      "name": "Banco Caroní&#160;&#91;es&#93;",
-      "shortName": "Banco Caroní&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_365",
-      "name": "Banco Activo&#160;&#91;es&#93;",
-      "shortName": "Banco Activo&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_366",
+      "code": "BO_330",
       "name": "100% Banco",
       "shortName": "100% Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_367",
+      "code": "BO_331",
       "name": "Sofitasa",
       "shortName": "Sofitasa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_368",
+      "code": "BO_332",
       "name": "Iran-Venezuela Bi-National Bank",
       "shortName": "Iran-Venezuela Bi-National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_369",
+      "code": "BO_333",
       "name": "Banco Occidental de Descuento",
       "shortName": "Banco Occidental",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_370",
+      "code": "BO_334",
       "name": "Banco Federal",
       "shortName": "Banco Federal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_371",
+      "code": "BO_335",
       "name": "Banco Latino",
       "shortName": "Banco Latino",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_372",
+      "code": "BO_336",
       "name": "Stanford Bank Venezuela",
       "shortName": "Stanford",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_373",
-      "name": "Banco Industrial de Venezuela",
-      "shortName": "Banco Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_374",
+      "code": "BO_337",
       "name": "Women's Development Bank",
       "shortName": "Women's Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_375",
-      "name": "Central Bank of Bahamas",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_376",
+      "code": "BO_338",
       "name": "Banks in Brazil",
       "shortName": "Banks in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_377",
-      "name": "Antigua and Barbuda",
-      "shortName": "Antigua and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_378",
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_379",
-      "name": "Bahamas",
-      "shortName": "Bahamas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_380",
-      "name": "Barbados",
-      "shortName": "Barbados",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_381",
-      "name": "Belize",
-      "shortName": "Belize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_382",
+      "code": "BO_339",
       "name": "Bolivia",
       "shortName": "Bolivia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_383",
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_384",
-      "name": "Canada",
-      "shortName": "Canada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_385",
-      "name": "Chile",
-      "shortName": "Chile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_386",
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_387",
-      "name": "Costa Rica",
-      "shortName": "Costa Rica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_388",
-      "name": "Cuba",
-      "shortName": "Cuba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_389",
-      "name": "Dominica",
-      "shortName": "Dominica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_390",
-      "name": "Dominican Republic",
-      "shortName": "Dominican Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_391",
-      "name": "Ecuador",
-      "shortName": "Ecuador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_392",
-      "name": "El Salvador",
-      "shortName": "El Salvador",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_393",
-      "name": "Grenada",
-      "shortName": "Grenada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_394",
-      "name": "Guatemala",
-      "shortName": "Guatemala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_395",
-      "name": "Guyana",
-      "shortName": "Guyana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_396",
-      "name": "Haiti",
-      "shortName": "Haiti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_397",
-      "name": "Honduras",
-      "shortName": "Honduras",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_398",
-      "name": "Jamaica",
-      "shortName": "Jamaica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_399",
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_400",
-      "name": "Nicaragua",
-      "shortName": "Nicaragua",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_401",
-      "name": "Panama",
-      "shortName": "Panama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_402",
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_403",
-      "name": "Peru",
-      "shortName": "Peru",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_404",
-      "name": "Saint Kitts and Nevis",
-      "shortName": "Saint Kitts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_405",
-      "name": "Saint Lucia",
-      "shortName": "Saint Lucia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_406",
-      "name": "Saint Vincent and the Grenadines",
-      "shortName": "Saint Vincent",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_407",
-      "name": "Suriname",
-      "shortName": "Suriname",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_408",
-      "name": "Trinidad and Tobago",
-      "shortName": "Trinidad and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_409",
-      "name": "United States",
-      "shortName": "United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_410",
-      "name": "Uruguay",
-      "shortName": "Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_411",
+      "code": "BO_340",
       "name": "Venezuela",
       "shortName": "Venezuela",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_412",
-      "name": "Anguilla",
-      "shortName": "Anguilla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_413",
-      "name": "Aruba",
-      "shortName": "Aruba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_414",
-      "name": "Bermuda",
-      "shortName": "Bermuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_415",
+      "code": "BO_341",
       "name": "Bonaire",
       "shortName": "Bonaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_416",
+      "code": "BO_342",
       "name": "British Virgin Islands",
       "shortName": "British Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_417",
-      "name": "Cayman Islands",
-      "shortName": "Cayman Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_418",
-      "name": "Curaçao",
-      "shortName": "Curaçao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_419",
+      "code": "BO_343",
       "name": "Falkland Islands",
       "shortName": "Falkland Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_420",
-      "name": "French Guiana",
-      "shortName": "French Guiana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_421",
-      "name": "Greenland",
-      "shortName": "Greenland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_422",
-      "name": "Guadeloupe",
-      "shortName": "Guadeloupe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_423",
-      "name": "Martinique",
-      "shortName": "Martinique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_424",
-      "name": "Montserrat",
-      "shortName": "Montserrat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_425",
-      "name": "Puerto Rico",
-      "shortName": "Puerto Rico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_426",
+      "code": "BO_344",
       "name": "Saba",
       "shortName": "Saba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_427",
-      "name": "Saint Barthélemy",
-      "shortName": "Saint Barthélemy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_428",
+      "code": "BO_345",
       "name": "Saint Martin",
       "shortName": "Saint Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_429",
-      "name": "Saint Pierre and Miquelon",
-      "shortName": "Saint Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_430",
+      "code": "BO_346",
       "name": "Sint Eustatius",
       "shortName": "Sint Eustatius",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_431",
+      "code": "BO_347",
       "name": "Sint Maarten",
       "shortName": "Sint Maarten",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_432",
-      "name": "South Georgia and the South Sandwich Islands",
-      "shortName": "South Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_433",
-      "name": "Turks and Caicos Islands",
-      "shortName": "Turks and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_434",
+      "code": "BO_348",
       "name": "U.S. Virgin Islands",
       "shortName": "U.S. Virgin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_435",
+      "code": "BO_349",
       "name": "North America",
       "shortName": "North America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_436",
+      "code": "BO_350",
       "name": "Central America",
       "shortName": "Central America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_437",
+      "code": "BO_351",
       "name": "Caribbean",
       "shortName": "Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_438",
+      "code": "BO_352",
       "name": "South America",
       "shortName": "South America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_439",
-      "name": "Lists of banks in North America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_440",
-      "name": "Lists of banks in South America",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_441",
+      "code": "BO_353",
       "name": "Americas-related lists",
       "shortName": "Americas-related lists",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_442",
+      "code": "BO_354",
       "name": "CS1 Spanish-language sources (es)",
       "shortName": "CS1 Spanish-language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_443",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_444",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BO_445",
+      "code": "BO_355",
       "name": "Interlanguage link template existing link",
       "shortName": "Interlanguage link",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_446",
+      "code": "BO_356",
       "name": "$3,875.39",
       "shortName": "$3,875.39",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_447",
+      "code": "BO_357",
       "name": "$3,180.15",
       "shortName": "$3,180.15",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_448",
+      "code": "BO_358",
       "name": "$2,200.83",
       "shortName": "$2,200.83",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_449",
+      "code": "BO_359",
       "name": "$1,932.47",
       "shortName": "$1,932.47",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_450",
+      "code": "BO_360",
       "name": "$1,641.59",
       "shortName": "$1,641.59",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_451",
+      "code": "BO_361",
       "name": "$1,566.41",
       "shortName": "$1,566.41",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_452",
+      "code": "BO_362",
       "name": "$1,428.29",
       "shortName": "$1,428.29",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_453",
+      "code": "BO_363",
       "name": "$1,193.69",
       "shortName": "$1,193.69",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_454",
+      "code": "BO_364",
       "name": "$1,041.11",
       "shortName": "$1,041.11",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_455",
+      "code": "BO_365",
       "name": "$990.19",
       "shortName": "$990.19",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_456",
+      "code": "BO_366",
       "name": "$726.27",
       "shortName": "$726.27",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_457",
+      "code": "BO_367",
       "name": "$663.49",
       "shortName": "$663.49",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_458",
+      "code": "BO_368",
       "name": "$629.99",
       "shortName": "$629.99",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_459",
+      "code": "BO_369",
       "name": "$561.58",
       "shortName": "$561.58",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_460",
+      "code": "BO_370",
       "name": "$555.72",
       "shortName": "$555.72",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_461",
+      "code": "BO_371",
       "name": "$535.35",
       "shortName": "$535.35",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_462",
+      "code": "BO_372",
       "name": "$493.18",
       "shortName": "$493.18",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_463",
+      "code": "BO_373",
       "name": "$447.72",
       "shortName": "$447.72",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_464",
+      "code": "BO_374",
       "name": "$409.88",
       "shortName": "$409.88",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BO_465",
+      "code": "BO_375",
       "name": "$394.76",
       "shortName": "$394.76",
       "type": "bank",

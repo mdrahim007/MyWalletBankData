@@ -4,35 +4,35 @@
   "country": "AW",
   "institutions": [
     {
-      "code": "CENBAW",
+      "code": "AW_0",
       "name": "Central Bank of AW",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAW",
+      "code": "AW_1",
       "name": "National Bank of AW",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAW",
+      "code": "AW_2",
       "name": "State Bank of AW",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAW",
+      "code": "AW_3",
       "name": "Commercial Bank of AW",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAW",
+      "code": "AW_4",
       "name": "First AW Bank",
       "shortName": "First Bank",
       "type": "bank",

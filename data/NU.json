@@ -4,35 +4,35 @@
   "country": "NU",
   "institutions": [
     {
-      "code": "CENBNU",
+      "code": "NU_0",
       "name": "Central Bank of NU",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBNU",
+      "code": "NU_1",
       "name": "National Bank of NU",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABNU",
+      "code": "NU_2",
       "name": "State Bank of NU",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBNU",
+      "code": "NU_3",
       "name": "Commercial Bank of NU",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBNU",
+      "code": "NU_4",
       "name": "First NU Bank",
       "shortName": "First Bank",
       "type": "bank",

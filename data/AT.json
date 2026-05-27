@@ -75,8 +75,8 @@
     },
     {
       "code": "AT_10",
-      "name": "Alpen Privatbank AG",
-      "shortName": "Alpen Privatbank",
+      "name": "Walser Privatbank AG",
+      "shortName": "Walser Privatbank",
       "type": "bank",
       "aliases": ""
     },
@@ -138,785 +138,323 @@
     },
     {
       "code": "AT_19",
-      "name": "Hypo Tirol Bank AG&#160;&#91;de&#93;",
-      "shortName": "Hypo Tirol",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_20",
       "name": "Hypo-Bank Burgenland AG&#160;&#91;de&#93;",
       "shortName": "Hypo-Bank Burgenland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_21",
+      "code": "AT_20",
       "name": "Partner Bank AG, a private bank",
       "shortName": "Partner",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_22",
+      "code": "AT_21",
       "name": "Porsche Bank AG, subsidiary of Porsche",
       "shortName": "Porsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_23",
-      "name": "Walser Privatbank AG",
-      "shortName": "Walser Privatbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_24",
+      "code": "AT_22",
       "name": "Wiener Privatbank SE, a private bank",
       "shortName": "Wiener Privatbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_25",
+      "code": "AT_23",
       "name": "Bank Winter &amp; Co. AG, independent private bank",
       "shortName": "Bank Winter",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_26",
+      "code": "AT_24",
       "name": "Banco do Brasil AG, subsidiary of Banco do Brasil",
       "shortName": "Banco do",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_27",
+      "code": "AT_25",
       "name": "DenizBank AG, subsidiary of Emirates NBD via DenizBank",
       "shortName": "DenizBank AG,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_28",
+      "code": "AT_26",
       "name": "Austrian branch of LGT Bank AG",
       "shortName": "Austrian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_29",
+      "code": "AT_27",
       "name": "VakifBank International AG, subsidiary of VakıfBank",
       "shortName": "VakifBank International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_30",
+      "code": "AT_28",
       "name": "Wiener Stadtbank (1706-1811)",
       "shortName": "Wiener Stadtbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_31",
+      "code": "AT_29",
       "name": "Austro-Hungarian Bank (1816-1922)",
       "shortName": "Austro-Hungarian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_32",
+      "code": "AT_30",
       "name": "S. M. von Rothschild (1820-1935)",
       "shortName": "S. M.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_33",
+      "code": "AT_31",
       "name": "Weinviertler Sparkasse&#160;&#91;de&#93; (1824-2011)",
       "shortName": "Weinviertler Sparkasse&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_34",
+      "code": "AT_32",
       "name": "Niederösterreichische Escompte-Gesellschaft (1853-1934)",
       "shortName": "Niederösterreichische Escompte-Gesellschaft",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_35",
+      "code": "AT_33",
       "name": "Creditanstalt (1855-1997)",
       "shortName": "Creditanstalt (1855-1997)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_36",
+      "code": "AT_34",
       "name": "Ephrussi &amp; Co.&#160;&#91;de&#93; (1856-1938)",
       "shortName": "Ephrussi &amp;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_37",
+      "code": "AT_35",
       "name": "Sparkasse Hartberg-Vorau&#160;&#91;de&#93; (1858-2010)",
       "shortName": "Sparkasse Hartberg-Vorau&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_38",
+      "code": "AT_36",
       "name": "Allgemeine Bodencreditanstalt (1863-1929)",
       "shortName": "Allgemeine Bodencreditanstalt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_39",
+      "code": "AT_37",
       "name": "Anglo-Austrian Bank (1863-1933)",
       "shortName": "Anglo-Austrian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_40",
+      "code": "AT_38",
       "name": "Sparkasse Kremstal-Pyhrn&#160;&#91;de&#93; (1868-2013)",
       "shortName": "Sparkasse Kremstal-Pyhrn&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_41",
+      "code": "AT_39",
       "name": "Wiener Bankverein (1869-1934)",
       "shortName": "Wienerverein",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_42",
+      "code": "AT_40",
       "name": "Sparkasse Kirchschlag&#160;&#91;de&#93; (1872-2011)",
       "shortName": "Sparkasse Kirchschlag&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_43",
+      "code": "AT_41",
       "name": "Wiener Giro- und Cassen-Verein (1872-1946)",
       "shortName": "Wiener Giro-",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_44",
+      "code": "AT_42",
       "name": "Volksbank Bad Goisern&#160;&#91;de&#93; (1873-2017)",
       "shortName": "Volksbank Bad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_45",
+      "code": "AT_43",
       "name": "Länderbank (1880-1991)",
       "shortName": "Länderbank (1880-1991)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_46",
+      "code": "AT_44",
       "name": "Österreichische Postsparkasse (1882-2005)",
       "shortName": "Österreichische Postsparkasse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_47",
+      "code": "AT_45",
       "name": "Hypo Alpe Adria Bank (1896-2014)",
       "shortName": "Hypo Alpe",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_48",
+      "code": "AT_46",
       "name": "Zentralsparkasse (1905-1991)",
       "shortName": "Zentralsparkasse (1905-1991)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_49",
+      "code": "AT_47",
       "name": "Deutsche Bodenbank&#160;&#91;de&#93; (1918-1924)",
       "shortName": "Deutsche Bodenbank&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_50",
+      "code": "AT_48",
       "name": "BAWAG (1922-2005)",
       "shortName": "BAWAG (1922-2005)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_51",
+      "code": "AT_49",
       "name": "Bankhaus Krentschker &amp; Co (1923-2020)",
       "shortName": "Bankhaus Krentschker",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_52",
+      "code": "AT_50",
       "name": "Raiffeisen Zentralbank (1927-2017)",
       "shortName": "Raiffeisen Zentralbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_53",
+      "code": "AT_51",
       "name": "Landes-Hypothekenbank Steiermark (1930-2021)",
       "shortName": "Landes-Hypothekenbank Steiermark",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_54",
+      "code": "AT_52",
       "name": "Allgemeine Wirtschaftsbank&#160;&#91;de&#93; (1958-1974)",
       "shortName": "Allgemeine Wirtschaftsbank&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_55",
+      "code": "AT_53",
       "name": "Donau Bank (1974-2018)",
       "shortName": "Donau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_56",
+      "code": "AT_54",
       "name": "Golden Star Bank (1982-2004)",
       "shortName": "Golden Star",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_57",
+      "code": "AT_55",
       "name": "Semper Constantia Privatbank&#160;&#91;de&#93; (1986-2017)",
       "shortName": "Semper Constantia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_58",
+      "code": "AT_56",
       "name": "Stadtsparkasse Traiskirchen&#160;&#91;de&#93; (1991-2011)",
       "shortName": "Stadtsparkasse Traiskirchen&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_59",
+      "code": "AT_57",
       "name": "Bank Medici (1994-2009)",
       "shortName": "Bank Medici",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_60",
+      "code": "AT_58",
       "name": "Commerzialbank Mattersburg&#160;&#91;de&#93; (1995-2020)",
       "shortName": "Commerzialbank Mattersburg&#160;&#91;de&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_61",
+      "code": "AT_59",
       "name": "ZUNO Bank AG (2010-2017)",
       "shortName": "ZUNO",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_62",
-      "name": "Sberbank Europe Group (2012-2022)",
-      "shortName": "Sberbank Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_63",
+      "code": "AT_60",
       "name": "Banking in Austria",
       "shortName": "Banking in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_64",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_65",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_66",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_67",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_68",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_69",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_70",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_71",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_72",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_73",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_74",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_75",
+      "code": "AT_61",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_76",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_77",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_78",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_79",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_80",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_81",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_82",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_83",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_84",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_85",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_86",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_87",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_88",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_89",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_90",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_91",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_92",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_93",
+      "code": "AT_62",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_94",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_95",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_96",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_97",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_98",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_99",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_100",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_101",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_102",
+      "code": "AT_63",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_103",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_104",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_105",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_106",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_107",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_108",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_109",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_110",
+      "code": "AT_64",
       "name": "Turkey",
       "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_111",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_112",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_113",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_114",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_115",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_116",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_117",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_118",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_119",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_120",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_121",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_122",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_123",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_124",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_125",
-      "name": "Banks of Austria",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_126",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_127",
-      "name": "Lists of companies of Austria by industry",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_128",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_129",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_130",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

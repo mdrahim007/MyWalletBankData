@@ -341,1588 +341,1000 @@
     },
     {
       "code": "TH_48",
-      "name": "First Commercial Bank (Taiwan)",
-      "shortName": "First Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_49",
       "name": "German Investment Corporation (DEG)",
       "shortName": "German Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_50",
+      "code": "TH_49",
       "name": "Hachijuni Bank",
       "shortName": "Hachijuni",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_51",
+      "code": "TH_50",
       "name": "ICICI Bank",
       "shortName": "ICICI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_52",
+      "code": "TH_51",
       "name": "ICBC",
       "shortName": "ICBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_53",
+      "code": "TH_52",
       "name": "ING Bank",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_54",
+      "code": "TH_53",
       "name": "Intesa Sanpaolo",
       "shortName": "Intesa Sanpaolo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_55",
+      "code": "TH_54",
       "name": "Japan Bank for International Cooperation",
       "shortName": "Japan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_56",
+      "code": "TH_55",
       "name": "Merrill",
       "shortName": "Merrill",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_57",
+      "code": "TH_56",
       "name": "Mega ICBC (Taiwan)",
       "shortName": "Mega ICBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_58",
+      "code": "TH_57",
       "name": "Natexis Banques Populaires",
       "shortName": "Natexis Banques",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_59",
+      "code": "TH_58",
       "name": "Rabobank",
       "shortName": "Rabobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_60",
+      "code": "TH_59",
       "name": "Resona Bank",
       "shortName": "Resona",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_61",
+      "code": "TH_60",
       "name": "Sanpaolo IMI",
       "shortName": "Sanpaolo IMI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_62",
+      "code": "TH_61",
       "name": "UBS",
       "shortName": "UBS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_63",
+      "code": "TH_62",
       "name": "Wells Fargo",
       "shortName": "Wells Fargo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_64",
+      "code": "TH_63",
       "name": "Westdeutsche Landesbank Girozentrale",
       "shortName": "Westdeutsche Landesbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_65",
+      "code": "TH_64",
       "name": "Westpac",
       "shortName": "Westpac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_66",
+      "code": "TH_65",
       "name": "World Bank Thailand",
       "shortName": "World",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_67",
+      "code": "TH_66",
       "name": "Yamaguchi Bank",
       "shortName": "Yamaguchi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_68",
-      "name": "Prehistory",
-      "shortName": "Prehistory",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_69",
+      "code": "TH_67",
       "name": "Peopling",
       "shortName": "Peopling",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_70",
-      "name": "Tai peoples",
-      "shortName": "Tai peoples",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_71",
-      "name": "Early history",
-      "shortName": "Early history",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_72",
+      "code": "TH_68",
       "name": "Initial states",
       "shortName": "Initial states",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_73",
+      "code": "TH_69",
       "name": "Sukhothai Kingdom",
       "shortName": "Sukhothai Kingdom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_74",
+      "code": "TH_70",
       "name": "Ayutthaya Kingdom",
       "shortName": "Ayutthaya Kingdom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_75",
+      "code": "TH_71",
       "name": "Thonburi Kingdom",
       "shortName": "Thonburi Kingdom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_76",
+      "code": "TH_72",
       "name": "Rattanakosin era",
       "shortName": "Rattanakosin era",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_77",
+      "code": "TH_73",
       "name": "Siamese Revolution",
       "shortName": "Siamese Revolution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_78",
+      "code": "TH_74",
       "name": "1932–1973",
       "shortName": "1932–1973",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_79",
+      "code": "TH_75",
       "name": "1973–2001",
       "shortName": "1973–2001",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_80",
+      "code": "TH_76",
       "name": "since 2001",
       "shortName": "since 2001",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_81",
+      "code": "TH_77",
       "name": "Archaeology",
       "shortName": "Archaeology",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_82",
+      "code": "TH_78",
       "name": "Economic",
       "shortName": "Economic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_83",
+      "code": "TH_79",
       "name": "Education",
       "shortName": "Education",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_84",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_85",
+      "code": "TH_80",
       "name": "Addresses",
       "shortName": "Addresses",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_86",
+      "code": "TH_81",
       "name": "Borders",
       "shortName": "Borders",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_87",
+      "code": "TH_82",
       "name": "Municipalities",
       "shortName": "Municipalities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_88",
+      "code": "TH_83",
       "name": "Climate",
       "shortName": "Climate",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_89",
+      "code": "TH_84",
       "name": "Earthquakes",
       "shortName": "Earthquakes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_90",
+      "code": "TH_85",
       "name": "Ecoregions",
       "shortName": "Ecoregions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_91",
+      "code": "TH_86",
       "name": "Floods in Thailand",
       "shortName": "Floods in",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_92",
-      "name": "Environmental issues",
-      "shortName": "Environmental issues",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_93",
+      "code": "TH_87",
       "name": "Islands",
       "shortName": "Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_94",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_95",
+      "code": "TH_88",
       "name": "Protected areas",
       "shortName": "Protected areas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_96",
+      "code": "TH_89",
       "name": "Provinces",
       "shortName": "Provinces",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_97",
+      "code": "TH_90",
       "name": "Regions",
       "shortName": "Regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_98",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_99",
+      "code": "TH_91",
       "name": "Volcanoes",
       "shortName": "Volcanoes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_100",
-      "name": "Wildlife",
-      "shortName": "Wildlife",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_101",
+      "code": "TH_92",
       "name": "World Heritage Sites",
       "shortName": "World Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_102",
+      "code": "TH_93",
       "name": "Administrative divisions",
       "shortName": "Administrative divisions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_103",
+      "code": "TH_94",
       "name": "Cabinet",
       "shortName": "Cabinet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_104",
+      "code": "TH_95",
       "name": "Censorship",
       "shortName": "Censorship",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_105",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_106",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_107",
+      "code": "TH_96",
       "name": "Government",
       "shortName": "Government",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_108",
+      "code": "TH_97",
       "name": "Slavery",
       "shortName": "Slavery",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_109",
+      "code": "TH_98",
       "name": "Intelligence agencies",
       "shortName": "Intelligence agencies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_110",
+      "code": "TH_99",
       "name": "Judiciary",
       "shortName": "Judiciary",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_111",
+      "code": "TH_100",
       "name": "Law",
       "shortName": "Law",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_112",
+      "code": "TH_101",
       "name": "Localism",
       "shortName": "Localism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_113",
+      "code": "TH_102",
       "name": "Ministries",
       "shortName": "Ministries",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_114",
+      "code": "TH_103",
       "name": "Navy",
       "shortName": "Navy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_115",
+      "code": "TH_104",
       "name": "Air Force",
       "shortName": "Air Force",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_116",
+      "code": "TH_105",
       "name": "Monarchy",
       "shortName": "Monarchy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_117",
+      "code": "TH_106",
       "name": "Senate",
       "shortName": "Senate",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_118",
+      "code": "TH_107",
       "name": "Police",
       "shortName": "Police",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_119",
+      "code": "TH_108",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_120",
+      "code": "TH_109",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_121",
+      "code": "TH_110",
       "name": "Baht (currency)",
       "shortName": "Baht (currency)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_122",
+      "code": "TH_111",
       "name": "Car industry",
       "shortName": "Car industry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_123",
+      "code": "TH_112",
       "name": "Renewable",
       "shortName": "Renewable",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_124",
+      "code": "TH_113",
       "name": "Manufacturing",
       "shortName": "Manufacturing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_125",
+      "code": "TH_114",
       "name": "CWEC",
       "shortName": "CWEC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_126",
-      "name": "NEC",
-      "shortName": "NEC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_127",
+      "code": "TH_115",
       "name": "NEEC",
       "shortName": "NEEC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_128",
+      "code": "TH_116",
       "name": "SEC",
       "shortName": "SEC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_129",
+      "code": "TH_117",
       "name": "Measurement",
       "shortName": "Measurement",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_130",
+      "code": "TH_118",
       "name": "Traditional medicine",
       "shortName": "Traditional medicine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_131",
+      "code": "TH_119",
       "name": "Stock Exchange",
       "shortName": "Stock Exchange",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_132",
+      "code": "TH_120",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_133",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_134",
+      "code": "TH_121",
       "name": "Controlled-access highways",
       "shortName": "Controlled-access highways",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_135",
+      "code": "TH_122",
       "name": "Railways",
       "shortName": "Railways",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_136",
+      "code": "TH_123",
       "name": "Abortion",
       "shortName": "Abortion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_137",
+      "code": "TH_124",
       "name": "Lèse-majesté",
       "shortName": "Lèse-majesté",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_138",
+      "code": "TH_125",
       "name": "Prostitution",
       "shortName": "Prostitution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_139",
+      "code": "TH_126",
       "name": "Sex trafficking",
       "shortName": "Sex trafficking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_140",
+      "code": "TH_127",
       "name": "Ethnic groups",
       "shortName": "Ethnic groups",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_141",
+      "code": "TH_128",
       "name": "Feminism",
       "shortName": "Feminism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_142",
+      "code": "TH_129",
       "name": "Gambling",
       "shortName": "Gambling",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_143",
+      "code": "TH_130",
       "name": "COVID-19",
       "shortName": "COVID-19",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_144",
+      "code": "TH_131",
       "name": "Language",
       "shortName": "Language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_145",
+      "code": "TH_132",
       "name": "Racism",
       "shortName": "Racism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_146",
+      "code": "TH_133",
       "name": "Religion",
       "shortName": "Religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_147",
+      "code": "TH_134",
       "name": "Squatting",
       "shortName": "Squatting",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_148",
+      "code": "TH_135",
       "name": "Waste management",
       "shortName": "Waste management",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_149",
+      "code": "TH_136",
       "name": "Water supply and sanitation",
       "shortName": "Water supply",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_150",
+      "code": "TH_137",
       "name": "Women",
       "shortName": "Women",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_151",
+      "code": "TH_138",
       "name": "Animation",
       "shortName": "Animation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_152",
+      "code": "TH_139",
       "name": "Architecture",
       "shortName": "Architecture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_153",
+      "code": "TH_140",
       "name": "Barami",
       "shortName": "Barami",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_154",
+      "code": "TH_141",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_155",
+      "code": "TH_142",
       "name": "Clothing",
       "shortName": "Clothing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_156",
+      "code": "TH_143",
       "name": "Beer",
       "shortName": "Beer",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_157",
+      "code": "TH_144",
       "name": "Drama",
       "shortName": "Drama",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_158",
+      "code": "TH_145",
       "name": "Etiquette",
       "shortName": "Etiquette",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_159",
+      "code": "TH_146",
       "name": "Festivals",
       "shortName": "Festivals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_160",
+      "code": "TH_147",
       "name": "Folklore",
       "shortName": "Folklore",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_161",
+      "code": "TH_148",
       "name": "Names",
       "shortName": "Names",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_162",
+      "code": "TH_149",
       "name": "Marriage",
       "shortName": "Marriage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_163",
-      "name": "Martial arts",
-      "shortName": "Martial arts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_164",
+      "code": "TH_150",
       "name": "Mass media",
       "shortName": "Mass media",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_165",
-      "name": "Performing arts",
-      "shortName": "Performing arts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_166",
+      "code": "TH_151",
       "name": "Public holidays",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_167",
-      "name": "Sports",
-      "shortName": "Sports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_168",
+      "code": "TH_152",
       "name": "Bird",
       "shortName": "Bird",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_169",
+      "code": "TH_153",
       "name": "Mythological creature",
       "shortName": "Mythological creature",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_170",
+      "code": "TH_154",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_171",
+      "code": "TH_155",
       "name": "Deity",
       "shortName": "Deity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_172",
+      "code": "TH_156",
       "name": "Emblem",
       "shortName": "Emblem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_173",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_174",
+      "code": "TH_157",
       "name": "Flower",
       "shortName": "Flower",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_175",
+      "code": "TH_158",
       "name": "Solar calendar",
       "shortName": "Solar calendar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_176",
+      "code": "TH_159",
       "name": "Traditional games",
       "shortName": "Traditional games",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_177",
+      "code": "TH_160",
       "name": "Video games",
       "shortName": "Video games",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_178",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_179",
-      "name": "Index",
-      "shortName": "Index",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_180",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_181",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_182",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_183",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_184",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_185",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_186",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_187",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_188",
+      "code": "TH_161",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_189",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_190",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_191",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_192",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_193",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_194",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_195",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_196",
+      "code": "TH_162",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_197",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_198",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_199",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_200",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_201",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_202",
+      "code": "TH_163",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_203",
+      "code": "TH_164",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_204",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_205",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_206",
+      "code": "TH_165",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_207",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_208",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_209",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_210",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_211",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_212",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_213",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_214",
+      "code": "TH_166",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_215",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_216",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_217",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_218",
+      "code": "TH_167",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_219",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_220",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_221",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_222",
+      "code": "TH_168",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_223",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_224",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_225",
+      "code": "TH_169",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_226",
+      "code": "TH_170",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_227",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_228",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_229",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_230",
+      "code": "TH_171",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_231",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_232",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_233",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_234",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_235",
+      "code": "TH_172",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_236",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_237",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_238",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_239",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_240",
+      "code": "TH_173",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_241",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_242",
-      "name": "Banks of Thailand",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_243",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_244",
-      "name": "Lists of companies of Thailand",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_245",
-      "name": "Lists of banks in Southeast Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_246",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_247",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_248",
+      "code": "TH_174",
       "name": "Use dmy dates from September 2021",
       "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_249",
-      "name": "Articles lacking in-text citations from December 2015",
-      "shortName": "Articles lacking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_250",
-      "name": "All articles lacking in-text citations",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_251",
-      "name": "Articles with multiple maintenance issues",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_252",
+      "code": "TH_175",
       "name": "Incomplete lists from December 2016",
       "shortName": "Incomplete lists",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_253",
-      "name": "All articles with unsourced statements",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_254",
-      "name": "Articles with unsourced statements from January 2016",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_255",
+      "code": "TH_176",
       "name": "1",
       "shortName": "1",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_256",
+      "code": "TH_177",
       "name": "MUFG Bank (Japan)",
       "shortName": "MUFG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_257",
+      "code": "TH_178",
       "name": "US$7.3 billion",
       "shortName": "US$7.3 billion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_258",
+      "code": "TH_179",
       "name": "2",
       "shortName": "2",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_259",
+      "code": "TH_180",
       "name": "Citibank (US)",
       "shortName": "Citibank (US)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_260",
-      "name": "US$5.7 billion",
-      "shortName": "US$5.7 billion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_261",
+      "code": "TH_181",
       "name": "3",
       "shortName": "3",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_262",
+      "code": "TH_182",
       "name": "SMBC (Japan)",
       "shortName": "SMBC (Japan)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_263",
-      "name": "US$5.6 billion",
-      "shortName": "US$5.6 billion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_264",
+      "code": "TH_183",
       "name": "4",
       "shortName": "4",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_265",
+      "code": "TH_184",
       "name": "Mizuho (Japan)",
       "shortName": "Mizuho (Japan)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_266",
-      "name": "US$4.4 billion",
-      "shortName": "US$4.4 billion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_267",
+      "code": "TH_185",
       "name": "5",
       "shortName": "5",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_268",
+      "code": "TH_186",
       "name": "HSBC",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_269",
-      "name": "US$3.7 billion",
-      "shortName": "US$3.7 billion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_270",
+      "code": "TH_187",
       "name": "6",
       "shortName": "6",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_271",
+      "code": "TH_188",
       "name": "Others",
       "shortName": "Others",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_272",
-      "name": "US$3.8 billion",
-      "shortName": "US$3.8 billion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TH_273",
+      "code": "TH_189",
       "name": "Total",
       "shortName": "Total",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TH_274",
+      "code": "TH_190",
       "name": "US$36.1 billion",
       "shortName": "US$36.1 billion",
       "type": "bank",

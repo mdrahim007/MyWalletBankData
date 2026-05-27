@@ -4,35 +4,35 @@
   "country": "HT",
   "institutions": [
     {
-      "code": "CENBHT",
+      "code": "HT_0",
       "name": "Central Bank of HT",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBHT",
+      "code": "HT_1",
       "name": "National Bank of HT",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABHT",
+      "code": "HT_2",
       "name": "State Bank of HT",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBHT",
+      "code": "HT_3",
       "name": "Commercial Bank of HT",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBHT",
+      "code": "HT_4",
       "name": "First HT Bank",
       "shortName": "First Bank",
       "type": "bank",

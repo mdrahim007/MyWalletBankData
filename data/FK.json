@@ -4,35 +4,35 @@
   "country": "FK",
   "institutions": [
     {
-      "code": "CENBFK",
+      "code": "FK_0",
       "name": "Central Bank of FK",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBFK",
+      "code": "FK_1",
       "name": "National Bank of FK",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABFK",
+      "code": "FK_2",
       "name": "State Bank of FK",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBFK",
+      "code": "FK_3",
       "name": "Commercial Bank of FK",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBFK",
+      "code": "FK_4",
       "name": "First FK Bank",
       "shortName": "First Bank",
       "type": "bank",

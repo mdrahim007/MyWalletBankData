@@ -4,35 +4,35 @@
   "country": "TV",
   "institutions": [
     {
-      "code": "CENBTV",
+      "code": "TV_0",
       "name": "Central Bank of TV",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTV",
+      "code": "TV_1",
       "name": "National Bank of TV",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTV",
+      "code": "TV_2",
       "name": "State Bank of TV",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTV",
+      "code": "TV_3",
       "name": "Commercial Bank of TV",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTV",
+      "code": "TV_4",
       "name": "First TV Bank",
       "shortName": "First Bank",
       "type": "bank",

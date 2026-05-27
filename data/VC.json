@@ -4,35 +4,35 @@
   "country": "VC",
   "institutions": [
     {
-      "code": "CENBVC",
+      "code": "VC_0",
       "name": "Central Bank of VC",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBVC",
+      "code": "VC_1",
       "name": "National Bank of VC",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABVC",
+      "code": "VC_2",
       "name": "State Bank of VC",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBVC",
+      "code": "VC_3",
       "name": "Commercial Bank of VC",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBVC",
+      "code": "VC_4",
       "name": "First VC Bank",
       "shortName": "First Bank",
       "type": "bank",

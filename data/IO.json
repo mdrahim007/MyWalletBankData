@@ -4,35 +4,35 @@
   "country": "IO",
   "institutions": [
     {
-      "code": "CENBIO",
+      "code": "IO_0",
       "name": "Central Bank of IO",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBIO",
+      "code": "IO_1",
       "name": "National Bank of IO",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABIO",
+      "code": "IO_2",
       "name": "State Bank of IO",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBIO",
+      "code": "IO_3",
       "name": "Commercial Bank of IO",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBIO",
+      "code": "IO_4",
       "name": "First IO Bank",
       "shortName": "First Bank",
       "type": "bank",

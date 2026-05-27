@@ -12,909 +12,503 @@
     },
     {
       "code": "QA_1",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_2",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_3",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_4",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_5",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_6",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_7",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_8",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_9",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_10",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_11",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_12",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_13",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_14",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_15",
+      "code": "QA_2",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_16",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_17",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_18",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_19",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_20",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_21",
+      "code": "QA_3",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_22",
+      "code": "QA_4",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_23",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_24",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_25",
+      "code": "QA_5",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_26",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_27",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_28",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_29",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_30",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_31",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_32",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_33",
+      "code": "QA_6",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_34",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_35",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_36",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_37",
+      "code": "QA_7",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_38",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_39",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_40",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_41",
+      "code": "QA_8",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_42",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_43",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_44",
+      "code": "QA_9",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_45",
+      "code": "QA_10",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_46",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_47",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_48",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_49",
+      "code": "QA_11",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_50",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_51",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_52",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_53",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_54",
+      "code": "QA_12",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_55",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_56",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_57",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_58",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_59",
+      "code": "QA_13",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_60",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_61",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_62",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_63",
-      "name": "Lists of companies of Qatar",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_64",
-      "name": "Banks of Qatar",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_65",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_66",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_67",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_68",
+      "code": "QA_14",
       "name": "Qatar National Bank",
       "shortName": "Qatar National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_69",
+      "code": "QA_15",
       "name": "QNB",
       "shortName": "QNB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_70",
+      "code": "QA_16",
       "name": "6 June 1964&#91;2&#93;",
       "shortName": "6 June",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_71",
+      "code": "QA_17",
       "name": "qnb.com/qnbqatar",
       "shortName": "qnb.com/qnbqatar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_72",
+      "code": "QA_18",
       "name": "Doha Bank",
       "shortName": "Doha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_73",
+      "code": "QA_19",
       "name": "15 March 1979&#91;3&#93;",
       "shortName": "15 March",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_74",
+      "code": "QA_20",
       "name": "qa.dohabank.com",
       "shortName": "qa.dohabank.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_75",
+      "code": "QA_21",
       "name": "Commercial Bank of Qatar",
       "shortName": "Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_76",
+      "code": "QA_22",
       "name": "CBQ",
       "shortName": "CBQ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_77",
+      "code": "QA_23",
       "name": "10 April 1975&#91;4&#93;",
       "shortName": "10 April",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_78",
+      "code": "QA_24",
       "name": "cbq.qa",
       "shortName": "cbq.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_79",
+      "code": "QA_25",
       "name": "Qatar International Islamic Bank",
       "shortName": "Qatar International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_80",
+      "code": "QA_26",
       "name": "QIIB",
       "shortName": "QIIB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_81",
+      "code": "QA_27",
       "name": "1991&#91;5&#93;",
       "shortName": "1991&#91;5&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_82",
+      "code": "QA_28",
       "name": "qiib.com.qa",
       "shortName": "qiib.com.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_83",
+      "code": "QA_29",
       "name": "Qatar Islamic Bank",
       "shortName": "Qatar Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_84",
-      "name": "QIB",
-      "shortName": "QIB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_85",
+      "code": "QA_30",
       "name": "1982",
       "shortName": "1982",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_86",
-      "name": "qib.com.qa",
-      "shortName": "qib.com.qa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_87",
+      "code": "QA_31",
       "name": "Qatar Development Bank",
       "shortName": "Qatar Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_88",
+      "code": "QA_32",
       "name": "QDB",
       "shortName": "QDB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_89",
+      "code": "QA_33",
       "name": "1997",
       "shortName": "1997",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_90",
+      "code": "QA_34",
       "name": "qdb.qa",
       "shortName": "qdb.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_91",
+      "code": "QA_35",
       "name": "Ahlibank",
       "shortName": "Ahlibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_92",
+      "code": "QA_36",
       "name": "1983",
       "shortName": "1983",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_93",
+      "code": "QA_37",
       "name": "ahlibank.com.qa",
       "shortName": "ahlibank.com.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_94",
+      "code": "QA_38",
       "name": "Masraf Al Rayan",
       "shortName": "Masraf Al",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_95",
+      "code": "QA_39",
       "name": "MAR",
       "shortName": "MAR",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_96",
+      "code": "QA_40",
       "name": "January 2006&#91;6&#93;",
       "shortName": "January 2006&#91;6&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_97",
+      "code": "QA_41",
       "name": "alrayan.com",
       "shortName": "alrayan.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_98",
+      "code": "QA_42",
       "name": "Dukhan Bank1",
       "shortName": "Dukhan1",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_99",
+      "code": "QA_43",
       "name": "8 October 2020",
       "shortName": "8 October",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_100",
+      "code": "QA_44",
       "name": "dukhanbank.com",
       "shortName": "dukhanbank.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_101",
+      "code": "QA_45",
       "name": "Arab Bank Qatar",
       "shortName": "Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_102",
+      "code": "QA_46",
       "name": "1957&#91;8&#93;",
       "shortName": "1957&#91;8&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_103",
+      "code": "QA_47",
       "name": "Arab Bank",
       "shortName": "Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_104",
+      "code": "QA_48",
       "name": "arabbank.com.qa",
       "shortName": "arabbank.com.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_105",
+      "code": "QA_49",
       "name": "Mashreq Bank Qatar",
       "shortName": "Mashreq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_106",
+      "code": "QA_50",
       "name": "1971",
       "shortName": "1971",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_107",
+      "code": "QA_51",
       "name": "Mashreq",
       "shortName": "Mashreq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_108",
+      "code": "QA_52",
       "name": "mashreqbank.com/qatar",
       "shortName": "mashreqbank.com/qatar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_109",
+      "code": "QA_53",
       "name": "HSBC Bank Middle East",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_110",
+      "code": "QA_54",
       "name": "HSBC",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_111",
-      "name": "1954&#91;9&#93;",
-      "shortName": "1954&#91;9&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_112",
+      "code": "QA_55",
       "name": "hsbc.com.qa",
       "shortName": "hsbc.com.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_113",
+      "code": "QA_56",
       "name": "BNP Paribas Middle East Africa",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_114",
+      "code": "QA_57",
       "name": "1973&#91;10&#93;",
       "shortName": "1973&#91;10&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_115",
+      "code": "QA_58",
       "name": "BNP Paribas",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_116",
+      "code": "QA_59",
       "name": "mea.bnpparibas.com",
       "shortName": "mea.bnpparibas.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_117",
+      "code": "QA_60",
       "name": "Bank Saderat Iran - Qatar",
       "shortName": "Bank Saderat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_118",
+      "code": "QA_61",
       "name": "BSI",
       "shortName": "BSI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_119",
+      "code": "QA_62",
       "name": "1970",
       "shortName": "1970",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_120",
+      "code": "QA_63",
       "name": "Bank Saderat Iran",
       "shortName": "Bank Saderat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_121",
+      "code": "QA_64",
       "name": "bsi.com.qa",
       "shortName": "bsi.com.qa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_122",
+      "code": "QA_65",
       "name": "United Bank Limited - Qatar",
       "shortName": "United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_123",
+      "code": "QA_66",
       "name": "UBL",
       "shortName": "UBL",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_124",
+      "code": "QA_67",
       "name": "United Bank Limited",
       "shortName": "United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_125",
+      "code": "QA_68",
       "name": "ubldirect.com",
       "shortName": "ubldirect.com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_126",
+      "code": "QA_69",
       "name": "Standard Chartered Qatar",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_127",
+      "code": "QA_70",
       "name": "SC",
       "shortName": "SC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_128",
+      "code": "QA_71",
       "name": "1950&#91;11&#93;",
       "shortName": "1950&#91;11&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "QA_129",
-      "name": "Standard Chartered",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "QA_130",
+      "code": "QA_72",
       "name": "sc.com/qa",
       "shortName": "sc.com/qa",
       "type": "bank",

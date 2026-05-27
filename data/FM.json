@@ -4,35 +4,35 @@
   "country": "FM",
   "institutions": [
     {
-      "code": "CENBFM",
+      "code": "FM_0",
       "name": "Central Bank of FM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBFM",
+      "code": "FM_1",
       "name": "National Bank of FM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABFM",
+      "code": "FM_2",
       "name": "State Bank of FM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBFM",
+      "code": "FM_3",
       "name": "Commercial Bank of FM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBFM",
+      "code": "FM_4",
       "name": "First FM Bank",
       "shortName": "First Bank",
       "type": "bank",

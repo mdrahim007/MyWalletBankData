@@ -4,35 +4,35 @@
   "country": "KY",
   "institutions": [
     {
-      "code": "CENBKY",
+      "code": "KY_0",
       "name": "Central Bank of KY",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBKY",
+      "code": "KY_1",
       "name": "National Bank of KY",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABKY",
+      "code": "KY_2",
       "name": "State Bank of KY",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBKY",
+      "code": "KY_3",
       "name": "Commercial Bank of KY",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBKY",
+      "code": "KY_4",
       "name": "First KY Bank",
       "shortName": "First Bank",
       "type": "bank",

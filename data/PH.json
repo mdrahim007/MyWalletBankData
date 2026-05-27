@@ -159,2157 +159,1632 @@
     },
     {
       "code": "PH_22",
-      "name": "Maybank Philippines, Inc.",
-      "shortName": "Maybank Philippines,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_23",
       "name": "Mega International Commercial Bank Co. LTD",
       "shortName": "Mega International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_24",
+      "code": "PH_23",
       "name": "Metropolitan Bank and Trust Company (Metrobank)",
       "shortName": "Metropolitan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_25",
+      "code": "PH_24",
       "name": "Mizuho Bank, Ltd. Manila Branch",
       "shortName": "Mizuho,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_26",
+      "code": "PH_25",
       "name": "MUFG Bank, Ltd.",
       "shortName": "MUFG,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_27",
+      "code": "PH_26",
       "name": "Philippine Bank of Communications (PBCom)",
       "shortName": "Philippine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_28",
+      "code": "PH_27",
       "name": "Philippine National Bank (PNB)",
       "shortName": "Philippine National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_29",
+      "code": "PH_28",
       "name": "Philippine Trust Company (Philtrust Bank)",
       "shortName": "Philippine Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_30",
+      "code": "PH_29",
       "name": "Philippine Veterans Bank (Veterans Bank; PVB)",
       "shortName": "Philippine Veterans",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_31",
+      "code": "PH_30",
       "name": "Rizal Commercial Banking Corporation (RCBC)",
       "shortName": "Rizal Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_32",
+      "code": "PH_31",
       "name": "Security Bank Corporation (Security Bank)",
       "shortName": "Security",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_33",
+      "code": "PH_32",
       "name": "Shinhan Bank - Manila Branch",
       "shortName": "Shinhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_34",
+      "code": "PH_33",
       "name": "Sumitomo Mitsui Banking Corporation Manila Branch",
       "shortName": "Sumitomo Mitsui",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_35",
+      "code": "PH_34",
       "name": "Union Bank of the Philippines, Inc. (Unionbank)",
       "shortName": "Union",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_36",
+      "code": "PH_35",
       "name": "United Overseas Bank Limited Manila Branch",
       "shortName": "United Overseas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_37",
+      "code": "PH_36",
       "name": "1st Valley Bank (a development bank)",
       "shortName": "1st Valley",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_38",
+      "code": "PH_37",
       "name": "AllBank, Inc.",
       "shortName": "AllBank, Inc.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_39",
+      "code": "PH_38",
       "name": "Bank of Makati",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_40",
+      "code": "PH_39",
       "name": "Bank One Savings Corporation",
       "shortName": "Bank One",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_41",
+      "code": "PH_40",
       "name": "Bangko Kabayan, Inc. (a private development bank)",
       "shortName": "Bangko Kabayan,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_42",
+      "code": "PH_41",
       "name": "Bataan Development Bank",
       "shortName": "Bataan Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_43",
+      "code": "PH_42",
       "name": "BPI Direct BanKo, Inc. (a subsidiary of BPI)",
       "shortName": "BPI Direct",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_44",
+      "code": "PH_43",
       "name": "CARD SME Bank, Inc. (a thrift bank)",
       "shortName": "CARD SME",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_45",
+      "code": "PH_44",
       "name": "Century Savings Bank Corporation",
       "shortName": "Century Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_46",
+      "code": "PH_45",
       "name": "City Savings Bank (a subsidiary of Unionbank)",
       "shortName": "City Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_47",
+      "code": "PH_46",
       "name": "Citystate Savings Bank",
       "shortName": "Citystate Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_48",
+      "code": "PH_47",
       "name": "Cordillera Savings Bank, Inc.",
       "shortName": "Cordillera Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_49",
+      "code": "PH_48",
       "name": "Dumaguete City Development Bank, Inc.",
       "shortName": "Dumaguete City",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_50",
+      "code": "PH_49",
       "name": "Equicom Savings Bank (Equicom)",
       "shortName": "Equicom Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_51",
+      "code": "PH_50",
       "name": "First Consolidated Bank, Inc.",
       "shortName": "First Consolidated",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_52",
+      "code": "PH_51",
       "name": "Hiyas Banking Corporation",
       "shortName": "Hiyasing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_53",
+      "code": "PH_52",
       "name": "HSBC Savings Bank Philippines Inc.",
       "shortName": "HSBC Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_54",
+      "code": "PH_53",
       "name": "Isla Bank (a thrift bank)",
       "shortName": "Isla",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_55",
+      "code": "PH_54",
       "name": "Legazpi Savings Bank",
       "shortName": "Legazpi Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_56",
+      "code": "PH_55",
       "name": "Lemery Savings and Loan Bank, Inc.",
       "shortName": "Lemery Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_57",
+      "code": "PH_56",
       "name": "Life Savings Bank, Inc.",
       "shortName": "Life Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_58",
+      "code": "PH_57",
       "name": "LOLC Bank Philippines, Inc. (a thrift bank)",
       "shortName": "LOLC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_59",
+      "code": "PH_58",
       "name": "Luzon Development Bank",
       "shortName": "Luzon Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_60",
+      "code": "PH_59",
       "name": "Makiling Development Bank Corporation",
       "shortName": "Makiling Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_61",
+      "code": "PH_60",
       "name": "Malayan Savings Bank",
       "shortName": "Malayan Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_62",
+      "code": "PH_61",
       "name": "NorthPoint Development Bank, Inc.",
       "shortName": "NorthPoint Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_63",
+      "code": "PH_62",
       "name": "Overseas Filipino Bank (OFBank; a subsidiary of Landbank)",
       "shortName": "Overseas Filipino",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_64",
+      "code": "PH_63",
       "name": "Pampanga Development Bank",
       "shortName": "Pampanga Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_65",
+      "code": "PH_64",
       "name": "Pen Bank, Inc. (formerly Peninsula RB, Inc.)",
       "shortName": "Pen,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_66",
+      "code": "PH_65",
       "name": "Philippine Business Bank",
       "shortName": "Philippine Business",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_67",
+      "code": "PH_66",
       "name": "Philippine Star Development Bank, Inc.",
       "shortName": "Philippine Star",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_68",
+      "code": "PH_67",
       "name": "Producers Savings Bank Corporation (Producers Bank)",
       "shortName": "Producers Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_69",
+      "code": "PH_68",
       "name": "Queen City Development Bank",
       "shortName": "Queen City",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_70",
+      "code": "PH_69",
       "name": "Quezon Coconut Bank, Inc. (a thrift bank)",
       "shortName": "Quezon Coconut",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_71",
+      "code": "PH_70",
       "name": "Rizal Microbank, Inc. (a thrift bank of RCBC)",
       "shortName": "Rizal Microbank,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_72",
+      "code": "PH_71",
       "name": "Sterling Bank of Asia",
       "shortName": "Sterling",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_73",
+      "code": "PH_72",
       "name": "Sun Savings Bank, Inc.",
       "shortName": "Sun Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_74",
+      "code": "PH_73",
       "name": "UCPB Savings Bank (a subsidiary of UCPB)",
       "shortName": "UCPB Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_75",
+      "code": "PH_74",
       "name": "University Savings Bank, Inc.",
       "shortName": "University Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_76",
+      "code": "PH_75",
       "name": "Woori Bank (Wealth Development Bank Corporation)",
       "shortName": "Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_77",
+      "code": "PH_76",
       "name": "Yuanta Savings Bank Philippines, Inc.",
       "shortName": "Yuanta Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_78",
+      "code": "PH_77",
       "name": "Dungganon Bank, Inc",
       "shortName": "Dungganon,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_79",
+      "code": "PH_78",
       "name": "Agribusiness Rural Bank, Inc.",
       "shortName": "Agribusiness Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_80",
+      "code": "PH_79",
       "name": "Aliaga Farmers Rural Bank, Inc.",
       "shortName": "Aliaga Farmers",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_81",
+      "code": "PH_80",
       "name": "ARDCIBank, Inc. - A Rural Bank",
       "shortName": "ARDCIBank, Inc.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_82",
+      "code": "PH_81",
       "name": "ASPAC Rural Bank, Inc.",
       "shortName": "ASPAC Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_83",
+      "code": "PH_82",
       "name": "AuroraBank, a microfinance-oriented rural bank",
       "shortName": "AuroraBank, a",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_84",
+      "code": "PH_83",
       "name": "Balanga Rural Bank, Inc.",
       "shortName": "Balanga Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_85",
+      "code": "PH_84",
       "name": "Banco Mabuhay (a rural bank)",
       "shortName": "Banco Mabuhay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_86",
+      "code": "PH_85",
       "name": "Banco Santiago de Libon, Inc. \"A Rural Bank\"",
       "shortName": "Banco Santiago",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_87",
+      "code": "PH_86",
       "name": "Bankways, Inc. (a rural bank)",
       "shortName": "Bankways, Inc.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_88",
+      "code": "PH_87",
       "name": "BHF Rural Bank, Inc.",
       "shortName": "BHF Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_89",
+      "code": "PH_88",
       "name": "BOF, Inc. (a rural bank)",
       "shortName": "BOF, Inc.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_90",
+      "code": "PH_89",
       "name": "Cagsawa Rural Bank, Inc.",
       "shortName": "Cagsawa Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_91",
-      "name": "Camalig Bank, Inc. (a rural bank)",
-      "shortName": "Camalig,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_92",
+      "code": "PH_90",
       "name": "Cantilan Bank, Inc. (a rural bank)",
       "shortName": "Cantilan,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_93",
+      "code": "PH_91",
       "name": "CARD Bank, Inc. (a microfinance rural bank)",
       "shortName": "CARD,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_94",
+      "code": "PH_92",
       "name": "Cebuana Lhuillier Rural Bank, Inc.",
       "shortName": "Cebuana Lhuillier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_95",
+      "code": "PH_93",
       "name": "Common Wealth Rural Bank, Inc.",
       "shortName": "Common Wealth",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_96",
+      "code": "PH_94",
       "name": "Community Rural Bank of Catmon (Cebu) Inc.",
       "shortName": "Community Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_97",
+      "code": "PH_95",
       "name": "Community Rural Bank of Dapitan City, Inc.",
       "shortName": "Community Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_98",
+      "code": "PH_96",
       "name": "Community Rural Bank of San Felipe (Zambales) Inc.",
       "shortName": "Community Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_99",
+      "code": "PH_97",
       "name": "Cooperative Bank of Bohol",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_100",
+      "code": "PH_98",
       "name": "Cooperative Bank of Cotabato",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_101",
+      "code": "PH_99",
       "name": "Cooperative Bank of Nueva Vizcaya",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_102",
+      "code": "PH_100",
       "name": "Cooperative Bank of Quezon Province",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_103",
-      "name": "Consolidated Cooperative Bank",
-      "shortName": "Consolidated Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_104",
-      "name": "D' Asian Hills Bank, Inc. (a rural bank)",
-      "shortName": "D' Asian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_105",
-      "name": "Dumaguete Rural Bank, Inc. (DRBI)",
-      "shortName": "Dumaguete Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_106",
-      "name": "Entrepreneur Rural Bank, Inc.",
-      "shortName": "Entrepreneur Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_107",
-      "name": "First Agro-Industrial Rural Bank, Inc. / FAIRBANK Inc.",
-      "shortName": "First Agro-Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_108",
-      "name": "First Isabela Cooperative Bank (FICO Bank)",
-      "shortName": "First Isabela",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_109",
-      "name": "First Tagum Rural Bank, Inc.",
-      "shortName": "First Tagum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_110",
-      "name": "GM Bank of Luzon, Inc. (a rural bank)",
-      "shortName": "GM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_111",
-      "name": "Guagua Rural Bank, Inc.",
-      "shortName": "Guagua Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_112",
-      "name": "Highland Rural Bank, Inc.",
-      "shortName": "Highland Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_113",
-      "name": "Imus Rural Bank, Inc.",
-      "shortName": "Imus Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_114",
-      "name": "Innovative Bank, Inc. (a rural bank)",
-      "shortName": "Innovative,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_115",
-      "name": "Insular Savers Bank, Inc. (a rural bank)",
-      "shortName": "Insular Savers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_116",
-      "name": "Katipunan Banking Corporation (a rural bank)",
-      "shortName": "Katipunaning",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_117",
-      "name": "Laguna Prestige Banking Corporation (a rural bank)",
-      "shortName": "Laguna Prestige",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_118",
-      "name": "Liberty Bank (a rural bank)",
-      "shortName": "Liberty",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_119",
-      "name": "LifeBank (a rural bank)",
-      "shortName": "LifeBank (a",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_120",
-      "name": "Mactan Rural Bank (Lapu-Lapu City) Inc.",
-      "shortName": "Mactan Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_121",
-      "name": "Malarayat Rural Bank, Inc.",
-      "shortName": "Malarayat Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_122",
-      "name": "Mallig Plains Rural Bank (ISA) Inc.",
-      "shortName": "Mallig Plains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_123",
-      "name": "Marayo Bank, Inc. (a rural bank)",
-      "shortName": "Marayo,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_124",
-      "name": "Metro South Cooperative Bank",
-      "shortName": "Metro South",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_125",
-      "name": "Mount Makiling Rural Bank, Inc.",
-      "shortName": "Mount Makiling",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_126",
-      "name": "MVSM Bank (a rural bank since 1953) Inc.",
-      "shortName": "MVSM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_127",
+      "code": "PH_101",
       "name": "Network Consolidated Cooperative Bank",
       "shortName": "Network Consolidated",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_128",
+      "code": "PH_102",
+      "name": "D' Asian Hills Bank, Inc. (a rural bank)",
+      "shortName": "D' Asian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_103",
+      "name": "Dumaguete Rural Bank, Inc. (DRBI)",
+      "shortName": "Dumaguete Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_104",
+      "name": "Entrepreneur Rural Bank, Inc.",
+      "shortName": "Entrepreneur Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_105",
+      "name": "First Agro-Industrial Rural Bank, Inc. / FAIRBANK Inc.",
+      "shortName": "First Agro-Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_106",
+      "name": "First Isabela Cooperative Bank (FICO Bank)",
+      "shortName": "First Isabela",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_107",
+      "name": "First Tagum Rural Bank, Inc.",
+      "shortName": "First Tagum",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_108",
+      "name": "GM Bank of Luzon, Inc. (a rural bank)",
+      "shortName": "GM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_109",
+      "name": "Highland Rural Bank, Inc.",
+      "shortName": "Highland Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_110",
+      "name": "Imus Rural Bank, Inc.",
+      "shortName": "Imus Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_111",
+      "name": "Innovative Bank, Inc. (a rural bank)",
+      "shortName": "Innovative,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_112",
+      "name": "Insular Savers Bank, Inc. (a rural bank)",
+      "shortName": "Insular Savers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_113",
+      "name": "Katipunan Banking Corporation (a rural bank)",
+      "shortName": "Katipunaning",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_114",
+      "name": "Laguna Prestige Banking Corporation (a rural bank)",
+      "shortName": "Laguna Prestige",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_115",
+      "name": "Liberty Bank (a rural bank)",
+      "shortName": "Liberty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_116",
+      "name": "Mactan Rural Bank (Lapu-Lapu City) Inc.",
+      "shortName": "Mactan Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_117",
+      "name": "Malarayat Rural Bank, Inc.",
+      "shortName": "Malarayat Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_118",
+      "name": "Mallig Plains Rural Bank (ISA) Inc.",
+      "shortName": "Mallig Plains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_119",
+      "name": "Marayo Bank, Inc. (a rural bank)",
+      "shortName": "Marayo,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_120",
+      "name": "Metro South Cooperative Bank",
+      "shortName": "Metro South",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_121",
+      "name": "Mount Makiling Rural Bank, Inc.",
+      "shortName": "Mount Makiling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_122",
+      "name": "MVSM Bank (a rural bank since 1953) Inc.",
+      "shortName": "MVSM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_123",
       "name": "New Rural Bank of San Leonardo (N.E.) Inc.",
       "shortName": "New Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_129",
+      "code": "PH_124",
       "name": "Opportunity Kauswagan Inc. (a microfinance rural bank)",
       "shortName": "Opportunity Kauswagan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_130",
+      "code": "PH_125",
       "name": "Own Bank, The Rural Bank of Cavite City",
       "shortName": "Own,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_131",
-      "name": "People’s Rural Bank (Gen. Santos City) Inc.",
-      "shortName": "People’s Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_132",
+      "code": "PH_126",
       "name": "PlanBank (Rural Bank of Canlubang Planters, Inc.)",
       "shortName": "PlanBank (Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_133",
+      "code": "PH_127",
       "name": "Quezon Capital Rural Bank, Inc.",
       "shortName": "Quezon Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_134",
-      "name": "Rang-ay Bank, Inc. (a rural bank)",
-      "shortName": "Rang-ay,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_135",
+      "code": "PH_128",
       "name": "RBG Imperial Bank, Inc. (a rural bank)",
       "shortName": "RBG Imperial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_136",
-      "name": "RBT Bank, Inc. (a rural bank)",
-      "shortName": "RBT,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_137",
+      "code": "PH_129",
       "name": "Rizal Bank (a microfinance rural bank)",
       "shortName": "Rizal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_138",
+      "code": "PH_130",
       "name": "Rural Bank of Bagabag (N.V.) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_139",
+      "code": "PH_131",
       "name": "Rural Bank of Bambang (Nueva Vizcaya) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_140",
+      "code": "PH_132",
       "name": "Rural Bank of Barili (Cebu) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_141",
-      "name": "Rural Bank of Bauang, Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_142",
+      "code": "PH_133",
       "name": "Rural Bank of Bayombong, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_143",
+      "code": "PH_134",
       "name": "Rural Bank of Calbayog City, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_144",
+      "code": "PH_135",
       "name": "Rural Bank of Cardona (Rizal) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_145",
+      "code": "PH_136",
       "name": "Rural Bank of Cauayan, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_146",
+      "code": "PH_137",
       "name": "Rural Bank of Central Pangasinan (Bayambang) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_147",
+      "code": "PH_138",
       "name": "Rural Bank of Cuenca Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_148",
-      "name": "Rural Bank of Digos, Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_149",
-      "name": "Rural Bank of Dolores (Quezon) Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_150",
+      "code": "PH_139",
       "name": "Rural Bank of Dumangas, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_151",
+      "code": "PH_140",
+      "name": "Rural Bank of Dolores (Quezon) Inc.",
+      "shortName": "Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_141",
       "name": "Rural Bank of Gattaran (Cagayan) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_152",
+      "code": "PH_142",
       "name": "Rural Bank of General Trias, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_153",
+      "code": "PH_143",
       "name": "Rural Bank of Guinobatan, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_154",
+      "code": "PH_144",
       "name": "Rural Bank of Itogon (Benguet) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_155",
-      "name": "Rural Bank of Jaen, Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_156",
+      "code": "PH_145",
       "name": "Rural Bank of Lebak (Sultan Kudarat) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_157",
+      "code": "PH_146",
       "name": "Rural Bank of Mabalacat, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_158",
+      "code": "PH_147",
       "name": "Rural Bank of Magdalena (Laguna) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_159",
+      "code": "PH_148",
       "name": "Rural Bank of Mangaldan",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_160",
+      "code": "PH_149",
       "name": "Rural Bank of Maragondon, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_161",
+      "code": "PH_150",
       "name": "Rural Bank of Maria Aurora (Aurora) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_162",
+      "code": "PH_151",
       "name": "Rural Bank of Mexico (Pampanga since 1962)",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_163",
+      "code": "PH_152",
       "name": "Rural Bank of Montalban, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_164",
+      "code": "PH_153",
       "name": "Rural Bank of Pandi (Bulacan) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_165",
+      "code": "PH_154",
       "name": "Rural Bank of Paracale (Camarines Norte) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_166",
+      "code": "PH_155",
       "name": "Rural Bank of Pilar (Bataan) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_167",
-      "name": "Rural Bank of Pilar (Sor) Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_168",
+      "code": "PH_156",
       "name": "Rural Bank of Pola (Oriental Mindoro)",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_169",
+      "code": "PH_157",
       "name": "Rural Bank of Rizal (Zamboanga del Norte) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_170",
+      "code": "PH_158",
       "name": "Rural Bank of Rosario (La Union) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_171",
+      "code": "PH_159",
       "name": "Rural Bank of San Antonio, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_172",
+      "code": "PH_160",
       "name": "Rural Bank of San Jacinto (Masbate), Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_173",
+      "code": "PH_161",
       "name": "Rural Bank of San Mateo (Isabela) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_174",
-      "name": "Rural Bank of San Narciso, Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_175",
+      "code": "PH_162",
       "name": "Rural Bank of San Pascual (Obando, Bulacan) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_176",
-      "name": "Rural Bank of Solano (Nueva Vizcaya) Inc.",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_177",
+      "code": "PH_163",
       "name": "Rural Bank of Sta. Ignacia, Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_178",
+      "code": "PH_164",
       "name": "Rural Bank of Tandag (Surigao Del Sur) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_179",
+      "code": "PH_165",
       "name": "Rural Bank of Tangub City (Misamis Occidental) Inc.",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_180",
+      "code": "PH_166",
       "name": "Rural Bank of Taal, Inc",
       "shortName": "Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_181",
+      "code": "PH_167",
       "name": "Saviour Rural Bank, Inc.",
       "shortName": "Saviour Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_182",
+      "code": "PH_168",
       "name": "Sta. Maria Rural Bank, Inc.",
       "shortName": "Sta. Maria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_183",
+      "code": "PH_169",
       "name": "Sugbuanon Rural Bank, Inc.",
       "shortName": "Sugbuanon Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_184",
+      "code": "PH_170",
       "name": "Summit Bank (rural bank of Tublay, Inc.)",
       "shortName": "Summit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_185",
-      "name": "Valiant Bank, Inc. (a rural bank)",
-      "shortName": "Valiant,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_186",
+      "code": "PH_171",
       "name": "Zamboanga del Norte Cooperative Bank",
       "shortName": "Zamboanga del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_187",
+      "code": "PH_172",
       "name": "Maya",
       "shortName": "Maya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_188",
+      "code": "PH_173",
       "name": "UnionDigital Bank",
       "shortName": "UnionDigital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_189",
+      "code": "PH_174",
       "name": "GoTyme Bank",
       "shortName": "GoTyme",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_190",
+      "code": "PH_175",
       "name": "Maribank",
       "shortName": "Maribank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_191",
+      "code": "PH_176",
       "name": "Tonik",
       "shortName": "Tonik",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_192",
-      "name": "UNO Digital Bank",
-      "shortName": "UNO Digital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_193",
+      "code": "PH_177",
       "name": "OFBank",
       "shortName": "OFBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_194",
+      "code": "PH_178",
       "name": "1st E Bank (Philippine Branches acquired by Banco de Oro)",
       "shortName": "1st E",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_195",
+      "code": "PH_179",
       "name": "Allied Bank (merged with Philippine National Bank)",
       "shortName": "Allied",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_196",
+      "code": "PH_180",
       "name": "AMA Rural Bank of Mandaluyong, Inc.",
       "shortName": "AMA Rural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_197",
+      "code": "PH_181",
       "name": "Banco Filipino",
       "shortName": "Banco Filipino",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_198",
+      "code": "PH_182",
       "name": "Bank of Cebu",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_199",
+      "code": "PH_183",
       "name": "BNP Paribas (acquired by RCBC)",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_200",
+      "code": "PH_184",
       "name": "ComSavings Bank",
       "shortName": "ComSavings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_201",
+      "code": "PH_185",
       "name": "Cooperative Bank of Aurora&#91;13&#93;",
       "shortName": "Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_202",
+      "code": "PH_186",
       "name": "Credito Italiano (acquired by Banco de Oro)",
       "shortName": "Credito Italiano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_203",
+      "code": "PH_187",
       "name": "Dao Heng Bank (acquired by Banco de Oro)",
       "shortName": "Dao Heng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_204",
+      "code": "PH_188",
       "name": "Ecology Bank (merged with Equitable PCI Bank)",
       "shortName": "Ecology",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_205",
+      "code": "PH_189",
       "name": "Export and Industry Bank",
       "shortName": "Export and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_206",
+      "code": "PH_190",
       "name": "GE Money Bank (acquired by Banco de Oro)",
       "shortName": "GE Money",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_207",
+      "code": "PH_191",
       "name": "Keppel Bank (acquired by GE Capital Finance)",
       "shortName": "Keppel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_208",
+      "code": "PH_192",
       "name": "Mindanao Development Bank (merged with Equitable PCI Bank)",
       "shortName": "Mindanao Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_209",
+      "code": "PH_193",
       "name": "Planters Development Bank (merged with Chinabank Savings)",
       "shortName": "Planters Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_210",
+      "code": "PH_194",
       "name": "Rabobank (forced to closed and merged with Union Bank)",
       "shortName": "Rabobank (forced",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_211",
+      "code": "PH_195",
       "name": "Robinsons Bank (merged with BPI)",
       "shortName": "Robinsons",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_212",
+      "code": "PH_196",
       "name": "Traders Royal Bank (now emerged with Bank of Commerce)",
       "shortName": "Traders Royal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_213",
+      "code": "PH_197",
       "name": "United Coconut Planters Bank (merged with Landbank)",
       "shortName": "United Coconut",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_214",
+      "code": "PH_198",
       "name": "Asia United Bank",
       "shortName": "Asia United",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_215",
+      "code": "PH_199",
       "name": "BDO",
       "shortName": "BDO",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_216",
+      "code": "PH_200",
       "name": "BPI",
       "shortName": "BPI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_217",
+      "code": "PH_201",
       "name": "Chinabank",
       "shortName": "Chinabank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_218",
+      "code": "PH_202",
       "name": "EastWest Bank",
       "shortName": "EastWest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_219",
+      "code": "PH_203",
       "name": "Metrobank",
       "shortName": "Metrobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_220",
+      "code": "PH_204",
       "name": "PNB",
       "shortName": "PNB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_221",
+      "code": "PH_205",
       "name": "Philtrust",
       "shortName": "Philtrust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_222",
+      "code": "PH_206",
       "name": "RCBC",
       "shortName": "RCBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_223",
+      "code": "PH_207",
       "name": "Security Bank",
       "shortName": "Security",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_224",
+      "code": "PH_208",
       "name": "UnionBank",
       "shortName": "UnionBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_225",
-      "name": "Al-Amanah Islamic Investment Bank of the Philippines",
-      "shortName": "Al-Amanah Islamic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_226",
+      "code": "PH_209",
       "name": "DBP",
       "shortName": "DBP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_227",
+      "code": "PH_210",
       "name": "Landbank",
       "shortName": "Landbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_228",
+      "code": "PH_211",
       "name": "OFB",
       "shortName": "OFB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_229",
+      "code": "PH_212",
       "name": "Bank of Commerce",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_230",
+      "code": "PH_213",
       "name": "Chinatrust",
       "shortName": "Chinatrust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_231",
+      "code": "PH_214",
       "name": "HSBC",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_232",
-      "name": "Maybank",
-      "shortName": "Maybank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_233",
-      "name": "PBCom",
-      "shortName": "PBCom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_234",
-      "name": "Standard Chartered",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_235",
-      "name": "Veterans Bank",
-      "shortName": "Veterans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_236",
-      "name": "1st Valley Bank",
-      "shortName": "1st Valley",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_237",
-      "name": "BPI Direct Savings Bank",
-      "shortName": "BPI Direct",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_238",
-      "name": "China Bank Savings",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_239",
-      "name": "CitySavings",
-      "shortName": "CitySavings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_240",
-      "name": "Citystate",
-      "shortName": "Citystate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_241",
-      "name": "PBB",
-      "shortName": "PBB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_242",
-      "name": "PSBank",
-      "shortName": "PSBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_243",
-      "name": "Queenbank",
-      "shortName": "Queenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_244",
-      "name": "Security Bank Savings",
-      "shortName": "Security",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_245",
-      "name": "CIMB Bank",
-      "shortName": "CIMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_246",
-      "name": "ING Philippines",
-      "shortName": "ING Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_247",
+      "code": "PH_215",
       "name": "Maya Bank",
       "shortName": "Maya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_248",
+      "code": "PH_216",
+      "name": "PBCom",
+      "shortName": "PBCom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_217",
+      "name": "Standard Chartered",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_218",
+      "name": "Veterans Bank",
+      "shortName": "Veterans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_219",
+      "name": "1st Valley Bank",
+      "shortName": "1st Valley",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_220",
+      "name": "BPI Direct Savings Bank",
+      "shortName": "BPI Direct",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_221",
+      "name": "China Bank Savings",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_222",
+      "name": "CitySavings",
+      "shortName": "CitySavings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_223",
+      "name": "Citystate",
+      "shortName": "Citystate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_224",
+      "name": "PBB",
+      "shortName": "PBB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_225",
+      "name": "PSBank",
+      "shortName": "PSBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_226",
+      "name": "Queenbank",
+      "shortName": "Queenbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_227",
+      "name": "Security Bank Savings",
+      "shortName": "Security",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_228",
+      "name": "CIMB Bank",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_229",
+      "name": "ING Philippines",
+      "shortName": "ING Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_230",
       "name": "Cooperative banks",
       "shortName": "Cooperative banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_249",
+      "code": "PH_231",
       "name": "Rural banks",
       "shortName": "Rural banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_250",
+      "code": "PH_232",
       "name": "Allied Bank (merged with PNB)",
       "shortName": "Allied",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_251",
-      "name": "Citibank (merged with UnionBank)",
-      "shortName": "Citibank (merged",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_252",
-      "name": "Equitable PCI Bank (merged with BDO)",
-      "shortName": "Equitable PCI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_253",
-      "name": "Far East Bank (merged with BPI)",
-      "shortName": "Far East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_254",
+      "code": "PH_233",
       "name": "Exportbank (merged with UnionBank)",
       "shortName": "Exportbank (merged",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_255",
+      "code": "PH_234",
+      "name": "Equitable PCI Bank (merged with BDO)",
+      "shortName": "Equitable PCI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_235",
+      "name": "Far East Bank (merged with BPI)",
+      "shortName": "Far East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PH_236",
       "name": "International Exchange Bank (merged with UnionBank)",
       "shortName": "International Exchange",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_256",
+      "code": "PH_237",
       "name": "Plantersbank (merged with Chinabank)",
       "shortName": "Plantersbank (merged",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_257",
+      "code": "PH_238",
       "name": "Premiere Development Bank (merged with Security Bank)",
       "shortName": "Premiere Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_258",
-      "name": "RBank (merged with BPI)",
-      "shortName": "RBank (merged",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_259",
+      "code": "PH_239",
       "name": "UCPB (merged with Landbank)",
       "shortName": "UCPB (merged",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_260",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_261",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_262",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_263",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_264",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_265",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_266",
+      "code": "PH_240",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_267",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_268",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_269",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_270",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_271",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_272",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_273",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_274",
+      "code": "PH_241",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_275",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_276",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_277",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_278",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_279",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_280",
+      "code": "PH_242",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_281",
+      "code": "PH_243",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_282",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_283",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_284",
+      "code": "PH_244",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_285",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_286",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_287",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_288",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_289",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_290",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_291",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_292",
+      "code": "PH_245",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_293",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_294",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_295",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_296",
+      "code": "PH_246",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_297",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_298",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_299",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_300",
+      "code": "PH_247",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_301",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_302",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_303",
+      "code": "PH_248",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_304",
+      "code": "PH_249",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_305",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_306",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_307",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_308",
+      "code": "PH_250",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_309",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_310",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_311",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_312",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_313",
+      "code": "PH_251",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_314",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_315",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_316",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_317",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_318",
+      "code": "PH_252",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_319",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_320",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_321",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_322",
-      "name": "Lists of banks in Southeast Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_323",
-      "name": "Banks of the Philippines",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_324",
-      "name": "Lists of companies of the Philippines",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_325",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_326",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_327",
+      "code": "PH_253",
       "name": "Use mdy dates from November 2022",
       "shortName": "Use mdy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PH_328",
+      "code": "PH_254",
       "name": "Use Philippine English from November 2022",
       "shortName": "Use Philippine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PH_329",
-      "name": "Commons category link is on Wikidata",
-      "shortName": "Commons category",
       "type": "bank",
       "aliases": ""
     }

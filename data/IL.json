@@ -75,783 +75,398 @@
     },
     {
       "code": "IL_10",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_11",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_12",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_13",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_14",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_15",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_16",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_17",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_18",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_19",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_20",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_21",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_22",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_23",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_24",
+      "code": "IL_11",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_25",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_26",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_27",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_28",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_29",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_30",
+      "code": "IL_12",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_31",
+      "code": "IL_13",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_32",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_33",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_34",
+      "code": "IL_14",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_35",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_36",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_37",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_38",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_39",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_40",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_41",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_42",
+      "code": "IL_15",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_43",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_44",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_45",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_46",
+      "code": "IL_16",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_47",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_48",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_49",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_50",
+      "code": "IL_17",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_51",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_52",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_53",
+      "code": "IL_18",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_54",
+      "code": "IL_19",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_55",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_56",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_57",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_58",
+      "code": "IL_20",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_59",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_60",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_61",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_62",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_63",
+      "code": "IL_21",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_64",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_65",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_66",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_67",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_68",
+      "code": "IL_22",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_69",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_70",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_71",
-      "name": "Banks of Israel",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_72",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_73",
-      "name": "Lists of companies of Israel",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_74",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_75",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_76",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_77",
+      "code": "IL_23",
       "name": "1954",
       "shortName": "1954",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_78",
+      "code": "IL_24",
       "name": "1921",
       "shortName": "1921",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_79",
+      "code": "IL_25",
       "name": "Bank Leumi",
       "shortName": "Bank Leumi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_80",
+      "code": "IL_26",
       "name": "1902",
       "shortName": "1902",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_81",
+      "code": "IL_27",
       "name": "1923",
       "shortName": "1923",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_82",
+      "code": "IL_28",
       "name": "First International Bank of Israel",
       "shortName": "First International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_83",
+      "code": "IL_29",
       "name": "1972",
       "shortName": "1972",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_84",
+      "code": "IL_30",
       "name": "Israel Discount Bank",
       "shortName": "Israel Discount",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_85",
+      "code": "IL_31",
       "name": "1935",
       "shortName": "1935",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_86",
+      "code": "IL_32",
       "name": "Arab Israel Bank",
       "shortName": "Arab Israel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_87",
+      "code": "IL_33",
       "name": "1961",
       "shortName": "1961",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_88",
+      "code": "IL_34",
       "name": "Mercantile Discount Bank",
       "shortName": "Mercantile Discount",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_89",
+      "code": "IL_35",
       "name": "1971",
       "shortName": "1971",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_90",
+      "code": "IL_36",
       "name": "1963",
       "shortName": "1963",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_91",
-      "name": "Bank Otsar Ha-Hayal",
-      "shortName": "Bank Otsar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IL_92",
+      "code": "IL_37",
       "name": "1946",
       "shortName": "1946",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_93",
+      "code": "IL_38",
       "name": "Bank Otsar Ha-Hayal is a brand of First International Bank",
       "shortName": "Bank Otsar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_94",
+      "code": "IL_39",
       "name": "Union Bank (Bank Igud)",
       "shortName": "Union",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_95",
+      "code": "IL_40",
       "name": "1951",
       "shortName": "1951",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_96",
+      "code": "IL_41",
       "name": "Acquired by Bank Mizrahi-Tefahot.",
       "shortName": "Acquired by",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_97",
+      "code": "IL_42",
       "name": "Bank Massad",
       "shortName": "Bank Massad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_98",
+      "code": "IL_43",
       "name": "1929",
       "shortName": "1929",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_99",
+      "code": "IL_44",
       "name": "Bank Yahav",
       "shortName": "Bank Yahav",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_100",
+      "code": "IL_45",
       "name": "Dexia Israel Bank&#160;&#91;he&#93;",
       "shortName": "Dexia Israel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_101",
+      "code": "IL_46",
       "name": "1953",
       "shortName": "1953",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_102",
+      "code": "IL_47",
       "name": "Poaley Agudat Israel Bank&#160;&#91;he&#93;",
       "shortName": "Poaley Agudat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_103",
+      "code": "IL_48",
       "name": "1977",
       "shortName": "1977",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_104",
+      "code": "IL_49",
       "name": "U-Bank",
       "shortName": "U-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_105",
+      "code": "IL_50",
       "name": "1934",
       "shortName": "1934",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_106",
+      "code": "IL_51",
       "name": "One Zero Digital Bank",
       "shortName": "One Zero",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_107",
+      "code": "IL_52",
       "name": "2019",
       "shortName": "2019",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_108",
+      "code": "IL_53",
       "name": "A digital-only bank with no branches",
       "shortName": "A digital-only",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_109",
+      "code": "IL_54",
       "name": "Postal Bank (Bank Ha-Doar)",
       "shortName": "Postal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_110",
+      "code": "IL_55",
       "name": "BNP Paribas Israel",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_111",
+      "code": "IL_56",
       "name": "1996",
       "shortName": "1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_112",
+      "code": "IL_57",
       "name": "Southeast Global Nà Ni Bank",
       "shortName": "Southeast Global",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_113",
+      "code": "IL_58",
       "name": "Citibank Israel",
       "shortName": "Citibank Israel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_114",
+      "code": "IL_59",
       "name": "1996/2000",
       "shortName": "1996/2000",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_115",
+      "code": "IL_60",
       "name": "HSBC Israel",
       "shortName": "HSBC Israel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_116",
+      "code": "IL_61",
       "name": "2001",
       "shortName": "2001",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_117",
+      "code": "IL_62",
       "name": "State Bank of India",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_118",
+      "code": "IL_63",
       "name": "2006",
       "shortName": "2006",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_119",
+      "code": "IL_64",
       "name": "Barclays Bank",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_120",
+      "code": "IL_65",
       "name": "2011",
       "shortName": "2011",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IL_121",
+      "code": "IL_66",
       "name": "UBS Israel",
       "shortName": "UBS Israel",
       "type": "bank",

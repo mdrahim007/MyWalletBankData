@@ -4,35 +4,35 @@
   "country": "VA",
   "institutions": [
     {
-      "code": "CENBVA",
+      "code": "VA_0",
       "name": "Central Bank of VA",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBVA",
+      "code": "VA_1",
       "name": "National Bank of VA",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABVA",
+      "code": "VA_2",
       "name": "State Bank of VA",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBVA",
+      "code": "VA_3",
       "name": "Commercial Bank of VA",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBVA",
+      "code": "VA_4",
       "name": "First VA Bank",
       "shortName": "First Bank",
       "type": "bank",

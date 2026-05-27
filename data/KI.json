@@ -4,35 +4,35 @@
   "country": "KI",
   "institutions": [
     {
-      "code": "CENBKI",
+      "code": "KI_0",
       "name": "Central Bank of KI",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBKI",
+      "code": "KI_1",
       "name": "National Bank of KI",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABKI",
+      "code": "KI_2",
       "name": "State Bank of KI",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBKI",
+      "code": "KI_3",
       "name": "Commercial Bank of KI",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBKI",
+      "code": "KI_4",
       "name": "First KI Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "SB",
   "institutions": [
     {
-      "code": "CENBSB",
+      "code": "SB_0",
       "name": "Central Bank of SB",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSB",
+      "code": "SB_1",
       "name": "National Bank of SB",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSB",
+      "code": "SB_2",
       "name": "State Bank of SB",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSB",
+      "code": "SB_3",
       "name": "Commercial Bank of SB",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSB",
+      "code": "SB_4",
       "name": "First SB Bank",
       "shortName": "First Bank",
       "type": "bank",

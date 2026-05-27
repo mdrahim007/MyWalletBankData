@@ -4,35 +4,35 @@
   "country": "CG",
   "institutions": [
     {
-      "code": "CENBCG",
+      "code": "CG_0",
       "name": "Central Bank of CG",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCG",
+      "code": "CG_1",
       "name": "National Bank of CG",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCG",
+      "code": "CG_2",
       "name": "State Bank of CG",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCG",
+      "code": "CG_3",
       "name": "Commercial Bank of CG",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCG",
+      "code": "CG_4",
       "name": "First CG Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "SX",
   "institutions": [
     {
-      "code": "CENBSX",
+      "code": "SX_0",
       "name": "Central Bank of SX",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSX",
+      "code": "SX_1",
       "name": "National Bank of SX",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSX",
+      "code": "SX_2",
       "name": "State Bank of SX",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSX",
+      "code": "SX_3",
       "name": "Commercial Bank of SX",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSX",
+      "code": "SX_4",
       "name": "First SX Bank",
       "shortName": "First Bank",
       "type": "bank",

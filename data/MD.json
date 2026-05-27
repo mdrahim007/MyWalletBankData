@@ -33,666 +33,204 @@
     },
     {
       "code": "MD_4",
-      "name": "EuroCreditBank - SWIFT: ECBMMD2X XXX",
-      "shortName": "EuroCreditBank -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_5",
       "name": "EximBank - SWIFT: EXMMMD22 XXX",
       "shortName": "EximBank -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_6",
+      "code": "MD_5",
       "name": "FinComBank - SWIFT: FTMDMD2X XXX",
       "shortName": "FinComBank -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_7",
+      "code": "MD_6",
       "name": "OTP bank - SWIFT: MOBBMD22 XXX",
       "shortName": "OTP bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_8",
+      "code": "MD_7",
       "name": "ProCredit Bank - SWIFT: PRCBMD22 XXX",
       "shortName": "ProCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_9",
+      "code": "MD_8",
       "name": "Victoriabank - SWIFT: VICBMD2X",
       "shortName": "Victoriabank -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_10",
+      "code": "MD_9",
       "name": "maib - SWIFT: AGRNMD2X XXX",
       "shortName": "maib -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_11",
+      "code": "MD_10",
       "name": "Moldindconbank - SWIFT: MOLDMD2X XXX",
       "shortName": "Moldindconbank -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_12",
+      "code": "MD_11",
       "name": "Basarabia&#91;3&#93;",
       "shortName": "Basarabia&#91;3&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_13",
+      "code": "MD_12",
       "name": "BIID MB&#91;4&#93;",
       "shortName": "BIID MB&#91;4&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_14",
+      "code": "MD_13",
       "name": "Guinea&#91;5&#93;",
       "shortName": "Guinea&#91;5&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_15",
+      "code": "MD_14",
       "name": "Întreprinzbancă&#91;6&#93;",
       "shortName": "Întreprinzbancă&#91;6&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_16",
+      "code": "MD_15",
       "name": "InvestPrivatBank&#91;7&#93;",
       "shortName": "InvestPrivatBank&#91;7&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_17",
+      "code": "MD_16",
       "name": "Vias&#91;8&#93;",
       "shortName": "Vias&#91;8&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_18",
+      "code": "MD_17",
       "name": "Bancosind&#91;9&#93; liquidated 2018",
       "shortName": "Bancosind&#91;9&#93; liquidated",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_19",
+      "code": "MD_18",
       "name": "Banca de Economii",
       "shortName": "Banca de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_20",
+      "code": "MD_19",
       "name": "Banca Socială",
       "shortName": "Banca Socială",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_21",
+      "code": "MD_20",
       "name": "Banca Municipală Chișinău&#91;10&#93;",
       "shortName": "Banca Municipală",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_22",
+      "code": "MD_21",
       "name": "BTR Moldova&#91;11&#93;",
       "shortName": "BTR Moldova&#91;11&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_23",
+      "code": "MD_22",
       "name": "Bucuriabank&#91;12&#93; dissolved 2016",
       "shortName": "Bucuriabank&#91;12&#93; dissolved",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_24",
+      "code": "MD_23",
       "name": "Businessbank&#91;13&#93;",
       "shortName": "Businessbank&#91;13&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_25",
+      "code": "MD_24",
       "name": "Oguzbank&#91;14&#93; liquidated 2018",
       "shortName": "Oguzbank&#91;14&#93; liquidated",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_26",
+      "code": "MD_25",
       "name": "Unibank",
       "shortName": "Unibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_27",
+      "code": "MD_26",
       "name": "Universalbank&#91;15&#93; liquidated 2021",
       "shortName": "Universalbank&#91;15&#93; liquidated",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_28",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_29",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_30",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_31",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_32",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_33",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_34",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_35",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_36",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_37",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_38",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_39",
+      "code": "MD_27",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_40",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_41",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_42",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_43",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_44",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_45",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_46",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_47",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_48",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_49",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_50",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_51",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_52",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_53",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_54",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_55",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_56",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_57",
+      "code": "MD_28",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_58",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_59",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_60",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_61",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_62",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_63",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_64",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_65",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_66",
+      "code": "MD_29",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_67",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_68",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_69",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_70",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_71",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_72",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_73",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_74",
+      "code": "MD_30",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_75",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_76",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_77",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_78",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_79",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_80",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_81",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_82",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_83",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_84",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_85",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_86",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_87",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_88",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_89",
-      "name": "Banks of Moldova",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_90",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_91",
-      "name": "Lists of companies of Moldova",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_92",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_93",
+      "code": "MD_31",
       "name": "CS1 Romanian-language sources (ro)",
       "shortName": "CS1 Romanian-language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_94",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_95",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_96",
+      "code": "MD_32",
       "name": "All pages needing cleanup",
       "shortName": "All pages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_97",
-      "name": "Articles covered by WikiProject Wikify from April 2026",
-      "shortName": "Articles covered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_98",
-      "name": "All articles covered by WikiProject Wikify",
-      "shortName": "All articles",
       "type": "bank",
       "aliases": ""
     }

@@ -4,35 +4,35 @@
   "country": "GE",
   "institutions": [
     {
-      "code": "CENBGE",
+      "code": "GE_0",
       "name": "Central Bank of GE",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGE",
+      "code": "GE_1",
       "name": "National Bank of GE",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGE",
+      "code": "GE_2",
       "name": "State Bank of GE",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGE",
+      "code": "GE_3",
       "name": "Commercial Bank of GE",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGE",
+      "code": "GE_4",
       "name": "First GE Bank",
       "shortName": "First Bank",
       "type": "bank",

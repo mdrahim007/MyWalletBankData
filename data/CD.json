@@ -4,35 +4,35 @@
   "country": "CD",
   "institutions": [
     {
-      "code": "CENBCD",
+      "code": "CD_0",
       "name": "Central Bank of CD",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCD",
+      "code": "CD_1",
       "name": "National Bank of CD",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCD",
+      "code": "CD_2",
       "name": "State Bank of CD",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCD",
+      "code": "CD_3",
       "name": "Commercial Bank of CD",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCD",
+      "code": "CD_4",
       "name": "First CD Bank",
       "shortName": "First Bank",
       "type": "bank",

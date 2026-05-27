@@ -93,55 +93,6 @@
       "shortName": "Nova Kreditna",
       "type": "bank",
       "aliases": ""
-    },
-    {
-      "code": "SI_13",
-      "name": "Banks of Slovenia",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_14",
-      "name": "Lists of companies of Slovenia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_15",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_16",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_17",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_18",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SI_19",
-      "name": "Articles containing Slovene-language text",
-      "shortName": "Articles containing",
-      "type": "bank",
-      "aliases": ""
     }
   ]
 }

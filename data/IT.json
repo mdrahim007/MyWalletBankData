@@ -26,8 +26,8 @@
     },
     {
       "code": "IT_3",
-      "name": "BPER Banca SpA",
-      "shortName": "BPER Banca",
+      "name": "Guber Banca SpA",
+      "shortName": "Guber Banca",
       "type": "bank",
       "aliases": ""
     },
@@ -82,7 +82,7 @@
     },
     {
       "code": "IT_11",
-      "name": "Cassa di Risparmio di Bolzano SpA",
+      "name": "Cassa di Risparmio di Volterra SpA",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
@@ -124,7 +124,7 @@
     },
     {
       "code": "IT_17",
-      "name": "Banca di Cividale SpA&#160;&#91;it&#93;",
+      "name": "Banca di Piacenza SCpA&#160;&#91;it&#93;",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
@@ -145,4117 +145,3249 @@
     },
     {
       "code": "IT_20",
-      "name": "Banca di Piacenza SCpA&#160;&#91;it&#93;",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_21",
       "name": "Banca Finanziaria Internazionale SpA",
       "shortName": "Banca Finanziaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_22",
+      "code": "IT_21",
       "name": "Banca Ifigest SpA",
       "shortName": "Banca Ifigest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_23",
+      "code": "IT_22",
       "name": "Illimity Bank SpA",
       "shortName": "Illimity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_24",
+      "code": "IT_23",
       "name": "Banca Investis SpA",
       "shortName": "Banca Investis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_25",
+      "code": "IT_24",
       "name": "Banca Macerata SpA",
       "shortName": "Banca Macerata",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_26",
+      "code": "IT_25",
       "name": "Banca Passadore &amp; C. SpA&#160;&#91;it&#93;",
       "shortName": "Banca Passadore",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_27",
+      "code": "IT_26",
       "name": "Banca Popolare Commerciale SpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_28",
+      "code": "IT_27",
       "name": "Banca Popolare del Cassinate SCpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_29",
-      "name": "Banca Popolare del Frusinate SCpA",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_30",
+      "code": "IT_28",
       "name": "Banca Popolare del Lazio SC",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_31",
+      "code": "IT_29",
       "name": "Banca Popolare dell'Alto Adige SpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_32",
+      "code": "IT_30",
       "name": "Banca popolare delle Province Molisane SCpA",
       "shortName": "Banca popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_33",
+      "code": "IT_31",
       "name": "Banca Popolare di Cortona SCpA&#160;&#91;it&#93;",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_34",
-      "name": "Banca Popolare di Fondi SC&#160;&#91;it&#93;",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_35",
+      "code": "IT_32",
       "name": "Banca Popolare di Lajatico SCpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_36",
+      "code": "IT_33",
       "name": "Banca Popolare di Puglia e Basilicata SCpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_37",
-      "name": "Banca Popolare Etica SCpA&#160;&#91;it&#93;",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_38",
+      "code": "IT_34",
       "name": "Banca Popolare Pugliese SCpA",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_39",
+      "code": "IT_35",
       "name": "Banca Promos SpA",
       "shortName": "Banca Promos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_40",
+      "code": "IT_36",
       "name": "Banca Santa Giulia SpA",
       "shortName": "Banca Santa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_41",
+      "code": "IT_37",
       "name": "Banca Patrimoni Sella &amp; C. SpA",
       "shortName": "Banca Patrimoni",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_42",
+      "code": "IT_38",
       "name": "Banca Simetica SpA",
       "shortName": "Banca Simetica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_43",
+      "code": "IT_39",
       "name": "Banca Sistema SpA&#160;&#91;it&#93;",
       "shortName": "Banca Sistema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_44",
+      "code": "IT_40",
       "name": "Banca Stabiese SpA",
       "shortName": "Banca Stabiese",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_45",
+      "code": "IT_41",
       "name": "Banca Valsabbina SCpA&#160;&#91;it&#93;",
       "shortName": "Banca Valsabbina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_46",
+      "code": "IT_42",
       "name": "Banco di Credito Paolo Azzoaglio SpA&#160;&#91;it&#93;",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_47",
+      "code": "IT_43",
       "name": "Banco di Desio e della Brianza SpA",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_48",
+      "code": "IT_44",
       "name": "Banco di Lucca e del Tirreno SpA",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_49",
+      "code": "IT_45",
       "name": "BdM Banca SpA",
       "shortName": "BdM Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_50",
+      "code": "IT_46",
       "name": "BFF Bank SpA",
       "shortName": "BFF",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_51",
+      "code": "IT_47",
       "name": "Blu Banca SpA",
       "shortName": "Blu Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_52",
-      "name": "Cassa di Risparmio di Asti SpA",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_53",
-      "name": "Cassa di Risparmio di Fermo SpA",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_54",
-      "name": "Cassa di Risparmio di Fossano SpA",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_55",
+      "code": "IT_48",
       "name": "Cassa di Risparmio di Orvieto SpA",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_56",
-      "name": "Cassa di Risparmio di Volterra SpA",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_57",
+      "code": "IT_49",
       "name": "Cassa Lombarda SpA&#160;&#91;it&#93;",
       "shortName": "Cassa Lombarda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_58",
+      "code": "IT_50",
       "name": "Cherry Bank SpA&#160;&#91;it&#93;",
       "shortName": "Cherry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_59",
+      "code": "IT_51",
       "name": "Credito Lombardo Veneto SpA",
       "shortName": "Credito Lombardo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_60",
+      "code": "IT_52",
       "name": "Extrabanca SpA",
       "shortName": "Extrabanca SpA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_61",
-      "name": "Guber Banca SpA",
-      "shortName": "Guber Banca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_62",
+      "code": "IT_53",
       "name": "IBL Istituto Bancario del Lavoro SpA&#160;&#91;it&#93;",
       "shortName": "IBL Istituto",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_63",
+      "code": "IT_54",
       "name": "Imprebanca SpA",
       "shortName": "Imprebanca SpA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_64",
-      "name": "Istituto per il credito sportivo e culturale SpA",
-      "shortName": "Istituto per",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_65",
+      "code": "IT_55",
       "name": "La Cassa di Ravenna SpA",
       "shortName": "La Cassa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_66",
+      "code": "IT_56",
       "name": "Mediocredito Trentino Alto Adige SpA",
       "shortName": "Mediocredito Trentino",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_67",
+      "code": "IT_57",
       "name": "Prader Bank SpA",
       "shortName": "Prader",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_68",
+      "code": "IT_58",
       "name": "Sanfelice 1893 Banca Popolare SCpA",
       "shortName": "Sanfelice 1893",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_69",
+      "code": "IT_59",
       "name": "Suedtirol Bank SpA",
       "shortName": "Suedtirol",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_70",
+      "code": "IT_60",
       "name": "Tyche Bank SpA",
       "shortName": "Tyche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_71",
+      "code": "IT_61",
       "name": "Vivabanca SpA",
       "shortName": "Vivabanca SpA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_72",
+      "code": "IT_62",
       "name": "Italian branch of AK Nordic AB",
       "shortName": "Italian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_73",
+      "code": "IT_63",
       "name": "Italian branch of Banca Transilvania SA",
       "shortName": "Italian branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_74",
+      "code": "IT_64",
       "name": "Banca Ubae SpA, majority-owned by Libyan Foreign Bank",
       "shortName": "Banca Ubae",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_75",
+      "code": "IT_65",
       "name": "Credit Suisse (Italy) SpA, subsidiary of UBS",
       "shortName": "Credit Suisse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_76",
+      "code": "IT_66",
       "name": "Zurich Italy Bank SpA, subsidiary of Zurich Insurance Group",
       "shortName": "Zurich Italy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_77",
+      "code": "IT_67",
       "name": "Bank of China",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_78",
+      "code": "IT_68",
       "name": "Bank Sepah",
       "shortName": "Bank Sepah",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_79",
+      "code": "IT_69",
       "name": "Citigroup",
       "shortName": "Citigroup",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_80",
+      "code": "IT_70",
       "name": "JPMorgan Chase",
       "shortName": "JPMorgan Chase",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_81",
+      "code": "IT_71",
       "name": "Mitsubishi UFJ Financial Group",
       "shortName": "Mitsubishi UFJ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_82",
+      "code": "IT_72",
       "name": "Mizuho Financial Group",
       "shortName": "Mizuho Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_83",
+      "code": "IT_73",
       "name": "Persia International Bank",
       "shortName": "Persia International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_84",
+      "code": "IT_74",
       "name": "Bank of Saint George (1407-1805)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_85",
+      "code": "IT_75",
       "name": "Banco di Napoli (1584-2018)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_86",
+      "code": "IT_76",
       "name": "Banco della Piazza di Rialto (1587-1637)",
       "shortName": "Banco della",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_87",
+      "code": "IT_77",
       "name": "Banco del Giro (1619-1797)",
       "shortName": "Banco del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_88",
+      "code": "IT_78",
       "name": "Banco di Santo Spirito (1605-1992)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_89",
+      "code": "IT_79",
       "name": "Banca Romana (1834-1893)",
       "shortName": "Banca Romana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_90",
+      "code": "IT_80",
       "name": "Banco di Sicilia (1849-2010)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_91",
+      "code": "IT_81",
       "name": "National Bank of the Kingdom of Italy (1850-1893)",
       "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_92",
+      "code": "IT_82",
       "name": "Banca Nazionale Toscana (1860-1893)",
       "shortName": "Banca Nazionale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_93",
+      "code": "IT_83",
       "name": "Banca Toscana di Credito (1860-1893)",
       "shortName": "Banca Toscana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_94",
+      "code": "IT_84",
       "name": "Lombard banking (13C-16C)",
       "shortName": "Lombard banking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_95",
+      "code": "IT_85",
       "name": "Gran Tavola (1255-1298)",
       "shortName": "Gran Tavola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_96",
+      "code": "IT_86",
       "name": "Scali family bank (13C-1326)",
       "shortName": "Scali family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_97",
+      "code": "IT_87",
       "name": "Acciaioli family bank (13C-1345)",
       "shortName": "Acciaioli family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_98",
-      "name": "Bardi family bank (13C-1345)",
-      "shortName": "Bardi family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_99",
+      "code": "IT_88",
       "name": "Peruzzi family bank (13C-1345)",
       "shortName": "Peruzzi family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_100",
+      "code": "IT_89",
       "name": "Medici family bank (1397-1494)",
       "shortName": "Medici family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_101",
+      "code": "IT_90",
       "name": "Chigi family bank (15C-16C)",
       "shortName": "Chigi family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_102",
+      "code": "IT_91",
       "name": "Monte di Pietà di Perugia (1462-2005)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_103",
+      "code": "IT_92",
       "name": "Monte di Pietà di Genova (1483-2022)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_104",
+      "code": "IT_93",
       "name": "Monte di Pietà di Vicenza (1486-1996)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_105",
+      "code": "IT_94",
       "name": "Monte di Pietà di Parma (1488-2015)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_106",
+      "code": "IT_95",
       "name": "Monte di Pietà di Faenza (1491-1995)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_107",
+      "code": "IT_96",
       "name": "Monte di Pietà di Treviso (1496-1872)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_108",
+      "code": "IT_97",
       "name": "Monte di Pietà di Napoli (1539-1794)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_109",
+      "code": "IT_98",
       "name": "Compagnia di San Paolo (1563-1998)",
       "shortName": "Compagnia di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_110",
+      "code": "IT_99",
       "name": "Monte di Pietà di Messina (1581-?)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_111",
+      "code": "IT_100",
       "name": "Monte di Pietà di Foggia (1588-2006)",
       "shortName": "Monte di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_112",
+      "code": "IT_101",
       "name": "Credito Siciliano (1809-2018)",
       "shortName": "Credito Siciliano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_113",
+      "code": "IT_102",
       "name": "Cassa di Risparmio del Veneto (1822-2018)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_114",
-      "name": "Cassa di Risparmio di Venezia (1822-2014)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_115",
+      "code": "IT_103",
       "name": "Cassa di Risparmio delle Provincie Lombarde (1823-1998)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_116",
-      "name": "Cassa di Risparmio di Torino (1827-2002)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_117",
-      "name": "Cassa di Risparmio di Firenze (1829-2007)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_118",
-      "name": "Cassa di Risparmio di Prato (1830-2010)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_119",
-      "name": "Cassa di Risparmio di San Miniato (1830-2018)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_120",
-      "name": "Cassa di Risparmio di Pistoia e della Lucchesia (1831-1999)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_121",
-      "name": "Cassa di Risparmio di Pisa (1834-2006)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_122",
-      "name": "Cassa di Risparmio di Lucca Pisa Livorno (1835-2011)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_123",
-      "name": "Cassa di Risparmi di Livorno (1836-2006)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_124",
-      "name": "Cassa di Risparmio di Roma (1836-1992)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_125",
-      "name": "Cassa di Risparmio in Bologna (1837-2019)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_126",
-      "name": "Cassa di Risparmio di Alessandria (1838-2012)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_127",
-      "name": "Cassa di Risparmio di Ferrara (1838-2017)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_128",
-      "name": "Cassa dei Risparmi di Forlì e della Romagna (1839-2018)",
-      "shortName": "Cassa dei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_129",
-      "name": "Cassa di Risparmio di Rimini (1840-2018)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_130",
-      "name": "Banca delle Marche (1841-2017)",
-      "shortName": "Banca delle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_131",
-      "name": "Cassa di Risparmio di Cesena (1841-2018)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_132",
-      "name": "Cassa di Risparmio di Ascoli Piceno (1842-2013)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_133",
+      "code": "IT_104",
       "name": "Cassa di Risparmio di Trieste (1842-2002)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_134",
-      "name": "Cassa di Risparmio di Carpi (1843-2005)",
+      "code": "IT_105",
+      "name": "Cassa di Risparmio di Firenze (1829-2007)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_135",
+      "code": "IT_106",
+      "name": "Cassa di Risparmio di San Miniato (1830-2018)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_107",
+      "name": "Cassa di Risparmio di Pistoia e della Lucchesia (1831-1999)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_108",
       "name": "Cassa di Risparmio di Carrara (1843-2015)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_136",
-      "name": "Cassa di Risparmio di Fano (1843-2013)",
+      "code": "IT_109",
+      "name": "Cassa di Risparmio di Lucca Pisa Livorno (1835-2011)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_137",
-      "name": "Cassa di Risparmio di Jesi (1844-1995)",
+      "code": "IT_110",
+      "name": "Cassa di Risparmi di Livorno (1836-2006)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_138",
-      "name": "Cassa di Risparmio di Civitavecchia (1847-2015)",
+      "code": "IT_111",
+      "name": "Cassa di Risparmio di Roma (1836-1992)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_139",
-      "name": "Società Bancaria Italiana (1850-1915)",
-      "shortName": "Società Bancaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_140",
-      "name": "Cassa di Risparmio di Vercelli (1851-1994)",
+      "code": "IT_112",
+      "name": "Cassa di Risparmio in Bologna (1837-2019)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_141",
-      "name": "Cassa di Risparmio di Reggio Emilia (1852-1999)",
+      "code": "IT_113",
+      "name": "Cassa di Risparmio di Alessandria (1838-2012)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_142",
-      "name": "Banco di Sconto e Sete (1853-1892)",
-      "shortName": "Banco di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_143",
-      "name": "Cassa di Risparmio di Imola (1855-2008)",
+      "code": "IT_114",
+      "name": "Cassa di Risparmio di Ferrara (1838-2017)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_144",
-      "name": "Cassa di Risparmio della Provincia di Viterbo (1855-2015)",
+      "code": "IT_115",
+      "name": "Cassa dei Risparmi di Forlì e della Romagna (1839-2018)",
+      "shortName": "Cassa dei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_116",
+      "name": "Banca delle Marche (1841-2017)",
+      "shortName": "Banca delle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_117",
+      "name": "Cassa di Risparmio di Cesena (1841-2018)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_145",
+      "code": "IT_118",
+      "name": "Cassa di Risparmio di Ascoli Piceno (1842-2013)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_119",
       "name": "Cassa di Risparmio di Cuneo (1855-1995)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_146",
-      "name": "Cassa di Risparmio di Biella (1856-1994)",
+      "code": "IT_120",
+      "name": "Cassa di Risparmio di Civitavecchia (1847-2015)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_147",
-      "name": "Cassa di Risparmio della Provincia dell'Aquila (1859-2013)",
+      "code": "IT_121",
+      "name": "Società Bancaria Italiana (1850-1915)",
+      "shortName": "Società Bancaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_122",
+      "name": "Cassa di Risparmio di Vercelli (1851-1994)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_148",
-      "name": "Cassa di Risparmio di Piacenza e Vigevano (1860-1992)",
+      "code": "IT_123",
+      "name": "Cassa di Risparmio di Reggio Emilia (1852-1999)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_149",
-      "name": "Banca Carime (1861-2017)",
-      "shortName": "Banca Carime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_150",
-      "name": "Cassa di Risparmio di Calabria e Lucania (1861-1997)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_151",
-      "name": "Cassa di Risparmio di Loreto (1861-2017)",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_152",
-      "name": "Sicilcassa (1861-1997)",
-      "shortName": "Sicilcassa (1861-1997)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_153",
-      "name": "Banca Teatina (1862-2018)",
-      "shortName": "Banca Teatina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_154",
-      "name": "Banca di Credito Italiano (1863-1893)",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_155",
-      "name": "Credito Mobiliare (1863-1894)",
-      "shortName": "Credito Mobiliare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_156",
-      "name": "Banca Popolare di Lodi (1864-2011)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_157",
-      "name": "Banca Popolare di Verona (1867-2011)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_158",
-      "name": "Banca Popolare di Bergamo (1869-2003)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_159",
-      "name": "Banca Popolare di Crema (1870-2011)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_160",
-      "name": "Banco di Chiavari e della Riviera Ligure (1870-2008)",
+      "code": "IT_124",
+      "name": "Banco di Sconto e Sete (1853-1892)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_161",
-      "name": "Credito Italiano (1870-2002)",
-      "shortName": "Credito Italiano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_162",
-      "name": "Banca Agricola Mantovana (1871-2008)",
-      "shortName": "Banca Agricola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_163",
-      "name": "Banca Caripe (1871-2016)",
-      "shortName": "Banca Caripe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_164",
-      "name": "Banca Generale (1871-1894)",
-      "shortName": "Banca Generale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_165",
-      "name": "Banca Popolare di Novara (1871-2011)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_166",
-      "name": "Banca di Valle Camonica (1872-2007)",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_167",
-      "name": "Banca Popolare di Lecco (1872-1993)",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_168",
+      "code": "IT_125",
       "name": "Cassa di Risparmio di Vignola (1872-2010)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_169",
+      "code": "IT_126",
+      "name": "Cassa di Risparmio della Provincia di Viterbo (1855-2015)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_127",
+      "name": "Cassa di Risparmio della Provincia dell'Aquila (1859-2013)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_128",
+      "name": "Cassa di Risparmio di Piacenza e Vigevano (1860-1992)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_129",
+      "name": "Banca Carime (1861-2017)",
+      "shortName": "Banca Carime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_130",
+      "name": "Cassa di Risparmio di Calabria e Lucania (1861-1997)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_131",
+      "name": "Cassa di Risparmio di Loreto (1861-2017)",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_132",
+      "name": "Sicilcassa (1861-1997)",
+      "shortName": "Sicilcassa (1861-1997)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_133",
+      "name": "Banca Teatina (1862-2018)",
+      "shortName": "Banca Teatina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_134",
+      "name": "Banca di Credito Italiano (1863-1893)",
+      "shortName": "Banca di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_135",
+      "name": "Credito Mobiliare (1863-1894)",
+      "shortName": "Credito Mobiliare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_136",
+      "name": "Banca Popolare di Verona (1867-2011)",
+      "shortName": "Banca Popolare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_137",
+      "name": "Banca Popolare di Bergamo (1869-2003)",
+      "shortName": "Banca Popolare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_138",
+      "name": "Banco di Chiavari e della Riviera Ligure (1870-2008)",
+      "shortName": "Banco di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_139",
+      "name": "Credito Italiano (1870-2002)",
+      "shortName": "Credito Italiano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_140",
+      "name": "Banca Agricola Mantovana (1871-2008)",
+      "shortName": "Banca Agricola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_141",
+      "name": "Banca Generale (1871-1894)",
+      "shortName": "Banca Generale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_142",
+      "name": "Banca di Valle Camonica (1872-2007)",
+      "shortName": "Banca di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_143",
+      "name": "Banca Popolare di Lecco (1872-1993)",
+      "shortName": "Banca Popolare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_144",
       "name": "Banca dell'Adriatico (1875-2016)",
       "shortName": "Banca dell'Adriatico",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_170",
+      "code": "IT_145",
       "name": "Banca Tiberina (1877-1895)",
       "shortName": "Banca Tiberina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_171",
+      "code": "IT_146",
       "name": "Veneto Banca (1877-2017)",
       "shortName": "Veneto Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_172",
+      "code": "IT_147",
       "name": "Banco di Roma (1880-1992)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_173",
+      "code": "IT_148",
       "name": "Banca Tirrenica (1881-2017)",
       "shortName": "Banca Tirrenica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_174",
+      "code": "IT_149",
       "name": "Banca Nuova (1883-2018)",
       "shortName": "Banca Nuova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_175",
+      "code": "IT_150",
       "name": "Credito Agrario Bresciano (1883-1998)",
       "shortName": "Credito Agrario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_176",
+      "code": "IT_151",
       "name": "Banca Popolare dell'Alto Lazio (1884-1988)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_177",
+      "code": "IT_152",
       "name": "Banca di Legnano (1887-2013)",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_178",
+      "code": "IT_153",
       "name": "Banca Popolare Commercio e Industria (1888-2016)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_179",
+      "code": "IT_154",
       "name": "Banca San Paolo di Brescia (1888-1998)",
       "shortName": "Banca San",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_180",
+      "code": "IT_155",
       "name": "Banca Popolare di Ancona (1891-2003)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_181",
+      "code": "IT_156",
       "name": "Credito Bergamasco (1891-2014)",
       "shortName": "Credito Bergamasco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_182",
+      "code": "IT_157",
       "name": "Banca Cattolica del Veneto (1892-1989)",
       "shortName": "Banca Cattolica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_183",
+      "code": "IT_158",
       "name": "Banca Commerciale Italiana (1894-2003)",
       "shortName": "Banca Commerciale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_184",
+      "code": "IT_159",
       "name": "Banca Popolare di Spoleto (1895-2017)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_185",
+      "code": "IT_160",
       "name": "Banco Ambrosiano (1896-1982)",
       "shortName": "Banco Ambrosiano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_186",
+      "code": "IT_161",
       "name": "Credito Romagnolo (1896-1995)",
       "shortName": "Credito Romagnolo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_187",
+      "code": "IT_162",
       "name": "Banca Cattolica di Trento (1899-1935)",
       "shortName": "Banca Cattolica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_188",
+      "code": "IT_163",
       "name": "Banca Cattolica di Molfetta (1902-2001)",
       "shortName": "Banca Cattolica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_189",
+      "code": "IT_164",
       "name": "Banca Toscana (1904-2009)",
       "shortName": "Banca Toscana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_190",
+      "code": "IT_165",
       "name": "Credito Valtellinese (1908-2021)",
       "shortName": "Credito Valtellinese",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_191",
+      "code": "IT_166",
       "name": "Cassa di Risparmio di Tortona (1911-2006)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_192",
+      "code": "IT_167",
       "name": "Banca Italiana di Sconto (1915-1921)",
       "shortName": "Banca Italiana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_193",
+      "code": "IT_168",
       "name": "Crediop (1919-2023)",
       "shortName": "Crediop (1919-2023)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_194",
+      "code": "IT_169",
       "name": "Banca Nazionale dell'Agricoltura (1921-2000)",
       "shortName": "Banca Nazionale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_195",
+      "code": "IT_170",
       "name": "Banca Nazionale di Credito (1922-1930)",
       "shortName": "Banca Nazionale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_196",
+      "code": "IT_171",
       "name": "Istituto Mobiliare Italiano and Banca IMI (1931-1998)",
       "shortName": "Istituto Mobiliare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_197",
+      "code": "IT_172",
       "name": "Banca di Trento e Bolzano (1934-2015)",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_198",
+      "code": "IT_173",
       "name": "ISVEIMER (1938-1996)",
       "shortName": "ISVEIMER (1938-1996)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_199",
+      "code": "IT_174",
       "name": "Banca Tercas (1939-2016)",
       "shortName": "Banca Tercas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_200",
+      "code": "IT_175",
       "name": "Credito Artigiano (1946-2012)",
       "shortName": "Credito Artigiano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_201",
+      "code": "IT_176",
       "name": "Cassa per il Mezzogiorno (1950-1984)",
       "shortName": "Cassa per",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_202",
+      "code": "IT_177",
       "name": "Banca di Credito Sardo (1953-2014)",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_203",
+      "code": "IT_178",
       "name": "Banca Popolare del Molise (1958-1998)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_204",
+      "code": "IT_179",
       "name": "Interbanca (1961-2017)",
       "shortName": "Interbanca (1961-2017)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_205",
+      "code": "IT_180",
       "name": "Banca Popolare di Lanciano e Sulmona (1962-2013)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_206",
+      "code": "IT_181",
       "name": "Banca Italease (1968-2015)",
       "shortName": "Banca Italease",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_207",
+      "code": "IT_182",
       "name": "Nuovo Banco Ambrosiano (1982-1989)",
       "shortName": "Nuovo Banco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_208",
+      "code": "IT_183",
       "name": "Banca Popolare di Brescia (1983-1999)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_209",
+      "code": "IT_184",
       "name": "Hypo Alpe-Adria-Bank Italy (1986-2016)",
       "shortName": "Hypo Alpe-Adria-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_210",
+      "code": "IT_185",
       "name": "Banca del Monte di Lombardia (1987-1995)",
       "shortName": "Banca del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_211",
+      "code": "IT_186",
       "name": "Banco di San Giorgio (1987–2012)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_212",
+      "code": "IT_187",
       "name": "Unipol Banca (1987-2019)",
       "shortName": "Unipol Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_213",
+      "code": "IT_188",
       "name": "Banco Ambrosiano Veneto (1989-1998)",
       "shortName": "Banco Ambrosiano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_214",
+      "code": "IT_189",
       "name": "Carimonte Banca (1991-1995)",
       "shortName": "Carimonte Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_215",
+      "code": "IT_190",
       "name": "Banca di Roma (1992-2002)",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_216",
+      "code": "IT_191",
       "name": "Banca Mediterranea (1992-2004)",
       "shortName": "Banca Mediterranea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_217",
+      "code": "IT_192",
       "name": "Casse Emiliano Romagnole (1992-2000)",
       "shortName": "Casse Emiliano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_218",
+      "code": "IT_193",
       "name": "Unicredito (1994-1998)",
       "shortName": "Unicredito (1994-1998)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_219",
-      "name": "Banca Regionale Europea (1995-2016)",
-      "shortName": "Banca Regionale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_220",
+      "code": "IT_194",
       "name": "Banca Antonveneta (1996-2007)",
       "shortName": "Banca Antonveneta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_221",
+      "code": "IT_195",
       "name": "Rolo Banca (1996-2002)",
       "shortName": "Rolo Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_222",
+      "code": "IT_196",
       "name": "Banca del Salento – Credito Popolare Salentino (1997-2002)",
       "shortName": "Banca del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_223",
+      "code": "IT_197",
       "name": "Neos Finance (1997-2013)",
       "shortName": "Neos Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_224",
+      "code": "IT_198",
       "name": "Banca Intesa (1998-2007)",
       "shortName": "Banca Intesa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_225",
+      "code": "IT_199",
       "name": "Banca Lombarda e Piemontese (1998-2007)",
       "shortName": "Banca Lombarda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_226",
+      "code": "IT_200",
       "name": "Sanpaolo IMI (1998-2007)",
       "shortName": "Sanpaolo IMI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_227",
+      "code": "IT_201",
       "name": "Banco di Brescia (1999-2017)",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_228",
+      "code": "IT_202",
       "name": "Bipop Carire (1999-2008)",
       "shortName": "Bipop Carire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_229",
+      "code": "IT_203",
       "name": "Banca Popolare di Mantova (2000-2016)",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_230",
+      "code": "IT_204",
       "name": "Cardine Banca (2000-2002)",
       "shortName": "Cardine Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_231",
+      "code": "IT_205",
       "name": "Capitalia (2002-2008)",
       "shortName": "Capitalia (2002-2008)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_232",
+      "code": "IT_206",
       "name": "UniCredit Banca (2002-2010)",
       "shortName": "UniCredit Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_233",
+      "code": "IT_207",
       "name": "Cassa di Risparmio del Friuli Venezia Giulia (2003-2018)",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_234",
-      "name": "History of banking in Italy",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_235",
+      "code": "IT_208",
       "name": "Bank of Italy",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_236",
-      "name": "European Central Bank",
-      "shortName": "European Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_237",
+      "code": "IT_209",
       "name": "Banca del Mezzogiorno – MedioCredito Centrale",
       "shortName": "Banca del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_238",
-      "name": "Istituto per il Credito Sportivo",
-      "shortName": "Istituto per",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_239",
+      "code": "IT_210",
       "name": "Banca Mediocredito del Friuli Venezia Giulia",
       "shortName": "Banca Mediocredito",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_240",
+      "code": "IT_211",
       "name": "Finaosta",
       "shortName": "Finaosta",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_241",
+      "code": "IT_212",
       "name": "Fincalabra",
       "shortName": "Fincalabra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_242",
+      "code": "IT_213",
       "name": "Finlombarda",
       "shortName": "Finlombarda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_243",
+      "code": "IT_214",
       "name": "Finmolise",
       "shortName": "Finmolise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_244",
+      "code": "IT_215",
       "name": "Finpiemonte",
       "shortName": "Finpiemonte",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_245",
+      "code": "IT_216",
       "name": "Fidi Toscana",
       "shortName": "Fidi Toscana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_246",
+      "code": "IT_217",
       "name": "FIRA",
       "shortName": "FIRA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_247",
+      "code": "IT_218",
       "name": "Gepafin",
       "shortName": "Gepafin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_248",
+      "code": "IT_219",
       "name": "IRFIS – FinSicilia",
       "shortName": "IRFIS –",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_249",
+      "code": "IT_220",
       "name": "Sviluppo Basilicata",
       "shortName": "Sviluppo Basilicata",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_250",
+      "code": "IT_221",
       "name": "SFIRS",
       "shortName": "SFIRS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_251",
+      "code": "IT_222",
       "name": "Veneto Sviluppo",
       "shortName": "Veneto Sviluppo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_252",
+      "code": "IT_223",
       "name": "FarBanca",
       "shortName": "FarBanca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_253",
+      "code": "IT_224",
       "name": "Banca Intermobiliare",
       "shortName": "Banca Intermobiliare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_254",
+      "code": "IT_225",
       "name": "Mooney",
       "shortName": "Mooney",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_255",
+      "code": "IT_226",
       "name": "Banca 5",
       "shortName": "Banca 5",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_256",
+      "code": "IT_227",
       "name": "Banca IMI",
       "shortName": "Banca IMI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_257",
+      "code": "IT_228",
       "name": "Mediocredito Italiano",
       "shortName": "Mediocredito Italiano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_258",
+      "code": "IT_229",
       "name": "Banca Apulia",
       "shortName": "Banca Apulia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_259",
+      "code": "IT_230",
       "name": "UBI Banca",
       "shortName": "UBI Banca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_260",
+      "code": "IT_231",
       "name": "Banca Popolare di Milano",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_261",
+      "code": "IT_232",
       "name": "Mediobanca",
       "shortName": "Mediobanca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_262",
+      "code": "IT_233",
       "name": "Banca di Sassari",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_263",
+      "code": "IT_234",
       "name": "Banca Popolare di Sondrio",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_264",
+      "code": "IT_235",
       "name": "Credito Emiliano",
       "shortName": "Credito Emiliano",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_265",
-      "name": "Banca Mediolanum",
-      "shortName": "Banca Mediolanum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_266",
+      "code": "IT_236",
       "name": "Banca Patrimoni Sella",
       "shortName": "Banca Patrimoni",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_267",
+      "code": "IT_237",
       "name": "Südtiroler Volksbank – Banca Popolare dell'Alto Adige",
       "shortName": "Südtiroler Volksbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_268",
+      "code": "IT_238",
       "name": "Südtiroler Sparkasse – Cassa di Risparmio di Bolzano",
       "shortName": "Südtiroler Sparkasse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_269",
+      "code": "IT_239",
       "name": "Banca Agricola Popolare di Ragusa",
       "shortName": "Banca Agricola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_270",
+      "code": "IT_240",
       "name": "Banca Valsabbina",
       "shortName": "Banca Valsabbina",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_271",
-      "name": "Banca Popolare di Puglia e Basilicata",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_272",
+      "code": "IT_241",
       "name": "Banca Popolare di Cividale",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_273",
-      "name": "Banca Popolare Pugliese",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_274",
+      "code": "IT_242",
       "name": "Banca di Piacenza",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_275",
-      "name": "Banca di Credito Popolare",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_276",
-      "name": "Banca Popolare del Lazio",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_277",
-      "name": "Banca Popolare del Cassinate",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_278",
+      "code": "IT_243",
       "name": "Banca Popolare Valconca",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_279",
+      "code": "IT_244",
       "name": "Banca Popolare Etica",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_280",
+      "code": "IT_245",
       "name": "Banca Popolare Sant'Angelo",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_281",
-      "name": "Sanfelice 1893 Banca Popolare",
-      "shortName": "Sanfelice 1893",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_282",
-      "name": "Banca Popolare di Lajatico",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_283",
-      "name": "Banca Popolare di Fondi",
-      "shortName": "Banca Popolare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_284",
+      "code": "IT_246",
       "name": "Banca Popolare del Frusinate",
       "shortName": "Banca Popolare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_285",
+      "code": "IT_247",
       "name": "Federcasse",
       "shortName": "Federcasse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_286",
+      "code": "IT_248",
       "name": "BCC Iccrea Group",
       "shortName": "BCC Iccrea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_287",
+      "code": "IT_249",
       "name": "Gruppo Cassa Centrale Banca",
       "shortName": "Gruppo Cassa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_288",
+      "code": "IT_250",
       "name": "South Tyrolean Raiffeisen Group",
       "shortName": "South Tyrolean",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_289",
+      "code": "IT_251",
       "name": "Fondo di Garanzia dei Depositanti del Credito Cooperativo",
       "shortName": "Fondo di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_290",
-      "name": "Banca di Imola",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_291",
+      "code": "IT_252",
       "name": "Banca di Cambiano",
       "shortName": "Banca di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_292",
+      "code": "IT_253",
       "name": "Cassa di Risparmio di Cento",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_293",
+      "code": "IT_254",
       "name": "ChiantiBanca",
       "shortName": "ChiantiBanca",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_294",
+      "code": "IT_255",
       "name": "Cassa Padana",
       "shortName": "Cassa Padana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_295",
-      "name": "Cassa di Risparmio di Volterra",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_296",
+      "code": "IT_256",
       "name": "Cassa di Risparmio di Fossano",
       "shortName": "Cassa di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_297",
+      "code": "IT_257",
       "name": "Banca del Fucino",
       "shortName": "Banca del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_298",
-      "name": "Cassa di Risparmio di Fermo",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_299",
+      "code": "IT_258",
       "name": "Banca del Piemonte",
       "shortName": "Banca del",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_300",
+      "code": "IT_259",
       "name": "Banca CR Savigliano",
       "shortName": "Banca CR",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_301",
+      "code": "IT_260",
       "name": "Banco Azzoaglio",
       "shortName": "Banco Azzoaglio",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_302",
+      "code": "IT_261",
       "name": "Banca Generali",
       "shortName": "Banca Generali",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_303",
+      "code": "IT_262",
       "name": "Banca IFIS",
       "shortName": "Banca IFIS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_304",
+      "code": "IT_263",
       "name": "Banca Finnat",
       "shortName": "Banca Finnat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_305",
+      "code": "IT_264",
       "name": "Banca Ubae",
       "shortName": "Banca Ubae",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_306",
+      "code": "IT_265",
       "name": "Banca Farmafactoring",
       "shortName": "Banca Farmafactoring",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_307",
+      "code": "IT_266",
       "name": "FinecoBank",
       "shortName": "FinecoBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_308",
+      "code": "IT_267",
       "name": "Unione Fiduciaria",
       "shortName": "Unione Fiduciaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_309",
+      "code": "IT_268",
       "name": "Credito Fondiario",
       "shortName": "Credito Fondiario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_310",
+      "code": "IT_269",
       "name": "Banca Passadore",
       "shortName": "Banca Passadore",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_311",
+      "code": "IT_270",
       "name": "Banca Sistema",
       "shortName": "Banca Sistema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_312",
+      "code": "IT_271",
       "name": "Banca Profilo",
       "shortName": "Banca Profilo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_313",
+      "code": "IT_272",
       "name": "Setefi",
       "shortName": "Setefi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_314",
+      "code": "IT_273",
       "name": "Barclays",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_315",
+      "code": "IT_274",
       "name": "Banco Santander",
       "shortName": "Banco Santander",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_316",
+      "code": "IT_275",
       "name": "Bank of Communications",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_317",
+      "code": "IT_276",
       "name": "China Construction Bank",
       "shortName": "China Construction",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_318",
+      "code": "IT_277",
       "name": "Carispezia",
       "shortName": "Carispezia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_319",
+      "code": "IT_278",
       "name": "FriulAdria",
       "shortName": "FriulAdria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_320",
+      "code": "IT_279",
       "name": "Credito Valtellinese",
       "shortName": "Credito Valtellinese",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_321",
+      "code": "IT_280",
       "name": "Crédit Agricole Corporate and Investment Bank",
       "shortName": "Crédit Agricole",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_322",
+      "code": "IT_281",
       "name": "FCA Bank",
       "shortName": "FCA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_323",
+      "code": "IT_282",
       "name": "Credit Suisse",
       "shortName": "Credit Suisse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_324",
+      "code": "IT_283",
       "name": "HSBC",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_325",
+      "code": "IT_284",
       "name": "ING Bank",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_326",
+      "code": "IT_285",
       "name": "Industrial and Commercial Bank of China",
       "shortName": "Industrial and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_327",
+      "code": "IT_286",
       "name": "Société Générale",
       "shortName": "Société Générale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_328",
+      "code": "IT_287",
       "name": "Bank of Saint George",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_329",
+      "code": "IT_288",
       "name": "Banca Leonardo",
       "shortName": "Banca Leonardo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_330",
+      "code": "IT_289",
       "name": "Banco di Santo Spirito",
       "shortName": "Banco di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_331",
+      "code": "IT_290",
       "name": "Istituto Bancario San Paolo di Torino",
       "shortName": "Istituto Bancario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_332",
+      "code": "IT_291",
       "name": "Medici Bank",
       "shortName": "Medici",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_333",
+      "code": "IT_292",
       "name": "Foggia",
       "shortName": "Foggia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_334",
+      "code": "IT_293",
       "name": "Parma",
       "shortName": "Parma",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_335",
+      "code": "IT_294",
       "name": "Perugia",
       "shortName": "Perugia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_336",
+      "code": "IT_295",
       "name": "Reggio Emilia",
       "shortName": "Reggio Emilia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_337",
+      "code": "IT_296",
       "name": "Treviso",
       "shortName": "Treviso",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_338",
+      "code": "IT_297",
       "name": "Udine",
       "shortName": "Udine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_339",
+      "code": "IT_298",
       "name": "Verona",
       "shortName": "Verona",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_340",
+      "code": "IT_299",
       "name": "Vicenza",
       "shortName": "Vicenza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_341",
+      "code": "IT_300",
       "name": "Associazione Bancaria Italiana",
       "shortName": "Associazione Bancaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_342",
+      "code": "IT_301",
       "name": "Associazione di Fondazioni e di Casse di Risparmio S.p.A.",
       "shortName": "Associazione di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_343",
+      "code": "IT_302",
       "name": "Associazione Nazionale fra le Banche Popolari",
       "shortName": "Associazione Nazionale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_344",
+      "code": "IT_303",
       "name": "Fondo Interbancario di Tutela dei Depositi",
       "shortName": "Fondo Interbancario",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_345",
+      "code": "IT_304",
       "name": "Italian National Resolution Fund",
       "shortName": "Italian National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_346",
+      "code": "IT_305",
       "name": "Unità di Informazione Finanziaria",
       "shortName": "Unità di",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_347",
-      "name": "Timeline of Italian history",
-      "shortName": "Timeline of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_348",
+      "code": "IT_306",
       "name": "Citizenship",
       "shortName": "Citizenship",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_349",
+      "code": "IT_307",
       "name": "Currency and coinage",
       "shortName": "Currency and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_350",
+      "code": "IT_308",
       "name": "Economy",
       "shortName": "Economy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_351",
+      "code": "IT_309",
       "name": "Fashion",
       "shortName": "Fashion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_352",
-      "name": "Flags",
-      "shortName": "Flags",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_353",
+      "code": "IT_310",
       "name": "Genetic",
       "shortName": "Genetic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_354",
+      "code": "IT_311",
       "name": "Historic states",
       "shortName": "Historic states",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_355",
+      "code": "IT_312",
       "name": "Judaism",
       "shortName": "Judaism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_356",
+      "code": "IT_313",
       "name": "LGBTQ",
       "shortName": "LGBTQ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_357",
-      "name": "Military",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_358",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_359",
+      "code": "IT_314",
       "name": "Name",
       "shortName": "Name",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_360",
+      "code": "IT_315",
       "name": "Postage",
       "shortName": "Postage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_361",
+      "code": "IT_316",
       "name": "Railways",
       "shortName": "Railways",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_362",
+      "code": "IT_317",
       "name": "Villanovan",
       "shortName": "Villanovan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_363",
+      "code": "IT_318",
       "name": "Terramare",
       "shortName": "Terramare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_364",
+      "code": "IT_319",
       "name": "Rinaldone",
       "shortName": "Rinaldone",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_365",
-      "name": "Apennine",
-      "shortName": "Apennine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_366",
-      "name": "Nuragic",
-      "shortName": "Nuragic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_367",
-      "name": "Golasecca",
-      "shortName": "Golasecca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_368",
-      "name": "Canegrate",
-      "shortName": "Canegrate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_369",
-      "name": "Latial",
-      "shortName": "Latial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_370",
-      "name": "Osci",
-      "shortName": "Osci",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_371",
-      "name": "Picentes",
-      "shortName": "Picentes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_372",
-      "name": "Samnites",
-      "shortName": "Samnites",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_373",
-      "name": "Umbri",
-      "shortName": "Umbri",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_374",
-      "name": "Veneti",
-      "shortName": "Veneti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_375",
-      "name": "Etruscans",
-      "shortName": "Etruscans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_376",
-      "name": "Celts",
-      "shortName": "Celts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_377",
-      "name": "Magna Graecia",
-      "shortName": "Magna Graecia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_378",
-      "name": "Ligures",
-      "shortName": "Ligures",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_379",
-      "name": "Messapians",
-      "shortName": "Messapians",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_380",
-      "name": "Republic",
-      "shortName": "Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_381",
-      "name": "Roman conquest",
-      "shortName": "Roman conquest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_382",
-      "name": "Roman Italy",
-      "shortName": "Roman Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_383",
-      "name": "Ostrogoths",
-      "shortName": "Ostrogoths",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_384",
-      "name": "Byzantium",
-      "shortName": "Byzantium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_385",
-      "name": "Lombards",
-      "shortName": "Lombards",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_386",
-      "name": "Papal States",
-      "shortName": "Papal States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_387",
-      "name": "the Holy Roman Empire",
-      "shortName": "the Holy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_388",
-      "name": "the Sardinian Judicates",
-      "shortName": "the Sardinian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_389",
-      "name": "Arabs",
-      "shortName": "Arabs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_390",
-      "name": "Normans",
-      "shortName": "Normans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_391",
-      "name": "Guelphs and Ghibellines",
-      "shortName": "Guelphs and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_392",
-      "name": "Lombard League",
-      "shortName": "Lombard League",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_393",
-      "name": "Kingdom of Naples",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_394",
-      "name": "Siena",
-      "shortName": "Siena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_395",
-      "name": "Milan",
-      "shortName": "Milan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_396",
-      "name": "Genoa",
-      "shortName": "Genoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_397",
-      "name": "Pisa",
-      "shortName": "Pisa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_398",
-      "name": "Amalfi",
-      "shortName": "Amalfi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_399",
-      "name": "Kingdom of Sardinia",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_400",
-      "name": "Grand Duchy of Tuscany",
-      "shortName": "Grand Duchy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_401",
-      "name": "Duchy of Savoy",
-      "shortName": "Duchy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_402",
-      "name": "Early Modern period",
-      "shortName": "Early Modern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_403",
-      "name": "Napoleonic Italy",
-      "shortName": "Napoleonic Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_404",
-      "name": "Austrian occupation and Kingdom of Lombardy-Venetia",
-      "shortName": "Austrian occupation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_405",
-      "name": "Kingdom of the Two Sicilies",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_406",
-      "name": "Second War of Independence",
-      "shortName": "Second War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_407",
-      "name": "Niçard exodus",
-      "shortName": "Niçard exodus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_408",
-      "name": "Expedition of the Thousand",
-      "shortName": "Expedition of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_409",
-      "name": "Proclamation of the Kingdom of Italy",
-      "shortName": "Proclamation of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_410",
-      "name": "Third War of Independence",
-      "shortName": "Third War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_411",
-      "name": "Capture of Rome",
-      "shortName": "Capture of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_412",
-      "name": "Colonial Empire",
-      "shortName": "Colonial Empire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_413",
-      "name": "Fascist Italy",
-      "shortName": "Fascist Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_414",
-      "name": "World War II",
-      "shortName": "World War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_415",
-      "name": "Fall of the Fascist regime",
-      "shortName": "Fall of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_416",
-      "name": "Resistance and Social Republic",
-      "shortName": "Resistance and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_417",
-      "name": "Civil War",
-      "shortName": "Civil War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_418",
-      "name": "Istrian–Dalmatian exodus",
-      "shortName": "Istrian–Dalmatian exodus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_419",
-      "name": "Economic Boom",
-      "shortName": "Economic Boom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_420",
-      "name": "Years of Lead",
-      "shortName": "Years of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_421",
-      "name": "Maxi Trial",
-      "shortName": "Maxi Trial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_422",
-      "name": "Mani pulite",
-      "shortName": "Mani pulite",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_423",
-      "name": "Coronavirus pandemic",
-      "shortName": "Coronavirus pandemic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_424",
-      "name": "Italian geographical region",
-      "shortName": "Italian geographical",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_425",
-      "name": "Peninsula",
-      "shortName": "Peninsula",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_426",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_427",
-      "name": "Fauna",
-      "shortName": "Fauna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_428",
-      "name": "Flora",
-      "shortName": "Flora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_429",
-      "name": "Alps",
-      "shortName": "Alps",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_430",
+      "code": "IT_320",
       "name": "Apennines",
       "shortName": "Apennines",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_431",
+      "code": "IT_321",
+      "name": "Nuragic",
+      "shortName": "Nuragic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_322",
+      "name": "Golasecca",
+      "shortName": "Golasecca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_323",
+      "name": "Canegrate",
+      "shortName": "Canegrate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_324",
+      "name": "Latial",
+      "shortName": "Latial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_325",
+      "name": "Osci",
+      "shortName": "Osci",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_326",
+      "name": "Picentes",
+      "shortName": "Picentes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_327",
+      "name": "Samnites",
+      "shortName": "Samnites",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_328",
+      "name": "Umbri",
+      "shortName": "Umbri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_329",
+      "name": "Veneti",
+      "shortName": "Veneti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_330",
+      "name": "Etruscans",
+      "shortName": "Etruscans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_331",
+      "name": "Celts",
+      "shortName": "Celts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_332",
+      "name": "Magna Graecia",
+      "shortName": "Magna Graecia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_333",
+      "name": "Ligures",
+      "shortName": "Ligures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_334",
+      "name": "Messapians",
+      "shortName": "Messapians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_335",
+      "name": "Republic",
+      "shortName": "Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_336",
+      "name": "Roman conquest",
+      "shortName": "Roman conquest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_337",
+      "name": "Roman Italy",
+      "shortName": "Roman Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_338",
+      "name": "Ostrogoths",
+      "shortName": "Ostrogoths",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_339",
+      "name": "Byzantium",
+      "shortName": "Byzantium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_340",
+      "name": "Lombards",
+      "shortName": "Lombards",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_341",
+      "name": "Papal States",
+      "shortName": "Papal States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_342",
+      "name": "the Holy Roman Empire",
+      "shortName": "the Holy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_343",
+      "name": "the Sardinian Judicates",
+      "shortName": "the Sardinian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_344",
+      "name": "Arabs",
+      "shortName": "Arabs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_345",
+      "name": "Normans",
+      "shortName": "Normans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_346",
+      "name": "Guelphs and Ghibellines",
+      "shortName": "Guelphs and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_347",
+      "name": "Lombard League",
+      "shortName": "Lombard League",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_348",
+      "name": "Kingdom of Naples",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_349",
+      "name": "Siena",
+      "shortName": "Siena",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_350",
+      "name": "Milan",
+      "shortName": "Milan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_351",
+      "name": "Genoa",
+      "shortName": "Genoa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_352",
+      "name": "Pisa",
+      "shortName": "Pisa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_353",
+      "name": "Amalfi",
+      "shortName": "Amalfi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_354",
+      "name": "Kingdom of Sardinia",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_355",
+      "name": "Grand Duchy of Tuscany",
+      "shortName": "Grand Duchy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_356",
+      "name": "Duchy of Savoy",
+      "shortName": "Duchy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_357",
+      "name": "Early Modern period",
+      "shortName": "Early Modern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_358",
+      "name": "Napoleonic Italy",
+      "shortName": "Napoleonic Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_359",
+      "name": "Austrian occupation and Kingdom of Lombardy-Venetia",
+      "shortName": "Austrian occupation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_360",
+      "name": "Kingdom of the Two Sicilies",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_361",
+      "name": "Second War of Independence",
+      "shortName": "Second War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_362",
+      "name": "Niçard exodus",
+      "shortName": "Niçard exodus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_363",
+      "name": "Expedition of the Thousand",
+      "shortName": "Expedition of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_364",
+      "name": "Proclamation of the Kingdom of Italy",
+      "shortName": "Proclamation of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_365",
+      "name": "Third War of Independence",
+      "shortName": "Third War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_366",
+      "name": "Capture of Rome",
+      "shortName": "Capture of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_367",
+      "name": "Colonial Empire",
+      "shortName": "Colonial Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_368",
+      "name": "Fascist Italy",
+      "shortName": "Fascist Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_369",
+      "name": "World War II",
+      "shortName": "World War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_370",
+      "name": "Fall of the Fascist regime",
+      "shortName": "Fall of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_371",
+      "name": "Resistance and Social Republic",
+      "shortName": "Resistance and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_372",
+      "name": "Civil War",
+      "shortName": "Civil War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_373",
+      "name": "Istrian–Dalmatian exodus",
+      "shortName": "Istrian–Dalmatian exodus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_374",
+      "name": "Economic Boom",
+      "shortName": "Economic Boom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_375",
+      "name": "Years of Lead",
+      "shortName": "Years of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_376",
+      "name": "Maxi Trial",
+      "shortName": "Maxi Trial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_377",
+      "name": "Mani pulite",
+      "shortName": "Mani pulite",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_378",
+      "name": "Coronavirus pandemic",
+      "shortName": "Coronavirus pandemic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_379",
+      "name": "Italian geographical region",
+      "shortName": "Italian geographical",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_380",
+      "name": "Peninsula",
+      "shortName": "Peninsula",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_381",
+      "name": "Fauna",
+      "shortName": "Fauna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_382",
+      "name": "Flora",
+      "shortName": "Flora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_383",
+      "name": "Alps",
+      "shortName": "Alps",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IT_384",
       "name": "Beaches",
       "shortName": "Beaches",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_432",
+      "code": "IT_385",
       "name": "Canals",
       "shortName": "Canals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_433",
+      "code": "IT_386",
       "name": "Caves",
       "shortName": "Caves",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_434",
+      "code": "IT_387",
       "name": "Earthquakes",
       "shortName": "Earthquakes",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_435",
+      "code": "IT_388",
       "name": "Islands",
       "shortName": "Islands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_436",
-      "name": "Lakes",
-      "shortName": "Lakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_437",
+      "code": "IT_389",
       "name": "Marine protected areas",
       "shortName": "Marine protected",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_438",
+      "code": "IT_390",
       "name": "National parks",
       "shortName": "National parks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_439",
+      "code": "IT_391",
       "name": "Regional parks",
       "shortName": "Regional parks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_440",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_441",
+      "code": "IT_392",
       "name": "Valleys",
       "shortName": "Valleys",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_442",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_443",
-      "name": "Elections",
-      "shortName": "Elections",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_444",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_445",
+      "code": "IT_393",
       "name": "Government",
       "shortName": "Government",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_446",
+      "code": "IT_394",
       "name": "Judiciary",
       "shortName": "Judiciary",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_447",
+      "code": "IT_395",
       "name": "Law",
       "shortName": "Law",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_448",
-      "name": "Law enforcement",
-      "shortName": "Law enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_449",
+      "code": "IT_396",
       "name": "Nationality",
       "shortName": "Nationality",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_450",
+      "code": "IT_397",
       "name": "Parliament",
       "shortName": "Parliament",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_451",
+      "code": "IT_398",
       "name": "Political parties",
       "shortName": "Political parties",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_452",
+      "code": "IT_399",
       "name": "President (List)",
       "shortName": "President (List)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_453",
+      "code": "IT_400",
       "name": "Prime Minister (List)",
       "shortName": "Prime Minister",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_454",
+      "code": "IT_401",
       "name": "Council of Ministers",
       "shortName": "Council of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_455",
+      "code": "IT_402",
       "name": "Regions",
       "shortName": "Regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_456",
+      "code": "IT_403",
       "name": "Provinces",
       "shortName": "Provinces",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_457",
+      "code": "IT_404",
       "name": "Metropolitan cities",
       "shortName": "Metropolitan cities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_458",
+      "code": "IT_405",
       "name": "Cities",
       "shortName": "Cities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_459",
+      "code": "IT_406",
       "name": "Comune",
       "shortName": "Comune",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_460",
+      "code": "IT_407",
       "name": "Municipalities",
       "shortName": "Municipalities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_461",
+      "code": "IT_408",
       "name": "Security and intelligence",
       "shortName": "Security and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_462",
+      "code": "IT_409",
       "name": "Italian regions by GDP",
       "shortName": "Italian regions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_463",
+      "code": "IT_410",
       "name": "Agriculture",
       "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_464",
+      "code": "IT_411",
       "name": "Automotive industry",
       "shortName": "Automotive industry",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_465",
+      "code": "IT_412",
       "name": "Central Bank",
       "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_466",
+      "code": "IT_413",
       "name": "Brands",
       "shortName": "Brands",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_467",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_468",
+      "code": "IT_414",
       "name": "Energy",
       "shortName": "Energy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_469",
+      "code": "IT_415",
       "name": "Exports",
       "shortName": "Exports",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_470",
+      "code": "IT_416",
       "name": "Science and technology",
       "shortName": "Science and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_471",
+      "code": "IT_417",
       "name": "Southern question",
       "shortName": "Southern question",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_472",
+      "code": "IT_418",
       "name": "Stock exchange",
       "shortName": "Stock exchange",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_473",
-      "name": "Taxation",
-      "shortName": "Taxation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_474",
+      "code": "IT_419",
       "name": "Telecommunications",
       "shortName": "Telecommunications",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_475",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_476",
+      "code": "IT_420",
       "name": "Trade unions",
       "shortName": "Trade unions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_477",
+      "code": "IT_421",
       "name": "rail",
       "shortName": "rail",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_478",
+      "code": "IT_422",
       "name": "road",
       "shortName": "road",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_479",
+      "code": "IT_423",
       "name": "Welfare",
       "shortName": "Welfare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_480",
+      "code": "IT_424",
       "name": "Wine",
       "shortName": "Wine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_481",
+      "code": "IT_425",
       "name": "Aristocracy",
       "shortName": "Aristocracy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_482",
+      "code": "IT_426",
       "name": "Censorship",
       "shortName": "Censorship",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_483",
+      "code": "IT_427",
       "name": "Corruption",
       "shortName": "Corruption",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_484",
+      "code": "IT_428",
       "name": "Crime",
       "shortName": "Crime",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_485",
+      "code": "IT_429",
       "name": "Demographics",
       "shortName": "Demographics",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_486",
+      "code": "IT_430",
       "name": "Education",
       "shortName": "Education",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_487",
+      "code": "IT_431",
       "name": "Emigration and diaspora",
       "shortName": "Emigration and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_488",
+      "code": "IT_432",
       "name": "Gambling",
       "shortName": "Gambling",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_489",
+      "code": "IT_433",
       "name": "Health",
       "shortName": "Health",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_490",
+      "code": "IT_434",
       "name": "Healthcare",
       "shortName": "Healthcare",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_491",
+      "code": "IT_435",
       "name": "Immigration",
       "shortName": "Immigration",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_492",
+      "code": "IT_436",
       "name": "Inventions and discoveries",
       "shortName": "Inventions and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_493",
+      "code": "IT_437",
       "name": "Life expectancy",
       "shortName": "Life expectancy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_494",
+      "code": "IT_438",
       "name": "Orders, decorations, and medals",
       "shortName": "Orders, decorations,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_495",
+      "code": "IT_439",
       "name": "Poverty",
       "shortName": "Poverty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_496",
+      "code": "IT_440",
       "name": "Prostitution",
       "shortName": "Prostitution",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_497",
+      "code": "IT_441",
       "name": "Public administration",
       "shortName": "Public administration",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_498",
+      "code": "IT_442",
       "name": "Racism",
       "shortName": "Racism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_499",
+      "code": "IT_443",
       "name": "Religion",
       "shortName": "Religion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_500",
+      "code": "IT_444",
       "name": "Social class",
       "shortName": "Social class",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_501",
+      "code": "IT_445",
       "name": "Terrorism",
       "shortName": "Terrorism",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_502",
+      "code": "IT_446",
       "name": "Water supply and sanitation",
       "shortName": "Water supply",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_503",
+      "code": "IT_447",
       "name": "Women",
       "shortName": "Women",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_504",
+      "code": "IT_448",
       "name": "Duecento",
       "shortName": "Duecento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_505",
+      "code": "IT_449",
       "name": "Trecento",
       "shortName": "Trecento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_506",
+      "code": "IT_450",
       "name": "Quattrocento",
       "shortName": "Quattrocento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_507",
+      "code": "IT_451",
       "name": "Cinquecento",
       "shortName": "Cinquecento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_508",
+      "code": "IT_452",
       "name": "Seicento",
       "shortName": "Seicento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_509",
+      "code": "IT_453",
       "name": "Settecento",
       "shortName": "Settecento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_510",
+      "code": "IT_454",
       "name": "Ottocento",
       "shortName": "Ottocento",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_511",
+      "code": "IT_455",
       "name": "Anthem",
       "shortName": "Anthem",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_512",
+      "code": "IT_456",
       "name": "Architecture",
       "shortName": "Architecture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_513",
+      "code": "IT_457",
       "name": "Art",
       "shortName": "Art",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_514",
+      "code": "IT_458",
       "name": "Castles",
       "shortName": "Castles",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_515",
+      "code": "IT_459",
       "name": "Cathedrals",
       "shortName": "Cathedrals",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_516",
+      "code": "IT_460",
       "name": "Cinema",
       "shortName": "Cinema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_517",
+      "code": "IT_461",
       "name": "Coat of arm",
       "shortName": "Coat of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_518",
-      "name": "Cuisine",
-      "shortName": "Cuisine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_519",
+      "code": "IT_462",
       "name": "Design",
       "shortName": "Design",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_520",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_521",
+      "code": "IT_463",
       "name": "Folklore",
       "shortName": "Folklore",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_522",
+      "code": "IT_464",
       "name": "Gardens",
       "shortName": "Gardens",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_523",
+      "code": "IT_465",
       "name": "Internet",
       "shortName": "Internet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_524",
+      "code": "IT_466",
       "name": "Italophilia",
       "shortName": "Italophilia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_525",
+      "code": "IT_467",
       "name": "Libraries",
       "shortName": "Libraries",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_526",
+      "code": "IT_468",
       "name": "Literature",
       "shortName": "Literature",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_527",
+      "code": "IT_469",
       "name": "Media",
       "shortName": "Media",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_528",
+      "code": "IT_470",
       "name": "Museums",
       "shortName": "Museums",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_529",
+      "code": "IT_471",
       "name": "Mythology",
       "shortName": "Mythology",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_530",
+      "code": "IT_472",
       "name": "National symbols",
       "shortName": "National symbols",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_531",
+      "code": "IT_473",
       "name": "Palaces",
       "shortName": "Palaces",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_532",
+      "code": "IT_474",
       "name": "Philosophy",
       "shortName": "Philosophy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_533",
+      "code": "IT_475",
       "name": "Public holidays",
       "shortName": "Public holidays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_534",
-      "name": "Sport",
-      "shortName": "Sport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_535",
+      "code": "IT_476",
       "name": "Television",
       "shortName": "Television",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_536",
+      "code": "IT_477",
       "name": "Theatre",
       "shortName": "Theatre",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_537",
+      "code": "IT_478",
       "name": "Traditions",
       "shortName": "Traditions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_538",
+      "code": "IT_479",
       "name": "World Heritage Sites",
       "shortName": "World Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_539",
-      "name": "&#160;Italy&#32;portal",
-      "shortName": "&#160;Italy&#32;portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_540",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_541",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_542",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_543",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_544",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_545",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_546",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_547",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_548",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_549",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_550",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_551",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_552",
+      "code": "IT_480",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_553",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_554",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_555",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_556",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_557",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_558",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_559",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_560",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_561",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_562",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_563",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_564",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_565",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_566",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_567",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_568",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_569",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_570",
+      "code": "IT_481",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_571",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_572",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_573",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_574",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_575",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_576",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_577",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_578",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_579",
+      "code": "IT_482",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IT_580",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_581",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_582",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_583",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_584",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_585",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_586",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_587",
+      "code": "IT_483",
       "name": "Turkey",
       "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_588",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_589",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_590",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_591",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_592",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_593",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_594",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_595",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_596",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_597",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_598",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_599",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_600",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_601",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_602",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_603",
-      "name": "Lists of companies of Italy",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_604",
-      "name": "Banks of Italy",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_605",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_606",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IT_607",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

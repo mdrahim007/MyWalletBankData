@@ -4,35 +4,35 @@
   "country": "GP",
   "institutions": [
     {
-      "code": "CENBGP",
+      "code": "GP_0",
       "name": "Central Bank of GP",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGP",
+      "code": "GP_1",
       "name": "National Bank of GP",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGP",
+      "code": "GP_2",
       "name": "State Bank of GP",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGP",
+      "code": "GP_3",
       "name": "Commercial Bank of GP",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGP",
+      "code": "GP_4",
       "name": "First GP Bank",
       "shortName": "First Bank",
       "type": "bank",

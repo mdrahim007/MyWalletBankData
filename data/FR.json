@@ -117,1709 +117,1149 @@
     },
     {
       "code": "FR_16",
-      "name": "Caisse de Credit Municipal de Dijon",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_17",
-      "name": "Caisse de Credit Municipal de Lille",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_18",
-      "name": "Caisse de Credit Municipal de Lyon",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_19",
       "name": "Caisse de Credit Municipal de Marseille",
       "shortName": "Caisse de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_20",
+      "code": "FR_17",
       "name": "Caisse de Credit Municipal de Nancy",
       "shortName": "Caisse de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_21",
-      "name": "Caisse de Credit Municipal de Nantes",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_22",
-      "name": "Caisse de Credit Municipal de Nice",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_23",
-      "name": "Caisse de Credit Municipal de Nimes&#160;&#91;fr&#93;",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_24",
-      "name": "Credit Municipal de Paris&#160;&#91;fr&#93;",
-      "shortName": "Credit Municipal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_25",
-      "name": "Caisse de Credit Municipal de Reims",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_26",
-      "name": "Caisse de Credit Municipal de Roubaix",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_27",
-      "name": "Caisse de Credit Municipal de Strasbourg",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_28",
-      "name": "Caisse de Credit Municipal de Toulon",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_29",
+      "code": "FR_18",
       "name": "Caisse de Credit Municipal de Toulouse&#160;&#91;fr&#93;",
       "shortName": "Caisse de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_30",
+      "code": "FR_19",
+      "name": "Credit Municipal de Paris&#160;&#91;fr&#93;",
+      "shortName": "Credit Municipal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_20",
+      "name": "Caisse de Credit Municipal de Strasbourg",
+      "shortName": "Caisse de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_21",
       "name": "Allianz Banque, subsidiary of Allianz",
       "shortName": "Allianz Banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_31",
+      "code": "FR_22",
       "name": "Banque Chabrieres",
       "shortName": "Banque Chabrieres",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_32",
+      "code": "FR_23",
       "name": "Banque Delubac &amp; Cie&#160;&#91;fr&#93;",
       "shortName": "Banque Delubac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_33",
+      "code": "FR_24",
       "name": "Banque d'Escompte&#160;&#91;fr&#93;",
       "shortName": "Banque d'Escompte&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_34",
+      "code": "FR_25",
       "name": "Banque Fiducial&#160;&#91;fr&#93;",
       "shortName": "Banque Fiducial&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_35",
+      "code": "FR_26",
       "name": "Banque Francaise Mutualiste&#160;&#91;fr&#93;",
       "shortName": "Banque Francaise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_36",
+      "code": "FR_27",
       "name": "Banque Hottinguer&#160;&#91;fr&#93;",
       "shortName": "Banque Hottinguer&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_37",
+      "code": "FR_28",
       "name": "Banque Pouyanne",
       "shortName": "Banque Pouyanne",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_38",
+      "code": "FR_29",
       "name": "Carrefour Banque, subsidiary of Carrefour",
       "shortName": "Carrefour Banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_39",
-      "name": "CIF Euromortgage",
-      "shortName": "CIF Euromortgage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_40",
+      "code": "FR_30",
       "name": "Epargne Credit Des Militaires (ECM)",
       "shortName": "Epargne Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_41",
+      "code": "FR_31",
       "name": "IC Financial Services, subsidiary of Iveco",
       "shortName": "IC Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_42",
+      "code": "FR_32",
       "name": "Memo Bank SA, an online bank",
       "shortName": "Memo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_43",
+      "code": "FR_33",
       "name": "Groupe Cholet Dupont, owned by Milléis",
       "shortName": "Groupe Cholet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_44",
+      "code": "FR_34",
       "name": "Cholet Dupont Oudart, part of Groupe Cholet Dupont",
       "shortName": "Cholet Dupont",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_45",
+      "code": "FR_35",
       "name": "Mobilis banque, affiliate of Association Familiale Mulliez",
       "shortName": "Mobilis banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_46",
+      "code": "FR_36",
       "name": "Oddo BHF, subsidiary of Financière IDAT",
       "shortName": "Oddo BHF,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_47",
+      "code": "FR_37",
       "name": "Rothschild Martin Maurel, subsidiary of Rothschild &amp; Co",
       "shortName": "Rothschild Martin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_48",
+      "code": "FR_38",
       "name": "Société Financière de la Nef&#160;&#91;fr&#93;",
       "shortName": "Société Financière",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_49",
+      "code": "FR_39",
       "name": "Socram Banque, subsidiary of Macif",
       "shortName": "Socram Banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_50",
+      "code": "FR_40",
       "name": "Sofax Banque, subsidiary of TotalEnergies",
       "shortName": "Sofax Banque,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_51",
+      "code": "FR_41",
       "name": "Younited&#160;&#91;fr&#93;",
       "shortName": "Younited&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_52",
+      "code": "FR_42",
       "name": "Al Khaliji France, affiliate of Khaleeji Commercial Bank",
       "shortName": "Al Khaliji",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_53",
+      "code": "FR_43",
       "name": "Bank ABC",
       "shortName": "Bank ABC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_54",
+      "code": "FR_44",
       "name": "Bank Audi France, subsidiary of Bank Audi",
       "shortName": "Bank Audi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_55",
+      "code": "FR_45",
       "name": "Banque Banorient France, subsidiary of BLOM Bank",
       "shortName": "Banque Banorient",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_56",
+      "code": "FR_46",
       "name": "Chaabi Bank&#160;&#91;fr&#93;, subsidiary of BCP Group",
       "shortName": "Chaabi&#160;&#91;fr&#93;,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_57",
+      "code": "FR_47",
       "name": "Banque Nomura France, subsidiary of Nomura Securities",
       "shortName": "Banque Nomura",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_58",
+      "code": "FR_48",
       "name": "Banque SBA, subsidiary of Banque Libano-Française",
       "shortName": "Banque SBA,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_59",
-      "name": "BGFI Bank Europe, subsidiary of BGFIBank Group",
-      "shortName": "BGFI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_60",
+      "code": "FR_49",
       "name": "BOA France, subsidiary of Bank of Africa",
       "shortName": "BOA France,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_61",
+      "code": "FR_50",
       "name": "EBI SA, subsidiary of Ecobank Group",
       "shortName": "EBI SA,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_62",
-      "name": "Europe Arab bank SA, subsidiary of Arab Bank",
-      "shortName": "Europe Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_63",
+      "code": "FR_51",
       "name": "Fransabank France SA, subsidiary of Fransabank",
       "shortName": "Fransabank France",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_64",
+      "code": "FR_52",
       "name": "GE SCF, subsidiary of GE Aerospace",
       "shortName": "GE SCF,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_65",
+      "code": "FR_53",
       "name": "French branch of Klarna Bank AB",
       "shortName": "French branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_66",
+      "code": "FR_54",
       "name": "Loomis FX Gold and Services, subsidiary of Loomis",
       "shortName": "Loomis FX",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_67",
+      "code": "FR_55",
       "name": "French branch of Saxo Bank A/S",
       "shortName": "French branch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_68",
+      "code": "FR_56",
       "name": "Swisslife Banque Privée, subsidiary of Swiss Life",
       "shortName": "Swisslife Banque",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_69",
+      "code": "FR_57",
       "name": "Access Holdings",
       "shortName": "Access Holdings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_70",
+      "code": "FR_58",
       "name": "Australia and New Zealand Banking Group",
       "shortName": "Australia and",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_71",
+      "code": "FR_59",
       "name": "Bank of Africa",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_72",
+      "code": "FR_60",
       "name": "Bank of China",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_73",
+      "code": "FR_61",
       "name": "Bank of India",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_74",
+      "code": "FR_62",
       "name": "Bank Melli Iran",
       "shortName": "Bank Melli",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_75",
+      "code": "FR_63",
       "name": "Bank Saderat Iran",
       "shortName": "Bank Saderat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_76",
+      "code": "FR_64",
       "name": "Bank Sepah",
       "shortName": "Bank Sepah",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_77",
+      "code": "FR_65",
       "name": "Bank Tejarat",
       "shortName": "Bank Tejarat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_78",
+      "code": "FR_66",
       "name": "Banque Misr",
       "shortName": "Banque Misr",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_79",
+      "code": "FR_67",
       "name": "Barclays",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_80",
+      "code": "FR_68",
       "name": "Export–Import Bank of China",
       "shortName": "Export–Import",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_81",
+      "code": "FR_69",
       "name": "FCE Bank",
       "shortName": "FCE",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_82",
+      "code": "FR_70",
       "name": "First Abu Dhabi Bank",
       "shortName": "First Abu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_83",
+      "code": "FR_71",
       "name": "KEB Hana",
       "shortName": "KEB Hana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_84",
+      "code": "FR_72",
       "name": "JPMorgan Chase",
       "shortName": "JPMorgan Chase",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_85",
+      "code": "FR_73",
       "name": "Mega International Commercial Bank",
       "shortName": "Mega International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_86",
+      "code": "FR_74",
       "name": "Mitsubishi UFJ Financial Group",
       "shortName": "Mitsubishi UFJ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_87",
+      "code": "FR_75",
       "name": "Mizuho Financial Group",
       "shortName": "Mizuho Financial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_88",
+      "code": "FR_76",
       "name": "Qatar National Bank",
       "shortName": "Qatar National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_89",
+      "code": "FR_77",
       "name": "Royal Bank of Canada",
       "shortName": "Royal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_90",
+      "code": "FR_78",
       "name": "Sumitomo Mitsui Financial Group",
       "shortName": "Sumitomo Mitsui",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_91",
+      "code": "FR_79",
       "name": "John Law's Bank (1716-1723)",
       "shortName": "John Law's",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_92",
+      "code": "FR_80",
       "name": "Caisse d'Escompte (1776-1793)",
       "shortName": "Caisse d'Escompte",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_93",
+      "code": "FR_81",
       "name": "Caisse de l'Extraordinaire (1789-1793)",
       "shortName": "Caisse de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_94",
+      "code": "FR_82",
       "name": "Caisse des Comptes Courants&#160;&#91;fr&#93; (1796-1800)",
       "shortName": "Caisse des",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_95",
+      "code": "FR_83",
       "name": "Caisse d'Escompte du Commerce&#160;&#91;fr&#93; (1797-1803)",
       "shortName": "Caisse d'Escompte",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_96",
+      "code": "FR_84",
       "name": "Caisse de Garantie et d'Amortissement (1800-1816)",
       "shortName": "Caisse de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_97",
+      "code": "FR_85",
       "name": "Banques départementales (several banks, 1817-1848)",
       "shortName": "Banques départementales",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_98",
+      "code": "FR_86",
       "name": "Bank of Savoy (issuing in France 1860-1865)",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_99",
+      "code": "FR_87",
       "name": "Banque de l'Algérie (1851-1963)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_100",
+      "code": "FR_88",
       "name": "Banque du Sénégal / BAO / BIAO (1853-1991)",
       "shortName": "Banque du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_101",
+      "code": "FR_89",
       "name": "Banque de la Guadeloupe (1853-1967)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_102",
+      "code": "FR_90",
       "name": "Banque de la Martinique (1853-1967)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_103",
+      "code": "FR_91",
       "name": "Banque de la Réunion (1853-2016)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_104",
+      "code": "FR_92",
       "name": "Banque de la Guyane (1855-1964)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_105",
+      "code": "FR_93",
       "name": "Crédit Foncier Colonial&#160;&#91;fr&#93; (1860-1955)",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_106",
+      "code": "FR_94",
       "name": "Ottoman Bank (1863-1996)",
       "shortName": "Ottoman",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_107",
+      "code": "FR_95",
       "name": "Banque Franco-Égyptienne&#160;&#91;fr&#93; (1870-1889)",
       "shortName": "Banque Franco-Égyptienne&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_108",
+      "code": "FR_96",
       "name": "Banque de l'Indochine (1875-1975)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_109",
+      "code": "FR_97",
       "name": "Compagnie Algérienne (1877-1960)",
       "shortName": "Compagnie Algérienne",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_110",
+      "code": "FR_98",
       "name": "Crédit Foncier d'Algérie et de Tunisie (1880-1997)",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_111",
+      "code": "FR_99",
       "name": "Crédit Foncier Égyptien&#160;&#91;fr&#93; (1880-1999)",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_112",
+      "code": "FR_100",
       "name": "National Bank of Haiti (1881-1910)",
       "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_113",
+      "code": "FR_101",
       "name": "Banque des Îles Saint-Pierre-et-Miquelon (1889-2016)",
       "shortName": "Banque des",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_114",
+      "code": "FR_102",
       "name": "State Bank of Morocco (1907-1960)",
       "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_115",
+      "code": "FR_103",
       "name": "Banque Franco-Serbe (1910-1945)",
       "shortName": "Banque Franco-Serbe",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_116",
+      "code": "FR_104",
       "name": "Sudameris (1910-2003)",
       "shortName": "Sudameris (1910-2003)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_117",
+      "code": "FR_105",
       "name": "Banque Franco-Japonaise (1912-1945)",
       "shortName": "Banque Franco-Japonaise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_118",
+      "code": "FR_106",
       "name": "Banque Industrielle de Chine (1913-1921)",
       "shortName": "Banque Industrielle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_119",
+      "code": "FR_107",
       "name": "Banque de Syrie et du Liban (1919-2012)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_120",
+      "code": "FR_108",
       "name": "Société Financière Française et Coloniale (1920-1998)",
       "shortName": "Société Financière",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_121",
+      "code": "FR_109",
       "name": "Crédit Martiniquais (1922-1999)",
       "shortName": "Crédit Martiniquais",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_122",
+      "code": "FR_110",
       "name": "Crédit Foncier de l'Indochine (1923-1994)",
       "shortName": "Crédit Foncier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_123",
+      "code": "FR_111",
       "name": "Banque Franco-Chinoise (1922-1964)",
       "shortName": "Banque Franco-Chinoise",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_124",
+      "code": "FR_112",
       "name": "Cahorsins (13th-14th centuries)",
       "shortName": "Cahorsins (13th-14th",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_125",
+      "code": "FR_113",
       "name": "Caisse des Emprunts (1674-1683, 1702-1714)",
       "shortName": "Caisse des",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_126",
+      "code": "FR_114",
       "name": "Banque Mallet&#160;&#91;fr&#93; (1713-1966)",
       "shortName": "Banque Mallet&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_127",
+      "code": "FR_115",
       "name": "Banque Gouin&#160;&#91;fr&#93; (1714-1958)",
       "shortName": "Banque Gouin&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_128",
+      "code": "FR_116",
       "name": "Banque Girardot&#160;&#91;fr&#93; (c. 1737-1793)",
       "shortName": "Banque Girardot&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_129",
+      "code": "FR_117",
       "name": "Banque Courtois&#160;&#91;fr&#93; (1760-2023)",
       "shortName": "Banque Courtois&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_130",
+      "code": "FR_118",
       "name": "Banque Adam&#160;&#91;fr&#93; (1784-1930)",
       "shortName": "Banque Adam&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_131",
+      "code": "FR_119",
       "name": "Banque Monneron&#160;&#91;fr&#93; (1791-1792)",
       "shortName": "Banque Monneron&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_132",
+      "code": "FR_120",
       "name": "Banque Territoriale&#160;&#91;fr&#93; (1799-1803)",
       "shortName": "Banque Territoriale&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_133",
+      "code": "FR_121",
       "name": "Comptoir Commercial&#160;&#91;fr&#93; (1800-1813)",
       "shortName": "Comptoir Commercial&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_134",
+      "code": "FR_122",
       "name": "Banque Seillière-Demachy&#160;&#91;fr&#93; (1807-1999)",
       "shortName": "Banque Seillière-Demachy&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_135",
-      "name": "Banque Tarneaud&#160;&#91;fr&#93; (1809-2023)",
-      "shortName": "Banque Tarneaud&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_136",
-      "name": "Banque Rothschild (1817-1991)",
-      "shortName": "Banque Rothschild",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_137",
-      "name": "Banque Guilhot&#160;&#91;fr&#93; (1820-1976)",
-      "shortName": "Banque Guilhot&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_138",
-      "name": "Defoe Fournier &amp; Cie. (1824-2016)",
-      "shortName": "Defoe Fournier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_139",
-      "name": "Banque Joire&#160;&#91;fr&#93; (1826-1999)",
-      "shortName": "Banque Joire&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_140",
-      "name": "Banque Veuve Morin-Pons&#160;&#91;fr&#93; (1829-1996)",
-      "shortName": "Banque Veuve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_141",
-      "name": "Banque Hervet&#160;&#91;fr&#93; (1830-2008)",
-      "shortName": "Banque Hervet&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_142",
-      "name": "Banque Vernes&#160;&#91;fr&#93; (1830-1989)",
-      "shortName": "Banque Vernes&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_143",
-      "name": "Banque Stern (1835-1985)",
-      "shortName": "Banque Stern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_144",
-      "name": "Piganeau et fils&#160;&#91;fr&#93; (1835-1899)",
-      "shortName": "Piganeau et",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_145",
-      "name": "Banque de Baecque Beau (1837-2008)",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_146",
-      "name": "Banque Gil&#160;&#91;fr&#93; (1846-1896)",
-      "shortName": "Banque Gil&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_147",
-      "name": "Banque Scalbert-Dupont&#160;&#91;fr&#93; (1846-2006)",
-      "shortName": "Banque Scalbert-Dupont&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_148",
-      "name": "Comptoir National d'Escompte de Paris (1848-1966)",
-      "shortName": "Comptoir National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_149",
-      "name": "Comptoir d'Escompte de Mulhouse (1848-1930)",
-      "shortName": "Comptoir d'Escompte",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_150",
-      "name": "Crédit du Nord (1848-2023)",
-      "shortName": "Crédit du",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_151",
-      "name": "Caisse des Actions Réunies&#160;&#91;fr&#93; (1850-1853)",
-      "shortName": "Caisse des",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_152",
-      "name": "Crédit Mobilier (1852-1932)",
-      "shortName": "Crédit Mobilier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_153",
-      "name": "Crédit Foncier de France (1852-2019)",
-      "shortName": "Crédit Foncier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_154",
-      "name": "Crédit Lyonnais (1863-2005)",
-      "shortName": "Crédit Lyonnais",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_155",
-      "name": "Société des Dépôts et Comptes Courants (1863-1891)",
-      "shortName": "Société des",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_156",
-      "name": "Caisse de Crédit de Nice&#160;&#91;fr&#93; (1865-1917)",
-      "shortName": "Caisse de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_157",
-      "name": "Société Marseillaise de Crédit (1865-2023)",
-      "shortName": "Société Marseillaise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_158",
-      "name": "Banque d'Alsace et de Lorraine (1871-1931)",
-      "shortName": "Banque d'Alsace",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_159",
-      "name": "Banque de Mulhouse (1871-1929)",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_160",
-      "name": "Banque de Paris et des Pays-Bas (1872-2000)",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_161",
-      "name": "Banque de Strasbourg (1873-1940)",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_162",
-      "name": "Banque Pelletier&#160;&#91;fr&#93; (1874-2011)",
-      "shortName": "Banque Pelletier&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_163",
-      "name": "Union Générale (1875-1882)",
-      "shortName": "Union Générale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_164",
-      "name": "Crédit de France&#160;&#91;fr&#93; (1876-1882)",
-      "shortName": "Crédit de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_165",
-      "name": "Société Générale Alsacienne de Banque (1881-2001)",
-      "shortName": "Société Générale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_166",
-      "name": "Banque Kolb&#160;&#91;fr&#93; (1890-2023)",
-      "shortName": "Banque Kolb&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_167",
+      "code": "FR_123",
       "name": "Banque Laydernier&#160;&#91;fr&#93; (1891-2023)",
       "shortName": "Banque Laydernier&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_168",
+      "code": "FR_124",
+      "name": "Banque Rothschild (1817-1991)",
+      "shortName": "Banque Rothschild",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_125",
+      "name": "Banque Guilhot&#160;&#91;fr&#93; (1820-1976)",
+      "shortName": "Banque Guilhot&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_126",
+      "name": "Defoe Fournier &amp; Cie. (1824-2016)",
+      "shortName": "Defoe Fournier",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_127",
+      "name": "Banque Joire&#160;&#91;fr&#93; (1826-1999)",
+      "shortName": "Banque Joire&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_128",
+      "name": "Banque Veuve Morin-Pons&#160;&#91;fr&#93; (1829-1996)",
+      "shortName": "Banque Veuve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_129",
+      "name": "Banque Hervet&#160;&#91;fr&#93; (1830-2008)",
+      "shortName": "Banque Hervet&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_130",
+      "name": "Banque Vernes&#160;&#91;fr&#93; (1830-1989)",
+      "shortName": "Banque Vernes&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_131",
+      "name": "Banque Stern (1835-1985)",
+      "shortName": "Banque Stern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_132",
+      "name": "Piganeau et fils&#160;&#91;fr&#93; (1835-1899)",
+      "shortName": "Piganeau et",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_133",
+      "name": "Banque de Baecque Beau (1837-2008)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_134",
+      "name": "Banque Scalbert-Dupont&#160;&#91;fr&#93; (1846-2006)",
+      "shortName": "Banque Scalbert-Dupont&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_135",
+      "name": "Comptoir National d'Escompte de Paris (1848-1966)",
+      "shortName": "Comptoir National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_136",
+      "name": "Comptoir d'Escompte de Mulhouse (1848-1930)",
+      "shortName": "Comptoir d'Escompte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_137",
+      "name": "Crédit du Nord (1848-2023)",
+      "shortName": "Crédit du",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_138",
+      "name": "Caisse des Actions Réunies&#160;&#91;fr&#93; (1850-1853)",
+      "shortName": "Caisse des",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_139",
+      "name": "Crédit Mobilier (1852-1932)",
+      "shortName": "Crédit Mobilier",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_140",
+      "name": "Crédit Foncier de France (1852-2019)",
+      "shortName": "Crédit Foncier",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_141",
+      "name": "Crédit Lyonnais (1863-2005)",
+      "shortName": "Crédit Lyonnais",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_142",
+      "name": "Société des Dépôts et Comptes Courants (1863-1891)",
+      "shortName": "Société des",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_143",
+      "name": "Caisse de Crédit de Nice&#160;&#91;fr&#93; (1865-1917)",
+      "shortName": "Caisse de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_144",
+      "name": "Société Marseillaise de Crédit (1865-2023)",
+      "shortName": "Société Marseillaise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_145",
+      "name": "Banque d'Alsace et de Lorraine (1871-1931)",
+      "shortName": "Banque d'Alsace",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_146",
+      "name": "Banque de Mulhouse (1871-1929)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_147",
+      "name": "Banque de Paris et des Pays-Bas (1872-2000)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_148",
+      "name": "Banque de Strasbourg (1873-1940)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_149",
+      "name": "Banque Pelletier&#160;&#91;fr&#93; (1874-2011)",
+      "shortName": "Banque Pelletier&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_150",
+      "name": "Union Générale (1875-1882)",
+      "shortName": "Union Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_151",
+      "name": "Crédit de France&#160;&#91;fr&#93; (1876-1882)",
+      "shortName": "Crédit de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_152",
+      "name": "Société Générale Alsacienne de Banque (1881-2001)",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_153",
+      "name": "Banque Kolb&#160;&#91;fr&#93; (1890-2023)",
+      "shortName": "Banque Kolb&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "FR_154",
       "name": "Banque Suisse et Française&#160;&#91;fr&#93; (1894-1917)",
       "shortName": "Banque Suisse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_169",
+      "code": "FR_155",
       "name": "Banque de l'Union Parisienne (1904-1973)",
       "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_170",
+      "code": "FR_156",
       "name": "Banque Louis-Dreyfus (1905-1989)",
       "shortName": "Banque Louis-Dreyfus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_171",
+      "code": "FR_157",
       "name": "Société Centrale des Banques de Province (1905-1934)",
       "shortName": "Société Centrale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_172",
+      "code": "FR_158",
       "name": "Banque des Pays du Nord (1911-1990)",
       "shortName": "Banque des",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_173",
+      "code": "FR_159",
       "name": "Banque Nationale de Crédit (1913-1932)",
       "shortName": "Banque Nationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_174",
+      "code": "FR_160",
       "name": "Crédit National (1919-1996)",
       "shortName": "Crédit National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_175",
+      "code": "FR_161",
       "name": "Banque Franco-Polonaise&#160;&#91;fr&#93; (1920-1963)",
       "shortName": "Banque Franco-Polonaise&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_176",
+      "code": "FR_162",
       "name": "Union des Mines (1923-1966)",
       "shortName": "Union des",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_177",
+      "code": "FR_163",
       "name": "Banque Chaix&#160;&#91;fr&#93; (1924-2016)",
       "shortName": "Banque Chaix&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_178",
+      "code": "FR_164",
       "name": "Banque Worms (1928-2004)",
       "shortName": "Banque Worms",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_179",
+      "code": "FR_165",
       "name": "Crédit Industriel d'Alsace et de Lorraine (1931-2007)",
       "shortName": "Crédit Industriel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_180",
+      "code": "FR_166",
       "name": "Union de Banques à Paris&#160;&#91;fr&#93; (1935-2005)",
       "shortName": "Union de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_181",
+      "code": "FR_167",
       "name": "Compagnie Bancaire (1946-1998)",
       "shortName": "Compagnie Bancaire",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_182",
+      "code": "FR_168",
       "name": "Banque Nationale de Paris (1966-2000)",
       "shortName": "Banque Nationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_183",
+      "code": "FR_169",
       "name": "Banque Indosuez (1975-1996)",
       "shortName": "Banque Indosuez",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_184",
+      "code": "FR_170",
       "name": "Société de Banque Occidentale&#160;&#91;fr&#93; (1981-1996)",
       "shortName": "Société de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_185",
+      "code": "FR_171",
       "name": "Banque Pallas-Stern&#160;&#91;fr&#93; (1983-1997)",
       "shortName": "Banque Pallas-Stern&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_186",
+      "code": "FR_172",
       "name": "Banque Colbert&#160;&#91;fr&#93; (1992-1995)",
       "shortName": "Banque Colbert&#160;&#91;fr&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_187",
+      "code": "FR_173",
       "name": "Dexia (1996-2011)",
       "shortName": "Dexia (1996-2011)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_188",
+      "code": "FR_174",
       "name": "Zebank&#160;&#91;fr&#93; (2001-2002)",
       "shortName": "Zebank&#160;&#91;fr&#93; (2001-2002)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_189",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_190",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_191",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_192",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_193",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_194",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_195",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_196",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_197",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_198",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_199",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_200",
+      "code": "FR_175",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_201",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_202",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_203",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_204",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_205",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_206",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_207",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_208",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_209",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_210",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_211",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_212",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_213",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_214",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_215",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_216",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_217",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_218",
+      "code": "FR_176",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_219",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_220",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_221",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_222",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_223",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_224",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_225",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_226",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_227",
+      "code": "FR_177",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_228",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_229",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_230",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_231",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_232",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_233",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_234",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_235",
+      "code": "FR_178",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FR_236",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_237",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_238",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_239",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_240",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_241",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_242",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_243",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_244",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_245",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_246",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_247",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_248",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_249",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_250",
-      "name": "Banks of France",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_251",
+      "code": "FR_179",
       "name": "Economy of France-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_252",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_253",
-      "name": "Lists of companies of France",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_254",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_255",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_256",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_257",
-      "name": "Articles needing additional references from January 2026",
-      "shortName": "Articles needing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_258",
-      "name": "All articles needing additional references",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FR_259",
-      "name": "Articles containing French-language text",
-      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

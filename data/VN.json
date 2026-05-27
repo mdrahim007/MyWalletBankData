@@ -12,2141 +12,1483 @@
     },
     {
       "code": "VN_1",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_2",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_3",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_4",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_5",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_6",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_7",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_8",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_9",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_10",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_11",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_12",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_13",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_14",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_15",
+      "code": "VN_2",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_16",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_17",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_18",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_19",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_20",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_21",
+      "code": "VN_3",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_22",
+      "code": "VN_4",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_23",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_24",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_25",
+      "code": "VN_5",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_26",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_27",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_28",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_29",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_30",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_31",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_32",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_33",
+      "code": "VN_6",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_34",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_35",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_36",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_37",
+      "code": "VN_7",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_38",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_39",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_40",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_41",
+      "code": "VN_8",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_42",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_43",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_44",
+      "code": "VN_9",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_45",
+      "code": "VN_10",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_46",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_47",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_48",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_49",
+      "code": "VN_11",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_50",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_51",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_52",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_53",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_54",
+      "code": "VN_12",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_55",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_56",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_57",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_58",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_59",
+      "code": "VN_13",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_60",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_61",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_62",
-      "name": "Banks of Vietnam",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_63",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_64",
-      "name": "Lists of companies of Vietnam",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_65",
-      "name": "Lists of banks in Southeast Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_66",
+      "code": "VN_14",
       "name": "CS1 Vietnamese-language sources (vi)",
       "shortName": "CS1 Vietnamese-language",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_67",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_68",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_69",
+      "code": "VN_15",
       "name": "Incomplete lists from February 2013",
       "shortName": "Incomplete lists",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_70",
+      "code": "VN_16",
       "name": "Ngân hàng Chính sách Xã hội Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_71",
+      "code": "VN_17",
       "name": "Vietnam Bank for Social Policies",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_72",
+      "code": "VN_18",
       "name": "VBSP",
       "shortName": "VBSP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_73",
+      "code": "VN_19",
       "name": "23,960.1",
       "shortName": "23,960.1",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_74",
+      "code": "VN_20",
       "name": "169 Dinh Duong, Hoang Mai Dist., Hanoi Capital",
       "shortName": "169 Dinh",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_75",
+      "code": "VN_21",
       "name": "https://vbsp.org.vn/",
       "shortName": "https://vbsp.org.vn/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_76",
+      "code": "VN_22",
       "name": "Ngân hàng Phát triển Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_77",
+      "code": "VN_23",
       "name": "Vietnam Development Bank",
       "shortName": "Vietnam Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_78",
+      "code": "VN_24",
       "name": "VDP",
       "shortName": "VDP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_79",
+      "code": "VN_25",
       "name": "15,085",
       "shortName": "15,085",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_80",
+      "code": "VN_26",
       "name": "25A Cat Linh, Ha Dong Dist., Hanoi Capital",
       "shortName": "25A Cat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_81",
+      "code": "VN_27",
       "name": "https://vdb.gov.vn/",
       "shortName": "https://vdb.gov.vn/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_82",
+      "code": "VN_28",
       "name": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_83",
+      "code": "VN_29",
       "name": "Vietnam Bank for Agriculture and Rural Development",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_84",
+      "code": "VN_30",
       "name": "Agribank",
       "shortName": "Agribank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_85",
+      "code": "VN_31",
       "name": "51,615",
       "shortName": "51,615",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_86",
+      "code": "VN_32",
       "name": "2 Lang Ha, Giang Vo ward, Hanoi.",
       "shortName": "2 Lang",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_87",
+      "code": "VN_33",
       "name": "agribank.com.vn",
       "shortName": "agribank.com.vn",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_88",
+      "code": "VN_34",
       "name": "Ngân hàng TNHH MTV Việt Nam Hiện Đại",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_89",
+      "code": "VN_35",
       "name": "Modern Bank of Vietnam Limited",
       "shortName": "Modern",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_90",
+      "code": "VN_36",
       "name": "MBV",
       "shortName": "MBV",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_91",
+      "code": "VN_37",
       "name": "0",
       "shortName": "0",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_92",
+      "code": "VN_38",
       "name": "3 Lieu Giai, Ba Dinh Ward, Hanoi.",
       "shortName": "3 Lieu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_93",
-      "name": "https://www.mbv.com.vn/",
-      "shortName": "https://www.mbv.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_94",
-      "name": "Ngân hàng Thương mại TNHH MTV Kỷ Nguyên Thịnh Vượng",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_95",
-      "name": "GPBank",
-      "shortName": "GPBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_96",
-      "name": "19 Ba Trieu, Cua Nam Ward, Hanoi.",
-      "shortName": "19 Ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_97",
-      "name": "https://www.gpbank.com.vn/",
-      "shortName": "https://www.gpbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_98",
-      "name": "Ngân hàng TMCP Việt Nam Thịnh vượng",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_99",
-      "name": "Vietnam Prosperity Bank JSC",
-      "shortName": "Vietnam Prosperity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_100",
-      "name": "VPBank",
-      "shortName": "VPBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_101",
-      "name": "79,339",
-      "shortName": "79,339",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_102",
-      "name": "VPBank Tower, 89 Lang Ha, Dong Da Dist., Hanoi Capital",
-      "shortName": "VPBank Tower,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_103",
-      "name": "https://www.vpbank.com.vn/",
-      "shortName": "https://www.vpbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_104",
-      "name": "Ngân hàng TMCP Kỹ thương Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_105",
-      "name": "Vietnam Technological and Commercial Bank JSC",
-      "shortName": "Vietnam Technological",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_106",
-      "name": "Techcombank",
-      "shortName": "Techcombank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_107",
-      "name": "70,648",
-      "shortName": "70,648",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_108",
-      "name": "6 Quang Trung, Hoan Kiem Dist., Hanoi Capital",
-      "shortName": "6 Quang",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_109",
-      "name": "https://techcombank.com/",
-      "shortName": "https://techcombank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_110",
-      "name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_111",
-      "name": "Bank for Investment and Development of Vietnam",
-      "shortName": "Bank for",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_112",
-      "name": "BIDV",
-      "shortName": "BIDV",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_113",
-      "name": "68,975",
-      "shortName": "68,975",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_114",
-      "name": "bidv.com.vn",
-      "shortName": "bidv.com.vn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_115",
-      "name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_116",
-      "name": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
-      "shortName": "Joint Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_117",
-      "name": "Vietcombank",
-      "shortName": "Vietcombank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_118",
-      "name": "55,892",
-      "shortName": "55,892",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_119",
-      "name": "198 Tran Quang Khai, Hoan Kiem Dist., Hanoi Capital",
-      "shortName": "198 Tran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_120",
-      "name": "vietcombank.com.vn",
-      "shortName": "vietcombank.com.vn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_121",
-      "name": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_122",
-      "name": "Vietnam Bank for Industry and Trade",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_123",
-      "name": "Vietinbank",
-      "shortName": "Vietinbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_124",
-      "name": "53,699",
-      "shortName": "53,699",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_125",
-      "name": "108 Tran Hung Dao, Hoan Kiem Dist., Hanoi Capital",
-      "shortName": "108 Tran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_126",
-      "name": "vietinbank.vn",
-      "shortName": "vietinbank.vn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_127",
-      "name": "Ngân hàng TMCP Quân đội",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_128",
-      "name": "Military Bank JSC",
-      "shortName": "Military",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_129",
-      "name": "MB",
-      "shortName": "MB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_130",
-      "name": "53,063",
-      "shortName": "53,063",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_131",
-      "name": "https://www.mbbank.com.vn/",
-      "shortName": "https://www.mbbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_132",
-      "name": "Ngân hàng TMCP Á Châu",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_133",
-      "name": "Asia Commercial Bank JSC",
-      "shortName": "Asia Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_134",
-      "name": "ACB",
-      "shortName": "ACB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_135",
-      "name": "44,666",
-      "shortName": "44,666",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_136",
-      "name": "442 Nguyen Thi Minh Khai, District 3, HCMC",
-      "shortName": "442 Nguyen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_137",
-      "name": "https://acb.com.vn/",
-      "shortName": "https://acb.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_138",
-      "name": "Ngân hàng TMCP Sài Gòn - Hà Nội",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_139",
-      "name": "Saigon - Hanoi Bank JSC",
-      "shortName": "Saigon -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_140",
-      "name": "SHB",
-      "shortName": "SHB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_141",
-      "name": "38,073",
-      "shortName": "38,073",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_142",
-      "name": "77 Tran Hung Dao, Hoan Kiem Dist., Hanoi Capital",
-      "shortName": "77 Tran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_143",
-      "name": "https://www.shb.com.vn/",
-      "shortName": "https://www.shb.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_144",
-      "name": "Ngân hàng TMCP Phát triển TP.HCM",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_145",
-      "name": "Ho Chi Minh City Development Bank JSC",
-      "shortName": "Ho Chi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_146",
-      "name": "HDBank",
-      "shortName": "HDBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_147",
-      "name": "35,101",
-      "shortName": "35,101",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_148",
-      "name": "25Bis Nguyen Thi Minh Khai, District 1, HCMC",
-      "shortName": "25Bis Nguyen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_149",
-      "name": "https://hdbank.com.vn/",
-      "shortName": "https://hdbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_150",
-      "name": "Ngân hàng TMCP Quốc tế Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_151",
-      "name": "Vietnam International Bank JSC",
-      "shortName": "Vietnam International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_152",
-      "name": "VIB",
-      "shortName": "VIB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_153",
-      "name": "29,791",
-      "shortName": "29,791",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_154",
-      "name": "111A Pasteur, District 1, HCMC",
-      "shortName": "111A Pasteur,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_155",
-      "name": "https://www.vib.com.vn/vn/home",
-      "shortName": "https://www.vib.com.vn/vn/home",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_156",
-      "name": "Ngân hàng TMCP Đông Nam Á",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_157",
-      "name": "Southeast Asia Bank JSC",
-      "shortName": "Southeast Asia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_158",
-      "name": "SeABank",
-      "shortName": "SeABank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_159",
-      "name": "28,350",
-      "shortName": "28,350",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_160",
-      "name": "https://www.seabank.com.vn/",
-      "shortName": "https://www.seabank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_161",
-      "name": "Ngân hàng TMCP Tiên phong",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_162",
-      "name": "Tien Phong Bank JSC",
-      "shortName": "Tien Phong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_163",
-      "name": "TPBank",
-      "shortName": "TPBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_164",
-      "name": "26,419",
-      "shortName": "26,419",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_165",
-      "name": "https://tpb.vn/ca-nhan",
-      "shortName": "https://tpb.vn/ca-nhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_166",
-      "name": "Ngân hàng TMCP Hàng hải Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_167",
-      "name": "Vietnam Maritime Bank JSC",
-      "shortName": "Vietnam Maritime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_168",
-      "name": "MSB",
-      "shortName": "MSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_169",
-      "name": "26,000",
-      "shortName": "26,000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_170",
-      "name": "54A Nguyen Chi Thanh, Dong Da Dist., Hanoi Capital",
-      "shortName": "54A Nguyen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_171",
-      "name": "https://www.msb.com.vn/vi/ca-nhan",
-      "shortName": "https://www.msb.com.vn/vi/ca-nhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_172",
-      "name": "Ngân hàng TMCP Lộc Phát Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_173",
-      "name": "Fortune Vietnam Commercial Bank JSC",
-      "shortName": "Fortune Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_174",
-      "name": "LPBank",
-      "shortName": "LPBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_175",
-      "name": "25,576",
-      "shortName": "25,576",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_176",
-      "name": "https://lpbank.com.vn/",
-      "shortName": "https://lpbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_177",
-      "name": "Ngân hàng TMCP Phương Đông",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_178",
-      "name": "Orient Commercial Bank JSC",
-      "shortName": "Orient Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_179",
-      "name": "OCB",
-      "shortName": "OCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_180",
-      "name": "24,657",
-      "shortName": "24,657",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_181",
-      "name": "The Hallmark, 15 Tran Bach Dang, Thu Duc City, HCMC",
-      "shortName": "The Hallmark,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_182",
-      "name": "https://www.ocb.com.vn/vi/ca-nhan",
-      "shortName": "https://www.ocb.com.vn/vi/ca-nhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_183",
-      "name": "Ngân hàng TMCP Sài Gòn",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_184",
-      "name": "Saigon Commercial Bank JSC",
-      "shortName": "Saigon Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_185",
-      "name": "SCB",
-      "shortName": "SCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_186",
-      "name": "20,020",
-      "shortName": "20,020",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_187",
-      "name": "19-25 Nguyen Hue, District 1, HCMC",
-      "shortName": "19-25 Nguyen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_188",
-      "name": "https://www.scb.com.vn/",
-      "shortName": "https://www.scb.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_189",
-      "name": "Ngân hàng TMCP Sài Gòn Thương Tín",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_190",
-      "name": "Saigon Thuong Tin Commercial Bank JSC",
-      "shortName": "Saigon Thuong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_191",
-      "name": "Sacombank",
-      "shortName": "Sacombank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_192",
-      "name": "18,852",
-      "shortName": "18,852",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_193",
-      "name": "266-268 Nam Ky Khoi Nghia, District 3, HCMC",
-      "shortName": "266-268 Nam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_194",
-      "name": "https://www.sacombank.com.vn/ca-nhan.html",
-      "shortName": "https://www.sacombank.com.vn/ca-nhan.html",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_195",
-      "name": "Ngân hàng TMCP Xuất Nhập khẩu Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_196",
-      "name": "Vietnam Export-Import Commercial Bank JSC",
-      "shortName": "Vietnam Export-Import",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_197",
-      "name": "Eximbank",
-      "shortName": "Eximbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_198",
-      "name": "18,688",
-      "shortName": "18,688",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_199",
-      "name": "Fideco Center, 28 Phung Khac Khoan, District 1, HCMC",
-      "shortName": "Fideco Center,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_200",
-      "name": "https://eximbank.com.vn/",
-      "shortName": "https://eximbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_201",
-      "name": "Ngân hàng TMCP Nam Á",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_202",
-      "name": "Nam A Bank JSC",
-      "shortName": "Nam A",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_203",
-      "name": "Nam A Bank",
-      "shortName": "Nam A",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_204",
-      "name": "13,725",
-      "shortName": "13,725",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_205",
-      "name": "https://www.namabank.com.vn/",
-      "shortName": "https://www.namabank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_206",
-      "name": "Ngân hàng TMCP Quốc dân",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_207",
-      "name": "National Citizen Bank JSC",
-      "shortName": "National Citizen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_208",
-      "name": "NCB",
-      "shortName": "NCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_209",
-      "name": "11,779",
-      "shortName": "11,779",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_210",
-      "name": "25 Le Dai Hanh, Hai Ba Trung Dist., Hanoi Capital",
-      "shortName": "25 Le",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_211",
-      "name": "https://www.ncb-bank.vn/",
-      "shortName": "https://www.ncb-bank.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_212",
-      "name": "Ngân hàng TMCP An Bình",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_213",
-      "name": "An Binh Bank JSC",
-      "shortName": "An Binh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_214",
-      "name": "ABBank",
-      "shortName": "ABBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_215",
-      "name": "10,350",
-      "shortName": "10,350",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_216",
-      "name": "Geleximco Tower, 36 Hoang Cau, Dong Da Dist., Hanoi Capital",
-      "shortName": "Geleximco Tower,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_217",
-      "name": "https://www.abbank.vn/",
-      "shortName": "https://www.abbank.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_218",
-      "name": "Ngân hàng TMCP Đại chúng Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_219",
-      "name": "Vietnam Public Commercial Bank JSC",
-      "shortName": "Vietnam Public",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_220",
-      "name": "PVComBank",
-      "shortName": "PVComBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_221",
-      "name": "9,000",
-      "shortName": "9,000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_222",
-      "name": "22 Ngo Quyen, Hoan Kiem Dist., Hanoi Capital",
-      "shortName": "22 Ngo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_223",
+      "code": "VN_39",
       "name": "https://www.pvcombank.com.vn/",
       "shortName": "https://www.pvcombank.com.vn/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_224",
-      "name": "Ngân hàng TMCP Bắc Á",
+      "code": "VN_40",
+      "name": "Ngân hàng Thương mại TNHH MTV Kỷ Nguyên Thịnh Vượng",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_225",
-      "name": "Bac A Bank JSC",
-      "shortName": "Bac A",
+      "code": "VN_41",
+      "name": "GPBank",
+      "shortName": "GPBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_226",
-      "name": "Bac A Bank",
-      "shortName": "Bac A",
+      "code": "VN_42",
+      "name": "19 Ba Trieu, Cua Nam Ward, Hanoi.",
+      "shortName": "19 Ba",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_227",
-      "name": "8,959",
-      "shortName": "8,959",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_228",
-      "name": "https://www.baca-bank.vn/",
-      "shortName": "https://www.baca-bank.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_229",
-      "name": "Ngân hàng TMCP Việt Nam Thương Tín",
+      "code": "VN_43",
+      "name": "Ngân hàng TMCP Việt Nam Thịnh vượng",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_230",
-      "name": "Viet Nam Thuong Tin Bank JSC",
-      "shortName": "Viet Nam",
+      "code": "VN_44",
+      "name": "Vietnam Prosperity Bank JSC",
+      "shortName": "Vietnam Prosperity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_231",
-      "name": "VietBank",
-      "shortName": "VietBank",
+      "code": "VN_45",
+      "name": "VPBank",
+      "shortName": "VPBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_232",
-      "name": "7,139",
-      "shortName": "7,139",
+      "code": "VN_46",
+      "name": "79,339",
+      "shortName": "79,339",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_233",
-      "name": "47 Tran Hung Dao, Soc Trang City, Soc Trang",
-      "shortName": "47 Tran",
+      "code": "VN_47",
+      "name": "VPBank Tower, 89 Lang Ha, Dong Da Dist., Hanoi Capital",
+      "shortName": "VPBank Tower,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_234",
-      "name": "https://www.vietbank.com.vn/",
-      "shortName": "https://www.vietbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_235",
-      "name": "Ngân hàng TMCP Bản Việt",
+      "code": "VN_48",
+      "name": "Ngân hàng TMCP Kỹ thương Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_236",
-      "name": "Viet Capital Bank JSC / Ban Viet Bank JSC",
-      "shortName": "Viet Capital",
+      "code": "VN_49",
+      "name": "Vietnam Technological and Commercial Bank JSC",
+      "shortName": "Vietnam Technological",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_237",
-      "name": "BVBank",
-      "shortName": "BVBank",
+      "code": "VN_50",
+      "name": "Techcombank",
+      "shortName": "Techcombank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_238",
-      "name": "5,518",
-      "shortName": "5,518",
+      "code": "VN_51",
+      "name": "70,648",
+      "shortName": "70,648",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_239",
-      "name": "412 Nguyen Thi Minh Khai, District 3, HCMC",
-      "shortName": "412 Nguyen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_240",
-      "name": "https://bvbank.net.vn/",
-      "shortName": "https://bvbank.net.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_241",
-      "name": "Ngân hàng TMCP Việt Á",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_242",
-      "name": "Viet A Bank JSC",
-      "shortName": "Viet A",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_243",
-      "name": "VAB",
-      "shortName": "VAB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_244",
-      "name": "5,400",
-      "shortName": "5,400",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_245",
-      "name": "105 Chu Văn An, Ha Dong Dist., Hanoi Capital",
-      "shortName": "105 Chu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_246",
-      "name": "https://vietabank.com.vn/",
-      "shortName": "https://vietabank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_247",
-      "name": "Ngân hàng TNHH MTV Số Vikki",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_248",
-      "name": "Vikki Digital Bank Limited",
-      "shortName": "Vikki Digital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_249",
-      "name": "Vikki Bank",
-      "shortName": "Vikki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_250",
-      "name": "72 Ly Thuong Kiet, Cua Nam Ward, Hanoi.",
-      "shortName": "72 Ly",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_251",
-      "name": "https://vikkibank.vn/",
-      "shortName": "https://vikkibank.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_252",
-      "name": "Ngân hàng TMCP Thịnh vượng &amp; Phát triển",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_253",
-      "name": "Prosperity and Growth Bank JSC",
-      "shortName": "Prosperity and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_254",
-      "name": "PGBank",
-      "shortName": "PGBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_255",
-      "name": "4,200",
-      "shortName": "4,200",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_256",
-      "name": "Mipec Tower, 229 Tay Son, Dong Da Dist., Hanoi Capital",
-      "shortName": "Mipec Tower,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_257",
-      "name": "https://www.pgbank.com.vn/",
-      "shortName": "https://www.pgbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_258",
-      "name": "Ngân hàng TMCP Kiên Long",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_259",
-      "name": "Kien Long Bank JSC",
-      "shortName": "Kien Long",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_260",
-      "name": "KLB",
-      "shortName": "KLB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_261",
-      "name": "3,652",
-      "shortName": "3,652",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_262",
-      "name": "40-42-44 Pham Hong Thai, Rach Gia City, Kien Giang",
-      "shortName": "40-42-44 Pham",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_263",
-      "name": "https://kienlongbank.com/",
-      "shortName": "https://kienlongbank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_264",
-      "name": "Ngân hàng TMCP Sài Gòn Công Thương",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_265",
-      "name": "Saigon Bank for Industry and Trade JSC",
-      "shortName": "Saigon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_266",
-      "name": "SaigonBank/SGB",
-      "shortName": "SaigonBank/SGB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_267",
-      "name": "3,388",
-      "shortName": "3,388",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_268",
-      "name": "2C Pho Duc Chinh, District 1, HCMC",
-      "shortName": "2C Pho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_269",
-      "name": "https://www.saigonbank.com.vn/",
-      "shortName": "https://www.saigonbank.com.vn/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_270",
-      "name": "Ngân hàng TMCP Bảo Việt",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_271",
-      "name": "Bao Viet Bank JSC",
-      "shortName": "Bao Viet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_272",
-      "name": "Baoviet",
-      "shortName": "Baoviet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_273",
-      "name": "3,150",
-      "shortName": "3,150",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_274",
+      "code": "VN_52",
       "name": "16 Phan Chu Trinh, Hoan Kiem Dist., Hanoi Capital",
       "shortName": "16 Phan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_275",
-      "name": "https://www.baovietbank.vn/",
-      "shortName": "https://www.baovietbank.vn/",
+      "code": "VN_53",
+      "name": "https://techcombank.com/",
+      "shortName": "https://techcombank.com/",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_276",
-      "name": "Ngân hàng TNHH MTV Shinhan Việt Nam",
+      "code": "VN_54",
+      "name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_277",
-      "name": "Shinhan Bank Vietnam",
-      "shortName": "Shinhan",
+      "code": "VN_55",
+      "name": "Bank for Investment and Development of Vietnam",
+      "shortName": "Bank for",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_278",
+      "code": "VN_56",
+      "name": "BIDV",
+      "shortName": "BIDV",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_57",
+      "name": "68,975",
+      "shortName": "68,975",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_58",
+      "name": "bidv.com.vn",
+      "shortName": "bidv.com.vn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_59",
+      "name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_60",
+      "name": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+      "shortName": "Joint Stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_61",
+      "name": "Vietcombank",
+      "shortName": "Vietcombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_62",
+      "name": "55,892",
+      "shortName": "55,892",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_63",
+      "name": "198 Tran Quang Khai, Hoan Kiem Dist., Hanoi Capital",
+      "shortName": "198 Tran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_64",
+      "name": "vietcombank.com.vn",
+      "shortName": "vietcombank.com.vn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_65",
+      "name": "Vietnam Bank for Industry and Trade",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_66",
+      "name": "vietinbank.vn",
+      "shortName": "vietinbank.vn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_67",
+      "name": "53,699",
+      "shortName": "53,699",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_68",
+      "name": "Ngân hàng TMCP Quân đội",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_69",
+      "name": "MB",
+      "shortName": "MB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_70",
+      "name": "53,063",
+      "shortName": "53,063",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_71",
+      "name": "Ngân hàng TMCP Á Châu",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_72",
+      "name": "Saigon Commercial Bank JSC",
+      "shortName": "Saigon Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_73",
+      "name": "ACB",
+      "shortName": "ACB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_74",
+      "name": "44,666",
+      "shortName": "44,666",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_75",
+      "name": "25Bis Nguyen Thi Minh Khai, District 1, HCMC",
+      "shortName": "25Bis Nguyen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_76",
+      "name": "https://acb.com.vn/",
+      "shortName": "https://acb.com.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_77",
+      "name": "Ngân hàng TMCP Sài Gòn - Hà Nội",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_78",
+      "name": "Saigon - Hanoi Bank JSC",
+      "shortName": "Saigon -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_79",
+      "name": "SHB",
+      "shortName": "SHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_80",
+      "name": "38,073",
+      "shortName": "38,073",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_81",
+      "name": "Ngân hàng TMCP Phát triển TP.HCM",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_82",
+      "name": "Ho Chi Minh City Development Bank JSC",
+      "shortName": "Ho Chi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_83",
+      "name": "HDBank",
+      "shortName": "HDBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_84",
+      "name": "35,101",
+      "shortName": "35,101",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_85",
+      "name": "https://vietabank.com.vn/",
+      "shortName": "https://vietabank.com.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_86",
+      "name": "Ngân hàng TMCP Lộc Phát Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_87",
+      "name": "Vietnam International Bank JSC",
+      "shortName": "Vietnam International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_88",
+      "name": "VIB",
+      "shortName": "VIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_89",
+      "name": "29,791",
+      "shortName": "29,791",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_90",
+      "name": "111A Pasteur, District 1, HCMC",
+      "shortName": "111A Pasteur,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_91",
+      "name": "https://www.vib.com.vn/vn/home",
+      "shortName": "https://www.vib.com.vn/vn/home",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_92",
+      "name": "Ngân hàng TMCP Đông Nam Á",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_93",
+      "name": "Southeast Asia Bank JSC",
+      "shortName": "Southeast Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_94",
+      "name": "SeABank",
+      "shortName": "SeABank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_95",
+      "name": "28,350",
+      "shortName": "28,350",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_96",
+      "name": "Ngân hàng TMCP Tiên phong",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_97",
+      "name": "Tien Phong Bank JSC",
+      "shortName": "Tien Phong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_98",
+      "name": "TPBank",
+      "shortName": "TPBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_99",
+      "name": "26,419",
+      "shortName": "26,419",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_100",
+      "name": "https://tpb.vn/ca-nhan",
+      "shortName": "https://tpb.vn/ca-nhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_101",
+      "name": "Ngân hàng TMCP Hàng hải Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_102",
+      "name": "Vietnam Maritime Bank JSC",
+      "shortName": "Vietnam Maritime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_103",
+      "name": "MSB",
+      "shortName": "MSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_104",
+      "name": "26,000",
+      "shortName": "26,000",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_105",
+      "name": "54A Nguyen Chi Thanh, Dong Da Dist., Hanoi Capital",
+      "shortName": "54A Nguyen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_106",
+      "name": "https://www.msb.com.vn/vi/ca-nhan",
+      "shortName": "https://www.msb.com.vn/vi/ca-nhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_107",
+      "name": "Fortune Vietnam Commercial Bank JSC",
+      "shortName": "Fortune Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_108",
+      "name": "LPBank",
+      "shortName": "LPBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_109",
+      "name": "25,576",
+      "shortName": "25,576",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_110",
+      "name": "Ngân hàng TMCP Phương Đông",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_111",
+      "name": "Orient Commercial Bank JSC",
+      "shortName": "Orient Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_112",
+      "name": "OCB",
+      "shortName": "OCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_113",
+      "name": "24,657",
+      "shortName": "24,657",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_114",
       "name": "The MeTT Tower, 15 Tran Bach Dang, Thu Duc City, HCMC",
       "shortName": "The MeTT",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_279",
-      "name": "Ngân hàng TNHH MTV HSBC Việt Nam",
+      "code": "VN_115",
+      "name": "Ngân hàng TMCP Sài Gòn",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_280",
-      "name": "HSBC Vietnam",
-      "shortName": "HSBC Vietnam",
+      "code": "VN_116",
+      "name": "SCB",
+      "shortName": "SCB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_281",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
+      "code": "VN_117",
+      "name": "20,020",
+      "shortName": "20,020",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_282",
-      "name": "Metropolitan Tower, 235 Đồng Khởi Street, District 1, HCMC",
-      "shortName": "Metropolitan Tower,",
+      "code": "VN_118",
+      "name": "19-25 Nguyen Hue, District 1, HCMC",
+      "shortName": "19-25 Nguyen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_283",
-      "name": "Ngân hàng TNHH MTV Standard Chartered Việt Nam",
+      "code": "VN_119",
+      "name": "Ngân hàng TMCP Việt Nam Thương Tín",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_284",
-      "name": "Standard Chartered Vietnam",
-      "shortName": "Standard Chartered",
+      "code": "VN_120",
+      "name": "Saigon Thuong Tin Commercial Bank JSC",
+      "shortName": "Saigon Thuong",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_285",
-      "name": "Capital Place, 29 Lieu Giai, Ba Dinh Dist., Hanoi Capital",
-      "shortName": "Capital Place,",
+      "code": "VN_121",
+      "name": "Sacombank",
+      "shortName": "Sacombank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_286",
-      "name": "Ngân hàng TNHH MTV Woori Bank tại Việt Nam",
+      "code": "VN_122",
+      "name": "18,852",
+      "shortName": "18,852",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_123",
+      "name": "266-268 Nam Ky Khoi Nghia, District 3, HCMC",
+      "shortName": "266-268 Nam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_124",
+      "name": "https://www.sacombank.com.vn/ca-nhan.html",
+      "shortName": "https://www.sacombank.com.vn/ca-nhan.html",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_125",
+      "name": "Ngân hàng TMCP Xuất Nhập khẩu Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_287",
-      "name": "WooriBank Vietnam",
-      "shortName": "WooriBank Vietnam",
+      "code": "VN_126",
+      "name": "Vietnam Export-Import Commercial Bank JSC",
+      "shortName": "Vietnam Export-Import",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_288",
-      "name": "Ngân hàng TNHH MTV CIMB Bank Việt Nam",
+      "code": "VN_127",
+      "name": "Eximbank",
+      "shortName": "Eximbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_128",
+      "name": "18,688",
+      "shortName": "18,688",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_129",
+      "name": "Fideco Center, 28 Phung Khac Khoan, District 1, HCMC",
+      "shortName": "Fideco Center,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_130",
+      "name": "Nam A Bank JSC",
+      "shortName": "Nam A",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_131",
+      "name": "Nam A Bank",
+      "shortName": "Nam A",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_132",
+      "name": "13,725",
+      "shortName": "13,725",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_133",
+      "name": "Ngân hàng TMCP Quốc dân",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_289",
-      "name": "CIMB Vietnam",
-      "shortName": "CIMB Vietnam",
+      "code": "VN_134",
+      "name": "National Citizen Bank JSC",
+      "shortName": "National Citizen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_290",
+      "code": "VN_135",
+      "name": "NCB",
+      "shortName": "NCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_136",
+      "name": "11,779",
+      "shortName": "11,779",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_137",
+      "name": "25 Le Dai Hanh, Hai Ba Trung Dist., Hanoi Capital",
+      "shortName": "25 Le",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_138",
+      "name": "https://www.baca-bank.vn/",
+      "shortName": "https://www.baca-bank.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_139",
+      "name": "Ngân hàng TMCP An Bình",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_140",
+      "name": "An Binh Bank JSC",
+      "shortName": "An Binh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_141",
+      "name": "ABBank",
+      "shortName": "ABBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_142",
+      "name": "10,350",
+      "shortName": "10,350",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_143",
+      "name": "Geleximco Tower, 36 Hoang Cau, Dong Da Dist., Hanoi Capital",
+      "shortName": "Geleximco Tower,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_144",
+      "name": "Ngân hàng TMCP Đại chúng Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_145",
+      "name": "Vietnam Public Commercial Bank JSC",
+      "shortName": "Vietnam Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_146",
+      "name": "PVComBank",
+      "shortName": "PVComBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_147",
+      "name": "9,000",
+      "shortName": "9,000",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_148",
+      "name": "22 Ngo Quyen, Hoan Kiem Dist., Hanoi Capital",
+      "shortName": "22 Ngo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_149",
+      "name": "Ngân hàng TMCP Bắc Á",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_150",
+      "name": "Bac A Bank",
+      "shortName": "Bac A",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_151",
+      "name": "8,959",
+      "shortName": "8,959",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_152",
+      "name": "Viet Nam Thuong Tin Bank JSC",
+      "shortName": "Viet Nam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_153",
+      "name": "VietBank",
+      "shortName": "VietBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_154",
+      "name": "7,139",
+      "shortName": "7,139",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_155",
+      "name": "47 Tran Hung Dao, Soc Trang City, Soc Trang",
+      "shortName": "47 Tran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_156",
+      "name": "Ngân hàng TMCP Bản Việt",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_157",
+      "name": "Viet Capital Bank JSC / Ban Viet Bank JSC",
+      "shortName": "Viet Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_158",
+      "name": "BVBank",
+      "shortName": "BVBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_159",
+      "name": "5,518",
+      "shortName": "5,518",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_160",
+      "name": "https://bvbank.net.vn/",
+      "shortName": "https://bvbank.net.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_161",
+      "name": "Viet A Bank JSC",
+      "shortName": "Viet A",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_162",
+      "name": "VAB",
+      "shortName": "VAB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_163",
+      "name": "5,400",
+      "shortName": "5,400",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_164",
+      "name": "105 Chu Văn An, Ha Dong Dist., Hanoi Capital",
+      "shortName": "105 Chu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_165",
+      "name": "Ngân hàng TNHH MTV Số Vikki",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_166",
+      "name": "Vikki Digital Bank Limited",
+      "shortName": "Vikki Digital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_167",
+      "name": "Vikki Bank",
+      "shortName": "Vikki",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_168",
+      "name": "72 Ly Thuong Kiet, Cua Nam Ward, Hanoi.",
+      "shortName": "72 Ly",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_169",
+      "name": "https://vikkibank.vn/",
+      "shortName": "https://vikkibank.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_170",
+      "name": "Ngân hàng TMCP Thịnh vượng &amp; Phát triển",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_171",
+      "name": "Prosperity and Growth Bank JSC",
+      "shortName": "Prosperity and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_172",
+      "name": "PGBank",
+      "shortName": "PGBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_173",
+      "name": "4,200",
+      "shortName": "4,200",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_174",
+      "name": "Mipec Tower, 229 Tay Son, Dong Da Dist., Hanoi Capital",
+      "shortName": "Mipec Tower,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_175",
+      "name": "KLB",
+      "shortName": "KLB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_176",
+      "name": "3,652",
+      "shortName": "3,652",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_177",
+      "name": "40-42-44 Pham Hong Thai, Rach Gia City, Kien Giang",
+      "shortName": "40-42-44 Pham",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_178",
+      "name": "https://kienlongbank.com/",
+      "shortName": "https://kienlongbank.com/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_179",
+      "name": "Ngân hàng TMCP Sài Gòn Công Thương",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_180",
+      "name": "Saigon Bank for Industry and Trade JSC",
+      "shortName": "Saigon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_181",
+      "name": "SaigonBank/SGB",
+      "shortName": "SaigonBank/SGB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_182",
+      "name": "3,388",
+      "shortName": "3,388",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_183",
+      "name": "2C Pho Duc Chinh, District 1, HCMC",
+      "shortName": "2C Pho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_184",
+      "name": "https://www.saigonbank.com.vn/",
+      "shortName": "https://www.saigonbank.com.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_185",
+      "name": "Bao Viet Bank JSC",
+      "shortName": "Bao Viet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_186",
+      "name": "Baoviet",
+      "shortName": "Baoviet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_187",
+      "name": "3,150",
+      "shortName": "3,150",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_188",
+      "name": "https://www.baovietbank.vn/",
+      "shortName": "https://www.baovietbank.vn/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_189",
       "name": "Ngân hàng TNHH MTV Public Bank Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_291",
+      "code": "VN_190",
+      "name": "Shinhan Bank Vietnam",
+      "shortName": "Shinhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_191",
+      "name": "HSBC Vietnam",
+      "shortName": "HSBC Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_192",
+      "name": "Metropolitan Tower, 235 Đồng Khởi Street, District 1, HCMC",
+      "shortName": "Metropolitan Tower,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_193",
+      "name": "Ngân hàng TNHH MTV Standard Chartered Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_194",
+      "name": "Standard Chartered Vietnam",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_195",
+      "name": "Capital Place, 29 Lieu Giai, Ba Dinh Dist., Hanoi Capital",
+      "shortName": "Capital Place,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_196",
+      "name": "Ngân hàng TNHH MTV Woori Bank tại Việt Nam",
+      "shortName": "Ngân hàng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_197",
+      "name": "WooriBank Vietnam",
+      "shortName": "WooriBank Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_198",
+      "name": "CIMB Vietnam",
+      "shortName": "CIMB Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "VN_199",
       "name": "Public Bank Vietnam",
       "shortName": "Public",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_292",
+      "code": "VN_200",
       "name": "Chi nhánh Ngân hàng TNHH MTV Hong Leong Bank tại Việt Nam",
       "shortName": "Chi nhánh",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_293",
+      "code": "VN_201",
       "name": "Hong Leong Bank Vietnam",
       "shortName": "Hong Leong",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_294",
+      "code": "VN_202",
       "name": "Centec Tower, 72-74 Nguyen Thi Minh Khai, District 3, HCMC",
       "shortName": "Centec Tower,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_295",
-      "name": "Ngân hàng TNHH MTV UOB Việt Nam",
-      "shortName": "Ngân hàng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_296",
+      "code": "VN_203",
       "name": "UOB Vietnam",
       "shortName": "UOB Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_297",
+      "code": "VN_204",
       "name": "Central Plaza Building, 71 Le Duan, District 1, HCMC",
       "shortName": "Central Plaza",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_298",
+      "code": "VN_205",
       "name": "Ngân hàng Đại chúng TNHH Kasikornbank Việt Nam",
       "shortName": "Ngân hàng",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_299",
+      "code": "VN_206",
       "name": "KBank Vietnam",
       "shortName": "KBank Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_300",
+      "code": "VN_207",
       "name": "Sunwah Tower, 115 Nguyen Hue, District 1, HCMC",
       "shortName": "Sunwah Tower,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_301",
+      "code": "VN_208",
       "name": "Bangkok Bank Vietnam",
       "shortName": "Bangkok",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_302",
+      "code": "VN_209",
       "name": "Harbour View Tower, 35 Nguyen Hue, District 1, HCMC",
       "shortName": "Harbour View",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_303",
+      "code": "VN_210",
       "name": "Chi nhánh Ngân hàng Deutsche Bank tại Việt Nam",
       "shortName": "Chi nhánh",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_304",
+      "code": "VN_211",
       "name": "Deutsche Bank AG Vietnam Branch",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "VN_305",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VN_306",
+      "code": "VN_212",
       "name": "Deutsches Haus Tower, 33 Le Duan, District 1, HCMC",
       "shortName": "Deutsches Haus",
       "type": "bank",

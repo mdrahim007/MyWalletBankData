@@ -26,594 +26,146 @@
     },
     {
       "code": "ME_3",
-      "name": "Euromarket Banka, acquired 2006 by NLB",
-      "shortName": "Euromarketa,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_4",
       "name": "Nikšićka Banka, renamed 2007 as Prva Banka Crne Gore",
       "shortName": "Nikšićkaa,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_5",
+      "code": "ME_4",
       "name": "Opportunity Bank, acquired by Erste Bank and renamed 2009",
       "shortName": "Opportunity,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_6",
+      "code": "ME_5",
       "name": "Invest Banka Montenegro AD, in liquidation&#91;1&#93;",
       "shortName": "Investa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_7",
+      "code": "ME_6",
       "name": "Atlas Banka AD, in liquidation&#91;1&#93;",
       "shortName": "Atlasa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_8",
+      "code": "ME_7",
       "name": "Find all banks' branches and ATMs in Montenegro using Maps",
       "shortName": "Find all",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_9",
+      "code": "ME_8",
       "name": "Find short information for each bank in Montenegro",
       "shortName": "Find short",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_10",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_11",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_12",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_13",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_14",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_15",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_16",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_17",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_18",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_19",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_20",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_21",
+      "code": "ME_9",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_22",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_23",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_24",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_25",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_26",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_27",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_28",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_29",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_30",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_31",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_32",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_33",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_34",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_35",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_36",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_37",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_38",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_39",
+      "code": "ME_10",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_40",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_41",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_42",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_43",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_44",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_45",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_46",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_47",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_48",
+      "code": "ME_11",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_49",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_50",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_51",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_52",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_53",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_54",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_55",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_56",
+      "code": "ME_12",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_57",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_58",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_59",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_60",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_61",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_62",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_63",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_64",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_65",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_66",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_67",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_68",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_69",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_70",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_71",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_72",
-      "name": "Lists of companies of Montenegro",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_73",
-      "name": "Banks of Montenegro",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_74",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_75",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_76",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_77",
+      "code": "ME_13",
       "name": "CKB Banka, subsidiary of OTP Bank",
       "shortName": "CKBa,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_78",
+      "code": "ME_14",
       "name": "Hipotekarna Banka AD, subsidiary of AikGroup",
       "shortName": "Hipotekarnaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_79",
+      "code": "ME_15",
       "name": "Prva Banka Crne Gore AD",
       "shortName": "Prvaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_80",
+      "code": "ME_16",
       "name": "Erste Bank AD, subsidiary of Erste Group",
       "shortName": "Erste",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_81",
+      "code": "ME_17",
       "name": "NLB Banka AD, subsidiary of NLB Group",
       "shortName": "NLBa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_82",
+      "code": "ME_18",
       "name": "Addiko Bank AD, subsidiary of Addiko Bank",
       "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_83",
+      "code": "ME_19",
       "name": "Universal Capital Bank AD",
       "shortName": "Universal Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_84",
+      "code": "ME_20",
       "name": "Lovćen Banka AD",
       "shortName": "Lovćena",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_85",
+      "code": "ME_21",
       "name": "Zapad Banka AD",
       "shortName": "Zapada",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_86",
+      "code": "ME_22",
       "name": "Ziraat Bank Montenegro AD, subsidiary of Ziraat Bank",
       "shortName": "Ziraat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_87",
+      "code": "ME_23",
       "name": "Adriatic Bank AD",
       "shortName": "Adriatic",
       "type": "bank",

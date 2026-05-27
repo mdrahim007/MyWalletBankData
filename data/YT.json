@@ -4,35 +4,35 @@
   "country": "YT",
   "institutions": [
     {
-      "code": "CENBYT",
+      "code": "YT_0",
       "name": "Central Bank of YT",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBYT",
+      "code": "YT_1",
       "name": "National Bank of YT",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABYT",
+      "code": "YT_2",
       "name": "State Bank of YT",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBYT",
+      "code": "YT_3",
       "name": "Commercial Bank of YT",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBYT",
+      "code": "YT_4",
       "name": "First YT Bank",
       "shortName": "First Bank",
       "type": "bank",

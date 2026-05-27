@@ -4,35 +4,35 @@
   "country": "BL",
   "institutions": [
     {
-      "code": "CENBBL",
+      "code": "BL_0",
       "name": "Central Bank of BL",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBL",
+      "code": "BL_1",
       "name": "National Bank of BL",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBL",
+      "code": "BL_2",
       "name": "State Bank of BL",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBL",
+      "code": "BL_3",
       "name": "Commercial Bank of BL",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBL",
+      "code": "BL_4",
       "name": "First BL Bank",
       "shortName": "First Bank",
       "type": "bank",

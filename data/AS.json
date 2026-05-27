@@ -4,35 +4,35 @@
   "country": "AS",
   "institutions": [
     {
-      "code": "CENBAS",
+      "code": "AS_0",
       "name": "Central Bank of AS",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAS",
+      "code": "AS_1",
       "name": "National Bank of AS",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAS",
+      "code": "AS_2",
       "name": "State Bank of AS",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAS",
+      "code": "AS_3",
       "name": "Commercial Bank of AS",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAS",
+      "code": "AS_4",
       "name": "First AS Bank",
       "shortName": "First Bank",
       "type": "bank",

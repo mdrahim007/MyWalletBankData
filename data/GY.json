@@ -4,35 +4,35 @@
   "country": "GY",
   "institutions": [
     {
-      "code": "CENBGY",
+      "code": "GY_0",
       "name": "Central Bank of GY",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGY",
+      "code": "GY_1",
       "name": "National Bank of GY",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGY",
+      "code": "GY_2",
       "name": "State Bank of GY",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGY",
+      "code": "GY_3",
       "name": "Commercial Bank of GY",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGY",
+      "code": "GY_4",
       "name": "First GY Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "VI",
   "institutions": [
     {
-      "code": "CENBVI",
+      "code": "VI_0",
       "name": "Central Bank of VI",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBVI",
+      "code": "VI_1",
       "name": "National Bank of VI",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABVI",
+      "code": "VI_2",
       "name": "State Bank of VI",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBVI",
+      "code": "VI_3",
       "name": "Commercial Bank of VI",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBVI",
+      "code": "VI_4",
       "name": "First VI Bank",
       "shortName": "First Bank",
       "type": "bank",

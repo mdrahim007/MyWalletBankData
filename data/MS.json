@@ -4,35 +4,35 @@
   "country": "MS",
   "institutions": [
     {
-      "code": "CENBMS",
+      "code": "MS_0",
       "name": "Central Bank of MS",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMS",
+      "code": "MS_1",
       "name": "National Bank of MS",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMS",
+      "code": "MS_2",
       "name": "State Bank of MS",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMS",
+      "code": "MS_3",
       "name": "Commercial Bank of MS",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMS",
+      "code": "MS_4",
       "name": "First MS Bank",
       "shortName": "First Bank",
       "type": "bank",

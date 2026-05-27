@@ -4,35 +4,35 @@
   "country": "PF",
   "institutions": [
     {
-      "code": "CENBPF",
+      "code": "PF_0",
       "name": "Central Bank of PF",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPF",
+      "code": "PF_1",
       "name": "National Bank of PF",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPF",
+      "code": "PF_2",
       "name": "State Bank of PF",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPF",
+      "code": "PF_3",
       "name": "Commercial Bank of PF",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPF",
+      "code": "PF_4",
       "name": "First PF Bank",
       "shortName": "First Bank",
       "type": "bank",

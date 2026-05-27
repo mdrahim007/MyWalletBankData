@@ -4,35 +4,35 @@
   "country": "GT",
   "institutions": [
     {
-      "code": "CENBGT",
+      "code": "GT_0",
       "name": "Central Bank of GT",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGT",
+      "code": "GT_1",
       "name": "National Bank of GT",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGT",
+      "code": "GT_2",
       "name": "State Bank of GT",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGT",
+      "code": "GT_3",
       "name": "Commercial Bank of GT",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGT",
+      "code": "GT_4",
       "name": "First GT Bank",
       "shortName": "First Bank",
       "type": "bank",

@@ -4,35 +4,35 @@
   "country": "HM",
   "institutions": [
     {
-      "code": "CENBHM",
+      "code": "HM_0",
       "name": "Central Bank of HM",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBHM",
+      "code": "HM_1",
       "name": "National Bank of HM",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABHM",
+      "code": "HM_2",
       "name": "State Bank of HM",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBHM",
+      "code": "HM_3",
       "name": "Commercial Bank of HM",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBHM",
+      "code": "HM_4",
       "name": "First HM Bank",
       "shortName": "First Bank",
       "type": "bank",

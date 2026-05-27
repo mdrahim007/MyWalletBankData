@@ -40,1385 +40,587 @@
     },
     {
       "code": "AM_5",
-      "name": "Artsakhbank was established in 1996.",
-      "shortName": "Artsakhbank was",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_6",
       "name": "Mellat Bank was founded in 1992.",
       "shortName": "Mellat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_7",
+      "code": "AM_6",
       "name": "Armenian Development Bank, merged with Araratbank.",
       "shortName": "Armenian Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_8",
+      "code": "AM_7",
       "name": "AreximBank-Gazprombank, acquired by Ardshinbank.",
       "shortName": "AreximBank-Gazprombank, acquired",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_9",
+      "code": "AM_8",
       "name": "Cascade Bank, merged with Ameriabank.",
       "shortName": "Cascade,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_10",
+      "code": "AM_9",
       "name": "BTA Bank, merged with ArmEconomBank.",
       "shortName": "BTA,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_11",
+      "code": "AM_10",
       "name": "ProCredit Bank, acquired by Inecobank.",
       "shortName": "ProCredit,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_12",
+      "code": "AM_11",
       "name": "Armenia Securities Exchange",
       "shortName": "Armenia Securities",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_13",
+      "code": "AM_12",
       "name": "Central Depository of Armenia",
       "shortName": "Central Depository",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_14",
+      "code": "AM_13",
       "name": "Economy of Armenia",
       "shortName": "Economy of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_15",
+      "code": "AM_14",
       "name": "banks.am",
       "shortName": "banks.am",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_16",
+      "code": "AM_15",
       "name": "www.armbanks.am by ARKA news agency",
       "shortName": "www.armbanks.am by",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_17",
-      "name": "Afghanistan",
-      "shortName": "Afghanistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_18",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_19",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_20",
-      "name": "Bahrain",
-      "shortName": "Bahrain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_21",
-      "name": "Bangladesh",
-      "shortName": "Bangladesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_22",
-      "name": "Bhutan",
-      "shortName": "Bhutan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_23",
+      "code": "AM_16",
       "name": "Brunei",
       "shortName": "Brunei",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_24",
-      "name": "Cambodia",
-      "shortName": "Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_25",
-      "name": "China",
-      "shortName": "China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_26",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_27",
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_28",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_29",
-      "name": "India",
-      "shortName": "India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_30",
-      "name": "Indonesia",
-      "shortName": "Indonesia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_31",
+      "code": "AM_17",
       "name": "Iran",
       "shortName": "Iran",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_32",
-      "name": "Iraq",
-      "shortName": "Iraq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_33",
-      "name": "Israel",
-      "shortName": "Israel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_34",
-      "name": "Japan",
-      "shortName": "Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_35",
-      "name": "Jordan",
-      "shortName": "Jordan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_36",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_37",
+      "code": "AM_18",
       "name": "North Korea",
       "shortName": "North Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_38",
+      "code": "AM_19",
       "name": "South Korea",
       "shortName": "South Korea",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_39",
-      "name": "Kuwait",
-      "shortName": "Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_40",
-      "name": "Kyrgyzstan",
-      "shortName": "Kyrgyzstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_41",
+      "code": "AM_20",
       "name": "Laos",
       "shortName": "Laos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_42",
-      "name": "Lebanon",
-      "shortName": "Lebanon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_43",
-      "name": "Malaysia",
-      "shortName": "Malaysia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_44",
-      "name": "Maldives",
-      "shortName": "Maldives",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_45",
-      "name": "Mongolia",
-      "shortName": "Mongolia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_46",
-      "name": "Myanmar",
-      "shortName": "Myanmar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_47",
-      "name": "Nepal",
-      "shortName": "Nepal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_48",
-      "name": "Oman",
-      "shortName": "Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_49",
+      "code": "AM_21",
       "name": "Palestine",
       "shortName": "Palestine",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_50",
-      "name": "Pakistan",
-      "shortName": "Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_51",
-      "name": "Philippines",
-      "shortName": "Philippines",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_52",
-      "name": "Qatar",
-      "shortName": "Qatar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_53",
+      "code": "AM_22",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_54",
-      "name": "Saudi Arabia",
-      "shortName": "Saudi Arabia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_55",
-      "name": "Singapore",
-      "shortName": "Singapore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_56",
-      "name": "Sri Lanka",
-      "shortName": "Sri Lanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_57",
+      "code": "AM_23",
       "name": "Syria",
       "shortName": "Syria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_58",
-      "name": "Tajikistan",
-      "shortName": "Tajikistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_59",
-      "name": "Thailand",
-      "shortName": "Thailand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_60",
+      "code": "AM_24",
       "name": "Timor-Leste (East Timor)",
       "shortName": "Timor-Leste (East",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_61",
+      "code": "AM_25",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_62",
-      "name": "Turkmenistan",
-      "shortName": "Turkmenistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_63",
-      "name": "United Arab Emirates",
-      "shortName": "United Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_64",
-      "name": "Uzbekistan",
-      "shortName": "Uzbekistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_65",
+      "code": "AM_26",
       "name": "Vietnam",
       "shortName": "Vietnam",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_66",
-      "name": "Yemen",
-      "shortName": "Yemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_67",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_68",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_69",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_70",
+      "code": "AM_27",
       "name": "Taiwan",
       "shortName": "Taiwan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_71",
-      "name": "British Indian Ocean Territory",
-      "shortName": "British Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_72",
-      "name": "Christmas Island",
-      "shortName": "Christmas Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_73",
-      "name": "Cocos (Keeling) Islands",
-      "shortName": "Cocos (Keeling)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_74",
-      "name": "Hong Kong",
-      "shortName": "Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_75",
+      "code": "AM_28",
       "name": "Macau",
       "shortName": "Macau",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_76",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_77",
-      "name": "Asia portal",
-      "shortName": "Asia portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_78",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_79",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_80",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_81",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_82",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_83",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_84",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_85",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_86",
+      "code": "AM_29",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_87",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_88",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_89",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_90",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_91",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_92",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_93",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_94",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_95",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_96",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_97",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_98",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_99",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_100",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_101",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_102",
+      "code": "AM_30",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_103",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_104",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_105",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_106",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_107",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_108",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_109",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_110",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_111",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_112",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_113",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_114",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_115",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_116",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_117",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_118",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_119",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_120",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_121",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_122",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_123",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_124",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_125",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_126",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_127",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_128",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_129",
-      "name": "Banks of Armenia",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_130",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_131",
-      "name": "Lists of companies of Armenia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_132",
-      "name": "Lists of banks in Asia",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_133",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_134",
+      "code": "AM_31",
       "name": "CS1 errors: missing title",
       "shortName": "CS1 errors:",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_135",
+      "code": "AM_32",
       "name": "CS1 errors: bare URL",
       "shortName": "CS1 errors:",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_136",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_137",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_138",
-      "name": "Articles lacking reliable references from June 2024",
-      "shortName": "Articles lacking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_139",
-      "name": "All articles lacking reliable references",
-      "shortName": "All articles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_140",
+      "code": "AM_33",
       "name": "1",
       "shortName": "1",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_141",
+      "code": "AM_34",
       "name": "\"Ameriabank\" CJSC&#91;3&#93;",
       "shortName": "\"Ameriabank\" CJSC&#91;3&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_142",
+      "code": "AM_35",
       "name": "1910",
       "shortName": "1910",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_143",
+      "code": "AM_36",
       "name": "Yerevan",
       "shortName": "Yerevan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_144",
+      "code": "AM_37",
       "name": "ARMIAM22",
       "shortName": "ARMIAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_145",
+      "code": "AM_38",
       "name": "2",
       "shortName": "2",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_146",
-      "name": "\"AMIO BANK\" CJSC&#91;4&#93;",
-      "shortName": "\"AMIO BANK\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_147",
+      "code": "AM_39",
       "name": "1991",
       "shortName": "1991",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_148",
-      "name": "ARMNAM22",
-      "shortName": "ARMNAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_149",
+      "code": "AM_40",
       "name": "3",
       "shortName": "3",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_150",
+      "code": "AM_41",
       "name": "\"Ardshinbank\" CJSC&#91;5&#93;",
       "shortName": "\"Ardshinbank\" CJSC&#91;5&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_151",
+      "code": "AM_42",
       "name": "2003",
       "shortName": "2003",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_152",
+      "code": "AM_43",
       "name": "ASHBAM22",
       "shortName": "ASHBAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_153",
+      "code": "AM_44",
       "name": "4",
       "shortName": "4",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_154",
+      "code": "AM_45",
       "name": "\"Acba bank\" OJSC&#91;6&#93;",
       "shortName": "\"Acba bank\"",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_155",
+      "code": "AM_46",
       "name": "1996",
       "shortName": "1996",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_156",
+      "code": "AM_47",
       "name": "AGCAAM22",
       "shortName": "AGCAAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_157",
+      "code": "AM_48",
       "name": "5",
       "shortName": "5",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_158",
+      "code": "AM_49",
       "name": "\"Inecobank\" CJSC&#91;7&#93;",
       "shortName": "\"Inecobank\" CJSC&#91;7&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_159",
+      "code": "AM_50",
       "name": "INJSAM22",
       "shortName": "INJSAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_160",
+      "code": "AM_51",
       "name": "6",
       "shortName": "6",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_161",
+      "code": "AM_52",
       "name": "\"Converse Bank Corp\"&#91;8&#93;",
       "shortName": "\"Converse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_162",
+      "code": "AM_53",
       "name": "1993",
       "shortName": "1993",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_163",
+      "code": "AM_54",
       "name": "COVBAM22",
       "shortName": "COVBAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_164",
+      "code": "AM_55",
       "name": "7",
       "shortName": "7",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_165",
-      "name": "\"VTB Bank Armenia\" CJSC&#91;9&#93;",
-      "shortName": "\"VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_166",
-      "name": "ARMJAM22",
-      "shortName": "ARMJAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_167",
-      "name": "8",
-      "shortName": "8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_168",
-      "name": "\"ARARATBANK\" OJSC&#91;10&#93;",
-      "shortName": "\"ARARATBANK\" OJSC&#91;10&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_169",
-      "name": "2004",
-      "shortName": "2004",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_170",
-      "name": "ARMCAM22",
-      "shortName": "ARMCAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_171",
-      "name": "10",
-      "shortName": "10",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_172",
-      "name": "\"UniBank\" OJSC&#91;11&#93;",
-      "shortName": "\"UniBank\" OJSC&#91;11&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_173",
-      "name": "2001",
-      "shortName": "2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_174",
-      "name": "UNIJAM22",
-      "shortName": "UNIJAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_175",
-      "name": "11",
-      "shortName": "11",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_176",
-      "name": "\"ARMECONOMBANK\" OJSC&#91;12&#93;",
-      "shortName": "\"ARMECONOMBANK\" OJSC&#91;12&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_177",
-      "name": "ARECAM22",
-      "shortName": "ARECAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_178",
-      "name": "12",
-      "shortName": "12",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_179",
-      "name": "\"ArmSwissBank\" CJSC&#91;13&#93; (not retail banking)",
-      "shortName": "\"ArmSwissBank\" CJSC&#91;13&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_180",
-      "name": "ARSJAM22",
-      "shortName": "ARSJAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_181",
-      "name": "13",
-      "shortName": "13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_182",
-      "name": "\"ArtsakhBank\" CJSC&#91;14&#93;",
-      "shortName": "\"ArtsakhBank\" CJSC&#91;14&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_183",
-      "name": "ARTSAM22",
-      "shortName": "ARTSAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_184",
-      "name": "14",
-      "shortName": "14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_185",
-      "name": "\"ID Bank\" CJSC&#91;15&#93;",
-      "shortName": "\"ID\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_186",
-      "name": "1990",
-      "shortName": "1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_187",
-      "name": "ANIKAM22",
-      "shortName": "ANIKAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_188",
-      "name": "15",
-      "shortName": "15",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_189",
-      "name": "\"EVOCABANK\" CJSC&#91;16&#93;",
-      "shortName": "\"EVOCABANK\" CJSC&#91;16&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_190",
-      "name": "PRMLAM22",
-      "shortName": "PRMLAM22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_191",
-      "name": "16",
-      "shortName": "16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AM_192",
+      "code": "AM_56",
       "name": "\"Byblos Bank Armenia\" CJSC&#91;17&#93;",
       "shortName": "\"Byblos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_193",
+      "code": "AM_57",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_58",
+      "name": "\"ARARATBANK\" OJSC&#91;10&#93;",
+      "shortName": "\"ARARATBANK\" OJSC&#91;10&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_59",
+      "name": "2004",
+      "shortName": "2004",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_60",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_61",
+      "name": "\"UniBank\" OJSC&#91;11&#93;",
+      "shortName": "\"UniBank\" OJSC&#91;11&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_62",
+      "name": "2001",
+      "shortName": "2001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_63",
+      "name": "UNIJAM22",
+      "shortName": "UNIJAM22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_64",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_65",
+      "name": "\"ARMECONOMBANK\" OJSC&#91;12&#93;",
+      "shortName": "\"ARMECONOMBANK\" OJSC&#91;12&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_66",
+      "name": "ARECAM22",
+      "shortName": "ARECAM22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_67",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_68",
+      "name": "\"ArmSwissBank\" CJSC&#91;13&#93; (not retail banking)",
+      "shortName": "\"ArmSwissBank\" CJSC&#91;13&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_69",
+      "name": "ARSJAM22",
+      "shortName": "ARSJAM22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_70",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_71",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_72",
+      "name": "\"ID Bank\" CJSC&#91;15&#93;",
+      "shortName": "\"ID\"",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_73",
+      "name": "1990",
+      "shortName": "1990",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_74",
+      "name": "ANIKAM22",
+      "shortName": "ANIKAM22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_75",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_76",
+      "name": "\"EVOCABANK\" CJSC&#91;16&#93;",
+      "shortName": "\"EVOCABANK\" CJSC&#91;16&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_77",
+      "name": "PRMLAM22",
+      "shortName": "PRMLAM22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_78",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AM_79",
       "name": "1992",
       "shortName": "1992",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_194",
+      "code": "AM_80",
       "name": "AEIEUS33",
       "shortName": "AEIEUS33",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_195",
+      "code": "AM_81",
       "name": "17",
       "shortName": "17",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_196",
+      "code": "AM_82",
       "name": "\"Mellat Bank\" CJSC&#91;18&#93;",
       "shortName": "\"Mellat\"",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_197",
+      "code": "AM_83",
       "name": "1995",
       "shortName": "1995",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_198",
+      "code": "AM_84",
       "name": "BKMTAM22",
       "shortName": "BKMTAM22",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_199",
+      "code": "AM_85",
       "name": "18",
       "shortName": "18",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_200",
+      "code": "AM_86",
       "name": "Fast Bank",
       "shortName": "Fast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_201",
+      "code": "AM_87",
       "name": "2022",
       "shortName": "2022",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AM_202",
+      "code": "AM_88",
       "name": "FCAOAM22",
       "shortName": "FCAOAM22",
       "type": "bank",

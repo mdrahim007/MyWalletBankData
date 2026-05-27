@@ -4,35 +4,35 @@
   "country": "PN",
   "institutions": [
     {
-      "code": "CENBPN",
+      "code": "PN_0",
       "name": "Central Bank of PN",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPN",
+      "code": "PN_1",
       "name": "National Bank of PN",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPN",
+      "code": "PN_2",
       "name": "State Bank of PN",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPN",
+      "code": "PN_3",
       "name": "Commercial Bank of PN",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPN",
+      "code": "PN_4",
       "name": "First PN Bank",
       "shortName": "First Bank",
       "type": "bank",

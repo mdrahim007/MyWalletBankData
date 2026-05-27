@@ -4,35 +4,35 @@
   "country": "SH",
   "institutions": [
     {
-      "code": "CENBSH",
+      "code": "SH_0",
       "name": "Central Bank of SH",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSH",
+      "code": "SH_1",
       "name": "National Bank of SH",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSH",
+      "code": "SH_2",
       "name": "State Bank of SH",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSH",
+      "code": "SH_3",
       "name": "Commercial Bank of SH",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSH",
+      "code": "SH_4",
       "name": "First SH Bank",
       "shortName": "First Bank",
       "type": "bank",

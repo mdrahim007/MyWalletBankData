@@ -4,35 +4,35 @@
   "country": "AG",
   "institutions": [
     {
-      "code": "CENBAG",
+      "code": "AG_0",
       "name": "Central Bank of AG",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAG",
+      "code": "AG_1",
       "name": "National Bank of AG",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAG",
+      "code": "AG_2",
       "name": "State Bank of AG",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAG",
+      "code": "AG_3",
       "name": "Commercial Bank of AG",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAG",
+      "code": "AG_4",
       "name": "First AG Bank",
       "shortName": "First Bank",
       "type": "bank",

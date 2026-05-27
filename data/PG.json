@@ -4,35 +4,35 @@
   "country": "PG",
   "institutions": [
     {
-      "code": "CENBPG",
+      "code": "PG_0",
       "name": "Central Bank of PG",
       "shortName": "Central Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPG",
+      "code": "PG_1",
       "name": "National Bank of PG",
       "shortName": "National Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPG",
+      "code": "PG_2",
       "name": "State Bank of PG",
       "shortName": "State Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPG",
+      "code": "PG_3",
       "name": "Commercial Bank of PG",
       "shortName": "Commercial Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPG",
+      "code": "PG_4",
       "name": "First PG Bank",
       "shortName": "First Bank",
       "type": "bank",

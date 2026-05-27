@@ -40,1856 +40,1184 @@
     },
     {
       "code": "HU_5",
-      "name": "MBH DUNA Bank Zrt, subsidiary of MBH Bank",
-      "shortName": "MBH DUNA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_6",
       "name": "BNP Paribas",
       "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_7",
-      "name": "China Construction Bank (Europe) SA, subsidiary of CCB",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_8",
-      "name": "Citibank Europe plc, subsidiary of Citigroup",
-      "shortName": "Citibank Europe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_9",
+      "code": "HU_6",
       "name": "Cofidis, subsidiary of BNP Paribas",
       "shortName": "Cofidis, subsidiary",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_10",
+      "code": "HU_7",
       "name": "Deutsche Bank AG",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_11",
+      "code": "HU_8",
       "name": "Hypo-Bank Burgenland AG&#160;&#91;de&#93;",
       "shortName": "Hypo-Bank Burgenland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_12",
+      "code": "HU_9",
       "name": "ING Bank NV",
       "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_13",
+      "code": "HU_10",
       "name": "Oberbank AG",
       "shortName": "Oberbank AG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_14",
+      "code": "HU_11",
       "name": "Revolut Bank UAB, subsidiary of Revolut",
       "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_15",
+      "code": "HU_12",
       "name": "Bank of China",
       "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_16",
+      "code": "HU_13",
       "name": "First National Savings Bank of Pest (1839-1948)",
       "shortName": "First National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_17",
+      "code": "HU_14",
       "name": "Hungarian Commercial Bank of Pest (1840-1950)",
       "shortName": "Hungarian Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_18",
+      "code": "HU_15",
       "name": "Szeged-Csongrád Savings Bank&#160;&#91;hu&#93; (1845-1948)",
       "shortName": "Szeged-Csongrád Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_19",
+      "code": "HU_16",
       "name": "Hungarian General Credit Bank (1867-1948)",
       "shortName": "Hungarian General",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_20",
+      "code": "HU_17",
       "name": "Hungarian Discount and Exchange Bank (1869-1949)",
       "shortName": "Hungarian Discount",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_21",
+      "code": "HU_18",
       "name": "Hungarian Mortgage Credit Bank (1869-1949)",
       "shortName": "Hungarian Mortgage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_22",
+      "code": "HU_19",
       "name": "Hungarian Postal Savings Bank (1886-1948)",
       "shortName": "Hungarian Postal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_23",
+      "code": "HU_20",
       "name": "Hungarian Industrial and Commercial Bank (1890-1902)",
       "shortName": "Hungarian Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_24",
+      "code": "HU_21",
       "name": "Hazai Bank (1892-1946)",
       "shortName": "Hazai",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_25",
+      "code": "HU_22",
       "name": "Hungarian-Italian Bank&#160;&#91;hu&#93; (1920-1948)",
       "shortName": "Hungarian-Italian&#160;&#91;hu&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_26",
+      "code": "HU_23",
       "name": "MKB Bank (1950-2023)",
       "shortName": "MKB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_27",
+      "code": "HU_24",
       "name": "Kinizsi Bank&#160;&#91;hu&#93; (1958-2019)",
       "shortName": "Kinizsi&#160;&#91;hu&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_28",
+      "code": "HU_25",
       "name": "Inter-Európa Bank&#160;&#91;hu&#93; (1985-2008)",
       "shortName": "Inter-Európa&#160;&#91;hu&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_29",
+      "code": "HU_26",
       "name": "Budapest Bank (1987-2022)",
       "shortName": "Budapest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_30",
+      "code": "HU_27",
       "name": "Sberbank Hungary&#160;&#91;hu&#93; (1987-2022)",
       "shortName": "Sberbank Hungary&#160;&#91;hu&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_31",
+      "code": "HU_28",
       "name": "Postabank&#160;&#91;hu&#93; (1988-2004)",
       "shortName": "Postabank&#160;&#91;hu&#93; (1988-2004)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_32",
+      "code": "HU_29",
       "name": "Takarékbank (1989-2023)",
       "shortName": "Takarékbank (1989-2023)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_33",
+      "code": "HU_30",
       "name": "Ybl Bank&#160;&#91;hu&#93; (1989-1992)",
       "shortName": "Ybl&#160;&#91;hu&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_34",
-      "name": "NHB Bank&#160;&#91;hu&#93; (1990-2019)",
-      "shortName": "NHB&#160;&#91;hu&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_35",
+      "code": "HU_31",
       "name": "FHB Mortgage Bank (1997-2016)",
       "shortName": "FHB Mortgage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_36",
+      "code": "HU_32",
       "name": "Széchenyi Commercial Bank&#160;&#91;hu&#93; (2008-2014)",
       "shortName": "Széchenyi Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_37",
+      "code": "HU_33",
       "name": "International Investment Bank (2019-2023)",
       "shortName": "International Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_38",
+      "code": "HU_34",
       "name": "Cluj-Napoca Savings Bank&#160;&#91;hu&#93; (1825-1948)",
       "shortName": "Cluj-Napoca Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_39",
+      "code": "HU_35",
       "name": "First Croatian Savings Bank (1846-1945)",
       "shortName": "First Croatian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_40",
+      "code": "HU_36",
       "name": "Croatian Discount Bank (1868-1945)",
       "shortName": "Croatian Discount",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_41",
+      "code": "HU_37",
       "name": "Tatra Banka&#160;&#91;sk&#93; (1884-1948)",
       "shortName": "Tatraa&#160;&#91;sk&#93;",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_42",
+      "code": "HU_38",
       "name": "Serbian Bank in Zagreb (1895-1945)",
       "shortName": "Serbian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_43",
+      "code": "HU_39",
       "name": "Kroatische Landesbank (1909-1945)",
       "shortName": "Kroatische Landesbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_44",
+      "code": "HU_40",
       "name": "City Savings Bank of Zagreb (1913-1952)",
       "shortName": "City Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_45",
+      "code": "HU_41",
       "name": "Hungarian economy",
       "shortName": "Hungarian economy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_46",
+      "code": "HU_42",
       "name": "Timeline",
       "shortName": "Timeline",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_47",
-      "name": "Name",
-      "shortName": "Name",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_48",
-      "name": "Christianity",
-      "shortName": "Christianity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_49",
-      "name": "Seven chieftains",
-      "shortName": "Seven chieftains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_50",
-      "name": "Árpád dynasty",
-      "shortName": "Árpád dynasty",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_51",
-      "name": "Holy Crown",
-      "shortName": "Holy Crown",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_52",
-      "name": "Nobility",
-      "shortName": "Nobility",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_53",
-      "name": "Flag",
-      "shortName": "Flag",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_54",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_55",
-      "name": "History of Transylvania",
-      "shortName": "History of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_56",
-      "name": "Hungarian prehistory",
-      "shortName": "Hungarian prehistory",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_57",
-      "name": "The Carpathian Basin before the Hungarian conquest",
-      "shortName": "The Carpathian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_58",
-      "name": "Roman Pannonia",
-      "shortName": "Roman Pannonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_59",
-      "name": "Hunnic Empire",
-      "shortName": "Hunnic Empire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_60",
-      "name": "Kingdom of the Gepids (454–567)",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_61",
-      "name": "Ostrogothic Kingdom (469–553)",
-      "shortName": "Ostrogothic Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_62",
-      "name": "Avar Khaganate (567–822)",
-      "shortName": "Avar Khaganate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_63",
-      "name": "Hungarian invasions of Europe (~800–970)",
-      "shortName": "Hungarian invasions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_64",
-      "name": "Hungarian conquest (862–895)",
-      "shortName": "Hungarian conquest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_65",
-      "name": "Principality of Hungary (895–1000)",
-      "shortName": "Principality of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_66",
-      "name": "Kingdom of Hungary (1000–1301)",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_67",
-      "name": "Personal union with Croatia (1102–1918)",
-      "shortName": "Personal union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_68",
-      "name": "Golden Bull (1222)",
-      "shortName": "Golden Bull",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_69",
-      "name": "Mongol invasion of Hungary (1241–1242)",
-      "shortName": "Mongol invasion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_70",
-      "name": "Kingdom of Hungary (1301–1526)",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_71",
-      "name": "Ottoman Wars (1366–1526)",
-      "shortName": "Ottoman Wars",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_72",
-      "name": "Reformation (1520)",
-      "shortName": "Reformation (1520)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_73",
-      "name": "Ottoman Wars (1526–1718)",
-      "shortName": "Ottoman Wars",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_74",
-      "name": "Eastern Hungarian Kingdom (1526–1570)",
-      "shortName": "Eastern Hungarian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_75",
-      "name": "Royal Hungary (1526–1699)",
-      "shortName": "Royal Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_76",
-      "name": "Ottoman Hungary (1541–1699)",
-      "shortName": "Ottoman Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_77",
-      "name": "Principality of Transylvania (1570–1711)",
-      "shortName": "Principality of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_78",
-      "name": "Bocskai uprising 1604–1606)",
-      "shortName": "Bocskai uprising",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_79",
-      "name": "Wesselényi conspiracy (1664–1671)",
-      "shortName": "Wesselényi conspiracy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_80",
-      "name": "Principality of Upper Hungary (1682–1685)",
-      "shortName": "Principality of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_81",
-      "name": "Kingdom of Hungary (1699–1867)",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_82",
-      "name": "Rákóczi's War of Independence (1703–1711)",
-      "shortName": "Rákóczi's War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_83",
-      "name": "Principality of Transylvania (1711–1867)",
-      "shortName": "Principality of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_84",
-      "name": "Hungarian Reform Era (1825–1848)",
-      "shortName": "Hungarian Reform",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_85",
-      "name": "Revolution of 1848 (1848–1849)",
-      "shortName": "Revolution of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_86",
-      "name": "Hungarian State (1849)",
-      "shortName": "Hungarian State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_87",
-      "name": "Austro-Hungarian Monarchy (1867–1918)",
-      "shortName": "Austro-Hungarian Monarchy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_88",
-      "name": "Lands of the Crown of St. Stephen (1867–1918",
-      "shortName": "Lands of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_89",
-      "name": "World War I (1914–1918)",
-      "shortName": "World War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_90",
-      "name": "Interwar period (1918–1941)",
-      "shortName": "Interwar period",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_91",
-      "name": "Hungarian People's Republic (1918–1919)",
-      "shortName": "Hungarian People's",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_92",
-      "name": "Hungarian Soviet Republic (1919)",
-      "shortName": "Hungarian Soviet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_93",
-      "name": "Hungarian Republic (1919–1920)",
-      "shortName": "Hungarian Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_94",
-      "name": "Treaty of Trianon (1920)",
-      "shortName": "Treaty of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_95",
-      "name": "Kingdom of Hungary (1920–1946)",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_96",
-      "name": "First Vienna Award (1938)",
-      "shortName": "First Vienna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_97",
-      "name": "Governorate of Subcarpathia (1939–1945)",
-      "shortName": "Governorate of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_98",
-      "name": "Second Vienna Award (1940)",
-      "shortName": "Second Vienna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_99",
-      "name": "Revisions of Délvidék (1941)",
-      "shortName": "Revisions of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_100",
-      "name": "World War II (1941–1945)",
-      "shortName": "World War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_101",
-      "name": "Second Hungarian Republic (1946–1949)",
-      "shortName": "Second Hungarian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_102",
-      "name": "Hungarian People's Republic (1949–1989)",
-      "shortName": "Hungarian People's",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_103",
-      "name": "Revolution of 1956 (1956)",
-      "shortName": "Revolution of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_104",
-      "name": "Goulash Communism (1956–1989)",
-      "shortName": "Goulash Communism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_105",
-      "name": "Third Hungarian Republic (1989–2012)",
-      "shortName": "Third Hungarian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_106",
-      "name": "Administrative divisions",
-      "shortName": "Administrative divisions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_107",
-      "name": "Atlas",
-      "shortName": "Atlas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_108",
-      "name": "Counties",
-      "shortName": "Counties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_109",
-      "name": "Cities and towns",
-      "shortName": "Cities and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_110",
-      "name": "Climate",
-      "shortName": "Climate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_111",
-      "name": "Extreme points",
-      "shortName": "Extreme points",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_112",
-      "name": "Mammals",
-      "shortName": "Mammals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_113",
-      "name": "Geology",
-      "shortName": "Geology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_114",
-      "name": "Lakes",
-      "shortName": "Lakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_115",
-      "name": "Rivers",
-      "shortName": "Rivers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_116",
-      "name": "Regions",
-      "shortName": "Regions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_117",
-      "name": "Mountains",
-      "shortName": "Mountains",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_118",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_119",
-      "name": "Constitution",
-      "shortName": "Constitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_120",
-      "name": "Local",
-      "shortName": "Local",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_121",
-      "name": "Foreign relations",
-      "shortName": "Foreign relations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_122",
-      "name": "Human rights",
-      "shortName": "Human rights",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_123",
-      "name": "Intelligence",
-      "shortName": "Intelligence",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_124",
-      "name": "Law",
-      "shortName": "Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_125",
-      "name": "Law enforcement",
-      "shortName": "Law enforcement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_126",
-      "name": "Nationality",
-      "shortName": "Nationality",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_127",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_128",
-      "name": "Visegrád Group",
-      "shortName": "Visegrád Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_129",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_130",
-      "name": "Companies",
-      "shortName": "Companies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_131",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_132",
-      "name": "Forint  (currency)",
-      "shortName": "Forint (currency)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_133",
-      "name": "Industry",
-      "shortName": "Industry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_134",
-      "name": "Science and technology",
-      "shortName": "Science and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_135",
-      "name": "Stock exchange",
-      "shortName": "Stock exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_136",
-      "name": "Taxation",
-      "shortName": "Taxation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_137",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_138",
-      "name": "Tourism",
-      "shortName": "Tourism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_139",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_140",
-      "name": "Unemployment",
-      "shortName": "Unemployment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_141",
-      "name": "Anti-Hungarian sentiment",
-      "shortName": "Anti-Hungarian sentiment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_142",
-      "name": "Crime",
-      "shortName": "Crime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_143",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_144",
-      "name": "Family policy",
-      "shortName": "Family policy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_145",
-      "name": "Health",
-      "shortName": "Health",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_146",
-      "name": "Healthcare",
-      "shortName": "Healthcare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_147",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_148",
-      "name": "List by occupation",
-      "shortName": "List by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_149",
-      "name": "Székelys",
-      "shortName": "Székelys",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_150",
-      "name": "International rankings",
-      "shortName": "International rankings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_151",
-      "name": "Irredentism",
-      "shortName": "Irredentism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_152",
-      "name": "Languages",
-      "shortName": "Languages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_153",
-      "name": "LGBTQ",
-      "shortName": "LGBTQ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_154",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_155",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_156",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_157",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_158",
-      "name": "Academy",
-      "shortName": "Academy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_159",
-      "name": "Hungarian alphabet",
-      "shortName": "Hungarian alphabet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_160",
-      "name": "Palaces and mansions",
-      "shortName": "Palaces and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_161",
-      "name": "Art",
-      "shortName": "Art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_162",
-      "name": "Chronicles",
-      "shortName": "Chronicles",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_163",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_164",
-      "name": "Beer",
-      "shortName": "Beer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_165",
-      "name": "Dishes",
-      "shortName": "Dishes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_166",
-      "name": "Sausages",
-      "shortName": "Sausages",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_167",
-      "name": "Dance",
-      "shortName": "Dance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_168",
-      "name": "Domesticated animals",
-      "shortName": "Domesticated animals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_169",
-      "name": "Fashion",
-      "shortName": "Fashion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_170",
-      "name": "Festivals",
-      "shortName": "Festivals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_171",
-      "name": "Folklore",
-      "shortName": "Folklore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_172",
-      "name": "Inventions",
-      "shortName": "Inventions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_173",
-      "name": "Hungarian language",
-      "shortName": "Hungarian language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_174",
-      "name": "Libraries",
-      "shortName": "Libraries",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_175",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_176",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_177",
-      "name": "Music",
-      "shortName": "Music",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_178",
-      "name": "Mythology",
-      "shortName": "Mythology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_179",
+      "code": "HU_43",
       "name": "Names",
       "shortName": "Names",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_180",
+      "code": "HU_44",
+      "name": "Christianity",
+      "shortName": "Christianity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_45",
+      "name": "Seven chieftains",
+      "shortName": "Seven chieftains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_46",
+      "name": "Árpád dynasty",
+      "shortName": "Árpád dynasty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_47",
+      "name": "Holy Crown",
+      "shortName": "Holy Crown",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_48",
+      "name": "Nobility",
+      "shortName": "Nobility",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_49",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_50",
+      "name": "The Carpathian Basin before the Hungarian conquest",
+      "shortName": "The Carpathian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_51",
+      "name": "Roman Pannonia",
+      "shortName": "Roman Pannonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_52",
+      "name": "Hunnic Empire",
+      "shortName": "Hunnic Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_53",
+      "name": "Kingdom of the Gepids (454–567)",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_54",
+      "name": "Ostrogothic Kingdom (469–553)",
+      "shortName": "Ostrogothic Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_55",
+      "name": "Avar Khaganate (567–822)",
+      "shortName": "Avar Khaganate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_56",
+      "name": "Hungarian conquest (862–895)",
+      "shortName": "Hungarian conquest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_57",
+      "name": "Kingdom of Hungary (1000–1301)",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_58",
+      "name": "Personal union with Croatia (1102–1918)",
+      "shortName": "Personal union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_59",
+      "name": "Golden Bull (1222)",
+      "shortName": "Golden Bull",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_60",
+      "name": "Mongol invasion of Hungary (1241–1242)",
+      "shortName": "Mongol invasion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_61",
+      "name": "Kingdom of Hungary (1301–1526)",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_62",
+      "name": "Ottoman Wars (1366–1526)",
+      "shortName": "Ottoman Wars",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_63",
+      "name": "Reformation (1520)",
+      "shortName": "Reformation (1520)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_64",
+      "name": "Ottoman Wars (1526–1718)",
+      "shortName": "Ottoman Wars",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_65",
+      "name": "Eastern Hungarian Kingdom (1526–1570)",
+      "shortName": "Eastern Hungarian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_66",
+      "name": "Royal Hungary (1526–1699)",
+      "shortName": "Royal Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_67",
+      "name": "Ottoman Hungary (1541–1699)",
+      "shortName": "Ottoman Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_68",
+      "name": "Bocskai uprising 1604–1606)",
+      "shortName": "Bocskai uprising",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_69",
+      "name": "Wesselényi conspiracy (1664–1671)",
+      "shortName": "Wesselényi conspiracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_70",
+      "name": "Kingdom of Hungary (1699–1867)",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_71",
+      "name": "Rákóczi's War of Independence (1703–1711)",
+      "shortName": "Rákóczi's War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_72",
+      "name": "Hungarian Reform Era (1825–1848)",
+      "shortName": "Hungarian Reform",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_73",
+      "name": "Revolution of 1848 (1848–1849)",
+      "shortName": "Revolution of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_74",
+      "name": "Hungarian State (1849)",
+      "shortName": "Hungarian State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_75",
+      "name": "Austro-Hungarian Monarchy (1867–1918)",
+      "shortName": "Austro-Hungarian Monarchy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_76",
+      "name": "Lands of the Crown of St. Stephen (1867–1918",
+      "shortName": "Lands of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_77",
+      "name": "World War II (1941–1945)",
+      "shortName": "World War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_78",
+      "name": "Interwar period (1918–1941)",
+      "shortName": "Interwar period",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_79",
+      "name": "Hungarian Soviet Republic (1919)",
+      "shortName": "Hungarian Soviet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_80",
+      "name": "Hungarian Republic (1919–1920)",
+      "shortName": "Hungarian Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_81",
+      "name": "Treaty of Trianon (1920)",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_82",
+      "name": "First Vienna Award (1938)",
+      "shortName": "First Vienna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_83",
+      "name": "Governorate of Subcarpathia (1939–1945)",
+      "shortName": "Governorate of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_84",
+      "name": "Second Vienna Award (1940)",
+      "shortName": "Second Vienna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_85",
+      "name": "Revisions of Délvidék (1941)",
+      "shortName": "Revisions of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_86",
+      "name": "Second Hungarian Republic (1946–1949)",
+      "shortName": "Second Hungarian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_87",
+      "name": "Revolution of 1956 (1956)",
+      "shortName": "Revolution of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_88",
+      "name": "Goulash Communism (1956–1989)",
+      "shortName": "Goulash Communism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_89",
+      "name": "Third Hungarian Republic (1989–2012)",
+      "shortName": "Third Hungarian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_90",
+      "name": "Administrative divisions",
+      "shortName": "Administrative divisions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_91",
+      "name": "Atlas",
+      "shortName": "Atlas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_92",
+      "name": "Counties",
+      "shortName": "Counties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_93",
+      "name": "Cities and towns",
+      "shortName": "Cities and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_94",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_95",
+      "name": "Extreme points",
+      "shortName": "Extreme points",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_96",
+      "name": "Mammals",
+      "shortName": "Mammals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_97",
+      "name": "Regions",
+      "shortName": "Regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_98",
+      "name": "Cabinet",
+      "shortName": "Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_99",
+      "name": "Local",
+      "shortName": "Local",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_100",
+      "name": "Human rights",
+      "shortName": "Human rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_101",
+      "name": "Intelligence",
+      "shortName": "Intelligence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_102",
+      "name": "Law",
+      "shortName": "Law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_103",
+      "name": "Nationality",
+      "shortName": "Nationality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_104",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_105",
+      "name": "Visegrád Group",
+      "shortName": "Visegrád Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_106",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_107",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_108",
+      "name": "Forint  (currency)",
+      "shortName": "Forint (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_109",
+      "name": "Industry",
+      "shortName": "Industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_110",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_111",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_112",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_113",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_114",
+      "name": "Unemployment",
+      "shortName": "Unemployment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_115",
+      "name": "Anti-Hungarian sentiment",
+      "shortName": "Anti-Hungarian sentiment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_116",
+      "name": "Crime",
+      "shortName": "Crime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_117",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_118",
+      "name": "Family policy",
+      "shortName": "Family policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_119",
+      "name": "Health",
+      "shortName": "Health",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_120",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_121",
+      "name": "Human trafficking",
+      "shortName": "Human trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_122",
+      "name": "List by occupation",
+      "shortName": "List by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_123",
+      "name": "Székelys",
+      "shortName": "Székelys",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_124",
+      "name": "International rankings",
+      "shortName": "International rankings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_125",
+      "name": "Irredentism",
+      "shortName": "Irredentism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_126",
+      "name": "LGBTQ",
+      "shortName": "LGBTQ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_127",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_128",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_129",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_130",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_131",
+      "name": "Academy",
+      "shortName": "Academy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_132",
+      "name": "Hungarian alphabet",
+      "shortName": "Hungarian alphabet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_133",
+      "name": "Palaces and mansions",
+      "shortName": "Palaces and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_134",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_135",
+      "name": "Chronicles",
+      "shortName": "Chronicles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_136",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_137",
+      "name": "Beer",
+      "shortName": "Beer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_138",
+      "name": "Dishes",
+      "shortName": "Dishes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_139",
+      "name": "Sausages",
+      "shortName": "Sausages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_140",
+      "name": "Dance",
+      "shortName": "Dance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_141",
+      "name": "Domesticated animals",
+      "shortName": "Domesticated animals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_142",
+      "name": "Fashion",
+      "shortName": "Fashion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_143",
+      "name": "Festivals",
+      "shortName": "Festivals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_144",
+      "name": "Folklore",
+      "shortName": "Folklore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_145",
+      "name": "Inventions",
+      "shortName": "Inventions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_146",
+      "name": "Hungarian language",
+      "shortName": "Hungarian language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_147",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_148",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_149",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_150",
+      "name": "Mythology",
+      "shortName": "Mythology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HU_151",
       "name": "Old Hungarian script",
       "shortName": "Old Hungarian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_181",
+      "code": "HU_152",
       "name": "Spa culture",
       "shortName": "Spa culture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_182",
-      "name": "Sport",
-      "shortName": "Sport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_183",
+      "code": "HU_153",
       "name": "Symbols",
       "shortName": "Symbols",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_184",
+      "code": "HU_154",
       "name": "Television",
       "shortName": "Television",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_185",
+      "code": "HU_155",
       "name": "Theatre",
       "shortName": "Theatre",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_186",
+      "code": "HU_156",
       "name": "Traditions",
       "shortName": "Traditions",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_187",
+      "code": "HU_157",
       "name": "World Heritage Sites",
       "shortName": "World Heritage",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_188",
-      "name": "Outline",
-      "shortName": "Outline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_189",
-      "name": "Category",
-      "shortName": "Category",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_190",
-      "name": "Portal",
-      "shortName": "Portal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_191",
+      "code": "HU_158",
       "name": "CIB Bank",
       "shortName": "CIB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_192",
+      "code": "HU_159",
       "name": "Erste Bank",
       "shortName": "Erste",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_193",
+      "code": "HU_160",
       "name": "Eximbank",
       "shortName": "Eximbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_194",
+      "code": "HU_161",
       "name": "Gránit Bank",
       "shortName": "Gránit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_195",
+      "code": "HU_162",
       "name": "K&amp;H Bank",
       "shortName": "K&amp;H",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_196",
+      "code": "HU_163",
       "name": "Magyar Fejlesztési Bank",
       "shortName": "Magyar Fejlesztési",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_197",
+      "code": "HU_164",
       "name": "MBH Bank",
       "shortName": "MBH",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_198",
+      "code": "HU_165",
       "name": "OTP Bank",
       "shortName": "OTP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_199",
+      "code": "HU_166",
       "name": "Raiffeisen Bank International",
       "shortName": "Raiffeisen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_200",
+      "code": "HU_167",
       "name": "UniCredit",
       "shortName": "UniCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_201",
+      "code": "HU_168",
       "name": "In alphabetical order, as of December 31, 2022.",
       "shortName": "In alphabetical",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_202",
-      "name": "Albania",
-      "shortName": "Albania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_203",
-      "name": "Andorra",
-      "shortName": "Andorra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_204",
-      "name": "Armenia",
-      "shortName": "Armenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_205",
-      "name": "Austria",
-      "shortName": "Austria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_206",
-      "name": "Azerbaijan",
-      "shortName": "Azerbaijan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_207",
-      "name": "Belarus",
-      "shortName": "Belarus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_208",
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_209",
-      "name": "Bosnia and Herzegovina",
-      "shortName": "Bosnia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_210",
-      "name": "Bulgaria",
-      "shortName": "Bulgaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_211",
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_212",
-      "name": "Cyprus",
-      "shortName": "Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_213",
+      "code": "HU_169",
       "name": "Czech Republic",
       "shortName": "Czech Republic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_214",
-      "name": "Denmark",
-      "shortName": "Denmark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_215",
-      "name": "Estonia",
-      "shortName": "Estonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_216",
-      "name": "Finland",
-      "shortName": "Finland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_217",
-      "name": "France",
-      "shortName": "France",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_218",
-      "name": "Georgia",
-      "shortName": "Georgia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_219",
-      "name": "Germany",
-      "shortName": "Germany",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_220",
-      "name": "Greece",
-      "shortName": "Greece",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_221",
-      "name": "Hungary",
-      "shortName": "Hungary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_222",
-      "name": "Iceland",
-      "shortName": "Iceland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_223",
-      "name": "Ireland",
-      "shortName": "Ireland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_224",
-      "name": "Italy",
-      "shortName": "Italy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_225",
-      "name": "Kazakhstan",
-      "shortName": "Kazakhstan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_226",
-      "name": "Latvia",
-      "shortName": "Latvia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_227",
-      "name": "Liechtenstein",
-      "shortName": "Liechtenstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_228",
-      "name": "Lithuania",
-      "shortName": "Lithuania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_229",
-      "name": "Luxembourg",
-      "shortName": "Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_230",
-      "name": "Malta",
-      "shortName": "Malta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_231",
+      "code": "HU_170",
       "name": "Moldova",
       "shortName": "Moldova",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_232",
-      "name": "Monaco",
-      "shortName": "Monaco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_233",
-      "name": "Montenegro",
-      "shortName": "Montenegro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_234",
-      "name": "Netherlands",
-      "shortName": "Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_235",
-      "name": "North Macedonia",
-      "shortName": "North Macedonia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_236",
-      "name": "Norway",
-      "shortName": "Norway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_237",
-      "name": "Poland",
-      "shortName": "Poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_238",
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_239",
-      "name": "Romania",
-      "shortName": "Romania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_240",
+      "code": "HU_171",
       "name": "Russia",
       "shortName": "Russia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_241",
-      "name": "San Marino",
-      "shortName": "San Marino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_242",
-      "name": "Serbia",
-      "shortName": "Serbia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_243",
-      "name": "Slovakia",
-      "shortName": "Slovakia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_244",
-      "name": "Slovenia",
-      "shortName": "Slovenia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_245",
-      "name": "Spain",
-      "shortName": "Spain",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_246",
-      "name": "Sweden",
-      "shortName": "Sweden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_247",
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_248",
+      "code": "HU_172",
       "name": "Turkey",
       "shortName": "Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HU_249",
-      "name": "Ukraine",
-      "shortName": "Ukraine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_250",
-      "name": "United Kingdom",
-      "shortName": "United Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_251",
-      "name": "Abkhazia",
-      "shortName": "Abkhazia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_252",
-      "name": "Kosovo",
-      "shortName": "Kosovo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_253",
-      "name": "Northern Cyprus",
-      "shortName": "Northern Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_254",
-      "name": "South Ossetia",
-      "shortName": "South Ossetia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_255",
-      "name": "Transnistria",
-      "shortName": "Transnistria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_256",
-      "name": "Åland",
-      "shortName": "Åland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_257",
-      "name": "Faroe Islands",
-      "shortName": "Faroe Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_258",
-      "name": "Gibraltar",
-      "shortName": "Gibraltar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_259",
-      "name": "Guernsey",
-      "shortName": "Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_260",
-      "name": "Isle of Man",
-      "shortName": "Isle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_261",
-      "name": "Jersey",
-      "shortName": "Jersey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_262",
-      "name": "Svalbard",
-      "shortName": "Svalbard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_263",
-      "name": "Banks of Hungary",
-      "shortName": "Banks of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_264",
+      "code": "HU_173",
       "name": "Economy of Hungary-related lists",
       "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_265",
-      "name": "Lists of companies of Hungary",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_266",
-      "name": "Lists of banks by country",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_267",
-      "name": "Lists of banks in Europe",
-      "shortName": "Lists of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_268",
-      "name": "Articles with short description",
-      "shortName": "Articles with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HU_269",
-      "name": "Short description is different from Wikidata",
-      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }
