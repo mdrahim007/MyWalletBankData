@@ -1,40 +1,1503 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "GI",
   "institutions": [
     {
-      "code": "CENBGI",
-      "name": "Central Bank of GI",
-      "shortName": "Central Bank",
+      "code": "GI_0",
+      "name": "Turicum Private Bank Limited",
+      "shortName": "Turicum Private",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBGI",
-      "name": "National Bank of GI",
-      "shortName": "National Bank",
+      "code": "GI_1",
+      "name": "Bank Jacob Safra (Gibraltar).",
+      "shortName": "Bank Jacob",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABGI",
-      "name": "State Bank of GI",
-      "shortName": "State Bank",
+      "code": "GI_2",
+      "name": "Gibraltar International Bank",
+      "shortName": "Gibraltar International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBGI",
-      "name": "Commercial Bank of GI",
-      "shortName": "Commercial Bank",
+      "code": "GI_3",
+      "name": "Gibraltar Savings Bank",
+      "shortName": "Gibraltar Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBGI",
-      "name": "First GI Bank",
-      "shortName": "First Bank",
+      "code": "GI_4",
+      "name": "Trusted Novus Bank Gibraltar",
+      "shortName": "Trusted Novus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_5",
+      "name": "IDT Financial Services Limited trading as IDT Finance",
+      "shortName": "IDT Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_6",
+      "name": "SG Hambros Bank (Gibraltar) Limited",
+      "shortName": "SG Hambros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_7",
+      "name": "Xapo Bank",
+      "shortName": "Xapo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_8",
+      "name": "Moneycorp Bank",
+      "shortName": "Moneycorp",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_9",
+      "name": "Banco Galliano",
+      "shortName": "Banco Galliano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_10",
+      "name": "Lloyds, closed in late 2019.",
+      "shortName": "Lloyds, closed",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_11",
+      "name": "Newcastle Building Society, now closed",
+      "shortName": "Newcastle Building",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_12",
+      "name": "Norwich &amp; Peterborough Building Society, has now closed",
+      "shortName": "Norwich &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_13",
+      "name": "Leeds Building Society has now closed its operations (2019)",
+      "shortName": "Leeds Building",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_14",
+      "name": "Jyske Bank has closed",
+      "shortName": "Jyske",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_15",
+      "name": "Cuby Brothers",
+      "shortName": "Cuby Brothers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_16",
+      "name": "Benzecry (El Banquerito)",
+      "shortName": "Benzecry (El",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_17",
+      "name": "Rugeroni Brothers",
+      "shortName": "Rugeroni Brothers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_18",
+      "name": "Marrache and Sons",
+      "shortName": "Marrache and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_19",
+      "name": "Neanderthals in Gibraltar",
+      "shortName": "Neanderthals in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_20",
+      "name": "Timeline (sieges)",
+      "shortName": "Timeline (sieges)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_21",
+      "name": "Pillars of Hercules",
+      "shortName": "Pillars of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_22",
+      "name": "First Siege of Gibraltar",
+      "shortName": "First Siege",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_23",
+      "name": "Battle of Gibraltar",
+      "shortName": "Battle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_24",
+      "name": "Capture of Gibraltar",
+      "shortName": "Capture of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_25",
+      "name": "George Rooke",
+      "shortName": "George Rooke",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_26",
+      "name": "Treaty of Utrecht",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_27",
+      "name": "Thirteenth Siege of Gibraltar",
+      "shortName": "Thirteenth Siege",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_28",
+      "name": "Great Siege",
+      "shortName": "Great Siege",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_29",
+      "name": "George Augustus Eliott",
+      "shortName": "George Augustus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_30",
+      "name": "Gibraltar real (currency)",
+      "shortName": "Gibraltar real",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_31",
+      "name": "World War II",
+      "shortName": "World War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_32",
+      "name": "Nationality",
+      "shortName": "Nationality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_33",
+      "name": "Genoese in Gibraltar",
+      "shortName": "Genoese in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_34",
+      "name": "Maltese in Gibraltar",
+      "shortName": "Maltese in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_35",
+      "name": "Explosion of the RFA Bedenham",
+      "shortName": "Explosion of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_36",
+      "name": "Operation Flavius (Death on the Rock)",
+      "shortName": "Operation Flavius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_37",
+      "name": "Aurora incident",
+      "shortName": "Aurora incident",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_38",
+      "name": "New Flame incident",
+      "shortName": "New Flame",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_39",
+      "name": "Fedra incident",
+      "shortName": "Fedra incident",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_40",
+      "name": "COVID-19",
+      "shortName": "COVID-19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_41",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_42",
+      "name": "Gibraltar Arc",
+      "shortName": "Gibraltar Arc",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_43",
+      "name": "Iberian Peninsula",
+      "shortName": "Iberian Peninsula",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_44",
+      "name": "Birds",
+      "shortName": "Birds",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_45",
+      "name": "Reptiles and amphibians",
+      "shortName": "Reptiles and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_46",
+      "name": "Candytuft (Iberis gibraltarica)",
+      "shortName": "Candytuft (Iberis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_47",
+      "name": "Botanic Gardens",
+      "shortName": "Botanic Gardens",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_48",
+      "name": "Ornithological &amp; Natural History Society (GONHS)",
+      "shortName": "Ornithological &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_49",
+      "name": "Wildlife Park",
+      "shortName": "Wildlife Park",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_50",
+      "name": "Bay of Gibraltar",
+      "shortName": "Bay of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_51",
+      "name": "Catalan Bay",
+      "shortName": "Catalan Bay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_52",
+      "name": "Eastern Beach",
+      "shortName": "Eastern Beach",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_53",
+      "name": "Gorham's Cave",
+      "shortName": "Gorham's Cave",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_54",
+      "name": "Rock of Gibraltar",
+      "shortName": "Rock of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_55",
+      "name": "St. Michael's Cave",
+      "shortName": "St. Michael's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_56",
+      "name": "Sandy Bay",
+      "shortName": "Sandy Bay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_57",
+      "name": "Strait of Gibraltar",
+      "shortName": "Strait of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_58",
+      "name": "Vanguard Cave",
+      "shortName": "Vanguard Cave",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_59",
+      "name": "Windmill Hill",
+      "shortName": "Windmill Hill",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_60",
+      "name": "Bristol Hotel",
+      "shortName": "Bristol Hotel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_61",
+      "name": "City Hall",
+      "shortName": "City Hall",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_62",
+      "name": "The Convent",
+      "shortName": "The Convent",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_63",
+      "name": "Garrison Library",
+      "shortName": "Garrison Library",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_64",
+      "name": "King George V Hospital",
+      "shortName": "King George",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_65",
+      "name": "Moorish Castle",
+      "shortName": "Moorish Castle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_66",
+      "name": "The Rock Hotel",
+      "shortName": "The Rock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_67",
+      "name": "St. Bernard's Hospital",
+      "shortName": "St. Bernard's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_68",
+      "name": "2006",
+      "shortName": "2006",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_69",
+      "name": "LGBT rights",
+      "shortName": "LGBT rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_70",
+      "name": "Passport",
+      "shortName": "Passport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_71",
+      "name": "Political development in modern Gibraltar",
+      "shortName": "Political development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_72",
+      "name": "Chief Minister",
+      "shortName": "Chief Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_73",
+      "name": "Governor",
+      "shortName": "Governor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_74",
+      "name": "Mayor",
+      "shortName": "Mayor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_75",
+      "name": "Black Swan Project controversy",
+      "shortName": "Black Swan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_76",
+      "name": "2011",
+      "shortName": "2011",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_77",
+      "name": "2015",
+      "shortName": "2015",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_78",
+      "name": "2019",
+      "shortName": "2019",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_79",
+      "name": "2023",
+      "shortName": "2023",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_80",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_81",
+      "name": "2002",
+      "shortName": "2002",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_82",
+      "name": "British Forces Gibraltar",
+      "shortName": "British Forces",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_83",
+      "name": "Gibraltar Defence Police",
+      "shortName": "Gibraltar Defence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_84",
+      "name": "Gibraltar Squadron",
+      "shortName": "Gibraltar Squadron",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_85",
+      "name": "Napier of Magdala Battery",
+      "shortName": "Napier of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_86",
+      "name": "RAF Gibraltar",
+      "shortName": "RAF Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_87",
+      "name": "Royal Gibraltar Police",
+      "shortName": "Royal Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_88",
+      "name": "Royal Gibraltar Regiment",
+      "shortName": "Royal Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_89",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_90",
+      "name": "Stock Exchange",
+      "shortName": "Stock Exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_91",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_92",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_93",
+      "name": ".gi (Internet domain)",
+      "shortName": ".gi (Internet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_94",
+      "name": "Gibraltar Broadcasting Corporation",
+      "shortName": "Gibraltar Broadcasting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_95",
+      "name": "Gibraltar Chronicle",
+      "shortName": "Gibraltar Chronicle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_96",
+      "name": "Gibtelecom",
+      "shortName": "Gibtelecom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_97",
+      "name": "Panorama",
+      "shortName": "Panorama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_98",
+      "name": "Regulatory Authority",
+      "shortName": "Regulatory Authority",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_99",
+      "name": "postal orders",
+      "shortName": "postal orders",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_100",
+      "name": "Study Circle",
+      "shortName": "Study Circle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_101",
+      "name": "Telephone numbers",
+      "shortName": "Telephone numbers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_102",
+      "name": "Airport",
+      "shortName": "Airport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_103",
+      "name": "Cable car",
+      "shortName": "Cable car",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_104",
+      "name": "Gibraltar–Spain border",
+      "shortName": "Gibraltar–Spain border",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_105",
+      "name": "Shipping in Gibraltar",
+      "shortName": "Shipping in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_106",
+      "name": "Vehicle registration plates",
+      "shortName": "Vehicle registration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_107",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_108",
+      "name": "Westside School",
+      "shortName": "Westside School",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_109",
+      "name": "University of Gibraltar",
+      "shortName": "University of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_110",
+      "name": "Miss Gibraltar",
+      "shortName": "Miss Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_111",
+      "name": "Gibraltar Fair",
+      "shortName": "Gibraltar Fair",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_112",
+      "name": "National Day",
+      "shortName": "National Day",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_113",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_114",
+      "name": "Scouting and Guiding in Gibraltar",
+      "shortName": "Scouting and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_115",
+      "name": "in the UK",
+      "shortName": "in the",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_116",
+      "name": "Gibraltarian status",
+      "shortName": "Gibraltarian status",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_117",
+      "name": "Llanito",
+      "shortName": "Llanito",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_118",
+      "name": "Bishop diocesan",
+      "shortName": "Bishop diocesan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_119",
+      "name": "Bishop suffragan",
+      "shortName": "Bishop suffragan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_120",
+      "name": "Cathedral of the Holy Trinity",
+      "shortName": "Cathedral of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_121",
+      "name": "St. Andrew's Church (Church of Scotland)",
+      "shortName": "St. Andrew's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_122",
+      "name": "Methodism",
+      "shortName": "Methodism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_123",
+      "name": "Bishop",
+      "shortName": "Bishop",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_124",
+      "name": "Cathedral of St. Mary the Crowned",
+      "shortName": "Cathedral of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_125",
+      "name": "Our Lady of Europe",
+      "shortName": "Our Lady",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_126",
+      "name": "Shrine of Our Lady of Europe",
+      "shortName": "Shrine of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_127",
+      "name": "Trafalgar Cemetery",
+      "shortName": "Trafalgar Cemetery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_128",
+      "name": "Hinduism",
+      "shortName": "Hinduism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_129",
+      "name": "other synagogues",
+      "shortName": "other synagogues",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_130",
+      "name": "Basketball",
+      "shortName": "Basketball",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_131",
+      "name": "Cycling",
+      "shortName": "Cycling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_132",
+      "name": "national team",
+      "shortName": "national team",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_133",
+      "name": "Campo Gibraltar RUFC",
+      "shortName": "Campo Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_134",
+      "name": "Commonwealth Games",
+      "shortName": "Commonwealth Games",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_135",
+      "name": "Island Games",
+      "shortName": "Island Games",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_136",
+      "name": "Records in athletics",
+      "shortName": "Records in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_137",
+      "name": "Victoria Stadium",
+      "shortName": "Victoria Stadium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_138",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_139",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_140",
+      "name": "&#160;&#160;Category",
+      "shortName": "&#160;&#160;Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_141",
+      "name": "&#160;&#160;Commons",
+      "shortName": "&#160;&#160;Commons",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_142",
+      "name": "&#160;&#160;Portal",
+      "shortName": "&#160;&#160;Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_143",
+      "name": "&#160;&#160;WikiProject",
+      "shortName": "&#160;&#160;WikiProject",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_144",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_145",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_146",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_147",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_148",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_149",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_150",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_151",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_152",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_153",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_154",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_155",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_156",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_157",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_158",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_159",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_160",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_161",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_162",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_163",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_164",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_165",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_166",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_167",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_168",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_169",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_170",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_171",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_172",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_173",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_174",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_175",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_176",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_177",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_178",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_179",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_180",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_181",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_182",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_183",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_184",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_185",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_186",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_187",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_188",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_189",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_190",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_191",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_192",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_193",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_194",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_195",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_196",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_197",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_198",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_199",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_200",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_201",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_202",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_203",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_204",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_205",
+      "name": "Economy of Gibraltar",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_206",
+      "name": "Lists of organisations based in Gibraltar",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_207",
+      "name": "Financial services companies of Gibraltar",
+      "shortName": "Financial services",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_208",
+      "name": "Lists of banks by dependent territory",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_209",
+      "name": "Banks of Gibraltar",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_210",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_211",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_212",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GI_213",
+      "name": "Use dmy dates from April 2022",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

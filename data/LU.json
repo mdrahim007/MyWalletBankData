@@ -1,40 +1,775 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "LU",
   "institutions": [
     {
-      "code": "CENBLU",
-      "name": "Central Bank of LU",
-      "shortName": "Central Bank",
+      "code": "LU_0",
+      "name": "Banque Internationale à Luxembourg SA (BIL)",
+      "shortName": "Banque Internationale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBLU",
-      "name": "National Bank of LU",
-      "shortName": "National Bank",
+      "code": "LU_1",
+      "name": "Atlantic Lux HoldCo Sàrl, parent of Aareal Bank in Germany",
+      "shortName": "Atlantic Lux",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABLU",
-      "name": "State Bank of LU",
-      "shortName": "State Bank",
+      "code": "LU_2",
+      "name": "LSF Nani Investments Sàrl, parent of Novo Banco in Portugal",
+      "shortName": "LSF Nani",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBLU",
-      "name": "Commercial Bank of LU",
-      "shortName": "Commercial Bank",
+      "code": "LU_3",
+      "name": "Banque Raiffeisen, a local cooperative entity",
+      "shortName": "Banque Raiffeisen,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBLU",
-      "name": "First LU Bank",
-      "shortName": "First Bank",
+      "code": "LU_4",
+      "name": "PayPal 2 Sàrl, financial holding subsidiary of PayPal",
+      "shortName": "PayPal 2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_5",
+      "name": "Clearstream Fund Centre SA",
+      "shortName": "Clearstream Fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_6",
+      "name": "Andbank Luxembourg, subsidiary of Andbank",
+      "shortName": "Andbank Luxembourg,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_7",
+      "name": "Banco Bradesco Europa SA, subsidiary of Banco Bradesco",
+      "shortName": "Banco Bradesco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_8",
+      "name": "Bank GPB International SA, subsidiary of Gazprombank",
+      "shortName": "Bank GPB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_9",
+      "name": "Bank Julius Baer Europe SA, subsidiary of Julius Baer Group",
+      "shortName": "Bank Julius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_10",
+      "name": "Banque de Patrimoines Privés, subsidiary of Creand",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_11",
+      "name": "BTG Pactual Europe SA, subsidiary of BTG Pactual",
+      "shortName": "BTG Pactual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_12",
+      "name": "DNB Luxembourg SA, subsidiary of DNB Bank",
+      "shortName": "DNB Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_13",
+      "name": "John Deere Bank SA, subsidiary of John Deere",
+      "shortName": "John Deere",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_14",
+      "name": "Nomura Bank (Luxembourg) SA, subsidiary of Nomura Holdings",
+      "shortName": "Nomura",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_15",
+      "name": "Rakuten Europe Bank SA, subsidiary of Rakuten",
+      "shortName": "Rakuten Europe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_16",
+      "name": "Luxembourg branch of Skandinaviska Enskilda Banken AB",
+      "shortName": "Luxembourg branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_17",
+      "name": "SMBC Nikko Bank (Luxembourg) SA, subsidiary of SMBC Group",
+      "shortName": "SMBC Nikko",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_18",
+      "name": "Luxembourg branch of Svenska Handelsbanken AB",
+      "shortName": "Luxembourg branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_19",
+      "name": "Swissquote Bank Europe SA, subsidiary of Swissquote",
+      "shortName": "Swissquote",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_20",
+      "name": "VP Bank (Luxembourg) SA, subsidiary of VP Bank",
+      "shortName": "VP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_21",
+      "name": "Advanzia Bank SA, subsidiary of Norway-based Kistefos",
+      "shortName": "Advanzia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_22",
+      "name": "Agricultural Bank of China",
+      "shortName": "Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_23",
+      "name": "Banco do Brasil",
+      "shortName": "Banco do",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_24",
+      "name": "Banco Safra",
+      "shortName": "Banco Safra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_25",
+      "name": "Bank of China",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_26",
+      "name": "Bank of Communications",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_27",
+      "name": "Banque de Commerce et de Placements",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_28",
+      "name": "China Construction Bank",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_29",
+      "name": "China Everbright Bank",
+      "shortName": "China Everbright",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_30",
+      "name": "China Merchants Bank",
+      "shortName": "China Merchants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_31",
+      "name": "HSBC Holdings",
+      "shortName": "HSBC Holdings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_32",
+      "name": "Industrial and Commercial Bank of China",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_33",
+      "name": "NatWest Group",
+      "shortName": "NatWest Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_34",
+      "name": "Banco Votorantim",
+      "shortName": "Banco Votorantim",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_35",
+      "name": "Banque Fortuna&#160;&#91;lb&#93; (1920-2022)",
+      "shortName": "Banque Fortuna&#160;&#91;lb&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_36",
+      "name": "Alfred Levy &amp; Company (1926-1940)",
+      "shortName": "Alfred Levy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_37",
+      "name": "Compagnie luxembourgeoise de banque (1967-2009)",
+      "shortName": "Compagnie luxembourgeoise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_38",
+      "name": "Bank of Credit and Commerce International (1972-1991)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_39",
+      "name": "East-West United Bank (1974-2024)",
+      "shortName": "East-West United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_40",
+      "name": "Institut Monétaire Luxembourgeois (1983-1998)",
+      "shortName": "Institut Monétaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_41",
+      "name": "Compagnie de Banque Privée&#160;&#91;lb&#93; (2007-2011)",
+      "shortName": "Compagnie de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_42",
+      "name": "Banque Havilland (2009-2024)",
+      "shortName": "Banque Havilland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_43",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_44",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_45",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_46",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_47",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_48",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_49",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_50",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_51",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_52",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_53",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_54",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_55",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_56",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_57",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_58",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_59",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_60",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_61",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_62",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_63",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_64",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_65",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_66",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_67",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_68",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_69",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_70",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_71",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_72",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_73",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_74",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_75",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_76",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_77",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_78",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_79",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_80",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_81",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_82",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_83",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_84",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_85",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_86",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_87",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_88",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_89",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_90",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_91",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_92",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_93",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_94",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_95",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_96",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_97",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_98",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_99",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_100",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_101",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_102",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_103",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_104",
+      "name": "Banks of Luxembourg",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_105",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_106",
+      "name": "Lists of companies of Luxembourg by industry",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_107",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_108",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LU_109",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

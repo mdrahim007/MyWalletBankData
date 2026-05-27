@@ -1,40 +1,1244 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "JO",
   "institutions": [
     {
-      "code": "CENBJO",
-      "name": "Central Bank of JO",
-      "shortName": "Central Bank",
+      "code": "JO_0",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBJO",
-      "name": "National Bank of JO",
-      "shortName": "National Bank",
+      "code": "JO_1",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABJO",
-      "name": "State Bank of JO",
-      "shortName": "State Bank",
+      "code": "JO_2",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBJO",
-      "name": "Commercial Bank of JO",
-      "shortName": "Commercial Bank",
+      "code": "JO_3",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBJO",
-      "name": "First JO Bank",
-      "shortName": "First Bank",
+      "code": "JO_4",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_5",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_6",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_7",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_8",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_9",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_10",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_11",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_12",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_13",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_14",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_15",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_16",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_17",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_18",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_19",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_20",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_21",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_22",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_23",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_24",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_25",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_26",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_27",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_28",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_29",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_30",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_31",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_32",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_33",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_34",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_35",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_36",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_37",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_38",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_39",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_40",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_41",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_42",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_43",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_44",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_45",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_46",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_47",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_48",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_49",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_50",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_51",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_52",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_53",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_54",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_55",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_56",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_57",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_58",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_59",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_60",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_61",
+      "name": "Banks of Jordan",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_62",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_63",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_64",
+      "name": "Lists of companies of Jordan",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_65",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_66",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_67",
+      "name": "Arab Bank",
+      "shortName": "Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_68",
+      "name": "Commercial",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_69",
+      "name": "Sabih Taher Darwish Al-Masri",
+      "shortName": "Sabih Taher",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_70",
+      "name": "Randa Al-Sadiq",
+      "shortName": "Randa Al-Sadiq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_71",
+      "name": "arabbank.com.jo",
+      "shortName": "arabbank.com.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_72",
+      "name": "Bank ABC (Jordan)",
+      "shortName": "Bank ABC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_73",
+      "name": "Sael Fayes Izzat Alwaary",
+      "shortName": "Sael Fayes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_74",
+      "name": "George Sofia",
+      "shortName": "George Sofia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_75",
+      "name": "www.bank-abc.com",
+      "shortName": "www.bank-abc.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_76",
+      "name": "Bank of Jordan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_77",
+      "name": "Shaker Tawfiq Fakhouri",
+      "shortName": "Shaker Tawfiq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_78",
+      "name": "Saleh Rajab Hammad",
+      "shortName": "Saleh Rajab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_79",
+      "name": "bankofjordan.com",
+      "shortName": "bankofjordan.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_80",
+      "name": "Cairo Amman Bank",
+      "shortName": "Cairo Amman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_81",
+      "name": "Yazid Adnan Mustafa Almufti",
+      "shortName": "Yazid Adnan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_82",
+      "name": "Kamal Al - Bakri",
+      "shortName": "Kamal Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_83",
+      "name": "cab.jo",
+      "shortName": "cab.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_84",
+      "name": "Capital Bank of Jordan",
+      "shortName": "Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_85",
+      "name": "Bassem Khalil Alsalem",
+      "shortName": "Bassem Khalil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_86",
+      "name": "Dawod Al Ghoul",
+      "shortName": "Dawod Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_87",
+      "name": "capitalbank.jo",
+      "shortName": "capitalbank.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_88",
+      "name": "Central Bank of Jordan",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_89",
+      "name": "Central",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_90",
+      "name": "Adel Al-Sharkas",
+      "shortName": "Adel Al-Sharkas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_91",
+      "name": "cbj.gov.jo",
+      "shortName": "cbj.gov.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_92",
+      "name": "Jordan Commercial Bank",
+      "shortName": "Jordan Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_93",
+      "name": "Michael Al-Sayegh",
+      "shortName": "Michael Al-Sayegh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_94",
+      "name": "Caesar Hani Aziz  Qulajen",
+      "shortName": "Caesar Hani",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_95",
+      "name": "jcbank.com.jo",
+      "shortName": "jcbank.com.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_96",
+      "name": "Jordan Kuwait Bank",
+      "shortName": "Jordan Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_97",
+      "name": "Nasser A. Lozi",
+      "shortName": "Nasser A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_98",
+      "name": "Haethum Buttikhi",
+      "shortName": "Haethum Buttikhi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_99",
+      "name": "https://www.jkb.com/",
+      "shortName": "https://www.jkb.com/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_100",
+      "name": "Jordan Ahli Bank",
+      "shortName": "Jordan Ahli",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_101",
+      "name": "Saad Nabil Yousef Mouasher",
+      "shortName": "Saad Nabil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_102",
+      "name": "Ahmad Awd Alhussein",
+      "shortName": "Ahmad Awd",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_103",
+      "name": "ahli.com",
+      "shortName": "ahli.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_104",
+      "name": "Housing Bank for Trade &amp; Finance",
+      "shortName": "Housing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_105",
+      "name": "Abdel Elah Al-Khatib",
+      "shortName": "Abdel Elah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_106",
+      "name": "Ammar Al-Safadi",
+      "shortName": "Ammar Al-Safadi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_107",
+      "name": "hbtf.com",
+      "shortName": "hbtf.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_108",
+      "name": "Arab Jordan Investment Bank",
+      "shortName": "Arab Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_109",
+      "name": "Hani Abdulkadir Al-Qadi",
+      "shortName": "Hani Abdulkadir",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_110",
+      "name": "Nasser Al-Tarawneh",
+      "shortName": "Nasser Al-Tarawneh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_111",
+      "name": "ajib.com",
+      "shortName": "ajib.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_112",
+      "name": "INVESTBANK",
+      "shortName": "INVESTBANK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_113",
+      "name": "Fahmi F. AbuKhadra",
+      "shortName": "Fahmi F.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_114",
+      "name": "Muntaser Dawwas",
+      "shortName": "Muntaser Dawwas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_115",
+      "name": "investbank.jo",
+      "shortName": "investbank.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_116",
+      "name": "Société Générale de Banque Jordanie",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_117",
+      "name": "NA",
+      "shortName": "NA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_118",
+      "name": "Bank al Etihad",
+      "shortName": "Bank al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_119",
+      "name": "Isam Salfiti",
+      "shortName": "Isam Salfiti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_120",
+      "name": "Nadia Al Saeed",
+      "shortName": "Nadia Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_121",
+      "name": "bankaletihad.com",
+      "shortName": "bankaletihad.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_122",
+      "name": "Islamic International Arab Bank",
+      "shortName": "Islamic International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_123",
+      "name": "Islamic (Jordanian)",
+      "shortName": "Islamic (Jordanian)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_124",
+      "name": "\"Mohammed Said\" Mohammed Shahin",
+      "shortName": "\"Mohammed Said\"",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_125",
+      "name": "Iyad Ghasoub Asali",
+      "shortName": "Iyad Ghasoub",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_126",
+      "name": "iiabank.com.jo",
+      "shortName": "iiabank.com.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_127",
+      "name": "Jordan Islamic Bank",
+      "shortName": "Jordan Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_128",
+      "name": "Musa Abdel-Aziz Shihadeh",
+      "shortName": "Musa Abdel-Aziz",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_129",
+      "name": "Hussein Said Mohammad “ Ammar Saifan”",
+      "shortName": "Hussein Said",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_130",
+      "name": "jordanislamicbank.com",
+      "shortName": "jordanislamicbank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_131",
+      "name": "Safwa Islamic Bank",
+      "shortName": "Safwa Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_132",
+      "name": "Moh'd Naser Salem Abu-Hammour",
+      "shortName": "Moh'd Naser",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_133",
+      "name": "Samer Al-Tamimi",
+      "shortName": "Samer Al-Tamimi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_134",
+      "name": "safwabank.com",
+      "shortName": "safwabank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_135",
+      "name": "Standard Chartered",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_136",
+      "name": "Foreign",
+      "shortName": "Foreign",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_137",
+      "name": "standardchartered.com",
+      "shortName": "standardchartered.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_138",
+      "name": "Egyptian Arab Land Bank",
+      "shortName": "Egyptian Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_139",
+      "name": "Tarek Akel",
+      "shortName": "Tarek Akel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_140",
+      "name": "https://aqaribank.jo",
+      "shortName": "https://aqaribank.jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_141",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_142",
+      "name": "Nour Jarrar",
+      "shortName": "Nour Jarrar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_143",
+      "name": "citibank.com/jordan",
+      "shortName": "citibank.com/jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_144",
+      "name": "Rafidain Bank",
+      "shortName": "Rafidain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_145",
+      "name": "Sameerah Swadi Hussein",
+      "shortName": "Sameerah Swadi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_146",
+      "name": "rafidain-bank.gov.iq",
+      "shortName": "rafidain-bank.gov.iq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_147",
+      "name": "National Bank of Kuwait",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_148",
+      "name": "Ihab Al-Aqqad",
+      "shortName": "Ihab Al-Aqqad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_149",
+      "name": "nbk.com",
+      "shortName": "nbk.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_150",
+      "name": "BLOM Bank",
+      "shortName": "BLOM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_151",
+      "name": "Dr. Adnan  Al- A’raj",
+      "shortName": "Dr. Adnan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_152",
+      "name": "blombank.com",
+      "shortName": "blombank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_153",
+      "name": "Bank Audi",
+      "shortName": "Bank Audi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_154",
+      "name": "Yousef Ali Ensour",
+      "shortName": "Yousef Ali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_155",
+      "name": "banqueaudi.com/jordan",
+      "shortName": "banqueaudi.com/jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_156",
+      "name": "Al-Rajhi Bank",
+      "shortName": "Al-Rajhi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_157",
+      "name": "Islamic (foreign)",
+      "shortName": "Islamic (foreign)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_158",
+      "name": "Eyad Jarrar",
+      "shortName": "Eyad Jarrar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_159",
+      "name": "https://www.alrajhibank.com.jo/",
+      "shortName": "https://www.alrajhibank.com.jo/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_160",
+      "name": "Blink",
+      "shortName": "Blink",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_161",
+      "name": "Digital",
+      "shortName": "Digital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_162",
+      "name": "Zein Malhas",
+      "shortName": "Zein Malhas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_163",
+      "name": "https://theblink.com/en",
+      "shortName": "https://theblink.com/en",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_164",
+      "name": "Reflect",
+      "shortName": "Reflect",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_165",
+      "name": "reflectapp.com",
+      "shortName": "reflectapp.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_166",
+      "name": "ila",
+      "shortName": "ila",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_167",
+      "name": "https://ilabank.com/jo",
+      "shortName": "https://ilabank.com/jo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_168",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_169",
+      "name": "Zain Cash",
+      "shortName": "Zain Cash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_170",
+      "name": "UWALLET",
+      "shortName": "UWALLET",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_171",
+      "name": "Dinarak",
+      "shortName": "Dinarak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_172",
+      "name": "Alawnehpay",
+      "shortName": "Alawnehpay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_173",
+      "name": "National Wallet",
+      "shortName": "National Wallet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_174",
+      "name": "Gadha (Gate To Pay)",
+      "shortName": "Gadha (Gate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_175",
+      "name": "URPay",
+      "shortName": "URPay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JO_176",
+      "name": "CLIQ",
+      "shortName": "CLIQ",
       "type": "bank",
       "aliases": ""
     }

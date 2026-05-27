@@ -1,40 +1,551 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "TM",
   "institutions": [
     {
-      "code": "CENBTM",
-      "name": "Central Bank of TM",
-      "shortName": "Central Bank",
+      "code": "TM_0",
+      "name": "Central Bank of Turkmenistan",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTM",
-      "name": "National Bank of TM",
-      "shortName": "National Bank",
+      "code": "TM_1",
+      "name": "Dayhanbank (Agricultural Bank), Asgabat (state bank)",
+      "shortName": "Dayhanbank (Agricultural",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTM",
-      "name": "State Bank of TM",
-      "shortName": "State Bank",
+      "code": "TM_2",
+      "name": "Garagum IJSB, Asgabat",
+      "shortName": "Garagum IJSB,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTM",
-      "name": "Commercial Bank of TM",
-      "shortName": "Commercial Bank",
+      "code": "TM_3",
+      "name": "Prezidentbank, Asgabat",
+      "shortName": "Prezidentbank, Asgabat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTM",
-      "name": "First TM Bank",
-      "shortName": "First Bank",
+      "code": "TM_4",
+      "name": "Rysgal JSCB, Asgabat",
+      "shortName": "Rysgal JSCB,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_5",
+      "name": "Senagat JSCB, Asgabat",
+      "shortName": "Senagat JSCB,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_6",
+      "name": "The State Development Bank of Turkmenistan",
+      "shortName": "The State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_7",
+      "name": "Turkmenbashybank, Asgabat (state bank)",
+      "shortName": "Turkmenbashybank, Asgabat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_8",
+      "name": "Turkmenistanbank, Asgabat (state bank)",
+      "shortName": "Turkmenistanbank, Asgabat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_9",
+      "name": "Turkmen-Turkish Bank JSCB, Asgabat",
+      "shortName": "Turkmen-Turkish",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_10",
+      "name": "Portalino",
+      "shortName": "Portalino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_11",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_12",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_13",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_14",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_15",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_16",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_17",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_18",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_19",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_20",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_21",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_22",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_23",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_24",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_25",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_26",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_27",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_28",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_29",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_30",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_31",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_32",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_33",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_34",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_35",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_36",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_37",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_38",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_39",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_40",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_41",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_42",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_43",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_44",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_45",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_46",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_47",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_48",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_49",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_50",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_51",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_52",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_53",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_54",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_55",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_56",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_57",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_58",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_59",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_60",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_61",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_62",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_63",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_64",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_65",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_66",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_67",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_68",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_69",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_70",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_71",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_72",
+      "name": "Banks of Turkmenistan",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_73",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_74",
+      "name": "Lists of organizations based in Turkmenistan",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_75",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_76",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TM_77",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

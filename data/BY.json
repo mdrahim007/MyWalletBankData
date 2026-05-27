@@ -1,40 +1,859 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "BY",
   "institutions": [
     {
-      "code": "CENBBY",
-      "name": "Central Bank of BY",
-      "shortName": "Central Bank",
+      "code": "BY_0",
+      "name": "Albania",
+      "shortName": "Albania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBY",
-      "name": "National Bank of BY",
-      "shortName": "National Bank",
+      "code": "BY_1",
+      "name": "Andorra",
+      "shortName": "Andorra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBY",
-      "name": "State Bank of BY",
-      "shortName": "State Bank",
+      "code": "BY_2",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBY",
-      "name": "Commercial Bank of BY",
-      "shortName": "Commercial Bank",
+      "code": "BY_3",
+      "name": "Austria",
+      "shortName": "Austria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBY",
-      "name": "First BY Bank",
-      "shortName": "First Bank",
+      "code": "BY_4",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_5",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_6",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_7",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_8",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_9",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_10",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_11",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_12",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_13",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_14",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_15",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_16",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_17",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_18",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_19",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_20",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_21",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_22",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_23",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_24",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_25",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_26",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_27",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_28",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_29",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_30",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_31",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_32",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_33",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_34",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_35",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_36",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_37",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_38",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_39",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_40",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_41",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_42",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_43",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_44",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_45",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_46",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_47",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_48",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_49",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_50",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_51",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_52",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_53",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_54",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_55",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_56",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_57",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_58",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_59",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_60",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_61",
+      "name": "Banks of Belarus",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_62",
+      "name": "Lists of companies of Belarus",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_63",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_64",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_65",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_66",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_67",
+      "name": "Name",
+      "shortName": "Name",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_68",
+      "name": "Website",
+      "shortName": "Website",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_69",
+      "name": "SWIFT-code",
+      "shortName": "SWIFT-code",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_70",
+      "name": "Owners",
+      "shortName": "Owners",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_71",
+      "name": "Alfa-Bank",
+      "shortName": "Alfa-Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_72",
+      "name": "ALFABY2X",
+      "shortName": "ALFABY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_73",
+      "name": "Alfa-Bank ( Russia) — 99.99%&#91;1&#93;",
+      "shortName": "Alfa-Bank (",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_74",
+      "name": "GBD-Bank&#91;2&#93;",
+      "shortName": "GBD-Bank&#91;2&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_75",
+      "name": "REDJBY22",
+      "shortName": "REDJBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_76",
+      "name": "Belagroprombank",
+      "shortName": "Belagroprombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_77",
+      "name": "BAPBBY2X",
+      "shortName": "BAPBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_78",
+      "name": "State-owned",
+      "shortName": "State-owned",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_79",
+      "name": "Belarusbank",
+      "shortName": "Belarusbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_80",
+      "name": "AKBBBY2X",
+      "shortName": "AKBBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_81",
+      "name": "Belinvestbank&#91;3&#93;",
+      "shortName": "Belinvestbank&#91;3&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_82",
+      "name": "BLBBBY2X",
+      "shortName": "BLBBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_83",
+      "name": "Belgazprombank",
+      "shortName": "Belgazprombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_84",
+      "name": "OLMPBY2X",
+      "shortName": "OLMPBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_85",
+      "name": "BNB-Bank",
+      "shortName": "BNB-Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_86",
+      "name": "BLNBBY2X",
+      "shortName": "BLNBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_87",
+      "name": "Bank of Georgia ( Georgia) — 99.98%&#91;5&#93;",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_88",
+      "name": "Belvnesheconombank",
+      "shortName": "Belvnesheconombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_89",
+      "name": "BELBBY2X",
+      "shortName": "BELBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_90",
+      "name": "Vnesheconombank ( Russia) — 97.52%&#91;6&#93;",
+      "shortName": "Vnesheconombank (",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_91",
+      "name": "Sber Bank",
+      "shortName": "Sber",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_92",
+      "name": "BPSBBY2X",
+      "shortName": "BPSBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_93",
+      "name": "Sberbank ( Russia) — 93.27%&#91;7&#93;",
+      "shortName": "Sberbank (",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_94",
+      "name": "BSB Bank",
+      "shortName": "BSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_95",
+      "name": "UNBSBY2X",
+      "shortName": "UNBSBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_96",
+      "name": "BTA Bank",
+      "shortName": "BTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_97",
+      "name": "AEBKBY2X",
+      "shortName": "AEBKBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_98",
+      "name": "Kenges Rakishev ( Kazakhstan) — 100%&#91;9&#93;",
+      "shortName": "Kenges Rakishev",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_99",
+      "name": "Dabrabyt Bank",
+      "shortName": "Dabrabyt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_100",
+      "name": "MMBNBY22",
+      "shortName": "MMBNBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_101",
+      "name": "MTBank",
+      "shortName": "MTBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_102",
+      "name": "MTBKBY22",
+      "shortName": "MTBKBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_103",
+      "name": "Alexey Oleksin &amp; Inna Oleksina — 98.97%&#91;11&#93;",
+      "shortName": "Alexey Oleksin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_104",
+      "name": "Paritetbank",
+      "shortName": "Paritetbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_105",
+      "name": "POISBY2X",
+      "shortName": "POISBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_106",
+      "name": "Priorbank",
+      "shortName": "Priorbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_107",
+      "name": "PJCBBY2X",
+      "shortName": "PJCBBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_108",
+      "name": "Reshenie Bank",
+      "shortName": "Reshenie",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_109",
+      "name": "TRUEBY2X",
+      "shortName": "TRUEBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_110",
+      "name": "Status Bank",
+      "shortName": "Status",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_111",
+      "name": "IRJSBY22",
+      "shortName": "IRJSBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_112",
+      "name": "Technobank",
+      "shortName": "Technobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_113",
+      "name": "TECNBY22",
+      "shortName": "TECNBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_114",
+      "name": "Trade Capital Bank",
+      "shortName": "Trade Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_115",
+      "name": "BBTKBY2X",
+      "shortName": "BBTKBY2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_116",
+      "name": "Tejarat Bank ( Iran) – 99.89% &#91;16&#93;",
+      "shortName": "Tejarat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_117",
+      "name": "VTB Bank (Belarus)",
+      "shortName": "VTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_118",
+      "name": "SLANBY22",
+      "shortName": "SLANBY22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_119",
+      "name": "VTB Bank ( Russia) — 99.99%&#91;17&#93;",
+      "shortName": "VTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_120",
+      "name": "Zepter Bank",
+      "shortName": "Zepter",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BY_121",
+      "name": "ZEPTBY2X",
+      "shortName": "ZEPTBY2X",
       "type": "bank",
       "aliases": ""
     }

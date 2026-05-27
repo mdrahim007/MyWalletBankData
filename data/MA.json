@@ -1,40 +1,1125 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "MA",
   "institutions": [
     {
-      "code": "CENBMA",
-      "name": "Central Bank of MA",
-      "shortName": "Central Bank",
+      "code": "MA_0",
+      "name": "Al Barid Bank, state-owned",
+      "shortName": "Al Barid",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMA",
-      "name": "National Bank of MA",
-      "shortName": "National Bank",
+      "code": "MA_1",
+      "name": "Arab Bank PLC&#160;&#91;fr&#93;, part of Arab Bank Group",
+      "shortName": "Arab",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMA",
-      "name": "State Bank of MA",
-      "shortName": "State Bank",
+      "code": "MA_2",
+      "name": "Attijariwafa Bank",
+      "shortName": "Attijariwafa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMA",
-      "name": "Commercial Bank of MA",
-      "shortName": "Commercial Bank",
+      "code": "MA_3",
+      "name": "Banco Sabadell, part of Banco Sabadell Group",
+      "shortName": "Banco Sabadell,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMA",
-      "name": "First MA Bank",
-      "shortName": "First Bank",
+      "code": "MA_4",
+      "name": "Bank Al-Amal, part-owned by BCP Group",
+      "shortName": "Bank Al-Amal,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_5",
+      "name": "Banque Centrale Populaire, part of BCP Group",
+      "shortName": "Banque Centrale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_6",
+      "name": "Bank of Africa",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_7",
+      "name": "Banque Populaire du Centre-Sud, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_8",
+      "name": "Banque Populaire de Fes-Meknès, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_9",
+      "name": "Banque Populaire de Laayoune, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_10",
+      "name": "Banque Populaire de Nador - Al Hoceima, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_11",
+      "name": "Banque Populaire d'Oujda, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_12",
+      "name": "Banque Populaire de Rabat-Kénitra, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_13",
+      "name": "Banque Populaire de Tanger-Tétouan, part of BCP Group",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_14",
+      "name": "Crédit Agricole du Maroc (CAM), state-owned",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_15",
+      "name": "CFG Bank",
+      "shortName": "CFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_16",
+      "name": "Citibank Morocco&#160;&#91;fr&#93;, part of Citigroup",
+      "shortName": "Citibank Morocco&#160;&#91;fr&#93;,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_17",
+      "name": "CIH Bank, part of CDG",
+      "shortName": "CIH,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_18",
+      "name": "Crédit du Maroc",
+      "shortName": "Crédit du",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_19",
+      "name": "Fonds d'Équipement Communal (FEC), state-owned",
+      "shortName": "Fonds d'Équipement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_20",
+      "name": "Saham Bank",
+      "shortName": "Saham",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_21",
+      "name": "Caixa Bank, part of CaixaBank Group",
+      "shortName": "Caixa,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_22",
+      "name": "Bank Al Yousr",
+      "shortName": "Bank Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_23",
+      "name": "Bank Al-Tamweel wa Al-Inma",
+      "shortName": "Bank Al-Tamweel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_24",
+      "name": "Bank As-Safa&#160;&#91;ar&#93;",
+      "shortName": "Bank As-Safa&#160;&#91;ar&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_25",
+      "name": "Umnia Bank",
+      "shortName": "Umnia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_26",
+      "name": "Currency Exchange Practices at Moroccan Banks",
+      "shortName": "Currency Exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_27",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_28",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_29",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_30",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_31",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_32",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_33",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_34",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_35",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_36",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_37",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_38",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_39",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_40",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_41",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_42",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_43",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_44",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_45",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_46",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_47",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_48",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_49",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_50",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_51",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_52",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_53",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_54",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_55",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_56",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_57",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_58",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_59",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_60",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_61",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_62",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_63",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_64",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_65",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_66",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_67",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_68",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_69",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_70",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_71",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_72",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_73",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_74",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_75",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_76",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_77",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_78",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_79",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_80",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_81",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_82",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_83",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_84",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_85",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_86",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_87",
+      "name": "Automotive industry",
+      "shortName": "Automotive industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_88",
+      "name": "Finance",
+      "shortName": "Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_89",
+      "name": "Fishing",
+      "shortName": "Fishing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_90",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_91",
+      "name": "Energy policy",
+      "shortName": "Energy policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_92",
+      "name": "Desertec",
+      "shortName": "Desertec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_93",
+      "name": "Medgrid",
+      "shortName": "Medgrid",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_94",
+      "name": "IRESEN",
+      "shortName": "IRESEN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_95",
+      "name": "Masen",
+      "shortName": "Masen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_96",
+      "name": "Solar power",
+      "shortName": "Solar power",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_97",
+      "name": "Information technology",
+      "shortName": "Information technology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_98",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_99",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_100",
+      "name": "Casablanca Stock Exchange",
+      "shortName": "Casablanca Stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_101",
+      "name": "MADEX",
+      "shortName": "MADEX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_102",
+      "name": "MASI",
+      "shortName": "MASI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_103",
+      "name": "Casablanca Finance City",
+      "shortName": "Casablanca Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_104",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_105",
+      "name": "Investment",
+      "shortName": "Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_106",
+      "name": "Trade",
+      "shortName": "Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_107",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_108",
+      "name": "Autoroutes",
+      "shortName": "Autoroutes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_109",
+      "name": "Autoroutes du Maroc (ADM)",
+      "shortName": "Autoroutes du",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_110",
+      "name": "Rail transport",
+      "shortName": "Rail transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_111",
+      "name": "ONCF",
+      "shortName": "ONCF",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_112",
+      "name": "Airports of Morocco",
+      "shortName": "Airports of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_113",
+      "name": "Airlines",
+      "shortName": "Airlines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_114",
+      "name": "Royal Air Maroc",
+      "shortName": "Royal Air",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_115",
+      "name": "ANP",
+      "shortName": "ANP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_116",
+      "name": "Tanger-Med port",
+      "shortName": "Tanger-Med port",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_117",
+      "name": "Casablanca port",
+      "shortName": "Casablanca port",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_118",
+      "name": "Casablanca",
+      "shortName": "Casablanca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_119",
+      "name": "Tangier",
+      "shortName": "Tangier",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_120",
+      "name": "Western Sahara",
+      "shortName": "Western Sahara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_121",
+      "name": "Agadir Agreement",
+      "shortName": "Agadir Agreement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_122",
+      "name": "Euro-Med FTA",
+      "shortName": "Euro-Med FTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_123",
+      "name": "GAFTA",
+      "shortName": "GAFTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_124",
+      "name": "Morocco–United States FTA",
+      "shortName": "Morocco–United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_125",
+      "name": "Ministry of Economy and Finance",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_126",
+      "name": "Bank Al-Maghrib",
+      "shortName": "Bank Al-Maghrib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_127",
+      "name": "Plan Azur",
+      "shortName": "Plan Azur",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_128",
+      "name": "Plan Emergence",
+      "shortName": "Plan Emergence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_129",
+      "name": "Moroccanization",
+      "shortName": "Moroccanization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_130",
+      "name": "Privatization",
+      "shortName": "Privatization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_131",
+      "name": "General Confederation of Moroccan Enterprises",
+      "shortName": "General Confederation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_132",
+      "name": "Economic history",
+      "shortName": "Economic history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_133",
+      "name": "Falus",
+      "shortName": "Falus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_134",
+      "name": "Trade history",
+      "shortName": "Trade history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_135",
+      "name": "Currency: Moroccan dirham",
+      "shortName": "Currency: Moroccan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_136",
+      "name": "Banks of Morocco",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_137",
+      "name": "Lists of companies of Morocco",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_138",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_139",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_140",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_141",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_142",
+      "name": "Bank Name",
+      "shortName": "Bank Name",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_143",
+      "name": "Rank in Top 100",
+      "shortName": "Rank in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_144",
+      "name": "Location",
+      "shortName": "Location",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_145",
+      "name": "Owner",
+      "shortName": "Owner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_146",
+      "name": "Al Mada (holding) - Morocco",
+      "shortName": "Al Mada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_147",
+      "name": "BCP Group",
+      "shortName": "BCP Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_148",
+      "name": "Cooperative - Morocco",
+      "shortName": "Cooperative -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_149",
+      "name": "Othman Benjelloun - Morocco",
+      "shortName": "Othman Benjelloun",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_150",
+      "name": "Saham Group",
+      "shortName": "Saham Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_151",
+      "name": "CIH Bank",
+      "shortName": "CIH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_152",
+      "name": "Caisse de dépôt et de gestion - Morocco",
+      "shortName": "Caisse de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_153",
+      "name": "Crédit Agricole du Maroc",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_154",
+      "name": "Rabat",
+      "shortName": "Rabat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_155",
+      "name": "State of Morocco",
+      "shortName": "State of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_156",
+      "name": "Groupe Holmarcom&#160;&#91;fr&#93; - Morocco",
+      "shortName": "Groupe Holmarcom&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_157",
+      "name": "BMCI",
+      "shortName": "BMCI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_158",
+      "name": "BNP Paribas - France",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MA_159",
+      "name": "Fonds d'Équipement Communal",
+      "shortName": "Fonds d'Équipement",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,712 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "LB",
   "institutions": [
     {
-      "code": "CENBLB",
-      "name": "Central Bank of LB",
-      "shortName": "Central Bank",
+      "code": "LB_0",
+      "name": "Banque du Liban (BDL)",
+      "shortName": "Banque du",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBLB",
-      "name": "National Bank of LB",
-      "shortName": "National Bank",
+      "code": "LB_1",
+      "name": "Bank Audi",
+      "shortName": "Bank Audi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABLB",
-      "name": "State Bank of LB",
-      "shortName": "State Bank",
+      "code": "LB_2",
+      "name": "Byblos Bank",
+      "shortName": "Byblos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBLB",
-      "name": "Commercial Bank of LB",
-      "shortName": "Commercial Bank",
+      "code": "LB_3",
+      "name": "Bank of Beirut",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBLB",
-      "name": "First LB Bank",
-      "shortName": "First Bank",
+      "code": "LB_4",
+      "name": "Bank of Beirut and Arab Countries",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_5",
+      "name": "BankMed",
+      "shortName": "BankMed",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_6",
+      "name": "Banque Libano-Française",
+      "shortName": "Banque Libano-Française",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_7",
+      "name": "Banque Misr Liban (BML)",
+      "shortName": "Banque Misr",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_8",
+      "name": "BLOM Bank",
+      "shortName": "BLOM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_9",
+      "name": "BSL Bank",
+      "shortName": "BSL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_10",
+      "name": "Cedrus Bank",
+      "shortName": "Cedrus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_11",
+      "name": "Creditbank",
+      "shortName": "Creditbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_12",
+      "name": "Crédit Libanais",
+      "shortName": "Crédit Libanais",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_13",
+      "name": "First National Bank",
+      "shortName": "First National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_14",
+      "name": "Fransabank",
+      "shortName": "Fransabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_15",
+      "name": "Intercontinental Bank of Lebanon (IBL)",
+      "shortName": "Intercontinental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_16",
+      "name": "Lebanon and Gulf Bank",
+      "shortName": "Lebanon and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_17",
+      "name": "Saradar Bank",
+      "shortName": "Saradar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_18",
+      "name": "Société Générale de Banque au Liban (SGBL)",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_19",
+      "name": "Lebanese Swiss Bank",
+      "shortName": "Lebanese Swiss",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_20",
+      "name": "AM Bank (Al-Mawarid Bank)",
+      "shortName": "AM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_21",
+      "name": "Lebanese Canadian Bank",
+      "shortName": "Lebanese Canadian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_22",
+      "name": "Jammal Trust Bank (Under Liquidation)",
+      "shortName": "Jammal Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_23",
+      "name": "CSCBank",
+      "shortName": "CSCBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_24",
+      "name": "Intra Bank",
+      "shortName": "Intra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_25",
+      "name": "Fenicia Bank",
+      "shortName": "Fenicia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_26",
+      "name": "Citi",
+      "shortName": "Citi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_27",
+      "name": "Arab Bank",
+      "shortName": "Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_28",
+      "name": "National Bank of Kuwait (Lebanon)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_29",
+      "name": "Al-Madina Bank",
+      "shortName": "Al-Madina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_30",
+      "name": "Economy of Lebanon",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_31",
+      "name": "Banking in Lebanon",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_32",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_33",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_34",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_35",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_36",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_37",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_38",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_39",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_40",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_41",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_42",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_43",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_44",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_45",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_46",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_47",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_48",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_49",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_50",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_51",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_52",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_53",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_54",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_55",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_56",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_57",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_58",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_59",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_60",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_61",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_62",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_63",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_64",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_65",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_66",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_67",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_68",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_69",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_70",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_71",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_72",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_73",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_74",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_75",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_76",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_77",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_78",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_79",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_80",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_81",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_82",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_83",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_84",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_85",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_86",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_87",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_88",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_89",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_90",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_91",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_92",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_93",
+      "name": "Banks of Lebanon",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_94",
+      "name": "Lists of companies of Lebanon",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_95",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_96",
+      "name": "Business in Lebanon",
+      "shortName": "Business in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_97",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_98",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_99",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LB_100",
+      "name": "Incomplete lists from June 2009",
+      "shortName": "Incomplete lists",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,593 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "BF",
   "institutions": [
     {
-      "code": "CENBBF",
-      "name": "Central Bank of BF",
-      "shortName": "Central Bank",
+      "code": "BF_0",
+      "name": "Banque Agricole Du Faso (BADF)",
+      "shortName": "Banque Agricole",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBF",
-      "name": "National Bank of BF",
-      "shortName": "National Bank",
+      "code": "BF_1",
+      "name": "Banque Atlantique Burkina Faso, part of the BCP Group",
+      "shortName": "Banque Atlantique",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBF",
-      "name": "State Bank of BF",
-      "shortName": "State Bank",
+      "code": "BF_2",
+      "name": "Coris Bank International, part of the Coris Bank Group",
+      "shortName": "Coris",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBF",
-      "name": "Commercial Bank of BF",
-      "shortName": "Commercial Bank",
+      "code": "BF_3",
+      "name": "Ecobank Burkina, part of the Ecobank Group",
+      "shortName": "Ecobank Burkina,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBF",
-      "name": "First BF Bank",
-      "shortName": "First Bank",
+      "code": "BF_4",
+      "name": "Wendkuni Bank International (WBI)",
+      "shortName": "Wendkuni",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_5",
+      "name": "Branch of CBAO Groupe Attijariwafa Bank",
+      "shortName": "Branch of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_6",
+      "name": "Branch of Orabank",
+      "shortName": "Branch of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_7",
+      "name": "Central Bank of West African States",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_8",
+      "name": "Economy of Burkina Faso",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_9",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_10",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_11",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_12",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_13",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_14",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_15",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_16",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_17",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_18",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_19",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_20",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_21",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_22",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_23",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_24",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_25",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_26",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_27",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_28",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_29",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_30",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_31",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_32",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_33",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_34",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_35",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_36",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_37",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_38",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_39",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_40",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_41",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_42",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_43",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_44",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_45",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_46",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_47",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_48",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_49",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_50",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_51",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_52",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_53",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_54",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_55",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_56",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_57",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_58",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_59",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_60",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_61",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_62",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_63",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_64",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_65",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_66",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_67",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_68",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_69",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_70",
+      "name": "History of Trade",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_71",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_72",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_73",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_74",
+      "name": "Cotton",
+      "shortName": "Cotton",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_75",
+      "name": "Shea nut and butter",
+      "shortName": "Shea nut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_76",
+      "name": "Banks of Burkina Faso",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_77",
+      "name": "Lists of companies of Burkina Faso",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_78",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_79",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_80",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_81",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_82",
+      "name": "All articles with unsourced statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BF_83",
+      "name": "Articles with unsourced statements from December 2024",
+      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

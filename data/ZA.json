@@ -1,40 +1,978 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "ZA",
   "institutions": [
     {
-      "code": "CENBZA",
-      "name": "Central Bank of ZA",
-      "shortName": "Central Bank",
+      "code": "ZA_0",
+      "name": "Absa Bank Ltd, part of Absa Group",
+      "shortName": "Absa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBZA",
-      "name": "National Bank of ZA",
-      "shortName": "National Bank",
+      "code": "ZA_1",
+      "name": "African Bank Limited",
+      "shortName": "African",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABZA",
-      "name": "State Bank of ZA",
-      "shortName": "State Bank",
+      "code": "ZA_2",
+      "name": "Bank Zero",
+      "shortName": "Bank Zero",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBZA",
-      "name": "Commercial Bank of ZA",
-      "shortName": "Commercial Bank",
+      "code": "ZA_3",
+      "name": "Bidvest Bank Ltd",
+      "shortName": "Bidvest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBZA",
-      "name": "First ZA Bank",
-      "shortName": "First Bank",
+      "code": "ZA_4",
+      "name": "Capitec Bank Ltd",
+      "shortName": "Capitec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_5",
+      "name": "Discovery Bank",
+      "shortName": "Discovery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_6",
+      "name": "FirstRand Ltd, part of FirstRand Group",
+      "shortName": "FirstRand,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_7",
+      "name": "Investec Bank Ltd",
+      "shortName": "Investec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_8",
+      "name": "Nedbank Ltd, part of Nedbank Group",
+      "shortName": "Nedbank,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_9",
+      "name": "OM Bank, part of Old Mutual Group",
+      "shortName": "OM,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_10",
+      "name": "Sasfin Bank Ltd",
+      "shortName": "Sasfin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_11",
+      "name": "Tyme Bank Ltd",
+      "shortName": "Tyme",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_12",
+      "name": "Grindrod Bank, part of African Bank Limited",
+      "shortName": "Grindrod,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_13",
+      "name": "Ubank, part of African Bank Limited",
+      "shortName": "Ubank, part",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_14",
+      "name": "Access Bank (South Africa) Ltd, part of Access Bank Group",
+      "shortName": "Access",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_15",
+      "name": "Albaraka Bank Ltd, part of Al Baraka Group",
+      "shortName": "Albaraka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_16",
+      "name": "Habib Bank, part of Habib Bank Group (Pakistan)",
+      "shortName": "Habib,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_17",
+      "name": "HBZ Bank Ltd, part of Habib Bank Group (Switzerland)",
+      "shortName": "HBZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_18",
+      "name": "Bank of China",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_19",
+      "name": "Bank of Communications",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_20",
+      "name": "Bank of Taiwan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_21",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_22",
+      "name": "China Construction Bank",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_23",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_24",
+      "name": "Goldman Sachs",
+      "shortName": "Goldman Sachs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_25",
+      "name": "HSBC",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_26",
+      "name": "JPMorgan Chase",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_27",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_28",
+      "name": "State Bank of India",
+      "shortName": "State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_29",
+      "name": "Bank Zero Mutual Bank",
+      "shortName": "Bank Zero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_30",
+      "name": "Finbond Mutual Bank",
+      "shortName": "Finbond Mutual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_31",
+      "name": "GBS Mutual Bank",
+      "shortName": "GBS Mutual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_32",
+      "name": "YWBN Mutual Bank",
+      "shortName": "YWBN Mutual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_33",
+      "name": "Ditsobotla Primary Savings and Credit Co-operative Banks",
+      "shortName": "Ditsobotla Primary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_34",
+      "name": "OSK Koöperatiewe Bank Beperk",
+      "shortName": "OSK Koöperatiewe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_35",
+      "name": "Ziphakamise Savings and Credit Co-operative Bank",
+      "shortName": "Ziphakamise Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_36",
+      "name": "KSK Koöperatiewe Bank Beperk",
+      "shortName": "KSK Koöperatiewe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_37",
+      "name": "GIG Co-operative Bank",
+      "shortName": "GIG Co-operative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_38",
+      "name": "Development Bank of Southern Africa",
+      "shortName": "Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_39",
+      "name": "Land and Agricultural Development Bank of South Africa",
+      "shortName": "Land and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_40",
+      "name": "Postbank South Africa",
+      "shortName": "Postbank South",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_41",
+      "name": "BankservAfrica",
+      "shortName": "BankservAfrica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_42",
+      "name": "Banking in South Africa",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_43",
+      "name": "Website of Reserve Bank of South Africa",
+      "shortName": "Website of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_44",
+      "name": "Classification of South African Financial Institutions",
+      "shortName": "Classification of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_45",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_46",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_47",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_48",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_49",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_50",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_51",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_52",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_53",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_54",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_55",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_56",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_57",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_58",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_59",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_60",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_61",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_62",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_63",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_64",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_65",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_66",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_67",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_68",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_69",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_70",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_71",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_72",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_73",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_74",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_75",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_76",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_77",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_78",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_79",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_80",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_81",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_82",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_83",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_84",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_85",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_86",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_87",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_88",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_89",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_90",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_91",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_92",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_93",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_94",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_95",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_96",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_97",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_98",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_99",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_100",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_101",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_102",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_103",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_104",
+      "name": "Western Cape",
+      "shortName": "Western Cape",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_105",
+      "name": "Gauteng",
+      "shortName": "Gauteng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_106",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_107",
+      "name": "Whaling",
+      "shortName": "Whaling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_108",
+      "name": "Automotive industry",
+      "shortName": "Automotive industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_109",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_110",
+      "name": "Gambling",
+      "shortName": "Gambling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_111",
+      "name": "LGBT tourism",
+      "shortName": "LGBT tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_112",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_113",
+      "name": "Nuclear power",
+      "shortName": "Nuclear power",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_114",
+      "name": "Power stations",
+      "shortName": "Power stations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_115",
+      "name": "Great Depression",
+      "shortName": "Great Depression",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_116",
+      "name": "Disinvestment",
+      "shortName": "Disinvestment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_117",
+      "name": "Black Economic Empowerment",
+      "shortName": "Black Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_118",
+      "name": "Broad-Based Black Economic Empowerment",
+      "shortName": "Broad-Based Black",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_119",
+      "name": "Exempted Micro Enterprises",
+      "shortName": "Exempted Micro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_120",
+      "name": "National Treasury",
+      "shortName": "National Treasury",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_121",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_122",
+      "name": "South African rand",
+      "shortName": "South African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_123",
+      "name": "Reserve Bank",
+      "shortName": "Reserve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_124",
+      "name": "Consumer price index",
+      "shortName": "Consumer price",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_125",
+      "name": "Provinces by HDI",
+      "shortName": "Provinces by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_126",
+      "name": "Foreign trade",
+      "shortName": "Foreign trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_127",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_128",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_129",
+      "name": "Krugerrand",
+      "shortName": "Krugerrand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_130",
+      "name": "State-owned enterprises",
+      "shortName": "State-owned enterprises",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_131",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_132",
+      "name": "Banks of South Africa",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_133",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_134",
+      "name": "Lists of companies of South Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_135",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_136",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_137",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ZA_138",
+      "name": "Use dmy dates from April 2022",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

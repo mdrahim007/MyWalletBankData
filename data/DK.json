@@ -1,40 +1,1055 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "DK",
   "institutions": [
     {
-      "code": "CENBDK",
-      "name": "Central Bank of DK",
-      "shortName": "Central Bank",
+      "code": "DK_0",
+      "name": "Nykredit Realkredit A/S, mortgage subsidiary of Nykredit",
+      "shortName": "Nykredit Realkredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBDK",
-      "name": "National Bank of DK",
-      "shortName": "National Bank",
+      "code": "DK_1",
+      "name": "Danske Bank A/S",
+      "shortName": "Danske",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABDK",
-      "name": "State Bank of DK",
-      "shortName": "State Bank",
+      "code": "DK_2",
+      "name": "Realkredit Danmark A/S, mortgage subsidiary of Danske Bank",
+      "shortName": "Realkredit Danmark",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBDK",
-      "name": "Commercial Bank of DK",
-      "shortName": "Commercial Bank",
+      "code": "DK_3",
+      "name": "Jyske Realkredit A/S, mortgage subsidiary of Jyske Bank",
+      "shortName": "Jyske Realkredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBDK",
-      "name": "First DK Bank",
-      "shortName": "First Bank",
+      "code": "DK_4",
+      "name": "Jyske Bank A/S",
+      "shortName": "Jyske",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_5",
+      "name": "DLR Kredit A/S",
+      "shortName": "DLR Kredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_6",
+      "name": "Nykredit Bank A/S",
+      "shortName": "Nykredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_7",
+      "name": "Saxo Bank A/S",
+      "shortName": "Saxo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_8",
+      "name": "Sparekassen Danmark&#160;&#91;da&#93;",
+      "shortName": "Sparekassen Danmark&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_9",
+      "name": "Ringkøbing Landbobank",
+      "shortName": "Ringkøbing Landbobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_10",
+      "name": "Danmarks Skibskredit A/S&#160;&#91;da&#93;",
+      "shortName": "Danmarks Skibskredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_11",
+      "name": "Sparekassen Kronjylland&#160;&#91;da&#93;",
+      "shortName": "Sparekassen Kronjylland&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_12",
+      "name": "Lån &amp; Spar Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Lån &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_13",
+      "name": "SJF Bank&#160;&#91;da&#93;",
+      "shortName": "SJF&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_14",
+      "name": "Middelfart Sparekasse&#160;&#91;da&#93;",
+      "shortName": "Middelfart Sparekasse&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_15",
+      "name": "Danske Andelskassers Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Danske Andelskassers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_16",
+      "name": "Djurslands Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Djurslands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_17",
+      "name": "Sparekassen Thy",
+      "shortName": "Sparekassen Thy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_18",
+      "name": "Skjern Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Skjern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_19",
+      "name": "Sydjysk Sparekasse&#160;&#91;da&#93;",
+      "shortName": "Sydjysk Sparekasse&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_20",
+      "name": "Lægernes Bank A/S",
+      "shortName": "Lægernes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_21",
+      "name": "Lunar Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Lunar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_22",
+      "name": "Fynske Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Fynske",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_23",
+      "name": "Kreditbanken A/S",
+      "shortName": "Kreditbanken A/S",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_24",
+      "name": "Ekspres Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Ekspres",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_25",
+      "name": "Lollands Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Lollands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_26",
+      "name": "Merkur Andelskasse&#160;&#91;da&#93;",
+      "shortName": "Merkur Andelskasse&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_27",
+      "name": "Møns Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Møns",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_28",
+      "name": "Sparekassen Bredebro&#160;&#91;da&#93;",
+      "shortName": "Sparekassen Bredebro&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_29",
+      "name": "Facit Bank A/S",
+      "shortName": "Facit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_30",
+      "name": "Dragsholm Sparekasse",
+      "shortName": "Dragsholm Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_31",
+      "name": "Sparekassen for Nr. Nebel og Omegn&#160;&#91;da&#93;",
+      "shortName": "Sparekassen for",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_32",
+      "name": "Hvidbjerg Bank A/S&#160;&#91;da&#93;",
+      "shortName": "Hvidbjerg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_33",
+      "name": "Rise Sparekasse",
+      "shortName": "Rise Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_34",
+      "name": "Frørup Andelskasse",
+      "shortName": "Frørup Andelskasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_35",
+      "name": "kompasbank a/s",
+      "shortName": "kompasbank a/s",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_36",
+      "name": "Balling Sparekasse",
+      "shortName": "Balling Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_37",
+      "name": "Frøslev-Mollerup Sparekasse",
+      "shortName": "Frøslev-Mollerup Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_38",
+      "name": "Rønde Sparekasse",
+      "shortName": "Rønde Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_39",
+      "name": "Sønderhå-Hørsted Sparekasse",
+      "shortName": "Sønderhå-Hørsted Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_40",
+      "name": "Andelskassen Fælleskassen",
+      "shortName": "Andelskassen Fælleskassen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_41",
+      "name": "Borbjerg Sparekasse",
+      "shortName": "Borbjerg Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_42",
+      "name": "Faster Andelskasse&#160;&#91;da&#93;",
+      "shortName": "Faster Andelskasse&#160;&#91;da&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_43",
+      "name": "Klim Sparekasse",
+      "shortName": "Klim Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_44",
+      "name": "Maj Bank A/S",
+      "shortName": "Maj",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_45",
+      "name": "Stadil Sparekasse",
+      "shortName": "Stadil Sparekasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_46",
+      "name": "Ikano Bank AB (publ.)",
+      "shortName": "Ikano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_47",
+      "name": "Nordea Bank Abp",
+      "shortName": "Nordea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_48",
+      "name": "SEB Kort Bank AB, subsidiary of SEB Group",
+      "shortName": "SEB Kort",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_49",
+      "name": "Santander Consumer Bank AS, subsidiary of Santander",
+      "shortName": "Santander Consumer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_50",
+      "name": "DNB Bank ASA",
+      "shortName": "DNB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_51",
+      "name": "Skandinaviska Enskilda Banken AB (publ.)",
+      "shortName": "Skandinaviska Enskilda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_52",
+      "name": "Nordnet Bank AB",
+      "shortName": "Nordnet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_53",
+      "name": "Telia Finance AB, subsidiary of Telia Company",
+      "shortName": "Telia Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_54",
+      "name": "UBS Europe SE, subsidiary of UBS",
+      "shortName": "UBS Europe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_55",
+      "name": "Resurs Bank AB",
+      "shortName": "Resurs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_56",
+      "name": "Citibank Europe plc, subsidiary of Citigroup",
+      "shortName": "Citibank Europe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_57",
+      "name": "BNP Paribas SA",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_58",
+      "name": "EnterCard Group AB&#160;&#91;sv&#93;",
+      "shortName": "EnterCard Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_59",
+      "name": "PayEx Sverige AB&#160;&#91;sv&#93;, subsidiary of Swedbank",
+      "shortName": "PayEx Sverige",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_60",
+      "name": "Goldman Sachs Bank Europe SE, subsidiary of Goldman Sachs",
+      "shortName": "Goldman Sachs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_61",
+      "name": "Banking Circle SA",
+      "shortName": "Banking Circle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_62",
+      "name": "Quintet Private Bank (Europe) SA",
+      "shortName": "Quintet Private",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_63",
+      "name": "The Bank of New York Mellon SA/NV, subsidiary of BNY",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_64",
+      "name": "Klarna Bank AB (publ.)",
+      "shortName": "Klarna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_65",
+      "name": "Morgan Stanley Europe SE, subsidiary of Morgan Stanley",
+      "shortName": "Morgan Stanley",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_66",
+      "name": "Trade Republic Bank GmbH",
+      "shortName": "Trade Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_67",
+      "name": "Føroya Banki",
+      "shortName": "Føroyai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_68",
+      "name": "P/F Betri Banki",
+      "shortName": "P/F Betri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_69",
+      "name": "Grønlandsbanken A/S",
+      "shortName": "Grønlandsbanken A/S",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_70",
+      "name": "Nordoya Sparikassi",
+      "shortName": "Nordoya Sparikassi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_71",
+      "name": "Suduroyar Sparikassi P/F",
+      "shortName": "Suduroyar Sparikassi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_72",
+      "name": "Kurantbanken (1736-1773)",
+      "shortName": "Kurantbanken (1736-1773)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_73",
+      "name": "Marstal Savings Bank (1822-1974)",
+      "shortName": "Marstal Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_74",
+      "name": "Provinsbanken (1846-1990)",
+      "shortName": "Provinsbanken (1846-1990)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_75",
+      "name": "Kjøbenhavns private Laanebank (1854-1922)",
+      "shortName": "Kjøbenhavns private",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_76",
+      "name": "Arbejdernes Byggeforening (1865-1972)",
+      "shortName": "Arbejdernes Byggeforening",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_77",
+      "name": "Roskilde Bank (1884-2008)",
+      "shortName": "Roskilde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_78",
+      "name": "Arbejdernes Landsbank (1919-2025)",
+      "shortName": "Arbejdernes Landsbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_79",
+      "name": "FIH Erhvervsbank (1958-2016)",
+      "shortName": "FIH Erhvervsbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_80",
+      "name": "Finansbanken (1979-2010)",
+      "shortName": "Finansbanken (1979-2010)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_81",
+      "name": "DnB NORD (2006-2011)",
+      "shortName": "DnB NORD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_82",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_83",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_84",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_85",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_86",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_87",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_88",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_89",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_90",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_91",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_92",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_93",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_94",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_95",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_96",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_97",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_98",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_99",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_100",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_101",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_102",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_103",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_104",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_105",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_106",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_107",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_108",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_109",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_110",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_111",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_112",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_113",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_114",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_115",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_116",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_117",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_118",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_119",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_120",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_121",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_122",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_123",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_124",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_125",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_126",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_127",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_128",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_129",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_130",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_131",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_132",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_133",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_134",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_135",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_136",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_137",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_138",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_139",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_140",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_141",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_142",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_143",
+      "name": "Economy of Denmark-related lists",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_144",
+      "name": "Banks of Denmark",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_145",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_146",
+      "name": "Lists of companies of Denmark",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_147",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_148",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DK_149",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

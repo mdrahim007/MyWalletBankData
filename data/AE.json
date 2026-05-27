@@ -1,33 +1,1594 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "AE",
   "institutions": [
     {
-      "code": "EMIREMARAT",
-      "name": "Emirates NBD",
-      "shortName": "ENBD",
+      "code": "AE_0",
+      "name": "List of banks in the Arab world",
+      "shortName": "List of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NBABORDDH",
-      "name": "First Abu Dhabi Bank",
-      "shortName": "FAB",
+      "code": "AE_1",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ADCB",
+      "code": "AE_2",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_3",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_4",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_5",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_6",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_7",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_8",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_9",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_10",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_11",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_12",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_13",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_14",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_15",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_16",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_17",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_18",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_19",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_20",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_21",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_22",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_23",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_24",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_25",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_26",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_27",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_28",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_29",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_30",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_31",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_32",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_33",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_34",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_35",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_36",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_37",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_38",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_39",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_40",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_41",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_42",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_43",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_44",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_45",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_46",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_47",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_48",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_49",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_50",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_51",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_52",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_53",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_54",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_55",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_56",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_57",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_58",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_59",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_60",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_61",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_62",
+      "name": "Banks of the United Arab Emirates",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_63",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_64",
+      "name": "Lists of companies of the United Arab Emirates",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_65",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_66",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_67",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_68",
       "name": "Abu Dhabi Commercial Bank",
-      "shortName": "ADCB",
+      "shortName": "Abu Dhabi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DIB",
+      "code": "AE_69",
+      "name": "بنك أبوظبي التجاري",
+      "shortName": "بنك أبوظبي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_70",
+      "name": "Abu Dhabi",
+      "shortName": "Abu Dhabi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_71",
+      "name": "ADX:&#160;ADCB",
+      "shortName": "ADX:&#160;ADCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_72",
+      "name": "Abu Dhabi Islamic Bank",
+      "shortName": "Abu Dhabi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_73",
+      "name": "مصرف أبوظبي الإسلامي",
+      "shortName": "مصرف أبوظبي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_74",
+      "name": "ADX:&#160;ADIB",
+      "shortName": "ADX:&#160;ADIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_75",
+      "name": "Ajman Bank",
+      "shortName": "Ajman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_76",
+      "name": "مصرف عجمان",
+      "shortName": "مصرف عجمان",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_77",
+      "name": "Ajman",
+      "shortName": "Ajman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_78",
+      "name": "DFM:&#160;AJMANBANK",
+      "shortName": "DFM:&#160;AJMANBANK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_79",
+      "name": "Al Hilal Bank",
+      "shortName": "Al Hilal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_80",
+      "name": "مصرف الهلال",
+      "shortName": "مصرف الهلال",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_81",
+      "name": "Acquired by ADCB group",
+      "shortName": "Acquired by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_82",
+      "name": "Al Maryah Community Bank",
+      "shortName": "Al Maryah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_83",
+      "name": "بنك المارية المحلي",
+      "shortName": "بنك المارية",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_84",
+      "name": "Private Company",
+      "shortName": "Private Company",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_85",
+      "name": "Bank of Sharjah",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_86",
+      "name": "بنك الشارقة",
+      "shortName": "بنك الشارقة",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_87",
+      "name": "Sharjah",
+      "shortName": "Sharjah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_88",
+      "name": "ADX:&#160;BOS",
+      "shortName": "ADX:&#160;BOS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_89",
+      "name": "Commercial Bank International",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_90",
+      "name": "البنك التجاري الدولي",
+      "shortName": "البنك التجاري",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_91",
+      "name": "Ras Al Khaimah",
+      "shortName": "Ras Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_92",
+      "name": "ADX:&#160;CBI",
+      "shortName": "ADX:&#160;CBI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_93",
+      "name": "Commercial Bank of Dubai",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_94",
+      "name": "بنك دبي التـجاري",
+      "shortName": "بنك دبي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_95",
+      "name": "Dubai",
+      "shortName": "Dubai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_96",
+      "name": "DFM:&#160;CBD",
+      "shortName": "DFM:&#160;CBD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_97",
       "name": "Dubai Islamic Bank",
-      "shortName": "DIB",
+      "shortName": "Dubai Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_98",
+      "name": "بنــك دبي الإســلامي",
+      "shortName": "بنــك دبي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_99",
+      "name": "DFM:&#160;DIB",
+      "shortName": "DFM:&#160;DIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_100",
+      "name": "Emirates Investment Bank",
+      "shortName": "Emirates Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_101",
+      "name": "بنك الإمارات للاستثمار",
+      "shortName": "بنك الإمارات",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_102",
+      "name": "DFM:&#160;EIBANK",
+      "shortName": "DFM:&#160;EIBANK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_103",
+      "name": "Emirates Islamic",
+      "shortName": "Emirates Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_104",
+      "name": "الإمارات الإسلامي",
+      "shortName": "الإمارات الإسلامي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_105",
+      "name": "DFM:&#160;EIB",
+      "shortName": "DFM:&#160;EIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_106",
+      "name": "Emirates NBD",
+      "shortName": "Emirates NBD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_107",
+      "name": "بنك الإمارات دبي الوطني",
+      "shortName": "بنك الإمارات",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_108",
+      "name": "DFM:&#160;EMIRATESNBD",
+      "shortName": "DFM:&#160;EMIRATESNBD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_109",
+      "name": "First Abu Dhabi Bank",
+      "shortName": "First Abu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_110",
+      "name": "بنك أبوظبي الأول",
+      "shortName": "بنك أبوظبي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_111",
+      "name": "ADX:&#160;FAB",
+      "shortName": "ADX:&#160;FAB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_112",
+      "name": "Invest Bank",
+      "shortName": "Invest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_113",
+      "name": "بنك الاستثمار",
+      "shortName": "بنك الاستثمار",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_114",
+      "name": "ADX:&#160;INVESTB",
+      "shortName": "ADX:&#160;INVESTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_115",
+      "name": "Mashreq",
+      "shortName": "Mashreq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_116",
+      "name": "بنك المشرق",
+      "shortName": "بنك المشرق",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_117",
+      "name": "DFM:&#160;MASQ",
+      "shortName": "DFM:&#160;MASQ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_118",
+      "name": "National Bank of Fujairah",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_119",
+      "name": "بنك الفجيرة الوطني",
+      "shortName": "بنك الفجيرة",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_120",
+      "name": "Fujairah",
+      "shortName": "Fujairah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_121",
+      "name": "ADX:&#160;NBF",
+      "shortName": "ADX:&#160;NBF",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_122",
+      "name": "RAKBANK",
+      "shortName": "RAKBANK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_123",
+      "name": "بنك رأس الخيمة الوطني",
+      "shortName": "بنك رأس",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_124",
+      "name": "ADX:&#160;RAKBANK",
+      "shortName": "ADX:&#160;RAKBANK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_125",
+      "name": "National Bank of Umm Al-Qaiwain",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_126",
+      "name": "بنك أم القيوين الوطني",
+      "shortName": "بنك أم",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_127",
+      "name": "Umm Al Quwain",
+      "shortName": "Umm Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_128",
+      "name": "ADX:&#160;NBQ",
+      "shortName": "ADX:&#160;NBQ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_129",
+      "name": "Ruya Community Islamic Bank",
+      "shortName": "Ruya Community",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_130",
+      "name": "مصرف رويا المحلي الإسلامي",
+      "shortName": "مصرف رويا",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_131",
+      "name": "Sharjah Islamic Bank",
+      "shortName": "Sharjah Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_132",
+      "name": "مصرف الشارقة الإسلامي",
+      "shortName": "مصرف الشارقة",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_133",
+      "name": "ADX:&#160;SIB",
+      "shortName": "ADX:&#160;SIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_134",
+      "name": "United Arab Bank",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_135",
+      "name": "البنك العربي المتحد",
+      "shortName": "البنك العربي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_136",
+      "name": "ADX:&#160;UAB",
+      "shortName": "ADX:&#160;UAB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_137",
+      "name": "Wio Bank",
+      "shortName": "Wio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_138",
+      "name": "ويو بنك",
+      "shortName": "ويو بنك",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_139",
+      "name": "Zand Bank",
+      "shortName": "Zand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_140",
+      "name": "زاند بنك",
+      "shortName": "زاند بنك",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_141",
+      "name": "National Bank of Bahrain",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_142",
+      "name": "بنك البحرين الوطني",
+      "shortName": "بنك البحرين",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_143",
+      "name": "&#160;Bahrain",
+      "shortName": "&#160;Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_144",
+      "name": "BSB: NBB",
+      "shortName": "BSB: NBB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_145",
+      "name": "Gulf International Bank",
+      "shortName": "Gulf International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_146",
+      "name": "بنك الخليج الدولي",
+      "shortName": "بنك الخليج",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_147",
+      "name": "Janata Bank Limited",
+      "shortName": "Janata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_148",
+      "name": "&#160;Bangladesh",
+      "shortName": "&#160;Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_149",
+      "name": "Bank of China Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_150",
+      "name": "&#160;China",
+      "shortName": "&#160;China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_151",
+      "name": "Agricultural Bank of China Ltd.",
+      "shortName": "Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_152",
+      "name": "Banque Misr",
+      "shortName": "Banque Misr",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_153",
+      "name": "بنك مصر",
+      "shortName": "بنك مصر",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_154",
+      "name": "&#160;Egypt",
+      "shortName": "&#160;Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_155",
+      "name": "Arab African International Bank",
+      "shortName": "Arab African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_156",
+      "name": "البنك العربي الافريقي الدولي",
+      "shortName": "البنك العربي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_157",
+      "name": "Credit Agricole",
+      "shortName": "Credit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_158",
+      "name": "&#160;France",
+      "shortName": "&#160;France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_159",
+      "name": "BNP Paribas",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_160",
+      "name": "Banque Banorient France",
+      "shortName": "Banque Banorient",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_161",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_162",
+      "name": "&#160;Germany",
+      "shortName": "&#160;Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_163",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_164",
+      "name": "بنك برودا",
+      "shortName": "بنك برودا",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_165",
+      "name": "&#160;India",
+      "shortName": "&#160;India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_166",
+      "name": "NSE: BANKBARODA",
+      "shortName": "NSE: BANKBARODA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_167",
+      "name": "Bank Melli Iran",
+      "shortName": "Bank Melli",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_168",
+      "name": "&#160;Iran",
+      "shortName": "&#160;Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_169",
+      "name": "TSE: BANK1",
+      "shortName": "TSE: BANK1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_170",
+      "name": "Bank Saderat Iran",
+      "shortName": "Bank Saderat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_171",
+      "name": "TSE: BSDR1",
+      "shortName": "TSE: BSDR1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_172",
+      "name": "Rafidain Bank",
+      "shortName": "Rafidain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_173",
+      "name": "مصرف الرافدين",
+      "shortName": "مصرف الرافدين",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_174",
+      "name": "&#160;Iraq",
+      "shortName": "&#160;Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_175",
+      "name": "Intesa Sanpaolo",
+      "shortName": "Intesa Sanpaolo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_176",
+      "name": "&#160;Italy",
+      "shortName": "&#160;Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_177",
+      "name": "Arab Bank",
+      "shortName": "Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_178",
+      "name": "البنك العربي",
+      "shortName": "البنك العربي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_179",
+      "name": "&#160;Jordan",
+      "shortName": "&#160;Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_180",
+      "name": "ASE: ARBK",
+      "shortName": "ASE: ARBK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_181",
+      "name": "Al Ahli Bank of Kuwait",
+      "shortName": "Al Ahli",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_182",
+      "name": "بنك الاهلي",
+      "shortName": "بنك الاهلي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_183",
+      "name": "&#160;Kuwait",
+      "shortName": "&#160;Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_184",
+      "name": "National Bank of Kuwait",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_185",
+      "name": "National Bank of Oman",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_186",
+      "name": "البنك الوطني العماني",
+      "shortName": "البنك الوطني",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_187",
+      "name": "&#160;Oman",
+      "shortName": "&#160;Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_188",
+      "name": "MSX: NBOB",
+      "shortName": "MSX: NBOB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_189",
+      "name": "Habib Bank",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_190",
+      "name": "حبيب بنك المحدود",
+      "shortName": "حبيب بنك",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_191",
+      "name": "&#160;Pakistan",
+      "shortName": "&#160;Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_192",
+      "name": "PSX: HBL",
+      "shortName": "PSX: HBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_193",
+      "name": "United Bank",
+      "shortName": "United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_194",
+      "name": "PSX: UBL",
+      "shortName": "PSX: UBL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_195",
+      "name": "MCB Bank",
+      "shortName": "MCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_196",
+      "name": "PSX: MCB",
+      "shortName": "PSX: MCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_197",
+      "name": "Bank Alfalah",
+      "shortName": "Bank Alfalah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_198",
+      "name": "بنك الفلاح",
+      "shortName": "بنك الفلاح",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_199",
+      "name": "Al Khaliji",
+      "shortName": "Al Khaliji",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_200",
+      "name": "الخليجي",
+      "shortName": "الخليجي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_201",
+      "name": "&#160;Qatar",
+      "shortName": "&#160;Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_202",
+      "name": "Doha Bank",
+      "shortName": "Doha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_203",
+      "name": "Saudi National Bank",
+      "shortName": "Saudi National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_204",
+      "name": "&#160;Saudi Arabia",
+      "shortName": "&#160;Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_205",
+      "name": "TADAWUL:SNB",
+      "shortName": "TADAWUL:SNB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_206",
+      "name": "KEB Hana Bank",
+      "shortName": "KEB Hana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_207",
+      "name": "&#160;South Korea",
+      "shortName": "&#160;South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_208",
+      "name": "BOK International Bank",
+      "shortName": "BOK International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_209",
+      "name": "&#160;Sudan",
+      "shortName": "&#160;Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_210",
+      "name": "Habib Bank A.G Zurich",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_211",
+      "name": "&#160;Switzerland",
+      "shortName": "&#160;Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_212",
+      "name": "HSBC Bank Middle East",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_213",
+      "name": "&#160;United Kingdom",
+      "shortName": "&#160;United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_214",
+      "name": "Standard Chartered",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_215",
+      "name": "LSE: STAN",
+      "shortName": "LSE: STAN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_216",
+      "name": "NatWest Markets",
+      "shortName": "NatWest Markets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_217",
+      "name": "Barclays",
+      "shortName": "Barclays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_218",
+      "name": "Citibank N. A.",
+      "shortName": "Citibank N.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_219",
+      "name": "سيتي بنك",
+      "shortName": "سيتي بنك",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_220",
+      "name": "&#160;United States",
+      "shortName": "&#160;United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_221",
+      "name": "NYSE: C",
+      "shortName": "NYSE: C",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_222",
+      "name": "American Express",
+      "shortName": "American Express",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_223",
+      "name": "أمريكان إكسبريس",
+      "shortName": "أمريكان إكسبريس",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_224",
+      "name": "NYSE: AXP",
+      "shortName": "NYSE: AXP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_225",
+      "name": "El Nilein Bank",
+      "shortName": "El Nilein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AE_226",
+      "name": "بنك النيلين",
+      "shortName": "بنك النيلين",
       "type": "bank",
       "aliases": ""
     }

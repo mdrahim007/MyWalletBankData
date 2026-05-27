@@ -1,40 +1,3267 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "CN",
   "institutions": [
     {
-      "code": "CENBCN",
-      "name": "Central Bank of CN",
-      "shortName": "Central Bank",
+      "code": "CN_0",
+      "name": "Shanghai Huarui Bank",
+      "shortName": "Shanghai Huarui",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCN",
-      "name": "National Bank of CN",
-      "shortName": "National Bank",
+      "code": "CN_1",
+      "name": "Wenzhou Minshang Bank",
+      "shortName": "Wenzhou Minshang",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCN",
-      "name": "State Bank of CN",
-      "shortName": "State Bank",
+      "code": "CN_2",
+      "name": "Liaoning Zhenxing Bank",
+      "shortName": "Liaoning Zhenxing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCN",
-      "name": "Commercial Bank of CN",
-      "shortName": "Commercial Bank",
+      "code": "CN_3",
+      "name": "Bank of Kunlun (昆仑银行)&#91;7&#93;",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCN",
-      "name": "First CN Bank",
-      "shortName": "First Bank",
+      "code": "CN_4",
+      "name": "SiliBank (实利银行)",
+      "shortName": "SiliBank (实利银行)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_5",
+      "name": "Bank of Lanzhou&#91;8&#93;&#91;9&#93;",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_6",
+      "name": "Bank of Gansu&#91;10&#93;",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_7",
+      "name": "ABN AMRO (Netherlands)#",
+      "shortName": "ABN AMRO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_8",
+      "name": "ANZ Bank",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_9",
+      "name": "Banco Santander",
+      "shortName": "Banco Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_10",
+      "name": "Bank Mandiri",
+      "shortName": "Bank Mandiri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_11",
+      "name": "Bank of America",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_12",
+      "name": "Bank of East Asia (Hong Kong)#",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_13",
+      "name": "Bank of Montreal (Canada)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_14",
+      "name": "Barclays",
+      "shortName": "Barclays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_15",
+      "name": "BBVA Bank",
+      "shortName": "BBVA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_16",
+      "name": "BNP Paribas",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_17",
+      "name": "BNY",
+      "shortName": "BNY",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_18",
+      "name": "Citibank (United States)#",
+      "shortName": "Citibank (United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_19",
+      "name": "Commerzbank",
+      "shortName": "Commerzbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_20",
+      "name": "Commonwealth Bank (Australia)",
+      "shortName": "Commonwealth",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_21",
+      "name": "Crédit Agricole",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_22",
+      "name": "Dah Sing Bank (Hong Kong)",
+      "shortName": "Dah Sing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_23",
+      "name": "DBS Bank (Singapore)#",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_24",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_25",
+      "name": "Fubon Bank (Taiwan)",
+      "shortName": "Fubon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_26",
+      "name": "Hana Bank (South Korea)",
+      "shortName": "Hana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_27",
+      "name": "Hang Seng Bank#",
+      "shortName": "Hang Seng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_28",
+      "name": "HSBC",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_29",
+      "name": "ING Bank",
+      "shortName": "ING",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_30",
+      "name": "Intesa Sanpaolo",
+      "shortName": "Intesa Sanpaolo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_31",
+      "name": "JPMorgan Chase (United States)*",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_32",
+      "name": "Kasikornbank (Thailand)",
+      "shortName": "Kasikornbank (Thailand)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_33",
+      "name": "KBC Bank",
+      "shortName": "KBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_34",
+      "name": "Mizuho Corporate Bank (Japan)*#",
+      "shortName": "Mizuho Corporate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_35",
+      "name": "MUFG (Japan)*#",
+      "shortName": "MUFG (Japan)*#",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_36",
+      "name": "National Australia Bank",
+      "shortName": "National Australia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_37",
+      "name": "Natixis",
+      "shortName": "Natixis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_38",
+      "name": "Norddeutsche Landesbank",
+      "shortName": "Norddeutsche Landesbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_39",
+      "name": "OCBC Wing Hang Bank (Hong Kong)",
+      "shortName": "OCBC Wing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_40",
+      "name": "Oversea-Chinese Banking Corporation (Singapore)",
+      "shortName": "Oversea-Chineseing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_41",
+      "name": "Rabobank",
+      "shortName": "Rabobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_42",
+      "name": "Raiffeisen Bank International",
+      "shortName": "Raiffeisen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_43",
+      "name": "Royal Bank of Scotland",
+      "shortName": "Royal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_44",
+      "name": "Scotiabank (Canada)",
+      "shortName": "Scotiabank (Canada)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_45",
+      "name": "Shinhan Bank (South Korea)",
+      "shortName": "Shinhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_46",
+      "name": "Societe Generale (France)",
+      "shortName": "Societe Generale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_47",
+      "name": "SPD Silicon Valley Bank",
+      "shortName": "SPD Silicon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_48",
+      "name": "Standard Chartered (United Kingdom)#",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_49",
+      "name": "UBS",
+      "shortName": "UBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_50",
+      "name": "United Overseas Bank (Singapore)",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_51",
+      "name": "VTB Bank",
+      "shortName": "VTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_52",
+      "name": "Wells Fargo",
+      "shortName": "Wells Fargo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_53",
+      "name": "Westpac",
+      "shortName": "Westpac",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_54",
+      "name": "Woori Bank (South Korea)",
+      "shortName": "Woori",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_55",
+      "name": "Bank of China (Hong Kong) Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_56",
+      "name": "Bank of East Asia Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_57",
+      "name": "China Construction Bank (Asia) Corporation Limited",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_58",
+      "name": "Chiyu Banking Corporation Limited",
+      "shortName": "Chiyuing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_59",
+      "name": "Chong Hing Bank Limited",
+      "shortName": "Chong Hing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_60",
+      "name": "Citibank (Hong Kong) Limited",
+      "shortName": "Citibank (Hong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_61",
+      "name": "CITIC Ka Wah Bank Limited",
+      "shortName": "CITIC Ka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_62",
+      "name": "Columbia Bank Limited",
+      "shortName": "Columbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_63",
+      "name": "Dah Sing Bank Limited",
+      "shortName": "Dah Sing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_64",
+      "name": "DBS Bank (Hong Kong) Limited",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_65",
+      "name": "East Asia Banking Corporation Limited",
+      "shortName": "East Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_66",
+      "name": "Fubon Bank (Hong Kong) Limited",
+      "shortName": "Fubon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_67",
+      "name": "Hang Seng Bank Limited",
+      "shortName": "Hang Seng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_68",
+      "name": "Hongkong and Shanghai Banking Corporation Limited (HSBC)",
+      "shortName": "Hongkong and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_69",
+      "name": "Industrial and Commercial Bank of China (Asia) Limited",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_70",
+      "name": "MEVAS Bank Limited",
+      "shortName": "MEVAS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_71",
+      "name": "Nanyang Commercial Bank Limited",
+      "shortName": "Nanyang Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_72",
+      "name": "OCBC Wing Hang Bank Limited  (Banco OCBC Weng Hang, S.A.)",
+      "shortName": "OCBC Wing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_73",
+      "name": "Public Bank (Hong Kong) Limited",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_74",
+      "name": "Shanghai Commercial Bank Ltd.",
+      "shortName": "Shanghai Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_75",
+      "name": "Standard Bank Asia Limited",
+      "shortName": "Standard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_76",
+      "name": "Standard Chartered Bank (Hong Kong) Limited",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_77",
+      "name": "Tai Sang Bank Ltd.",
+      "shortName": "Tai Sang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_78",
+      "name": "Tai Yau Bank Ltd.",
+      "shortName": "Tai Yau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_79",
+      "name": "CMB Wing Lung Bank Limited",
+      "shortName": "CMB Wing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_80",
+      "name": "East West Bank",
+      "shortName": "East West",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_81",
+      "name": "Well Link Bank, S.A. – Well Link Bank, S.A.",
+      "shortName": "Well Link",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_82",
+      "name": "OCBC Wing Hang Bank Limited  – Banco Weng Hang, S.A.",
+      "shortName": "OCBC Wing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_83",
+      "name": "Banco Delta Asia Limited – Banco Delta Ásia, S.A.R.L.",
+      "shortName": "Banco Delta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_84",
+      "name": "The Macau Chinese Bank Ltd. – Banco Chinês de Macau, S.A.",
+      "shortName": "The Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_85",
+      "name": "People's Bank of China – the central bank of China",
+      "shortName": "People's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_86",
+      "name": "Cross-Border Inter-Bank Payments System",
+      "shortName": "Cross-Border Inter-Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_87",
+      "name": "Banking in China",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_88",
+      "name": "History of banking in China",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_89",
+      "name": "Agricultural Development",
+      "shortName": "Agricultural Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_90",
+      "name": "Development",
+      "shortName": "Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_91",
+      "name": "Export–Import",
+      "shortName": "Export–Import",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_92",
+      "name": "Agricultural",
+      "shortName": "Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_93",
+      "name": "CITIC",
+      "shortName": "CITIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_94",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_95",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_96",
+      "name": "Construction",
+      "shortName": "Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_97",
+      "name": "Everbright",
+      "shortName": "Everbright",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_98",
+      "name": "Industrial and Commercial",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_99",
+      "name": "Merchants",
+      "shortName": "Merchants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_100",
+      "name": "Postal Savings",
+      "shortName": "Postal Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_101",
+      "name": "Bohai",
+      "shortName": "Bohai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_102",
+      "name": "Guangfa",
+      "shortName": "Guangfa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_103",
+      "name": "Huaxia",
+      "shortName": "Huaxia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_104",
+      "name": "Industrial",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_105",
+      "name": "Minsheng",
+      "shortName": "Minsheng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_106",
+      "name": "Ping An",
+      "shortName": "Ping An",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_107",
+      "name": "Shanghai Pudong Development",
+      "shortName": "Shanghai Pudong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_108",
+      "name": "Zheshang",
+      "shortName": "Zheshang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_109",
+      "name": "Beijing",
+      "shortName": "Beijing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_110",
+      "name": "Dalian",
+      "shortName": "Dalian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_111",
+      "name": "Hangzhou",
+      "shortName": "Hangzhou",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_112",
+      "name": "Harbin",
+      "shortName": "Harbin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_113",
+      "name": "Jiangsu",
+      "shortName": "Jiangsu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_114",
+      "name": "Jilin",
+      "shortName": "Jilin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_115",
+      "name": "Nanjing",
+      "shortName": "Nanjing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_116",
+      "name": "Ningbo",
+      "shortName": "Ningbo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_117",
+      "name": "Qingdao",
+      "shortName": "Qingdao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_118",
+      "name": "Shanghai",
+      "shortName": "Shanghai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_119",
+      "name": "Taian",
+      "shortName": "Taian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_120",
+      "name": "Taizhou",
+      "shortName": "Taizhou",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_121",
+      "name": "Tianjin",
+      "shortName": "Tianjin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_122",
+      "name": "Tibet",
+      "shortName": "Tibet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_123",
+      "name": "Shengjing",
+      "shortName": "Shengjing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_124",
+      "name": "Weifang",
+      "shortName": "Weifang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_125",
+      "name": "Xiamen International",
+      "shortName": "Xiamen International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_126",
+      "name": "National Administration of Financial Regulation",
+      "shortName": "National Administration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_127",
+      "name": "Premodern",
+      "shortName": "Premodern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_128",
+      "name": "Monetary policy",
+      "shortName": "Monetary policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_129",
+      "name": "Reform and opening up",
+      "shortName": "Reform and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_130",
+      "name": "Five-year plans",
+      "shortName": "Five-year plans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_131",
+      "name": "Industrial Revolution",
+      "shortName": "Industrial Revolution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_132",
+      "name": "Three-anti and Five-anti Campaigns",
+      "shortName": "Three-anti and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_133",
+      "name": "Great Leap Forward",
+      "shortName": "Great Leap",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_134",
+      "name": "Four Modernizations",
+      "shortName": "Four Modernizations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_135",
+      "name": "Socialist market economy",
+      "shortName": "Socialist market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_136",
+      "name": "Iron rice bowl",
+      "shortName": "Iron rice",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_137",
+      "name": "Xiagang",
+      "shortName": "Xiagang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_138",
+      "name": "Deng Xiaoping's southern tour",
+      "shortName": "Deng Xiaoping's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_139",
+      "name": "\"Grasping the large, letting go of the small\"",
+      "shortName": "\"Grasping the",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_140",
+      "name": "Scientific Outlook on Development",
+      "shortName": "Scientific Outlook",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_141",
+      "name": "Historical GDP",
+      "shortName": "Historical GDP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_142",
+      "name": "Population history",
+      "shortName": "Population history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_143",
+      "name": "1949–1976 wage reform",
+      "shortName": "1949–1976 wage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_144",
+      "name": "Advanced materials",
+      "shortName": "Advanced materials",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_145",
+      "name": "Aquaculture",
+      "shortName": "Aquaculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_146",
+      "name": "Automotive",
+      "shortName": "Automotive",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_147",
+      "name": "Aviation",
+      "shortName": "Aviation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_148",
+      "name": "Aircraft",
+      "shortName": "Aircraft",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_149",
+      "name": "Aerospace",
+      "shortName": "Aerospace",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_150",
+      "name": "Beer",
+      "shortName": "Beer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_151",
+      "name": "Biotechnology",
+      "shortName": "Biotechnology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_152",
+      "name": "Business process outsourcing",
+      "shortName": "Business process",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_153",
+      "name": "Cement",
+      "shortName": "Cement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_154",
+      "name": "Coffee",
+      "shortName": "Coffee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_155",
+      "name": "Container",
+      "shortName": "Container",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_156",
+      "name": "Cotton",
+      "shortName": "Cotton",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_157",
+      "name": "Electric motor",
+      "shortName": "Electric motor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_158",
+      "name": "Electric power",
+      "shortName": "Electric power",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_159",
+      "name": "Electronics",
+      "shortName": "Electronics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_160",
+      "name": "Film",
+      "shortName": "Film",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_161",
+      "name": "Fishing",
+      "shortName": "Fishing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_162",
+      "name": "Gambling",
+      "shortName": "Gambling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_163",
+      "name": "Hedge fund",
+      "shortName": "Hedge fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_164",
+      "name": "Internet",
+      "shortName": "Internet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_165",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_166",
+      "name": "Mobile phone",
+      "shortName": "Mobile phone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_167",
+      "name": "Online gaming",
+      "shortName": "Online gaming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_168",
+      "name": "Pearl farming",
+      "shortName": "Pearl farming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_169",
+      "name": "Pharmaceuticals and pharmacy",
+      "shortName": "Pharmaceuticals and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_170",
+      "name": "Publishing and academic publishing",
+      "shortName": "Publishing and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_171",
+      "name": "Radio",
+      "shortName": "Radio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_172",
+      "name": "Rare earth",
+      "shortName": "Rare earth",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_173",
+      "name": "Real estate",
+      "shortName": "Real estate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_174",
+      "name": "Renewable energy",
+      "shortName": "Renewable energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_175",
+      "name": "Securities",
+      "shortName": "Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_176",
+      "name": "Semiconductor",
+      "shortName": "Semiconductor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_177",
+      "name": "Sex toys",
+      "shortName": "Sex toys",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_178",
+      "name": "Shipping",
+      "shortName": "Shipping",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_179",
+      "name": "Silk",
+      "shortName": "Silk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_180",
+      "name": "Software",
+      "shortName": "Software",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_181",
+      "name": "Steel",
+      "shortName": "Steel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_182",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_183",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_184",
+      "name": "Textiles",
+      "shortName": "Textiles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_185",
+      "name": "Video gaming",
+      "shortName": "Video gaming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_186",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_187",
+      "name": "Dalian Software Park",
+      "shortName": "Dalian Software",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_188",
+      "name": "Megalopolises in China",
+      "shortName": "Megalopolises in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_189",
+      "name": "Special Economic Zones",
+      "shortName": "Special Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_190",
+      "name": "Suzhou Industrial Park",
+      "shortName": "Suzhou Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_191",
+      "name": "Zhangjiang Hi-Tech Park",
+      "shortName": "Zhangjiang Hi-Tech",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_192",
+      "name": "Energy policy",
+      "shortName": "Energy policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_193",
+      "name": "Coal",
+      "shortName": "Coal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_194",
+      "name": "Oil refineries",
+      "shortName": "Oil refineries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_195",
+      "name": "Nuclear",
+      "shortName": "Nuclear",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_196",
+      "name": "Solar",
+      "shortName": "Solar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_197",
+      "name": "Geothermal",
+      "shortName": "Geothermal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_198",
+      "name": "Trade history",
+      "shortName": "Trade history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_199",
+      "name": "World Trade Center",
+      "shortName": "World Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_200",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_201",
+      "name": "Postal history",
+      "shortName": "Postal history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_202",
+      "name": "Illegal drug trade",
+      "shortName": "Illegal drug",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_203",
+      "name": "Hong Kong Trade Development Council",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_204",
+      "name": "Ports",
+      "shortName": "Ports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_205",
+      "name": "Water supply and sanitation",
+      "shortName": "Water supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_206",
+      "name": "Exports",
+      "shortName": "Exports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_207",
+      "name": "Trading partners",
+      "shortName": "Trading partners",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_208",
+      "name": "Tax system",
+      "shortName": "Tax system",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_209",
+      "name": "Labor contract law",
+      "shortName": "Labor contract",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_210",
+      "name": "Labor relations",
+      "shortName": "Labor relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_211",
+      "name": "Food safety",
+      "shortName": "Food safety",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_212",
+      "name": "Intellectual property",
+      "shortName": "Intellectual property",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_213",
+      "name": "Accounting",
+      "shortName": "Accounting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_214",
+      "name": "Central bank",
+      "shortName": "Central bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_215",
+      "name": "Other banks",
+      "shortName": "Other banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_216",
+      "name": "Beijing Financial Street",
+      "shortName": "Beijing Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_217",
+      "name": "Financial system",
+      "shortName": "Financial system",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_218",
+      "name": "China Banknote Printing and Minting Corporation",
+      "shortName": "Chinanote",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_219",
+      "name": "China Chengtong Holdings Group",
+      "shortName": "China Chengtong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_220",
+      "name": "China Integrated Circuit Industry Investment Fund",
+      "shortName": "China Integrated",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_221",
+      "name": "China Internet Investment Fund",
+      "shortName": "China Internet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_222",
+      "name": "China Reform Holdings Corporation",
+      "shortName": "China Reform",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_223",
+      "name": "National Fund for Technology Transfer and Commercialisation",
+      "shortName": "National Fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_224",
+      "name": "China Investment Corporation",
+      "shortName": "China Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_225",
+      "name": "CITIC Group",
+      "shortName": "CITIC Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_226",
+      "name": "Financial services",
+      "shortName": "Financial services",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_227",
+      "name": "Renminbi",
+      "shortName": "Renminbi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_228",
+      "name": "Foreign exchange reserve",
+      "shortName": "Foreign exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_229",
+      "name": "Hedge fund industry",
+      "shortName": "Hedge fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_230",
+      "name": "Shanghai Metal Exchange",
+      "shortName": "Shanghai Metal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_231",
+      "name": "Stock Exchange Executive Council",
+      "shortName": "Stock Exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_232",
+      "name": "Zhengzhou Commodity Exchange",
+      "shortName": "Zhengzhou Commodity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_233",
+      "name": "All-China Federation of Industry and Commerce",
+      "shortName": "All-China Federation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_234",
+      "name": "All-China Federation of Trade Unions",
+      "shortName": "All-China Federation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_235",
+      "name": "China Council for the Promotion of International Trade",
+      "shortName": "China Council",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_236",
+      "name": "China Securities Regulatory Commission",
+      "shortName": "China Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_237",
+      "name": "General Administration of Customs",
+      "shortName": "General Administration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_238",
+      "name": "Ministry of Commerce",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_239",
+      "name": "Ministry of Finance",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_240",
+      "name": "Ministry of Industry and Information Technology",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_241",
+      "name": "National Financial Regulatory Administration",
+      "shortName": "National Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_242",
+      "name": "National Bureau of Statistics of China",
+      "shortName": "National Bureau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_243",
+      "name": "National Development and Reform Commission",
+      "shortName": "National Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_244",
+      "name": "National Energy Commission",
+      "shortName": "National Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_245",
+      "name": "State Administration for Market Regulation",
+      "shortName": "State Administration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_246",
+      "name": "State Administration of Taxation",
+      "shortName": "State Administration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_247",
+      "name": "International rankings",
+      "shortName": "International rankings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_248",
+      "name": "Social welfare",
+      "shortName": "Social welfare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_249",
+      "name": "Poverty",
+      "shortName": "Poverty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_250",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_251",
+      "name": "Income inequality",
+      "shortName": "Income inequality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_252",
+      "name": "Standard of living",
+      "shortName": "Standard of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_253",
+      "name": "Foreign aid",
+      "shortName": "Foreign aid",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_254",
+      "name": "Urbanization",
+      "shortName": "Urbanization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_255",
+      "name": "Internal migration",
+      "shortName": "Internal migration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_256",
+      "name": "Emigration",
+      "shortName": "Emigration",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_257",
+      "name": "Rural credit cooperative",
+      "shortName": "Rural credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_258",
+      "name": "Beijing Consensus",
+      "shortName": "Beijing Consensus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_259",
+      "name": "Belt and Road Initiative",
+      "shortName": "Belt and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_260",
+      "name": "Common prosperity",
+      "shortName": "Common prosperity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_261",
+      "name": "Dual circulation",
+      "shortName": "Dual circulation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_262",
+      "name": "Go Out policy",
+      "shortName": "Go Out",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_263",
+      "name": "Made in China 2025",
+      "shortName": "Made in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_264",
+      "name": "Youth Business China",
+      "shortName": "Youth Business",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_265",
+      "name": "Asian Infrastructure Investment Bank",
+      "shortName": "Asian Infrastructure",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_266",
+      "name": "Beibu Gulf Economic Rim",
+      "shortName": "Beibu Gulf",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_267",
+      "name": "Bohai Economic Rim",
+      "shortName": "Bohai Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_268",
+      "name": "China Western Development",
+      "shortName": "China Western",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_269",
+      "name": "Coordinated Development of the Beijing-Tianjin-Hebei Region",
+      "shortName": "Coordinated Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_270",
+      "name": "Guangdong–Hong Kong–Macau Greater Bay Area",
+      "shortName": "Guangdong–Hong Kong–Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_271",
+      "name": "Mainland and Macau Closer Economic Partnership Arrangement",
+      "shortName": "Mainland and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_272",
+      "name": "Northeast China Revitalization",
+      "shortName": "Northeast China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_273",
+      "name": "Pearl River Delta Economic Zone",
+      "shortName": "Pearl River",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_274",
+      "name": "Regional Comprehensive Economic Partnership",
+      "shortName": "Regional Comprehensive",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_275",
+      "name": "Rise of Central China Plan",
+      "shortName": "Rise of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_276",
+      "name": "Western Taiwan Straits Economic Zone",
+      "shortName": "Western Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_277",
+      "name": "Zhongyuan Economic Zone",
+      "shortName": "Zhongyuan Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_278",
+      "name": "2005–2011 property bubble",
+      "shortName": "2005–2011 property",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_279",
+      "name": "2007 export / pet food recalls",
+      "shortName": "2007 export",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_280",
+      "name": "2007 stock bubble",
+      "shortName": "2007 stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_281",
+      "name": "2007 slave scandal",
+      "shortName": "2007 slave",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_282",
+      "name": "2008–2009 economic stimulus plan",
+      "shortName": "2008–2009 economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_283",
+      "name": "2010 Expo",
+      "shortName": "2010 Expo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_284",
+      "name": "2015–16 stock market turbulence",
+      "shortName": "2015–16 stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_285",
+      "name": "Protein export contamination",
+      "shortName": "Protein export",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_286",
+      "name": "China–United States trade war",
+      "shortName": "China–United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_287",
+      "name": "2020–2021 reform spree",
+      "shortName": "2020–2021 reform",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_288",
+      "name": "2020–present property sector crisis",
+      "shortName": "2020–present property",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_289",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_290",
+      "name": "Bankruptcy",
+      "shortName": "Bankruptcy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_291",
+      "name": "Top 500",
+      "shortName": "Top 500",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_292",
+      "name": "Largest SOEs",
+      "shortName": "Largest SOEs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_293",
+      "name": "The Hongs",
+      "shortName": "The Hongs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_294",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_295",
+      "name": "National Standards",
+      "shortName": "National Standards",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_296",
+      "name": "China Compulsory Certificate",
+      "shortName": "China Compulsory",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_297",
+      "name": "Made in China",
+      "shortName": "Made in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_298",
+      "name": "Mingong",
+      "shortName": "Mingong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_299",
+      "name": "Chinese economists",
+      "shortName": "Chinese economists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_300",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_301",
+      "name": "See also:  Category",
+      "shortName": "See also:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_302",
+      "name": "Outline of China",
+      "shortName": "Outline of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_303",
+      "name": "Economy of East Asia",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_304",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_305",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_306",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_307",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_308",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_309",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_310",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_311",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_312",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_313",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_314",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_315",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_316",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_317",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_318",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_319",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_320",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_321",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_322",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_323",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_324",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_325",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_326",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_327",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_328",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_329",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_330",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_331",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_332",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_333",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_334",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_335",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_336",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_337",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_338",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_339",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_340",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_341",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_342",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_343",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_344",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_345",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_346",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_347",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_348",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_349",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_350",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_351",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_352",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_353",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_354",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_355",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_356",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_357",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_358",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_359",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_360",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_361",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_362",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_363",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_364",
+      "name": "Banks of China",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_365",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_366",
+      "name": "Lists of companies of China",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_367",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_368",
+      "name": "CS1 uses Chinese-language script (zh)",
+      "shortName": "CS1 uses",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_369",
+      "name": "CS1 Chinese-language sources (zh)",
+      "shortName": "CS1 Chinese-language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_370",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_371",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_372",
+      "name": "Articles needing additional references from June 2021",
+      "shortName": "Articles needing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_373",
+      "name": "All articles needing additional references",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_374",
+      "name": "All articles with unsourced statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_375",
+      "name": "Articles with unsourced statements from June 2021",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_376",
+      "name": "Articles containing Chinese-language text",
+      "shortName": "Articles containing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_377",
+      "name": "Incomplete lists from June 2021",
+      "shortName": "Incomplete lists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_378",
+      "name": "Incomplete lists from January 2021",
+      "shortName": "Incomplete lists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_379",
+      "name": "Articles with unsourced statements from January 2021",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_380",
+      "name": "All articles with dead external links",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_381",
+      "name": "Articles with dead external links from December 2017",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_382",
+      "name": "Articles with permanently dead external links",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_383",
+      "name": "Agricultural Development Bank of China",
+      "shortName": "Agricultural Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_384",
+      "name": "中国农业发展银行",
+      "shortName": "中国农业发展银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_385",
+      "name": "China Development Bank",
+      "shortName": "China Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_386",
+      "name": "国家开发银行",
+      "shortName": "国家开发银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_387",
+      "name": "Exim Bank of China",
+      "shortName": "Exim",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_388",
+      "name": "中国进出口银行",
+      "shortName": "中国进出口银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_389",
+      "name": "Industrial and Commercial Bank of China*",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_390",
+      "name": "ICBC",
+      "shortName": "ICBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_391",
+      "name": "中国工商银行",
+      "shortName": "中国工商银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_392",
+      "name": "工行",
+      "shortName": "工行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_393",
+      "name": "China Construction Bank*",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_394",
+      "name": "CCB",
+      "shortName": "CCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_395",
+      "name": "中国建设银行",
+      "shortName": "中国建设银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_396",
+      "name": "建行",
+      "shortName": "建行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_397",
+      "name": "Bank of China*",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_398",
+      "name": "BOC",
+      "shortName": "BOC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_399",
+      "name": "中国银行",
+      "shortName": "中国银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_400",
+      "name": "中行",
+      "shortName": "中行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_401",
+      "name": "Agricultural Bank of China*",
+      "shortName": "Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_402",
+      "name": "ABC",
+      "shortName": "ABC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_403",
+      "name": "中国农业银行",
+      "shortName": "中国农业银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_404",
+      "name": "农行",
+      "shortName": "农行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_405",
+      "name": "Bank of Communications",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_406",
+      "name": "BOCOM",
+      "shortName": "BOCOM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_407",
+      "name": "交通银行",
+      "shortName": "交通银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_408",
+      "name": "交行",
+      "shortName": "交行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_409",
+      "name": "Postal Savings Bank of China",
+      "shortName": "Postal Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_410",
+      "name": "PSBC",
+      "shortName": "PSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_411",
+      "name": "中国邮政储蓄银行",
+      "shortName": "中国邮政储蓄银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_412",
+      "name": "邮储银行",
+      "shortName": "邮储银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_413",
+      "name": "China Merchants Bank",
+      "shortName": "China Merchants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_414",
+      "name": "招商银行",
+      "shortName": "招商银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_415",
+      "name": "Shenzhen",
+      "shortName": "Shenzhen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_416",
+      "name": "Shanghai Pudong Development Bank",
+      "shortName": "Shanghai Pudong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_417",
+      "name": "上海浦东发展银行",
+      "shortName": "上海浦东发展银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_418",
+      "name": "Industrial Bank",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_419",
+      "name": "兴业银行",
+      "shortName": "兴业银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_420",
+      "name": "Fuzhou",
+      "shortName": "Fuzhou",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_421",
+      "name": "China CITIC Bank",
+      "shortName": "China CITIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_422",
+      "name": "中信银行",
+      "shortName": "中信银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_423",
+      "name": "China Minsheng Bank",
+      "shortName": "China Minsheng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_424",
+      "name": "中国民生银行",
+      "shortName": "中国民生银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_425",
+      "name": "China Everbright Bank",
+      "shortName": "China Everbright",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_426",
+      "name": "中国光大银行",
+      "shortName": "中国光大银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_427",
+      "name": "Ping An Bank",
+      "shortName": "Ping An",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_428",
+      "name": "平安银行",
+      "shortName": "平安银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_429",
+      "name": "Huaxia Bank",
+      "shortName": "Huaxia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_430",
+      "name": "华夏银行",
+      "shortName": "华夏银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_431",
+      "name": "China Guangfa Bank",
+      "shortName": "China Guangfa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_432",
+      "name": "广发银行",
+      "shortName": "广发银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_433",
+      "name": "Guangzhou",
+      "shortName": "Guangzhou",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_434",
+      "name": "China Zheshang Bank",
+      "shortName": "China Zheshang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_435",
+      "name": "浙商银行",
+      "shortName": "浙商银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_436",
+      "name": "China Bohai Bank",
+      "shortName": "China Bohai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_437",
+      "name": "渤海银行",
+      "shortName": "渤海银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_438",
+      "name": "Hengfeng Bank / Evergrowing Bank",
+      "shortName": "Hengfeng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_439",
+      "name": "恒丰银行",
+      "shortName": "恒丰银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_440",
+      "name": "Yantai",
+      "shortName": "Yantai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_441",
+      "name": "Bank of Beijing",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_442",
+      "name": "北京银行",
+      "shortName": "北京银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_443",
+      "name": "Bank of Hangzhou",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_444",
+      "name": "杭州银行",
+      "shortName": "杭州银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_445",
+      "name": "Bank of Jiangsu",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_446",
+      "name": "江苏银行",
+      "shortName": "江苏银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_447",
+      "name": "Bank of Ningbo",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_448",
+      "name": "宁波银行",
+      "shortName": "宁波银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_449",
+      "name": "Bank of Shanghai",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_450",
+      "name": "上海银行",
+      "shortName": "上海银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_451",
+      "name": "Bank of Tianjin",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_452",
+      "name": "天津银行",
+      "shortName": "天津银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_453",
+      "name": "Bank of Weifang",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_454",
+      "name": "潍坊银行",
+      "shortName": "潍坊银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_455",
+      "name": "Harbin Bank",
+      "shortName": "Harbin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_456",
+      "name": "哈尔滨银行",
+      "shortName": "哈尔滨银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_457",
+      "name": "Huishang Bank",
+      "shortName": "Huishang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_458",
+      "name": "徽商银行",
+      "shortName": "徽商银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_459",
+      "name": "Hefei",
+      "shortName": "Hefei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_460",
+      "name": "Shengjing Bank",
+      "shortName": "Shengjing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_461",
+      "name": "盛京银行",
+      "shortName": "盛京银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_462",
+      "name": "Shenyang",
+      "shortName": "Shenyang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_463",
+      "name": "Xiamen International Bank",
+      "shortName": "Xiamen International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_464",
+      "name": "厦门国际银行",
+      "shortName": "厦门国际银行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CN_465",
+      "name": "Xiamen",
+      "shortName": "Xiamen",
       "type": "bank",
       "aliases": ""
     }

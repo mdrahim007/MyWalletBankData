@@ -1,40 +1,859 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "EE",
   "institutions": [
     {
-      "code": "CENBEE",
-      "name": "Central Bank of EE",
-      "shortName": "Central Bank",
+      "code": "EE_0",
+      "name": "LHV Pank",
+      "shortName": "LHV Pank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBEE",
-      "name": "National Bank of EE",
-      "shortName": "National Bank",
+      "code": "EE_1",
+      "name": "Luminor Bank",
+      "shortName": "Luminor",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABEE",
-      "name": "State Bank of EE",
-      "shortName": "State Bank",
+      "code": "EE_2",
+      "name": "SEB Pank, a subsidiary of SEB Group",
+      "shortName": "SEB Pank,",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBEE",
-      "name": "Commercial Bank of EE",
-      "shortName": "Commercial Bank",
+      "code": "EE_3",
+      "name": "Bigbank AS",
+      "shortName": "Bigbank AS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBEE",
-      "name": "First EE Bank",
-      "shortName": "First Bank",
+      "code": "EE_4",
+      "name": "AS Inbank",
+      "shortName": "AS Inbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_5",
+      "name": "Coop Pank AS",
+      "shortName": "Coop Pank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_6",
+      "name": "Estonian branch of TF Bank&#160;&#91;sv&#93;",
+      "shortName": "Estonian branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_7",
+      "name": "Estonian Rural Credit Society&#160;&#91;et&#93; (1802-1940)",
+      "shortName": "Estonian Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_8",
+      "name": "Livonian Rural Credit Society&#160;&#91;et&#93; (1802-1920)",
+      "shortName": "Livonian Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_9",
+      "name": "Livonian Farmers' Rent Bank&#160;&#91;et&#93; (1850-1911?)",
+      "shortName": "Livonian Farmers'",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_10",
+      "name": "Bank of Tartu&#160;&#91;et&#93; (1868-1940)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_11",
+      "name": "Estonian Mortgage Bank&#160;&#91;et&#93; (1884-1944)",
+      "shortName": "Estonian Mortgage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_12",
+      "name": "G. Scheel &amp; Co&#160;&#91;et&#93; (1884-1940)",
+      "shortName": "G. Scheel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_13",
+      "name": "Tallinn Credit Bank&#160;&#91;et&#93; (1906-1920)",
+      "shortName": "Tallinn Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_14",
+      "name": "Bank of Pärnu&#160;&#91;et&#93; (1907-1920)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_15",
+      "name": "Kullamaa Cooperative Bank&#160;&#91;et&#93; (1910-1944)",
+      "shortName": "Kullamaa Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_16",
+      "name": "Tallinn City Bank&#160;&#91;et&#93; (1915-1940)",
+      "shortName": "Tallinn City",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_17",
+      "name": "Bank of Harju&#160;&#91;et&#93; (1919-1925)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_18",
+      "name": "Bank of Põhja&#160;&#91;et&#93; (1919-1927)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_19",
+      "name": "Estonian Loan Bank&#160;&#91;et&#93; (1920-1940)",
+      "shortName": "Estonian Loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_20",
+      "name": "Estonian People's Bank&#160;&#91;et&#93; (1920-1940)",
+      "shortName": "Estonian People's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_21",
+      "name": "Bank of Kauba&#160;&#91;et&#93; (1920-1940)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_22",
+      "name": "Tartu Jewish Cooperative Bank&#160;&#91;et&#93; (1922-1941)",
+      "shortName": "Tartu Jewish",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_23",
+      "name": "Tartu Homeowners' Bank&#160;&#91;et&#93; (1922-1940)",
+      "shortName": "Tartu Homeowners'",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_24",
+      "name": "Bank of Võru&#160;&#91;et&#93; (1922-1940)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_25",
+      "name": "Tallinn Homeowners' Bank&#160;&#91;et&#93; (1924-1940)",
+      "shortName": "Tallinn Homeowners'",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_26",
+      "name": "Farmers' Cooperative Bank&#160;&#91;et&#93; (1925-1940)",
+      "shortName": "Farmers' Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_27",
+      "name": "Estonian Land Bank&#160;&#91;et&#93; (1926–1940)",
+      "shortName": "Estonian Land",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_28",
+      "name": "Nõmme Homeowners' Bank&#160;&#91;et&#93; (1927-1940)",
+      "shortName": "Nõmme Homeowners'",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_29",
+      "name": "Tartu City Bank&#160;&#91;et&#93; (1927-1940)",
+      "shortName": "Tartu City",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_30",
+      "name": "Farmers' Central Bank&#160;&#91;et&#93; (1928-1940)",
+      "shortName": "Farmers' Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_31",
+      "name": "Estonian Agricultural Bank&#160;&#91;et&#93; (1929-1940)",
+      "shortName": "Estonian Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_32",
+      "name": "Tartu Trade Bank&#160;&#91;et&#93; (1988-1994)",
+      "shortName": "Tartu Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_33",
+      "name": "EVEA Pank&#160;&#91;et&#93; (1989-1999)",
+      "shortName": "EVEA Pank&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_34",
+      "name": "Second Estonian Land Bank&#160;&#91;et&#93; (1990-1998)",
+      "shortName": "Second Estonian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_35",
+      "name": "Baltic Cooperative Bank&#160;&#91;et&#93; (1991-1993)",
+      "shortName": "Baltic Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_36",
+      "name": "Estonian Social Bank&#160;&#91;et&#93; (1991-1995)",
+      "shortName": "Estonian Social",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_37",
+      "name": "ERA Pank&#160;&#91;et&#93; (1991-1999)",
+      "shortName": "ERA Pank&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_38",
+      "name": "Otepää Cooperative Bank&#160;&#91;et&#93; (1991-1993)",
+      "shortName": "Otepää Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_39",
+      "name": "Revalia Pank&#160;&#91;et&#93; (1991-1994)",
+      "shortName": "Revalia Pank&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_40",
+      "name": "TBB Pank (1991-2025)",
+      "shortName": "TBB Pank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_41",
+      "name": "American Baltic Bank&#160;&#91;et&#93; (1992-1996)",
+      "shortName": "American Baltic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_42",
+      "name": "Estonian Savings Banks (1992-1998)",
+      "shortName": "Estonian Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_43",
+      "name": "Estonian Investment Bank&#160;&#91;et&#93; (1992-1998)",
+      "shortName": "Estonian Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_44",
+      "name": "Hansabank (1992-2008)",
+      "shortName": "Hansabank (1992-2008)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_45",
+      "name": "Nowe Pank&#160;&#91;et&#93; (1992-1995)",
+      "shortName": "Nowe Pank&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_46",
+      "name": "Bank of Tallinn&#160;&#91;et&#93; (1992-1998)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_47",
+      "name": "North Estonian Bank&#160;&#91;et&#93; (1993-1997)",
+      "shortName": "North Estonian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_48",
+      "name": "Raepank&#160;&#91;et&#93; (1993-1995)",
+      "shortName": "Raepank&#160;&#91;et&#93; (1993-1995)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_49",
+      "name": "INKO Balti Pank&#160;&#91;et&#93; (1994-1997)",
+      "shortName": "INKO Balti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_50",
+      "name": "Nordea Bank Estonia&#160;&#91;et&#93; (1995-2017)",
+      "shortName": "Nordea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_51",
+      "name": "Optiva Pank&#160;&#91;et&#93; (1999-2000)",
+      "shortName": "Optiva Pank&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_52",
+      "name": "Versobank AS&#160;&#91;et&#93; (1999-2018)",
+      "shortName": "Versobank AS&#160;&#91;et&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_53",
+      "name": "DNB Bank Estonia&#160;&#91;et&#93; (2006-2017)",
+      "shortName": "DNB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_54",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_55",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_56",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_57",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_58",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_59",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_60",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_61",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_62",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_63",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_64",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_65",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_66",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_67",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_68",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_69",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_70",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_71",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_72",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_73",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_74",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_75",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_76",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_77",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_78",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_79",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_80",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_81",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_82",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_83",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_84",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_85",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_86",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_87",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_88",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_89",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_90",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_91",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_92",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_93",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_94",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_95",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_96",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_97",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_98",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_99",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_100",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_101",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_102",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_103",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_104",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_105",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_106",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_107",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_108",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_109",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_110",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_111",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_112",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_113",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_114",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_115",
+      "name": "Banks of Estonia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_116",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_117",
+      "name": "Lists of companies of Estonia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_118",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_119",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_120",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_121",
+      "name": "Articles containing Estonian-language text",
+      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

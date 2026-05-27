@@ -1,40 +1,866 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "AD",
   "institutions": [
     {
-      "code": "CENBAD",
-      "name": "Central Bank of AD",
-      "shortName": "Central Bank",
+      "code": "AD_0",
+      "name": "Andbank",
+      "shortName": "Andbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAD",
-      "name": "National Bank of AD",
-      "shortName": "National Bank",
+      "code": "AD_1",
+      "name": "Banc Sabadell d'Andorra ('A)",
+      "shortName": "Banc Sabadell",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAD",
-      "name": "State Bank of AD",
-      "shortName": "State Bank",
+      "code": "AD_2",
+      "name": "Banca Privada d'Andorra (BPA), under resolution.",
+      "shortName": "Banca Privada",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAD",
-      "name": "Commercial Bank of AD",
-      "shortName": "Commercial Bank",
+      "code": "AD_3",
+      "name": "Creand",
+      "shortName": "Creand",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAD",
-      "name": "First AD Bank",
-      "shortName": "First Bank",
+      "code": "AD_4",
+      "name": "MoraBanc&#160;&#91;fr&#93;",
+      "shortName": "MoraBanc&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_5",
+      "name": "Mora Banc Grup",
+      "shortName": "Mora Banc",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_6",
+      "name": "County of Urgell",
+      "shortName": "County of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_7",
+      "name": "Paréage",
+      "shortName": "Paréage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_8",
+      "name": "Principality of Catalonia",
+      "shortName": "Principality of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_9",
+      "name": "Revolution",
+      "shortName": "Revolution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_10",
+      "name": "Cities and villages",
+      "shortName": "Cities and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_11",
+      "name": "Environment",
+      "shortName": "Environment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_12",
+      "name": "Geology",
+      "shortName": "Geology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_13",
+      "name": "Iberian Peninsula",
+      "shortName": "Iberian Peninsula",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_14",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_15",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_16",
+      "name": "Parishes",
+      "shortName": "Parishes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_17",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_18",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_19",
+      "name": "Representatives",
+      "shortName": "Representatives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_20",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_21",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_22",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_23",
+      "name": "Heads of government",
+      "shortName": "Heads of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_24",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_25",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_26",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_27",
+      "name": "Supreme court",
+      "shortName": "Supreme court",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_28",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_29",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_30",
+      "name": "Euro",
+      "shortName": "Euro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_31",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_32",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_33",
+      "name": "Arts",
+      "shortName": "Arts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_34",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_35",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_36",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_37",
+      "name": "Ethnic groups",
+      "shortName": "Ethnic groups",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_38",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_39",
+      "name": "History",
+      "shortName": "History",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_40",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_41",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_42",
+      "name": "People",
+      "shortName": "People",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_43",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_44",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_45",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_46",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_47",
+      "name": ".ad",
+      "shortName": ".ad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_48",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_49",
+      "name": "Index",
+      "shortName": "Index",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_50",
+      "name": "Bibliography",
+      "shortName": "Bibliography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_51",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_52",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_53",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_54",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_55",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_56",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_57",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_58",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_59",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_60",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_61",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_62",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_63",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_64",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_65",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_66",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_67",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_68",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_69",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_70",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_71",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_72",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_73",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_74",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_75",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_76",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_77",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_78",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_79",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_80",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_81",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_82",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_83",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_84",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_85",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_86",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_87",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_88",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_89",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_90",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_91",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_92",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_93",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_94",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_95",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_96",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_97",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_98",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_99",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_100",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_101",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_102",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_103",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_104",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_105",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_106",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_107",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_108",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_109",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_110",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_111",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_112",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_113",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_114",
+      "name": "Banks of Andorra",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_115",
+      "name": "Lists of companies of Andorra",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_116",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_117",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_118",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_119",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_120",
+      "name": "Articles needing additional references from April 2025",
+      "shortName": "Articles needing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_121",
+      "name": "All articles needing additional references",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AD_122",
+      "name": "Use dmy dates from April 2025",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

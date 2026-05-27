@@ -1,40 +1,775 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "IQ",
   "institutions": [
     {
-      "code": "CENBIQ",
-      "name": "Central Bank of IQ",
-      "shortName": "Central Bank",
+      "code": "IQ_0",
+      "name": "National Bank of Iraq: Central Bank of Iraq",
+      "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBIQ",
-      "name": "National Bank of IQ",
-      "shortName": "National Bank",
+      "code": "IQ_1",
+      "name": "Agricultural Cooperative Bank of Iraq",
+      "shortName": "Agricultural Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABIQ",
-      "name": "State Bank of IQ",
-      "shortName": "State Bank",
+      "code": "IQ_2",
+      "name": "Bank of Iraq",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBIQ",
-      "name": "Commercial Bank of IQ",
-      "shortName": "Commercial Bank",
+      "code": "IQ_3",
+      "name": "Industrial Bank of Iraq",
+      "shortName": "Industrial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBIQ",
-      "name": "First IQ Bank",
-      "shortName": "First Bank",
+      "code": "IQ_4",
+      "name": "Rafidain Bank",
+      "shortName": "Rafidain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_5",
+      "name": "Rasheed Bank",
+      "shortName": "Rasheed",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_6",
+      "name": "Real Estate Bank of Iraq",
+      "shortName": "Real Estate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_7",
+      "name": "Trade Bank of Iraq",
+      "shortName": "Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_8",
+      "name": "Al Janoob Islamic Bank",
+      "shortName": "Al Janoob",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_9",
+      "name": "Al Qurtas Islamic Bank for Investment and Finance (QIB)",
+      "shortName": "Al Qurtas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_10",
+      "name": "Albaraka Bank Turkey",
+      "shortName": "Albaraka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_11",
+      "name": "Ashur International Bank for Investment",
+      "shortName": "Ashur International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_12",
+      "name": "Babylon Bank",
+      "shortName": "Babylon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_13",
+      "name": "Bank Audi",
+      "shortName": "Bank Audi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_14",
+      "name": "Bank of Baghdad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_15",
+      "name": "Basrah International Bank for Investment",
+      "shortName": "Basrah International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_16",
+      "name": "Byblos Bank (Lebanese)&#91;1&#93;",
+      "shortName": "Byblos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_17",
+      "name": "Commercial Bank of Iraq",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_18",
+      "name": "Credit Bank of Iraq",
+      "shortName": "Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_19",
+      "name": "Dar Es Salaam Investment Bank",
+      "shortName": "Dar Es",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_20",
+      "name": "Dijlah &amp; Furat Bank",
+      "shortName": "Dijlah &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_21",
+      "name": "Economy Bank Iraq",
+      "shortName": "Economy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_22",
+      "name": "ِElaf Islamic Bank",
+      "shortName": "ِElaf Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_23",
+      "name": "ALTAIF ISLAMIC BANK",
+      "shortName": "ALTAIF ISLAMIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_24",
+      "name": "FIRST IRAQI BANK",
+      "shortName": "FIRST IRAQI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_25",
+      "name": "Ghana Bank",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_26",
+      "name": "Gulf Commercial Bank",
+      "shortName": "Gulf Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_27",
+      "name": "Industrial Union Investment Bank",
+      "shortName": "Industrial Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_28",
+      "name": "International Development Bank of Iraq (IDB)",
+      "shortName": "International Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_29",
+      "name": "Investment Bank of Iraq",
+      "shortName": "Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_30",
+      "name": "Iraqi Middle East Investment Bank",
+      "shortName": "Iraqi Middle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_31",
+      "name": "Islamic Bank",
+      "shortName": "Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_32",
+      "name": "Kurdistan International Bank",
+      "shortName": "Kurdistan International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_33",
+      "name": "Mosul Bank",
+      "shortName": "Mosul",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_34",
+      "name": "North Bank",
+      "shortName": "North",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_35",
+      "name": "Region Trade Bank for Investment and Finance (RTB)",
+      "shortName": "Region Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_36",
+      "name": "Sumer Bank",
+      "shortName": "Sumer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_37",
+      "name": "Taawen Islamic Bank",
+      "shortName": "Taawen Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_38",
+      "name": "Union Bank of Iraq",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_39",
+      "name": "United Investment Bank",
+      "shortName": "United Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_40",
+      "name": "ِWorld Islamic Bank",
+      "shortName": "ِWorld Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_41",
+      "name": "Financial institutions operating in Iraq",
+      "shortName": "Financial institutions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_42",
+      "name": "Iraqi financial institutions News",
+      "shortName": "Iraqi financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_43",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_44",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_45",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_46",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_47",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_48",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_49",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_50",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_51",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_52",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_53",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_54",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_55",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_56",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_57",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_58",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_59",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_60",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_61",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_62",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_63",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_64",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_65",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_66",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_67",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_68",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_69",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_70",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_71",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_72",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_73",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_74",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_75",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_76",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_77",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_78",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_79",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_80",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_81",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_82",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_83",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_84",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_85",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_86",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_87",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_88",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_89",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_90",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_91",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_92",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_93",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_94",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_95",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_96",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_97",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_98",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_99",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_100",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_101",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_102",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_103",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_104",
+      "name": "Banks of Iraq",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_105",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_106",
+      "name": "Lists of companies of Iraq",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_107",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_108",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IQ_109",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

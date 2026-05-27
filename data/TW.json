@@ -1,40 +1,6109 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "TW",
   "institutions": [
     {
-      "code": "CENBTW",
-      "name": "Central Bank of TW",
-      "shortName": "Central Bank",
+      "code": "TW_0",
+      "name": "Central Bank of the Republic of China (Taiwan)",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTW",
-      "name": "National Bank of TW",
-      "shortName": "National Bank",
+      "code": "TW_1",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTW",
-      "name": "State Bank of TW",
-      "shortName": "State Bank",
+      "code": "TW_2",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTW",
-      "name": "Commercial Bank of TW",
-      "shortName": "Commercial Bank",
+      "code": "TW_3",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTW",
-      "name": "First TW Bank",
-      "shortName": "First Bank",
+      "code": "TW_4",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_5",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_6",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_7",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_8",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_9",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_10",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_11",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_12",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_13",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_14",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_15",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_16",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_17",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_18",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_19",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_20",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_21",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_22",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_23",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_24",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_25",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_26",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_27",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_28",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_29",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_30",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_31",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_32",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_33",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_34",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_35",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_36",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_37",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_38",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_39",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_40",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_41",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_42",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_43",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_44",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_45",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_46",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_47",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_48",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_49",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_50",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_51",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_52",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_53",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_54",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_55",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_56",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_57",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_58",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_59",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_60",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_61",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_62",
+      "name": "Guanbi policy",
+      "shortName": "Guanbi policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_63",
+      "name": "White Terror",
+      "shortName": "White Terror",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_64",
+      "name": "Martial law",
+      "shortName": "Martial law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_65",
+      "name": "Mandarin policy",
+      "shortName": "Mandarin policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_66",
+      "name": "Dang Guo",
+      "shortName": "Dang Guo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_67",
+      "name": "Taiwan Miracle",
+      "shortName": "Taiwan Miracle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_68",
+      "name": "Archaeological sites",
+      "shortName": "Archaeological sites",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_69",
+      "name": "Dutch Formosa",
+      "shortName": "Dutch Formosa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_70",
+      "name": "Early Chinese contact",
+      "shortName": "Early Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_71",
+      "name": "Economic history",
+      "shortName": "Economic history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_72",
+      "name": "Educational history",
+      "shortName": "Educational history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_73",
+      "name": "Historiography",
+      "shortName": "Historiography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_74",
+      "name": "Kingdom of Middag",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_75",
+      "name": "Kingdom of Tungning",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_76",
+      "name": "LGBTQ history",
+      "shortName": "LGBTQ history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_77",
+      "name": "Military history",
+      "shortName": "Military history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_78",
+      "name": "Prehistory",
+      "shortName": "Prehistory",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_79",
+      "name": "Spanish Formosa",
+      "shortName": "Spanish Formosa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_80",
+      "name": "Republic of Formosa",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_81",
+      "name": "Taiwan under Qing rule",
+      "shortName": "Taiwan under",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_82",
+      "name": "Taiwanese television history",
+      "shortName": "Taiwanese television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_83",
+      "name": "Timeline",
+      "shortName": "Timeline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_84",
+      "name": "Geography",
+      "shortName": "Geography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_85",
+      "name": "Beaches",
+      "shortName": "Beaches",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_86",
+      "name": "Cities",
+      "shortName": "Cities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_87",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_88",
+      "name": "Deforestation",
+      "shortName": "Deforestation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_89",
+      "name": "Earthquakes",
+      "shortName": "Earthquakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_90",
+      "name": "Endemic species / Protected species",
+      "shortName": "Endemic species",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_91",
+      "name": "Hot springs",
+      "shortName": "Hot springs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_92",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_93",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_94",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_95",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_96",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_97",
+      "name": "Scenic areas",
+      "shortName": "Scenic areas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_98",
+      "name": "Superlatives",
+      "shortName": "Superlatives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_99",
+      "name": "Urban planning",
+      "shortName": "Urban planning",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_100",
+      "name": "Volcanoes",
+      "shortName": "Volcanoes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_101",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_102",
+      "name": "Politics",
+      "shortName": "Politics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_103",
+      "name": "Economy",
+      "shortName": "Economy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_104",
+      "name": "Censorship",
+      "shortName": "Censorship",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_105",
+      "name": "Civil defense",
+      "shortName": "Civil defense",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_106",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_107",
+      "name": "Freedom of religion",
+      "shortName": "Freedom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_108",
+      "name": "Intelligence",
+      "shortName": "Intelligence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_109",
+      "name": "Law",
+      "shortName": "Law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_110",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_111",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_112",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_113",
+      "name": "Secretary-General",
+      "shortName": "Secretary-General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_114",
+      "name": "Vice President",
+      "shortName": "Vice President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_115",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_116",
+      "name": "Propaganda",
+      "shortName": "Propaganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_117",
+      "name": "Counties",
+      "shortName": "Counties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_118",
+      "name": "Metropolitan areas",
+      "shortName": "Metropolitan areas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_119",
+      "name": "Conscription",
+      "shortName": "Conscription",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_120",
+      "name": "Cross-Strait relations",
+      "shortName": "Cross-Strait relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_121",
+      "name": "Chinese nationalism",
+      "shortName": "Chinese nationalism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_122",
+      "name": "Chinese Taipei",
+      "shortName": "Chinese Taipei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_123",
+      "name": "De-Sinicization",
+      "shortName": "De-Sinicization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_124",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_125",
+      "name": "North–South divide",
+      "shortName": "North–South divide",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_126",
+      "name": "Opinion polling on Taiwanese identity",
+      "shortName": "Opinion polling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_127",
+      "name": "Chinese unification",
+      "shortName": "Chinese unification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_128",
+      "name": "One Country on Each Side",
+      "shortName": "One Country",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_129",
+      "name": "Special non-state-to-state relations",
+      "shortName": "Special non-state-to-state",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_130",
+      "name": "Two Chinas",
+      "shortName": "Two Chinas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_131",
+      "name": "Taiwan independence movement",
+      "shortName": "Taiwan independence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_132",
+      "name": "Taiwanese nationalism",
+      "shortName": "Taiwanese nationalism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_133",
+      "name": "Aerospace industry",
+      "shortName": "Aerospace industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_134",
+      "name": "Floriculture",
+      "shortName": "Floriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_135",
+      "name": "Automotive industry",
+      "shortName": "Automotive industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_136",
+      "name": "Central bank",
+      "shortName": "Central bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_137",
+      "name": "State-owned enterprises",
+      "shortName": "State-owned enterprises",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_138",
+      "name": "Construction industry",
+      "shortName": "Construction industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_139",
+      "name": "Defense industry",
+      "shortName": "Defense industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_140",
+      "name": "Dollar (currency)",
+      "shortName": "Dollar (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_141",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_142",
+      "name": "Exports",
+      "shortName": "Exports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_143",
+      "name": "Fishing",
+      "shortName": "Fishing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_144",
+      "name": "Forestry",
+      "shortName": "Forestry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_145",
+      "name": "FTAs",
+      "shortName": "FTAs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_146",
+      "name": "Labor movement",
+      "shortName": "Labor movement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_147",
+      "name": "Maritime industries",
+      "shortName": "Maritime industries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_148",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_149",
+      "name": "Pharmaceutical industry",
+      "shortName": "Pharmaceutical industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_150",
+      "name": "Semiconductor industry",
+      "shortName": "Semiconductor industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_151",
+      "name": "Steel",
+      "shortName": "Steel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_152",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_153",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_154",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_155",
+      "name": "Textile",
+      "shortName": "Textile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_156",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_157",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_158",
+      "name": "Uniform Invoice",
+      "shortName": "Uniform Invoice",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_159",
+      "name": "Water supply and sanitation",
+      "shortName": "Water supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_160",
+      "name": "National Symbols",
+      "shortName": "National Symbols",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_161",
+      "name": "People",
+      "shortName": "People",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_162",
+      "name": "Society",
+      "shortName": "Society",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_163",
+      "name": "Culture",
+      "shortName": "Culture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_164",
+      "name": "flag",
+      "shortName": "flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_165",
+      "name": "Emblem",
+      "shortName": "Emblem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_166",
+      "name": "proposed",
+      "shortName": "proposed",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_167",
+      "name": "Olympic",
+      "shortName": "Olympic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_168",
+      "name": "Flower",
+      "shortName": "Flower",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_169",
+      "name": "Seals",
+      "shortName": "Seals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_170",
+      "name": "America",
+      "shortName": "America",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_171",
+      "name": "Canada",
+      "shortName": "Canada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_172",
+      "name": "Taiwanese people",
+      "shortName": "Taiwanese people",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_173",
+      "name": "Hakkas",
+      "shortName": "Hakkas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_174",
+      "name": "Waishengren",
+      "shortName": "Waishengren",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_175",
+      "name": "New immigrants",
+      "shortName": "New immigrants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_176",
+      "name": "Atayal",
+      "shortName": "Atayal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_177",
+      "name": "Bunun",
+      "shortName": "Bunun",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_178",
+      "name": "Kanakanavu",
+      "shortName": "Kanakanavu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_179",
+      "name": "Kavalan",
+      "shortName": "Kavalan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_180",
+      "name": "Paiwan",
+      "shortName": "Paiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_181",
+      "name": "Puyuma",
+      "shortName": "Puyuma",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_182",
+      "name": "Rukai",
+      "shortName": "Rukai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_183",
+      "name": "Saaroa",
+      "shortName": "Saaroa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_184",
+      "name": "Saisiyat",
+      "shortName": "Saisiyat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_185",
+      "name": "Sakizaya",
+      "shortName": "Sakizaya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_186",
+      "name": "Seediq",
+      "shortName": "Seediq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_187",
+      "name": "Thao",
+      "shortName": "Thao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_188",
+      "name": "Tsou",
+      "shortName": "Tsou",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_189",
+      "name": "Yami",
+      "shortName": "Yami",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_190",
+      "name": "Taiwanese Hokkien",
+      "shortName": "Taiwanese Hokkien",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_191",
+      "name": "Hakka",
+      "shortName": "Hakka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_192",
+      "name": "Matsu dialect",
+      "shortName": "Matsu dialect",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_193",
+      "name": "Sign Language",
+      "shortName": "Sign Language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_194",
+      "name": "Braille",
+      "shortName": "Braille",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_195",
+      "name": "Actresses",
+      "shortName": "Actresses",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_196",
+      "name": "Architects",
+      "shortName": "Architects",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_197",
+      "name": "Artists",
+      "shortName": "Artists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_198",
+      "name": "Footballers",
+      "shortName": "Footballers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_199",
+      "name": "Magistrates and mayors",
+      "shortName": "Magistrates and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_200",
+      "name": "Mathematicians",
+      "shortName": "Mathematicians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_201",
+      "name": "Musicians",
+      "shortName": "Musicians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_202",
+      "name": "Olympic flagbearers",
+      "shortName": "Olympic flagbearers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_203",
+      "name": "Photographers",
+      "shortName": "Photographers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_204",
+      "name": "Scientists",
+      "shortName": "Scientists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_205",
+      "name": "Singers",
+      "shortName": "Singers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_206",
+      "name": "Taiwanese Americans",
+      "shortName": "Taiwanese Americans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_207",
+      "name": "Wealthiest",
+      "shortName": "Wealthiest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_208",
+      "name": "Writers",
+      "shortName": "Writers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_209",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_210",
+      "name": "Sex trafficking",
+      "shortName": "Sex trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_211",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_212",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_213",
+      "name": "International rankings",
+      "shortName": "International rankings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_214",
+      "name": "Inventions and discoveries",
+      "shortName": "Inventions and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_215",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_216",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_217",
+      "name": "Public housing",
+      "shortName": "Public housing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_218",
+      "name": "Standard of living",
+      "shortName": "Standard of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_219",
+      "name": "Squatting",
+      "shortName": "Squatting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_220",
+      "name": "Taiwan studies",
+      "shortName": "Taiwan studies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_221",
+      "name": "Waste management",
+      "shortName": "Waste management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_222",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_223",
+      "name": "Animation",
+      "shortName": "Animation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_224",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_225",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_226",
+      "name": "Dessert",
+      "shortName": "Dessert",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_227",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_228",
+      "name": "Whisky",
+      "shortName": "Whisky",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_229",
+      "name": "Dance",
+      "shortName": "Dance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_230",
+      "name": "2011 to 2020",
+      "shortName": "2011 to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_231",
+      "name": "2021 to present",
+      "shortName": "2021 to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_232",
+      "name": "Fashion",
+      "shortName": "Fashion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_233",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_234",
+      "name": "Folk beliefs",
+      "shortName": "Folk beliefs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_235",
+      "name": "Gambling",
+      "shortName": "Gambling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_236",
+      "name": "Glove puppetry",
+      "shortName": "Glove puppetry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_237",
+      "name": "Hunting",
+      "shortName": "Hunting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_238",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_239",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_240",
+      "name": "Pop music",
+      "shortName": "Pop music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_241",
+      "name": "Opera",
+      "shortName": "Opera",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_242",
+      "name": "Night markets",
+      "shortName": "Night markets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_243",
+      "name": "Performing arts",
+      "shortName": "Performing arts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_244",
+      "name": "Philosophy",
+      "shortName": "Philosophy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_245",
+      "name": "Photography",
+      "shortName": "Photography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_246",
+      "name": "Buddhism",
+      "shortName": "Buddhism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_247",
+      "name": "Christianity",
+      "shortName": "Christianity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_248",
+      "name": "Islam",
+      "shortName": "Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_249",
+      "name": "Judaism",
+      "shortName": "Judaism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_250",
+      "name": "Secularism",
+      "shortName": "Secularism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_251",
+      "name": "Shinto",
+      "shortName": "Shinto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_252",
+      "name": "Smoking",
+      "shortName": "Smoking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_253",
+      "name": "Football",
+      "shortName": "Football",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_254",
+      "name": "Surfing",
+      "shortName": "Surfing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_255",
+      "name": "T-Beauty",
+      "shortName": "T-Beauty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_256",
+      "name": "Taiwanese wave",
+      "shortName": "Taiwanese wave",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_257",
+      "name": "Tourist attractions",
+      "shortName": "Tourist attractions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_258",
+      "name": "Theater",
+      "shortName": "Theater",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_259",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_260",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_261",
+      "name": "Banks of Taiwan",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_262",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_263",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_264",
+      "name": "Lists of companies of Taiwan",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_265",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_266",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_267",
+      "name": "Articles needing additional references from January 2026",
+      "shortName": "Articles needing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_268",
+      "name": "All articles needing additional references",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_269",
+      "name": "Articles containing Chinese-language text",
+      "shortName": "Articles containing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_270",
+      "name": "Articles containing explicitly cited English-language text",
+      "shortName": "Articles containing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_271",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_272",
+      "name": "Bank of Taiwan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_273",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_274",
+      "name": "CTBC Bank",
+      "shortName": "CTBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_275",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_276",
+      "name": "Mega International Commercial Bank",
+      "shortName": "Mega International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_277",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_278",
+      "name": "Cathay United Bank",
+      "shortName": "Cathay United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_279",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_280",
+      "name": "Taipei Fubon Bank",
+      "shortName": "Taipei Fubon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_281",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_282",
+      "name": "First Commercial Bank",
+      "shortName": "First Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_283",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_284",
+      "name": "Taiwan Cooperative Bank",
+      "shortName": "Taiwan Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_285",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_286",
+      "name": "Esun Bank",
+      "shortName": "Esun",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_287",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_288",
+      "name": "Hua Nan Bank",
+      "shortName": "Hua Nan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_289",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_290",
+      "name": "Land Bank of Taiwan",
+      "shortName": "Land",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_291",
+      "name": "005",
+      "shortName": "005",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_292",
+      "name": "臺灣土地銀行",
+      "shortName": "臺灣土地銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_293",
+      "name": "1946",
+      "shortName": "1946",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_294",
+      "name": "LBOTTWTP",
+      "shortName": "LBOTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_295",
+      "name": "148",
+      "shortName": "148",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_296",
+      "name": "015",
+      "shortName": "015",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_297",
+      "name": "The Export-Import Bank of the Republic of China",
+      "shortName": "The Export-Import",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_298",
+      "name": "中國輸出入銀行",
+      "shortName": "中國輸出入銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_299",
+      "name": "1979",
+      "shortName": "1979",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_300",
+      "name": "EROCTWTP",
+      "shortName": "EROCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_301",
+      "name": "018",
+      "shortName": "018",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_302",
+      "name": "Agriculture Bank of Taiwan",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_303",
+      "name": "全國農業金庫",
+      "shortName": "全國農業金庫",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_304",
+      "name": "2005",
+      "shortName": "2005",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_305",
+      "name": "AGBTTWTP",
+      "shortName": "AGBTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_306",
+      "name": "NA",
+      "shortName": "NA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_307",
+      "name": "050",
+      "shortName": "050",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_308",
+      "name": "Taiwan Business Bank",
+      "shortName": "Taiwan Business",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_309",
+      "name": "臺灣中小企業銀行",
+      "shortName": "臺灣中小企業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_310",
+      "name": "1915",
+      "shortName": "1915",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_311",
+      "name": "MBBTTWTP",
+      "shortName": "MBBTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_312",
+      "name": "124",
+      "shortName": "124",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_313",
+      "name": "004",
+      "shortName": "004",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_314",
+      "name": "臺灣銀行",
+      "shortName": "臺灣銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_315",
+      "name": "1899",
+      "shortName": "1899",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_316",
+      "name": "BKTWTWTP",
+      "shortName": "BKTWTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_317",
+      "name": "163",
+      "shortName": "163",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_318",
+      "name": "22",
+      "shortName": "22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_319",
+      "name": "006",
+      "shortName": "006",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_320",
+      "name": "合作金庫商業銀行",
+      "shortName": "合作金庫商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_321",
+      "name": "TACBTWTP",
+      "shortName": "TACBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_322",
+      "name": "257",
+      "shortName": "257",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_323",
+      "name": "17",
+      "shortName": "17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_324",
+      "name": "007",
+      "shortName": "007",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_325",
+      "name": "第一商業銀行",
+      "shortName": "第一商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_326",
+      "name": "FCBKTWTP",
+      "shortName": "FCBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_327",
+      "name": "182",
+      "shortName": "182",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_328",
+      "name": "24",
+      "shortName": "24",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_329",
+      "name": "008",
+      "shortName": "008",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_330",
+      "name": "Hua Nan Commercial Bank",
+      "shortName": "Hua Nan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_331",
+      "name": "華南商業銀行",
+      "shortName": "華南商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_332",
+      "name": "1919",
+      "shortName": "1919",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_333",
+      "name": "HNBKTWTP",
+      "shortName": "HNBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_334",
+      "name": "185",
+      "shortName": "185",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_335",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_336",
+      "name": "009",
+      "shortName": "009",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_337",
+      "name": "Chang Hwa Commercial Bank",
+      "shortName": "Chang Hwa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_338",
+      "name": "彰化商業銀行",
+      "shortName": "彰化商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_339",
+      "name": "1905",
+      "shortName": "1905",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_340",
+      "name": "CCBCTWTP",
+      "shortName": "CCBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_341",
+      "name": "184",
+      "shortName": "184",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_342",
+      "name": "011",
+      "shortName": "011",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_343",
+      "name": "The Shanghai Commercial &amp; Savings Bank",
+      "shortName": "The Shanghai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_344",
+      "name": "上海商業儲蓄銀行",
+      "shortName": "上海商業儲蓄銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_345",
+      "name": "1954",
+      "shortName": "1954",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_346",
+      "name": "SCSBTWTP",
+      "shortName": "SCSBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_347",
+      "name": "73",
+      "shortName": "73",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_348",
+      "name": "012",
+      "shortName": "012",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_349",
+      "name": "Taipei Fubon Commercial Bank",
+      "shortName": "Taipei Fubon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_350",
+      "name": "台北富邦商業銀行",
+      "shortName": "台北富邦商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_351",
+      "name": "1969",
+      "shortName": "1969",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_352",
+      "name": "TPBKTWTP",
+      "shortName": "TPBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_353",
+      "name": "178",
+      "shortName": "178",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_354",
+      "name": "013",
+      "shortName": "013",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_355",
+      "name": "國泰世華商業銀行",
+      "shortName": "國泰世華商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_356",
+      "name": "1975",
+      "shortName": "1975",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_357",
+      "name": "UWCBTWTP",
+      "shortName": "UWCBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_358",
+      "name": "164",
+      "shortName": "164",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_359",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_360",
+      "name": "016",
+      "shortName": "016",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_361",
+      "name": "Bank of Kaohsiung",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_362",
+      "name": "高雄銀行",
+      "shortName": "高雄銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_363",
+      "name": "1982",
+      "shortName": "1982",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_364",
+      "name": "BKAOTWTK",
+      "shortName": "BKAOTWTK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_365",
+      "name": "35",
+      "shortName": "35",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_366",
+      "name": "0",
+      "shortName": "0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_367",
+      "name": "017",
+      "shortName": "017",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_368",
+      "name": "兆豐國際商業銀行",
+      "shortName": "兆豐國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_369",
+      "name": "2006",
+      "shortName": "2006",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_370",
+      "name": "ICBCTWTP",
+      "shortName": "ICBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_371",
+      "name": "107",
+      "shortName": "107",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_372",
+      "name": "26",
+      "shortName": "26",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_373",
+      "name": "021",
+      "shortName": "021",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_374",
+      "name": "Citibank Taiwan",
+      "shortName": "Citibank Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_375",
+      "name": "花旗（台灣）商業銀行",
+      "shortName": "花旗（台灣）商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_376",
+      "name": "2007",
+      "shortName": "2007",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_377",
+      "name": "CITITWTX",
+      "shortName": "CITITWTX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_378",
+      "name": "048",
+      "shortName": "048",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_379",
+      "name": "O-Bank",
+      "shortName": "O-Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_380",
+      "name": "王道商業銀行",
+      "shortName": "王道商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_381",
+      "name": "1999",
+      "shortName": "1999",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_382",
+      "name": "IBOTTWTP",
+      "shortName": "IBOTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_383",
+      "name": "052",
+      "shortName": "052",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_384",
+      "name": "Standard Chartered Bank (Taiwan)",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_385",
+      "name": "渣打國際商業銀行",
+      "shortName": "渣打國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_386",
+      "name": "1948",
+      "shortName": "1948",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_387",
+      "name": "SCBLTWTP",
+      "shortName": "SCBLTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_388",
+      "name": "51",
+      "shortName": "51",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_389",
+      "name": "053",
+      "shortName": "053",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_390",
+      "name": "Taichung Commercial Bank",
+      "shortName": "Taichung Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_391",
+      "name": "台中商業銀行",
+      "shortName": "台中商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_392",
+      "name": "1953",
+      "shortName": "1953",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_393",
+      "name": "TCBBTWTH",
+      "shortName": "TCBBTWTH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_394",
+      "name": "85",
+      "shortName": "85",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_395",
+      "name": "054",
+      "shortName": "054",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_396",
+      "name": "King's Town Bank",
+      "shortName": "King's Town",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_397",
+      "name": "京城商業銀行",
+      "shortName": "京城商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_398",
+      "name": "1951",
+      "shortName": "1951",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_399",
+      "name": "TNBBTWTN",
+      "shortName": "TNBBTWTN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_400",
+      "name": "65",
+      "shortName": "65",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_401",
+      "name": "081",
+      "shortName": "081",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_402",
+      "name": "HSBC Bank (Taiwan)",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_403",
+      "name": "滙豐（台灣）商業銀行",
+      "shortName": "滙豐（台灣）商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_404",
+      "name": "2010",
+      "shortName": "2010",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_405",
+      "name": "HSBCTWTP",
+      "shortName": "HSBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_406",
+      "name": "101",
+      "shortName": "101",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_407",
+      "name": "Taipei Star Bank",
+      "shortName": "Taipei Star",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_408",
+      "name": "瑞興商業銀行",
+      "shortName": "瑞興商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_409",
+      "name": "1917",
+      "shortName": "1917",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_410",
+      "name": "BOTPTWTP",
+      "shortName": "BOTPTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_411",
+      "name": "21",
+      "shortName": "21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_412",
+      "name": "102",
+      "shortName": "102",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_413",
+      "name": "Hwatai Bank",
+      "shortName": "Hwatai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_414",
+      "name": "華泰商業銀行",
+      "shortName": "華泰商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_415",
+      "name": "HTBKTWTP",
+      "shortName": "HTBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_416",
+      "name": "33",
+      "shortName": "33",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_417",
+      "name": "103",
+      "shortName": "103",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_418",
+      "name": "Shin Kong Commercial Bank",
+      "shortName": "Shin Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_419",
+      "name": "臺灣新光商業銀行",
+      "shortName": "臺灣新光商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_420",
+      "name": "1918",
+      "shortName": "1918",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_421",
+      "name": "MKTBTWTP",
+      "shortName": "MKTBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_422",
+      "name": "108",
+      "shortName": "108",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_423",
+      "name": "Sunny Bank",
+      "shortName": "Sunny",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_424",
+      "name": "陽信商業銀行",
+      "shortName": "陽信商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_425",
+      "name": "1957",
+      "shortName": "1957",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_426",
+      "name": "SUNYTWTP",
+      "shortName": "SUNYTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_427",
+      "name": "118",
+      "shortName": "118",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_428",
+      "name": "Bank of Panhsin",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_429",
+      "name": "板信商業銀行",
+      "shortName": "板信商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_430",
+      "name": "BBBKTWTP",
+      "shortName": "BBBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_431",
+      "name": "66",
+      "shortName": "66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_432",
+      "name": "147",
+      "shortName": "147",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_433",
+      "name": "COTA Commercial Bank",
+      "shortName": "COTA Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_434",
+      "name": "三信商業銀行",
+      "shortName": "三信商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_435",
+      "name": "1916",
+      "shortName": "1916",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_436",
+      "name": "COBKTWTP",
+      "shortName": "COBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_437",
+      "name": "31",
+      "shortName": "31",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_438",
+      "name": "803",
+      "shortName": "803",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_439",
+      "name": "Union Bank of Taiwan",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_440",
+      "name": "聯邦商業銀行",
+      "shortName": "聯邦商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_441",
+      "name": "1991",
+      "shortName": "1991",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_442",
+      "name": "UBOTTWTP",
+      "shortName": "UBOTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_443",
+      "name": "89",
+      "shortName": "89",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_444",
+      "name": "805",
+      "shortName": "805",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_445",
+      "name": "Far Eastern International Bank",
+      "shortName": "Far Eastern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_446",
+      "name": "遠東國際商業銀行",
+      "shortName": "遠東國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_447",
+      "name": "1992",
+      "shortName": "1992",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_448",
+      "name": "FEINTWTP",
+      "shortName": "FEINTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_449",
+      "name": "53",
+      "shortName": "53",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_450",
+      "name": "806",
+      "shortName": "806",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_451",
+      "name": "Yuanta Commercial Bank",
+      "shortName": "Yuanta Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_452",
+      "name": "元大商業銀行",
+      "shortName": "元大商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_453",
+      "name": "APBKTWTH",
+      "shortName": "APBKTWTH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_454",
+      "name": "807",
+      "shortName": "807",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_455",
+      "name": "Bank SinoPac",
+      "shortName": "Bank SinoPac",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_456",
+      "name": "永豐商業銀行",
+      "shortName": "永豐商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_457",
+      "name": "SINOTWTP",
+      "shortName": "SINOTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_458",
+      "name": "808",
+      "shortName": "808",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_459",
+      "name": "E.SUN Commercial Bank",
+      "shortName": "E.SUN Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_460",
+      "name": "玉山商業銀行",
+      "shortName": "玉山商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_461",
+      "name": "ESUNTWTP",
+      "shortName": "ESUNTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_462",
+      "name": "138",
+      "shortName": "138",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_463",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_464",
+      "name": "809",
+      "shortName": "809",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_465",
+      "name": "KGI Bank",
+      "shortName": "KGI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_466",
+      "name": "凱基商業銀行",
+      "shortName": "凱基商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_467",
+      "name": "CDIBTWTP",
+      "shortName": "CDIBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_468",
+      "name": "810",
+      "shortName": "810",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_469",
+      "name": "DBS Bank (Taiwan)",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_470",
+      "name": "星展（台灣）商業銀行",
+      "shortName": "星展（台灣）商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_471",
+      "name": "2011",
+      "shortName": "2011",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_472",
+      "name": "DBSSTWTP",
+      "shortName": "DBSSTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_473",
+      "name": "67",
+      "shortName": "67",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_474",
+      "name": "812",
+      "shortName": "812",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_475",
+      "name": "Taishin International Bank",
+      "shortName": "Taishin International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_476",
+      "name": "台新國際商業銀行",
+      "shortName": "台新國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_477",
+      "name": "TSIBTWTP",
+      "shortName": "TSIBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_478",
+      "name": "100",
+      "shortName": "100",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_479",
+      "name": "816",
+      "shortName": "816",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_480",
+      "name": "Entie Commercial Bank",
+      "shortName": "Entie Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_481",
+      "name": "安泰商業銀行",
+      "shortName": "安泰商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_482",
+      "name": "1993",
+      "shortName": "1993",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_483",
+      "name": "ENTITWTP",
+      "shortName": "ENTITWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_484",
+      "name": "49",
+      "shortName": "49",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_485",
+      "name": "822",
+      "shortName": "822",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_486",
+      "name": "中國信託商業銀行",
+      "shortName": "中國信託商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_487",
+      "name": "1966",
+      "shortName": "1966",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_488",
+      "name": "CTCBTWTP",
+      "shortName": "CTCBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_489",
+      "name": "154",
+      "shortName": "154",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_490",
+      "name": "19",
+      "shortName": "19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_491",
+      "name": "823",
+      "shortName": "823",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_492",
+      "name": "NEXT Bank",
+      "shortName": "NEXT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_493",
+      "name": "將來商業銀行",
+      "shortName": "將來商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_494",
+      "name": "2022",
+      "shortName": "2022",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_495",
+      "name": "NEXCTWTP",
+      "shortName": "NEXCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_496",
+      "name": "824",
+      "shortName": "824",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_497",
+      "name": "LINE Bank Taiwan",
+      "shortName": "LINE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_498",
+      "name": "連線商業銀行",
+      "shortName": "連線商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_499",
+      "name": "2021",
+      "shortName": "2021",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_500",
+      "name": "LITNTWTP",
+      "shortName": "LITNTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_501",
+      "name": "826",
+      "shortName": "826",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_502",
+      "name": "Rakuten Bank",
+      "shortName": "Rakuten",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_503",
+      "name": "樂天國際商業銀行",
+      "shortName": "樂天國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_504",
+      "name": "020",
+      "shortName": "020",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_505",
+      "name": "&#160;Japan",
+      "shortName": "&#160;Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_506",
+      "name": "Mizuho Bank",
+      "shortName": "Mizuho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_507",
+      "name": "1996",
+      "shortName": "1996",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_508",
+      "name": "MHCBTWTP",
+      "shortName": "MHCBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_509",
+      "name": "022",
+      "shortName": "022",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_510",
+      "name": "&#160;United States",
+      "shortName": "&#160;United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_511",
+      "name": "Bank of America",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_512",
+      "name": "1964",
+      "shortName": "1964",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_513",
+      "name": "BOFATW2X",
+      "shortName": "BOFATW2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_514",
+      "name": "-",
+      "shortName": "-",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_515",
+      "name": "023",
+      "shortName": "023",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_516",
+      "name": "&#160;Thailand",
+      "shortName": "&#160;Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_517",
+      "name": "Bangkok Bank",
+      "shortName": "Bangkok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_518",
+      "name": "1965",
+      "shortName": "1965",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_519",
+      "name": "BKKBTWTP",
+      "shortName": "BKKBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_520",
+      "name": "025",
+      "shortName": "025",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_521",
+      "name": "&#160;Philippines",
+      "shortName": "&#160;Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_522",
+      "name": "Metropolitan Bank and Trust Company",
+      "shortName": "Metropolitan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_523",
+      "name": "1970",
+      "shortName": "1970",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_524",
+      "name": "MBTCTWTP",
+      "shortName": "MBTCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_525",
+      "name": "028",
+      "shortName": "028",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_526",
+      "name": "The Bank of New York Mellon",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_527",
+      "name": "1972",
+      "shortName": "1972",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_528",
+      "name": "IRVTTWTX",
+      "shortName": "IRVTTWTX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_529",
+      "name": "Also known as Bank of New York.",
+      "shortName": "Also known",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_530",
+      "name": "029",
+      "shortName": "029",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_531",
+      "name": "&#160;Singapore",
+      "shortName": "&#160;Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_532",
+      "name": "United Overseas Bank",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_533",
+      "name": "1995",
+      "shortName": "1995",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_534",
+      "name": "UOVBTWTP",
+      "shortName": "UOVBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_535",
+      "name": "030",
+      "shortName": "030",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_536",
+      "name": "State Street Bank and Trust Company",
+      "shortName": "State Street",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_537",
+      "name": "SBOSTWTP",
+      "shortName": "SBOSTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_538",
+      "name": "037",
+      "shortName": "037",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_539",
+      "name": "&#160;France",
+      "shortName": "&#160;France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_540",
+      "name": "Société Générale",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_541",
+      "name": "1980",
+      "shortName": "1980",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_542",
+      "name": "SOGETWTP",
+      "shortName": "SOGETWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_543",
+      "name": "072",
+      "shortName": "072",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_544",
+      "name": "&#160;Germany",
+      "shortName": "&#160;Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_545",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_546",
+      "name": "DEUTTWTP",
+      "shortName": "DEUTTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_547",
+      "name": "075",
+      "shortName": "075",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_548",
+      "name": "&#160;Hong Kong",
+      "shortName": "&#160;Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_549",
+      "name": "The Bank of East Asia",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_550",
+      "name": "BEASTWTP",
+      "shortName": "BEASTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_551",
+      "name": "076",
+      "shortName": "076",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_552",
+      "name": "JPMorgan Chase Bank",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_553",
+      "name": "CHASTWTX",
+      "shortName": "CHASTWTX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_554",
+      "name": "078",
+      "shortName": "078",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_555",
+      "name": "DBS Bank",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_556",
+      "name": "082",
+      "shortName": "082",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_557",
+      "name": "BNP Paribas",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_558",
+      "name": "1983",
+      "shortName": "1983",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_559",
+      "name": "BNPATWTP",
+      "shortName": "BNPATWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_560",
+      "name": "083",
+      "shortName": "083",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_561",
+      "name": "&#160;United Kingdom",
+      "shortName": "&#160;United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_562",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_563",
+      "name": "1985",
+      "shortName": "1985",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_564",
+      "name": "SCBLTWTX",
+      "shortName": "SCBLTWTX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_565",
+      "name": "085",
+      "shortName": "085",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_566",
+      "name": "OCBC Bank",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_567",
+      "name": "1997",
+      "shortName": "1997",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_568",
+      "name": "OCBCTWTP",
+      "shortName": "OCBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_569",
+      "name": "086",
+      "shortName": "086",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_570",
+      "name": "Crédit Agricole Corporate and Investment Bank",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_571",
+      "name": "1987",
+      "shortName": "1987",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_572",
+      "name": "CRLYTWTP",
+      "shortName": "CRLYTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_573",
+      "name": "092",
+      "shortName": "092",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_574",
+      "name": "&#160;Switzerland",
+      "shortName": "&#160;Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_575",
+      "name": "UBS",
+      "shortName": "UBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_576",
+      "name": "1998",
+      "shortName": "1998",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_577",
+      "name": "UBSWTWTP",
+      "shortName": "UBSWTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_578",
+      "name": "093",
+      "shortName": "093",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_579",
+      "name": "&#160;Netherlands",
+      "shortName": "&#160;Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_580",
+      "name": "ING Bank",
+      "shortName": "ING",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_581",
+      "name": "INGBTWTP",
+      "shortName": "INGBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_582",
+      "name": "097",
+      "shortName": "097",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_583",
+      "name": "Wells Fargo Bank",
+      "shortName": "Wells Fargo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_584",
+      "name": "PNBPTWTP",
+      "shortName": "PNBPTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_585",
+      "name": "098",
+      "shortName": "098",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_586",
+      "name": "MUFG Bank",
+      "shortName": "MUFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_587",
+      "name": "BOTKTWTX",
+      "shortName": "BOTKTWTX",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_588",
+      "name": "Formerly Bank of Tokyo-Mitsubishi UFJ.",
+      "shortName": "Formerly",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_589",
+      "name": "321",
+      "shortName": "321",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_590",
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "shortName": "Sumitomo Mitsui",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_591",
+      "name": "2001",
+      "shortName": "2001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_592",
+      "name": "SMBCTWTP",
+      "shortName": "SMBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_593",
+      "name": "324",
+      "shortName": "324",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_594",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_595",
+      "name": "CITITWTP",
+      "shortName": "CITITWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_596",
+      "name": "325",
+      "shortName": "325",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_597",
+      "name": "HSBC Bank",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_598",
+      "name": "HSBCTW2P",
+      "shortName": "HSBCTW2P",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_599",
+      "name": "326",
+      "shortName": "326",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_600",
+      "name": "&#160;Spain",
+      "shortName": "&#160;Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_601",
+      "name": "BBVA",
+      "shortName": "BBVA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_602",
+      "name": "BBVATWTP",
+      "shortName": "BBVATWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_603",
+      "name": "328",
+      "shortName": "328",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_604",
+      "name": "Natixis",
+      "shortName": "Natixis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_605",
+      "name": "2016",
+      "shortName": "2016",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_606",
+      "name": "NATXTWTP",
+      "shortName": "NATXTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_607",
+      "name": "329",
+      "shortName": "329",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_608",
+      "name": "&#160;Indonesia",
+      "shortName": "&#160;Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_609",
+      "name": "Bank Rakyat Indonesia",
+      "shortName": "Bank Rakyat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_610",
+      "name": "BRINTWTP",
+      "shortName": "BRINTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_611",
+      "name": "330",
+      "shortName": "330",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_612",
+      "name": "&#160;South Korea",
+      "shortName": "&#160;South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_613",
+      "name": "KEB Hana Bank",
+      "shortName": "KEB Hana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_614",
+      "name": "KOEXTWTP",
+      "shortName": "KOEXTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_615",
+      "name": "R02",
+      "shortName": "R02",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_616",
+      "name": "&#160;Canada",
+      "shortName": "&#160;Canada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_617",
+      "name": "Bank of Montreal",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_618",
+      "name": "1989",
+      "shortName": "1989",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_619",
+      "name": "R05",
+      "shortName": "R05",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_620",
+      "name": "Commerzbank",
+      "shortName": "Commerzbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_621",
+      "name": "R12",
+      "shortName": "R12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_622",
+      "name": "Equitable PCI Bank",
+      "shortName": "Equitable PCI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_623",
+      "name": "2009",
+      "shortName": "2009",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_624",
+      "name": "Formerly Philippine Commercial International Bank.",
+      "shortName": "Formerly Philippine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_625",
+      "name": "R17",
+      "shortName": "R17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_626",
+      "name": "Hang Seng Bank",
+      "shortName": "Hang Seng",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_627",
+      "name": "2002",
+      "shortName": "2002",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_628",
+      "name": "R20",
+      "shortName": "R20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_629",
+      "name": "Cathay Bank",
+      "shortName": "Cathay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_630",
+      "name": "R25",
+      "shortName": "R25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_631",
+      "name": "&#160;Vietnam",
+      "shortName": "&#160;Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_632",
+      "name": "Bank for Investment and Development of Vietnam",
+      "shortName": "Bank for",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_633",
+      "name": "2015",
+      "shortName": "2015",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_634",
+      "name": "R26",
+      "shortName": "R26",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_635",
+      "name": "The Bank of Fukuoka",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_636",
+      "name": "R27",
+      "shortName": "R27",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_637",
+      "name": "The Akita Bank",
+      "shortName": "The Akita",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_638",
+      "name": "R28",
+      "shortName": "R28",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_639",
+      "name": "The Kagoshima Bank",
+      "shortName": "The Kagoshima",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_640",
+      "name": "2019",
+      "shortName": "2019",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_641",
+      "name": "R29",
+      "shortName": "R29",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_642",
+      "name": "The Higo Bank",
+      "shortName": "The Higo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_643",
+      "name": "2023",
+      "shortName": "2023",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_644",
+      "name": "380",
+      "shortName": "380",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_645",
+      "name": "Bank of China Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_646",
+      "name": "中國銀行",
+      "shortName": "中國銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_647",
+      "name": "2012",
+      "shortName": "2012",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_648",
+      "name": "BKCHTWTP",
+      "shortName": "BKCHTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_649",
+      "name": "The clearing bank for Renminbi in Taiwan.",
+      "shortName": "The clearing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_650",
+      "name": "381",
+      "shortName": "381",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_651",
+      "name": "Bank of Communications Co., Ltd.",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_652",
+      "name": "交通銀行",
+      "shortName": "交通銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_653",
+      "name": "COMMTWTP",
+      "shortName": "COMMTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_654",
+      "name": "382",
+      "shortName": "382",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_655",
+      "name": "China Construction Bank Corporation",
+      "shortName": "China Construction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_656",
+      "name": "中國建設銀行",
+      "shortName": "中國建設銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_657",
+      "name": "2013",
+      "shortName": "2013",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_658",
+      "name": "PCBCTWTP",
+      "shortName": "PCBCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_659",
+      "name": "China Merchants Bank Co., Ltd",
+      "shortName": "China Merchants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_660",
+      "name": "招商銀行",
+      "shortName": "招商銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_661",
+      "name": "CMBCCNBS",
+      "shortName": "CMBCCNBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_662",
+      "name": "Agricultural Bank of China Limited",
+      "shortName": "Agricultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_663",
+      "name": "中國農業銀行",
+      "shortName": "中國農業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_664",
+      "name": "ABOCCNBJ",
+      "shortName": "ABOCCNBJ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_665",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_666",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_667",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_668",
+      "name": "950,920",
+      "shortName": "950,920",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_669",
+      "name": "DBS Bank Taipei Branch",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_670",
+      "name": "208,413",
+      "shortName": "208,413",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_671",
+      "name": "20",
+      "shortName": "20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_672",
+      "name": "742,269",
+      "shortName": "742,269",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_673",
+      "name": "HSBC Bank Taipei Branch",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_674",
+      "name": "57,955",
+      "shortName": "57,955",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_675",
+      "name": "757,649",
+      "shortName": "757,649",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_676",
+      "name": "Standard Chartered Bank Taipei Branch",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_677",
+      "name": "28,851",
+      "shortName": "28,851",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_678",
+      "name": "25",
+      "shortName": "25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_679",
+      "name": "570,208",
+      "shortName": "570,208",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_680",
+      "name": "Citibank Taipei Branch",
+      "shortName": "Citibank Taipei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_681",
+      "name": "46,349",
+      "shortName": "46,349",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_682",
+      "name": "27",
+      "shortName": "27",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_683",
+      "name": "Mizuho Bank Taipei Branch",
+      "shortName": "Mizuho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_684",
+      "name": "28",
+      "shortName": "28",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_685",
+      "name": "Sumitomo Mitsui Banking Corporation Taipei Branch",
+      "shortName": "Sumitomo Mitsui",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_686",
+      "name": "29",
+      "shortName": "29",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_687",
+      "name": "30",
+      "shortName": "30",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_688",
+      "name": "32",
+      "shortName": "32",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_689",
+      "name": "34",
+      "shortName": "34",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_690",
+      "name": "MUFG Bank Taipei Branch",
+      "shortName": "MUFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_691",
+      "name": "36",
+      "shortName": "36",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_692",
+      "name": "Export-Import Bank of the Republic of China",
+      "shortName": "Export-Import",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_693",
+      "name": "37",
+      "shortName": "37",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_694",
+      "name": "BNP Paribas Taipei Branch",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_695",
+      "name": "38",
+      "shortName": "38",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_696",
+      "name": "39",
+      "shortName": "39",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_697",
+      "name": "Deutsche Bank Taipei Branch",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_698",
+      "name": "40",
+      "shortName": "40",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_699",
+      "name": "Crédit Agricole Corporate and Investment Bank Taipei Branch",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_700",
+      "name": "41",
+      "shortName": "41",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_701",
+      "name": "ANZ Bank Taipei Branch",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_702",
+      "name": "42",
+      "shortName": "42",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_703",
+      "name": "United Overseas Bank Taipei Branch",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_704",
+      "name": "43",
+      "shortName": "43",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_705",
+      "name": "UBS Taipei Branch",
+      "shortName": "UBS Taipei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_706",
+      "name": "44",
+      "shortName": "44",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_707",
+      "name": "ING Bank Taipei Branch",
+      "shortName": "ING",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_708",
+      "name": "45",
+      "shortName": "45",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_709",
+      "name": "OCBC Bank Taipei Branch",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_710",
+      "name": "46",
+      "shortName": "46",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_711",
+      "name": "Société Générale Taipei Branch",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_712",
+      "name": "47",
+      "shortName": "47",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_713",
+      "name": "48",
+      "shortName": "48",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_714",
+      "name": "Bank of America Taipei Branch",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_715",
+      "name": "JPMorgan Chase Bank Taipei Branch",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_716",
+      "name": "50",
+      "shortName": "50",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_717",
+      "name": "52",
+      "shortName": "52",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_718",
+      "name": "Rakuten International Commercial Bank",
+      "shortName": "Rakuten International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_719",
+      "name": "BBVA Taipei Branch",
+      "shortName": "BBVA Taipei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_720",
+      "name": "54",
+      "shortName": "54",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_721",
+      "name": "The Bank of East Asia Taipei Branch",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_722",
+      "name": "55",
+      "shortName": "55",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_723",
+      "name": "Bangkok Bank Taipei Branch",
+      "shortName": "Bangkok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_724",
+      "name": "56",
+      "shortName": "56",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_725",
+      "name": "Natixis Taipei Branch",
+      "shortName": "Natixis Taipei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_726",
+      "name": "57",
+      "shortName": "57",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_727",
+      "name": "State Street Bank and Trust Company Taipei Branch",
+      "shortName": "State Street",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_728",
+      "name": "58",
+      "shortName": "58",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_729",
+      "name": "Metropolitan Bank and Trust Company Taipei Branch",
+      "shortName": "Metropolitan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_730",
+      "name": "59",
+      "shortName": "59",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_731",
+      "name": "Bank Rakyat Indonesia Taipei Branch",
+      "shortName": "Bank Rakyat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_732",
+      "name": "60",
+      "shortName": "60",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_733",
+      "name": "The Bank of New York Mellon Taipei Branch",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_734",
+      "name": "61",
+      "shortName": "61",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_735",
+      "name": "KEB Hana Bank Taipei Branch",
+      "shortName": "KEB Hana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_736",
+      "name": "62",
+      "shortName": "62",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_737",
+      "name": "Wells Fargo Bank Taipei Branch",
+      "shortName": "Wells Fargo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_738",
+      "name": "001",
+      "shortName": "001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_739",
+      "name": "Central Trust of China",
+      "shortName": "Central Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_740",
+      "name": "中央信託局",
+      "shortName": "中央信託局",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_741",
+      "name": "1935",
+      "shortName": "1935",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_742",
+      "name": "CTOCTWTP",
+      "shortName": "CTOCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_743",
+      "name": "002",
+      "shortName": "002",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_744",
+      "name": "Farmers Bank of China",
+      "shortName": "Farmers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_745",
+      "name": "中國農民銀行",
+      "shortName": "中國農民銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_746",
+      "name": "1933",
+      "shortName": "1933",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_747",
+      "name": "FBOCTWTP",
+      "shortName": "FBOCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_748",
+      "name": "003",
+      "shortName": "003",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_749",
+      "name": "Bank of Communications (ROC)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_750",
+      "name": "1908",
+      "shortName": "1908",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_751",
+      "name": "BKCMTWTP",
+      "shortName": "BKCMTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_752",
+      "name": "010",
+      "shortName": "010",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_753",
+      "name": "Overseas Chinese Commercial Bank (Taiwan)",
+      "shortName": "Overseas Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_754",
+      "name": "華僑商業銀行",
+      "shortName": "華僑商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_755",
+      "name": "1961",
+      "shortName": "1961",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_756",
+      "name": "OCCBTWTP",
+      "shortName": "OCCBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_757",
+      "name": "039",
+      "shortName": "039",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_758",
+      "name": "ANZ Bank (Taiwan)",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_759",
+      "name": "澳盛（台灣）商業銀行",
+      "shortName": "澳盛（台灣）商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_760",
+      "name": "ANZBTWTP",
+      "shortName": "ANZBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_761",
+      "name": "040",
+      "shortName": "040",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_762",
+      "name": "China Development Industrial Bank",
+      "shortName": "China Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_763",
+      "name": "中華開發工業銀行",
+      "shortName": "中華開發工業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_764",
+      "name": "1959",
+      "shortName": "1959",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_765",
+      "name": "051",
+      "shortName": "051",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_766",
+      "name": "Taipei International Commercial Bank",
+      "shortName": "Taipei International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_767",
+      "name": "台北國際商業銀行",
+      "shortName": "台北國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_768",
+      "name": "TPBBTWTP",
+      "shortName": "TPBBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_769",
+      "name": "Hsinchu International Commercial Bank",
+      "shortName": "Hsinchu International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_770",
+      "name": "新竹國際商業銀行",
+      "shortName": "新竹國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_771",
+      "name": "1950",
+      "shortName": "1950",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_772",
+      "name": "HCBATWTP",
+      "shortName": "HCBATWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_773",
+      "name": "055",
+      "shortName": "055",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_774",
+      "name": "Kaohsiung District SME Bank",
+      "shortName": "Kaohsiung District",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_775",
+      "name": "高雄區中小企業銀行",
+      "shortName": "高雄區中小企業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_776",
+      "name": "056",
+      "shortName": "056",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_777",
+      "name": "Hualien District SME Bank",
+      "shortName": "Hualien District",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_778",
+      "name": "花蓮區中小企業銀行",
+      "shortName": "花蓮區中小企業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_779",
+      "name": "057",
+      "shortName": "057",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_780",
+      "name": "Taitung District SME Bank",
+      "shortName": "Taitung District",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_781",
+      "name": "台東區中小企業銀行",
+      "shortName": "台東區中小企業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_782",
+      "name": "1955",
+      "shortName": "1955",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_783",
+      "name": "150",
+      "shortName": "150",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_784",
+      "name": "Taiwan Shin Kong Commercial Bank (formerly Lianxin)",
+      "shortName": "Taiwan Shin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_785",
+      "name": "聯信商業銀行",
+      "shortName": "聯信商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_786",
+      "name": "2000",
+      "shortName": "2000",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_787",
+      "name": "151",
+      "shortName": "151",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_788",
+      "name": "Seventh Commercial Bank",
+      "shortName": "Seventh Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_789",
+      "name": "第七商業銀行",
+      "shortName": "第七商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_790",
+      "name": "OURBTWTP",
+      "shortName": "OURBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_791",
+      "name": "202",
+      "shortName": "202",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_792",
+      "name": "Gaoxin Commercial Bank",
+      "shortName": "Gaoxin Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_793",
+      "name": "高新商業銀行",
+      "shortName": "高新商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_794",
+      "name": "801",
+      "shortName": "801",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_795",
+      "name": "Wantong Commercial Bank",
+      "shortName": "Wantong Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_796",
+      "name": "萬通商業銀行",
+      "shortName": "萬通商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_797",
+      "name": "GCBKTWTP",
+      "shortName": "GCBKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_798",
+      "name": "802",
+      "shortName": "802",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_799",
+      "name": "Da An Commercial Bank",
+      "shortName": "Da An",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_800",
+      "name": "大安商業銀行",
+      "shortName": "大安商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_801",
+      "name": "804",
+      "shortName": "804",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_802",
+      "name": "China Commercial Bank",
+      "shortName": "China Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_803",
+      "name": "中華商業銀行",
+      "shortName": "中華商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_804",
+      "name": "NKAHTWTP",
+      "shortName": "NKAHTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_805",
+      "name": "Baohua Commercial Bank",
+      "shortName": "Baohua Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_806",
+      "name": "寶華商業銀行",
+      "shortName": "寶華商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_807",
+      "name": "PABKTWTP",
+      "shortName": "PABKTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_808",
+      "name": "811",
+      "shortName": "811",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_809",
+      "name": "Zhongxing Commercial Bank",
+      "shortName": "Zhongxing Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_810",
+      "name": "中興商業銀行",
+      "shortName": "中興商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_811",
+      "name": "813",
+      "shortName": "813",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_812",
+      "name": "Fubon Commercial Bank",
+      "shortName": "Fubon Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_813",
+      "name": "富邦商業銀行",
+      "shortName": "富邦商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_814",
+      "name": "814",
+      "shortName": "814",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_815",
+      "name": "Ta Chong Commercial Bank",
+      "shortName": "Ta Chong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_816",
+      "name": "大眾商業銀行",
+      "shortName": "大眾商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_817",
+      "name": "815",
+      "shortName": "815",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_818",
+      "name": "Jih Sun International Commercial Bank",
+      "shortName": "Jih Sun",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_819",
+      "name": "日盛國際商業銀行",
+      "shortName": "日盛國際商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_820",
+      "name": "JSIBTWTP",
+      "shortName": "JSIBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_821",
+      "name": "825",
+      "shortName": "825",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_822",
+      "name": "Qingfeng Commercial Bank",
+      "shortName": "Qingfeng Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_823",
+      "name": "慶豐商業銀行",
+      "shortName": "慶豐商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_824",
+      "name": "1971",
+      "shortName": "1971",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_825",
+      "name": "CFCBTWTP",
+      "shortName": "CFCBTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_826",
+      "name": "827",
+      "shortName": "827",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_827",
+      "name": "Cathay Commercial Bank",
+      "shortName": "Cathay Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_828",
+      "name": "國泰商業銀行",
+      "shortName": "國泰商業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_829",
+      "name": "Dai-Ichi Kangyo Bank",
+      "shortName": "Dai-Ichi Kangyo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_830",
+      "name": "第一勸業銀行",
+      "shortName": "第一勸業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_831",
+      "name": "ABN AMRO",
+      "shortName": "ABN AMRO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_832",
+      "name": "荷蘭銀行",
+      "shortName": "荷蘭銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_833",
+      "name": "095",
+      "shortName": "095",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_834",
+      "name": "Wachovia",
+      "shortName": "Wachovia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_835",
+      "name": "美聯銀行",
+      "shortName": "美聯銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_836",
+      "name": "024",
+      "shortName": "024",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_837",
+      "name": "American Express Bank",
+      "shortName": "American Express",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_838",
+      "name": "美國運通銀行",
+      "shortName": "美國運通銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_839",
+      "name": "099",
+      "shortName": "099",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_840",
+      "name": "KBC Bank (Belgium United Bank)",
+      "shortName": "KBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_841",
+      "name": "比利時聯合銀行",
+      "shortName": "比利時聯合銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_842",
+      "name": "1994",
+      "shortName": "1994",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_843",
+      "name": "027",
+      "shortName": "027",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_844",
+      "name": "Tokai Bank",
+      "shortName": "Tokai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_845",
+      "name": "東海銀行",
+      "shortName": "東海銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_846",
+      "name": "Sanwa Bank",
+      "shortName": "Sanwa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_847",
+      "name": "三和銀行",
+      "shortName": "三和銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_848",
+      "name": "079",
+      "shortName": "079",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_849",
+      "name": "Fortis Bank",
+      "shortName": "Fortis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_850",
+      "name": "富通銀行",
+      "shortName": "富通銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_851",
+      "name": "074",
+      "shortName": "074",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_852",
+      "name": "Bankers Trust",
+      "shortName": "Bankers Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_853",
+      "name": "信孚銀行",
+      "shortName": "信孚銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_854",
+      "name": "1981",
+      "shortName": "1981",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_855",
+      "name": "渣打銀行",
+      "shortName": "渣打銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_856",
+      "name": "327",
+      "shortName": "327",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_857",
+      "name": "ANZ Bank",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_858",
+      "name": "澳盛銀行",
+      "shortName": "澳盛銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_859",
+      "name": "087",
+      "shortName": "087",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_860",
+      "name": "Standard Bank of South Africa",
+      "shortName": "Standard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_861",
+      "name": "斐商標準銀行",
+      "shortName": "斐商標準銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_862",
+      "name": "SBZATWTP",
+      "shortName": "SBZATWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_863",
+      "name": "090",
+      "shortName": "090",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_864",
+      "name": "Bank of Nova Scotia",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_865",
+      "name": "加拿大商豐業銀行",
+      "shortName": "加拿大商豐業銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_866",
+      "name": "1990",
+      "shortName": "1990",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_867",
+      "name": "NOSCTWTP",
+      "shortName": "NOSCTWTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_868",
+      "name": "322",
+      "shortName": "322",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_869",
+      "name": "Barclays Bank",
+      "shortName": "Barclays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_870",
+      "name": "英商巴克萊銀行",
+      "shortName": "英商巴克萊銀行",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TW_871",
+      "name": "BARCTWTP",
+      "shortName": "BARCTWTP",
       "type": "bank",
       "aliases": ""
     }

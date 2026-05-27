@@ -1,40 +1,257 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "PT",
   "institutions": [
     {
-      "code": "CENBPT",
-      "name": "Central Bank of PT",
-      "shortName": "Central Bank",
+      "code": "PT_0",
+      "name": "Banco Comercial Português SA (BCP)",
+      "shortName": "Banco Comercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPT",
-      "name": "National Bank of PT",
-      "shortName": "National Bank",
+      "code": "PT_1",
+      "name": "Caixa Geral de Depósitos SA (CGD)",
+      "shortName": "Caixa Geral",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPT",
-      "name": "State Bank of PT",
-      "shortName": "State Bank",
+      "code": "PT_2",
+      "name": "LSF Nani Investments Sàrl, holding entity of Novo Banco",
+      "shortName": "LSF Nani",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPT",
-      "name": "Commercial Bank of PT",
-      "shortName": "Commercial Bank",
+      "code": "PT_3",
+      "name": "Caixa de Crédito Agrícola Mútuo de Bombarral CRL",
+      "shortName": "Caixa de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPT",
-      "name": "First PT Bank",
-      "shortName": "First Bank",
+      "code": "PT_4",
+      "name": "Caixa de Crédito Agrícola Mútuo da Chamusca CRL",
+      "shortName": "Caixa de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_5",
+      "name": "Caixa de Crédito Agrícola Mútuo de Leiria CRL",
+      "shortName": "Caixa de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_6",
+      "name": "Caixa de Crédito Agrícola Mútuo de Mafra CRL",
+      "shortName": "Caixa de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_7",
+      "name": "Caixa de Crédito Agrícola Mútuo de Torres Vedras CRL",
+      "shortName": "Caixa de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_8",
+      "name": "Banco de Investimento Global SA&#160;&#91;pt&#93;",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_9",
+      "name": "Banco Finantia SA&#160;&#91;pt&#93;",
+      "shortName": "Banco Finantia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_10",
+      "name": "Banco L.J. Carregosa SA&#160;&#91;pt&#93;",
+      "shortName": "Banco L.J.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_11",
+      "name": "Banco Português de Gestão SA",
+      "shortName": "Banco Português",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_12",
+      "name": "Bison Bank SA",
+      "shortName": "Bison",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_13",
+      "name": "Montepio Investimento SA, part of Montepio Group",
+      "shortName": "Montepio Investimento",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_14",
+      "name": "Itaú BBA Europe SA, subsidiary of Itaú Unibanco",
+      "shortName": "Itaú BBA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_15",
+      "name": "Crédito Predial Português (1863-2004)",
+      "shortName": "Crédito Predial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_16",
+      "name": "Banco Nacional Ultramarino (1864-2001)",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_17",
+      "name": "Banco Espírito Santo (1869-2016)",
+      "shortName": "Banco Espírito",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_18",
+      "name": "Banco da Régua&#160;&#91;pt&#93; (1874-1886)",
+      "shortName": "Banco da",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_19",
+      "name": "Banco Fernandes Magalhães&#160;&#91;pt&#93; (1905-1975)",
+      "shortName": "Banco Fernandes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_20",
+      "name": "Banco Português do Atlântico (1942-2000)",
+      "shortName": "Banco Português",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_21",
+      "name": "Banco Pinto de Magalhães&#160;&#91;pt&#93; (1952-1978)",
+      "shortName": "Banco Pinto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_22",
+      "name": "Banco Totta-Aliança&#160;&#91;pt&#93; (1961-1969)",
+      "shortName": "Banco Totta-Aliança&#160;&#91;pt&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_23",
+      "name": "Banco Totta &amp; Açores&#160;&#91;pt&#93; (1970-2004)",
+      "shortName": "Banco Totta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_24",
+      "name": "Banif Financial Group (1988-2015)",
+      "shortName": "Banif Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_25",
+      "name": "Banco Português de Negócios (1993-2008)",
+      "shortName": "Banco Português",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_26",
+      "name": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
+      "shortName": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_27",
+      "name": "Banco Privado Português (1996-2010)",
+      "shortName": "Banco Privado",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_28",
+      "name": "EuroBic&#160;&#91;pt&#93; (2008-2024)",
+      "shortName": "EuroBic&#160;&#91;pt&#93; (2008-2024)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_29",
+      "name": "Banks of Portugal",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_30",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_31",
+      "name": "Lists of companies of Portugal by industry",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_32",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_33",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_34",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PT_35",
+      "name": "Articles containing Portuguese-language text",
+      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

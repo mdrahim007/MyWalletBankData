@@ -1,40 +1,1202 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "IS",
   "institutions": [
     {
-      "code": "CENBIS",
-      "name": "Central Bank of IS",
-      "shortName": "Central Bank",
+      "code": "IS_0",
+      "name": "Central Bank of Iceland",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBIS",
-      "name": "National Bank of IS",
-      "shortName": "National Bank",
+      "code": "IS_1",
+      "name": "Arion Bank (formerly known as New Kaupthing)",
+      "shortName": "Arion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABIS",
-      "name": "State Bank of IS",
-      "shortName": "State Bank",
+      "code": "IS_2",
+      "name": "Íslandsbanki (formerly known as New Glitnir)",
+      "shortName": "Íslandsbanki (formerly",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBIS",
-      "name": "Commercial Bank of IS",
-      "shortName": "Commercial Bank",
+      "code": "IS_3",
+      "name": "Landsbankinn (formerly known as New Landsbanki)",
+      "shortName": "Landsbankinn (formerly",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBIS",
-      "name": "First IS Bank",
-      "shortName": "First Bank",
+      "code": "IS_4",
+      "name": "Kvika banki",
+      "shortName": "Kvika banki",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_5",
+      "name": "Askar Capital (privately owned)",
+      "shortName": "Askar Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_6",
+      "name": "Saga Investment Bank",
+      "shortName": "Saga Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_7",
+      "name": "Economy of Iceland",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_8",
+      "name": "Economic",
+      "shortName": "Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_9",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_10",
+      "name": "Nationality",
+      "shortName": "Nationality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_11",
+      "name": "Prohibition",
+      "shortName": "Prohibition",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_12",
+      "name": "Rulers",
+      "shortName": "Rulers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_13",
+      "name": "Settlement",
+      "shortName": "Settlement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_14",
+      "name": "Commonwealth",
+      "shortName": "Commonwealth",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_15",
+      "name": "Christianization",
+      "shortName": "Christianization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_16",
+      "name": "Aristocracy",
+      "shortName": "Aristocracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_17",
+      "name": "Sturlung Era",
+      "shortName": "Sturlung Era",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_18",
+      "name": "Reformation",
+      "shortName": "Reformation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_19",
+      "name": "Danish trade monopoly",
+      "shortName": "Danish trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_20",
+      "name": "Independence Movement",
+      "shortName": "Independence Movement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_21",
+      "name": "Kingdom",
+      "shortName": "Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_22",
+      "name": "World War II",
+      "shortName": "World War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_23",
+      "name": "Invasion (Occupation)",
+      "shortName": "Invasion (Occupation)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_24",
+      "name": "Cold War",
+      "shortName": "Cold War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_25",
+      "name": "Cod Wars",
+      "shortName": "Cod Wars",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_26",
+      "name": "2008–2011 financial crisis",
+      "shortName": "2008–2011 financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_27",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_28",
+      "name": "Earthquakes",
+      "shortName": "Earthquakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_29",
+      "name": "Extreme points",
+      "shortName": "Extreme points",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_30",
+      "name": "Fjords",
+      "shortName": "Fjords",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_31",
+      "name": "Forests",
+      "shortName": "Forests",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_32",
+      "name": "Geology",
+      "shortName": "Geology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_33",
+      "name": "Glaciers",
+      "shortName": "Glaciers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_34",
+      "name": "Highlands",
+      "shortName": "Highlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_35",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_36",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_37",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_38",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_39",
+      "name": "Valleys",
+      "shortName": "Valleys",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_40",
+      "name": "Volcanoes",
+      "shortName": "Volcanoes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_41",
+      "name": "Waterfalls",
+      "shortName": "Waterfalls",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_42",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_43",
+      "name": "Constituencies",
+      "shortName": "Constituencies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_44",
+      "name": "Counties",
+      "shortName": "Counties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_45",
+      "name": "Farthings",
+      "shortName": "Farthings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_46",
+      "name": "Localities",
+      "shortName": "Localities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_47",
+      "name": "Municipalities",
+      "shortName": "Municipalities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_48",
+      "name": "Regions",
+      "shortName": "Regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_49",
+      "name": "Administrative divisions",
+      "shortName": "Administrative divisions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_50",
+      "name": "Cabinet",
+      "shortName": "Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_51",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_52",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_53",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_54",
+      "name": "Human rights",
+      "shortName": "Human rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_55",
+      "name": "Law",
+      "shortName": "Law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_56",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_57",
+      "name": "LGBT rights",
+      "shortName": "LGBT rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_58",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_59",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_60",
+      "name": "President",
+      "shortName": "President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_61",
+      "name": "Prime Minister",
+      "shortName": "Prime Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_62",
+      "name": "Supreme Court",
+      "shortName": "Supreme Court",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_63",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_64",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_65",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_66",
+      "name": "Króna (currency)",
+      "shortName": "Króna (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_67",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_68",
+      "name": "Nasdaq Iceland",
+      "shortName": "Nasdaq Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_69",
+      "name": "Nordic model",
+      "shortName": "Nordic model",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_70",
+      "name": "Outvasion",
+      "shortName": "Outvasion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_71",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_72",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_73",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_74",
+      "name": "Abortion",
+      "shortName": "Abortion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_75",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_76",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_77",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_78",
+      "name": "Icelanders",
+      "shortName": "Icelanders",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_79",
+      "name": "Icelandic language",
+      "shortName": "Icelandic language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_80",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_81",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_82",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_83",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_84",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_85",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_86",
+      "name": "Chess",
+      "shortName": "Chess",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_87",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_88",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_89",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_90",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_91",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_92",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_93",
+      "name": "Mass media",
+      "shortName": "Mass media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_94",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_95",
+      "name": "Names",
+      "shortName": "Names",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_96",
+      "name": "National costume",
+      "shortName": "National costume",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_97",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_98",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_99",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_100",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_101",
+      "name": "Index",
+      "shortName": "Index",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_102",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_103",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_104",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_105",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_106",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_107",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_108",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_109",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_110",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_111",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_112",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_113",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_114",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_115",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_116",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_117",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_118",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_119",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_120",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_121",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_122",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_123",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_124",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_125",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_126",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_127",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_128",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_129",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_130",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_131",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_132",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_133",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_134",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_135",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_136",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_137",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_138",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_139",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_140",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_141",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_142",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_143",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_144",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_145",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_146",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_147",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_148",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_149",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_150",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_151",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_152",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_153",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_154",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_155",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_156",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_157",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_158",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_159",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_160",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_161",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_162",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_163",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_164",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_165",
+      "name": "Banks of Iceland",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_166",
+      "name": "Lists of companies of Iceland",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_167",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_168",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_169",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IS_170",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,1741 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "PK",
   "institutions": [
     {
-      "code": "CENBPK",
-      "name": "Central Bank of PK",
-      "shortName": "Central Bank",
+      "code": "PK_0",
+      "name": "Bank of Azad Jammu and Kashmir",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBPK",
-      "name": "National Bank of PK",
-      "shortName": "National Bank",
+      "code": "PK_1",
+      "name": "Habib Bank AG Zurich (Parent of HabibMetro)",
+      "shortName": "Habib",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABPK",
-      "name": "State Bank of PK",
-      "shortName": "State Bank",
+      "code": "PK_2",
+      "name": "Silkbank (Subsidiary of United Bank Limited)",
+      "shortName": "Silkbank (Subsidiary",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBPK",
-      "name": "Commercial Bank of PK",
-      "shortName": "Commercial Bank",
+      "code": "PK_3",
+      "name": "Meezan Bank Limited",
+      "shortName": "Meezan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBPK",
-      "name": "First PK Bank",
-      "shortName": "First Bank",
+      "code": "PK_4",
+      "name": "Soneri Mustaqeem Islamic Bank",
+      "shortName": "Soneri Mustaqeem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_5",
+      "name": "Dubai Islamic Bank",
+      "shortName": "Dubai Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_6",
+      "name": "Al Baraka Bank (Pakistan) Limited - Al Baraka Bank",
+      "shortName": "Al Baraka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_7",
+      "name": "Bank Alfalah Islamic",
+      "shortName": "Bank Alfalah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_8",
+      "name": "Bank Makramah Limited (BML)",
+      "shortName": "Bank Makramah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_9",
+      "name": "BankIslami Pakistan Limited",
+      "shortName": "BankIslami Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_10",
+      "name": "Askari Bank Limited",
+      "shortName": "Askari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_11",
+      "name": "MCB Islamic Banking",
+      "shortName": "MCB Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_12",
+      "name": "UBL Islamic Banking",
+      "shortName": "UBL Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_13",
+      "name": "HBL Islamic Banking",
+      "shortName": "HBL Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_14",
+      "name": "NBP Islamic Banking",
+      "shortName": "NBP Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_15",
+      "name": "Bank Al Habib Islamic Banking",
+      "shortName": "Bank Al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_16",
+      "name": "Bank of Punjab Islamic Banking",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_17",
+      "name": "Faysal Bank (Islamic)",
+      "shortName": "Faysal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_18",
+      "name": "HabibMetro (Sirat Islamic Banking)",
+      "shortName": "HabibMetro (Sirat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_19",
+      "name": "Silk Bank (Emaan Islamic Banking)",
+      "shortName": "Silk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_20",
+      "name": "Bank Of Khyber (Islamic Window)",
+      "shortName": "Bank Of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_21",
+      "name": "Deutsche Bank AG (Deutsche Bank Pakistan)",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_22",
+      "name": "Citibank, N.A. (CitiBank, N.A., Pakistan)",
+      "shortName": "Citibank, N.A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_23",
+      "name": "Bank of China&#91;4&#93; (Bank of China Pakistan Branch)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_24",
+      "name": "The Hong Kong and Shanghai Bank (HSBC Bank Pakistan)",
+      "shortName": "The Hong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_25",
+      "name": "The Bank of Tokyo-Mitsubishi UFJ (MUFG Bank Pakistan)",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_26",
+      "name": "Standard Chartered Bank (Standard Chartered Bank Pakistan)",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_27",
+      "name": "House Building Finance Company",
+      "shortName": "House Building",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_28",
+      "name": "National Credit Guarantee Company",
+      "shortName": "National Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_29",
+      "name": "Banking in Pakistan",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_30",
+      "name": "Defunct banks of Pakistan",
+      "shortName": "Defunct banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_31",
+      "name": "Economy of Pakistan",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_32",
+      "name": "Index of the Karachi Stock Exchange",
+      "shortName": "Index of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_33",
+      "name": "Islamic banking",
+      "shortName": "Islamic banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_34",
+      "name": "SBP Members Financial Institutions List",
+      "shortName": "SBP Members",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_35",
+      "name": "State Bank of Pakistan",
+      "shortName": "State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_36",
+      "name": "Habib Bank",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_37",
+      "name": "MCB Bank",
+      "shortName": "MCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_38",
+      "name": "National Bank",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_39",
+      "name": "United Bank",
+      "shortName": "United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_40",
+      "name": "Bank of Balochistan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_41",
+      "name": "Bank of Khyber",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_42",
+      "name": "Bank of Punjab",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_43",
+      "name": "Industrial Development Bank",
+      "shortName": "Industrial Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_44",
+      "name": "Karakoram Cooperative Bank",
+      "shortName": "Karakoram Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_45",
+      "name": "Punjab Provincial Cooperative Bank",
+      "shortName": "Punjab Provincial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_46",
+      "name": "Sindh Bank",
+      "shortName": "Sindh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_47",
+      "name": "Zarai Taraqiati Bank Limited",
+      "shortName": "Zarai Taraqiati",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_48",
+      "name": "Export-Import Bank of Pakistan",
+      "shortName": "Export-Import",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_49",
+      "name": "Allied Bank",
+      "shortName": "Allied",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_50",
+      "name": "Askari Bank",
+      "shortName": "Askari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_51",
+      "name": "Bank AL Habib",
+      "shortName": "Bank AL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_52",
+      "name": "Bank Alfalah",
+      "shortName": "Bank Alfalah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_53",
+      "name": "First Women Bank",
+      "shortName": "First Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_54",
+      "name": "HabibMetro",
+      "shortName": "HabibMetro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_55",
+      "name": "JS Bank",
+      "shortName": "JS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_56",
+      "name": "Soneri Bank",
+      "shortName": "Soneri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_57",
+      "name": "Standard Chartered Pakistan",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_58",
+      "name": "HBL Microfinance Bank",
+      "shortName": "HBL Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_59",
+      "name": "Khushhali Microfinance Bank",
+      "shortName": "Khushhali Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_60",
+      "name": "BankIslami",
+      "shortName": "BankIslami",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_61",
+      "name": "Bank Makramah",
+      "shortName": "Bank Makramah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_62",
+      "name": "Al Baraka Bank Pakistan",
+      "shortName": "Al Baraka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_63",
+      "name": "Dubai Islamic Bank Pakistan",
+      "shortName": "Dubai Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_64",
+      "name": "Faysal Bank",
+      "shortName": "Faysal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_65",
+      "name": "Meezan Bank",
+      "shortName": "Meezan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_66",
+      "name": "Samba Bank",
+      "shortName": "Samba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_67",
+      "name": "Easypaisa",
+      "shortName": "Easypaisa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_68",
+      "name": "Mashreq Pakistan",
+      "shortName": "Mashreq Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_69",
+      "name": "National Savings",
+      "shortName": "National Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_70",
+      "name": "Citibank Pakistan",
+      "shortName": "Citibank Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_71",
+      "name": "Deutsche Bank Pakistan",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_72",
+      "name": "ICBC Pakistan",
+      "shortName": "ICBC Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_73",
+      "name": "BOC Pakistan",
+      "shortName": "BOC Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_74",
+      "name": "Bank of Tokyo Mitsubishi Pakistan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_75",
+      "name": "BCCI",
+      "shortName": "BCCI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_76",
+      "name": "Bank of Bahawalpur",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_77",
+      "name": "Burj Bank",
+      "shortName": "Burj",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_78",
+      "name": "Federal Bank for Cooperatives",
+      "shortName": "Federal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_79",
+      "name": "NIB Bank",
+      "shortName": "NIB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_80",
+      "name": "PICIC Commercial Bank",
+      "shortName": "PICIC Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_81",
+      "name": "RBS Pakistan",
+      "shortName": "RBS Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_82",
+      "name": "Silkbank",
+      "shortName": "Silkbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_83",
+      "name": "Union Bank",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_84",
+      "name": "Pakistani bankers",
+      "shortName": "Pakistani bankers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_85",
+      "name": "Institute of Bankers Pakistan",
+      "shortName": "Institute of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_86",
+      "name": "KIBOR",
+      "shortName": "KIBOR",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_87",
+      "name": "National Institute of Banking and Finance",
+      "shortName": "National Institute",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_88",
+      "name": "Budget",
+      "shortName": "Budget",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_89",
+      "name": "Coins",
+      "shortName": "Coins",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_90",
+      "name": "Bureau of Statistics",
+      "shortName": "Bureau of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_91",
+      "name": "Securities and Exchange Commission",
+      "shortName": "Securities and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_92",
+      "name": "Numbering system",
+      "shortName": "Numbering system",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_93",
+      "name": "Five-Year Plans",
+      "shortName": "Five-Year Plans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_94",
+      "name": "Nationalisation",
+      "shortName": "Nationalisation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_95",
+      "name": "Privatisation",
+      "shortName": "Privatisation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_96",
+      "name": "Corporate sector",
+      "shortName": "Corporate sector",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_97",
+      "name": "Islamic economics",
+      "shortName": "Islamic economics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_98",
+      "name": "Liberalisation",
+      "shortName": "Liberalisation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_99",
+      "name": "Medium Term Development Framework",
+      "shortName": "Medium Term",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_100",
+      "name": "Stagflation",
+      "shortName": "Stagflation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_101",
+      "name": "IMF relations",
+      "shortName": "IMF relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_102",
+      "name": "2021–2024 economic crisis",
+      "shortName": "2021–2024 economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_103",
+      "name": "Airlines",
+      "shortName": "Airlines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_104",
+      "name": "Airports",
+      "shortName": "Airports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_105",
+      "name": "Bridges",
+      "shortName": "Bridges",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_106",
+      "name": "Motorways",
+      "shortName": "Motorways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_107",
+      "name": "Highways",
+      "shortName": "Highways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_108",
+      "name": "Ports",
+      "shortName": "Ports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_109",
+      "name": "Vehicle plates",
+      "shortName": "Vehicle plates",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_110",
+      "name": "Wind",
+      "shortName": "Wind",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_111",
+      "name": "Nuclear power",
+      "shortName": "Nuclear power",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_112",
+      "name": "Fuel extraction",
+      "shortName": "Fuel extraction",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_113",
+      "name": "Rice production",
+      "shortName": "Rice production",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_114",
+      "name": "Tea",
+      "shortName": "Tea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_115",
+      "name": "Livestock",
+      "shortName": "Livestock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_116",
+      "name": "Fishery",
+      "shortName": "Fishery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_117",
+      "name": "Forestry",
+      "shortName": "Forestry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_118",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_119",
+      "name": "Insurance",
+      "shortName": "Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_120",
+      "name": "KSE 30 Index",
+      "shortName": "KSE 30",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_121",
+      "name": "KSE 100 Index",
+      "shortName": "KSE 100",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_122",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_123",
+      "name": "Newspapers",
+      "shortName": "Newspapers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_124",
+      "name": "Radio",
+      "shortName": "Radio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_125",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_126",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_127",
+      "name": "Hospitals",
+      "shortName": "Hospitals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_128",
+      "name": "Automotive",
+      "shortName": "Automotive",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_129",
+      "name": "Defence",
+      "shortName": "Defence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_130",
+      "name": "Pharmaceuticals",
+      "shortName": "Pharmaceuticals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_131",
+      "name": "Real estate",
+      "shortName": "Real estate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_132",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_133",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_134",
+      "name": "Books and publishing",
+      "shortName": "Books and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_135",
+      "name": "Cottage and small scale",
+      "shortName": "Cottage and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_136",
+      "name": "Information technology",
+      "shortName": "Information technology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_137",
+      "name": "Textile",
+      "shortName": "Textile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_138",
+      "name": "Tobacco",
+      "shortName": "Tobacco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_139",
+      "name": "Mobile phones",
+      "shortName": "Mobile phones",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_140",
+      "name": "Billionaires",
+      "shortName": "Billionaires",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_141",
+      "name": "Businesspeople",
+      "shortName": "Businesspeople",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_142",
+      "name": "Poverty",
+      "shortName": "Poverty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_143",
+      "name": "Pensions",
+      "shortName": "Pensions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_144",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_145",
+      "name": "Unemployment",
+      "shortName": "Unemployment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_146",
+      "name": "Azad Kashmir",
+      "shortName": "Azad Kashmir",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_147",
+      "name": "Balochistan",
+      "shortName": "Balochistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_148",
+      "name": "Gilgit-Baltistan",
+      "shortName": "Gilgit-Baltistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_149",
+      "name": "Islamabad",
+      "shortName": "Islamabad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_150",
+      "name": "Khyber Pakhtunkhwa",
+      "shortName": "Khyber Pakhtunkhwa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_151",
+      "name": "Lahore",
+      "shortName": "Lahore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_152",
+      "name": "Rawalpindi",
+      "shortName": "Rawalpindi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_153",
+      "name": "Sindh (Karachi)",
+      "shortName": "Sindh (Karachi)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_154",
+      "name": "I. I. Chundrigar Road",
+      "shortName": "I. I.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_155",
+      "name": "Blue Area",
+      "shortName": "Blue Area",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_156",
+      "name": "Gulberg, Lahore",
+      "shortName": "Gulberg, Lahore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_157",
+      "name": "Saddar",
+      "shortName": "Saddar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_158",
+      "name": "Serai Quarter",
+      "shortName": "Serai Quarter",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_159",
+      "name": "Foreign trade",
+      "shortName": "Foreign trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_160",
+      "name": "International ranking",
+      "shortName": "International ranking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_161",
+      "name": "Provinces by GDP",
+      "shortName": "Provinces by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_162",
+      "name": "Pakistanis by net worth",
+      "shortName": "Pakistanis by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_163",
+      "name": "Standard of living",
+      "shortName": "Standard of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_164",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_165",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_166",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_167",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_168",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_169",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_170",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_171",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_172",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_173",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_174",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_175",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_176",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_177",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_178",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_179",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_180",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_181",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_182",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_183",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_184",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_185",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_186",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_187",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_188",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_189",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_190",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_191",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_192",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_193",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_194",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_195",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_196",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_197",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_198",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_199",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_200",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_201",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_202",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_203",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_204",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_205",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_206",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_207",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_208",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_209",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_210",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_211",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_212",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_213",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_214",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_215",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_216",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_217",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_218",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_219",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_220",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_221",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_222",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_223",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_224",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_225",
+      "name": "Lists of companies of Pakistan",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_226",
+      "name": "Banks of Pakistan",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_227",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_228",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_229",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_230",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_231",
+      "name": "Habib Bank Limited (HBL)",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_232",
+      "name": "Karachi",
+      "shortName": "Karachi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_233",
+      "name": "National Bank of Pakistan (NBP)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_234",
+      "name": "United Bank Limited (UBL)",
+      "shortName": "United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_235",
+      "name": "MCB Bank Limited (MCB)",
+      "shortName": "MCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_236",
+      "name": "Bank of Punjab (BOP)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_237",
+      "name": "Bank of Khyber (BOK)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_238",
+      "name": "Peshawar",
+      "shortName": "Peshawar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_239",
+      "name": "Zarai Taraqiati Bank Limited (ZTBL)",
+      "shortName": "Zarai Taraqiati",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_240",
+      "name": "Industrial Development Bank of Pakistan",
+      "shortName": "Industrial Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_241",
+      "name": "Allied Bank Limited (ABL)",
+      "shortName": "Allied",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_242",
+      "name": "Askari Bank (Fauji Group)",
+      "shortName": "Askari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_243",
+      "name": "Bank Alfalah Limited (BAFL)",
+      "shortName": "Bank Alfalah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_244",
+      "name": "Bank Al-Habib Limited (BAHL)",
+      "shortName": "Bank Al-Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_245",
+      "name": "Habib Metropolitan Bank Limited",
+      "shortName": "Habib Metropolitan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_246",
+      "name": "JS Bank Limited (JSBL)",
+      "shortName": "JS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "PK_247",
+      "name": "Standard Chartered Pakistan (SC Pakistan)",
+      "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     }

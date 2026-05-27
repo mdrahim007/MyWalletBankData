@@ -1,40 +1,642 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "TL",
   "institutions": [
     {
-      "code": "CENBTL",
-      "name": "Central Bank of TL",
-      "shortName": "Central Bank",
+      "code": "TL_0",
+      "name": "Banco Central de Timor-Leste",
+      "shortName": "Banco Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTL",
-      "name": "National Bank of TL",
-      "shortName": "National Bank",
+      "code": "TL_1",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTL",
-      "name": "State Bank of TL",
-      "shortName": "State Bank",
+      "code": "TL_2",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTL",
-      "name": "Commercial Bank of TL",
-      "shortName": "Commercial Bank",
+      "code": "TL_3",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTL",
-      "name": "First TL Bank",
-      "shortName": "First Bank",
+      "code": "TL_4",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_5",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_6",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_7",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_8",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_9",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_10",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_11",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_12",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_13",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_14",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_15",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_16",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_17",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_18",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_19",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_20",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_21",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_22",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_23",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_24",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_25",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_26",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_27",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_28",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_29",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_30",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_31",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_32",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_33",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_34",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_35",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_36",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_37",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_38",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_39",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_40",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_41",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_42",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_43",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_44",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_45",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_46",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_47",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_48",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_49",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_50",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_51",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_52",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_53",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_54",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_55",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_56",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_57",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_58",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_59",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_60",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_61",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_62",
+      "name": "Banks of Timor-Leste",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_63",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_64",
+      "name": "Lists of companies of Timor-Leste",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_65",
+      "name": "Lists of banks in Southeast Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_66",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_67",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_68",
+      "name": "BNU Timor",
+      "shortName": "BNU Timor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_69",
+      "name": "Banco Nacional Ultramarino Timor",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_70",
+      "name": "CPO/01/2000",
+      "shortName": "CPO/01/2000",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_71",
+      "name": "Caixa Geral de Depósitos",
+      "shortName": "Caixa Geral",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_72",
+      "name": "bnu.tl",
+      "shortName": "bnu.tl",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_73",
+      "name": "Banco Nacional de Comércio de Timor-Leste",
+      "shortName": "Banco Nacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_74",
+      "name": "BNCTL",
+      "shortName": "BNCTL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_75",
+      "name": "BPA/B-05/2011",
+      "shortName": "BPA/B-05/2011",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_76",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_77",
+      "name": "bnctl.tl/en",
+      "shortName": "bnctl.tl/en",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_78",
+      "name": "ANZ Group, Timor-Leste Branch",
+      "shortName": "ANZ Group,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_79",
+      "name": "ANZ Timor-Leste",
+      "shortName": "ANZ Timor-Leste",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_80",
+      "name": "CPO/B/02/2001",
+      "shortName": "CPO/B/02/2001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_81",
+      "name": "ANZ Group",
+      "shortName": "ANZ Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_82",
+      "name": "anz.com/timorleste/en",
+      "shortName": "anz.com/timorleste/en",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_83",
+      "name": "PT. Bank Mandiri (Persero) Tbk. Dili - Timor-Leste Branch",
+      "shortName": "PT.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_84",
+      "name": "Mandiri Dili",
+      "shortName": "Mandiri Dili",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_85",
+      "name": "BPA/B/04/2003",
+      "shortName": "BPA/B/04/2003",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_86",
+      "name": "Bank Mandiri",
+      "shortName": "Bank Mandiri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_87",
+      "name": "mandiridili.tl",
+      "shortName": "mandiridili.tl",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_88",
+      "name": "BRI Timor-Leste",
+      "shortName": "BRI Timor-Leste",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_89",
+      "name": "BCTL/B/05/2017",
+      "shortName": "BCTL/B/05/2017",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TL_90",
+      "name": "BRI",
+      "shortName": "BRI",
       "type": "bank",
       "aliases": ""
     }

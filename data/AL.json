@@ -1,40 +1,2056 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "AL",
   "institutions": [
     {
-      "code": "CENBAL",
-      "name": "Central Bank of AL",
-      "shortName": "Central Bank",
+      "code": "AL_0",
+      "name": "National bank of Albania (1925-1945)",
+      "shortName": "National bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAL",
-      "name": "National Bank of AL",
-      "shortName": "National Bank",
+      "code": "AL_1",
+      "name": "State Bank of Albania (1945-1992)",
+      "shortName": "State",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAL",
-      "name": "State Bank of AL",
-      "shortName": "State Bank",
+      "code": "AL_2",
+      "name": "Credit Bank of Albania (2003-2019)",
+      "shortName": "Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAL",
-      "name": "Commercial Bank of AL",
-      "shortName": "Commercial Bank",
+      "code": "AL_3",
+      "name": "Albanian Association of Banks",
+      "shortName": "Albanian Association",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAL",
-      "name": "First AL Bank",
-      "shortName": "First Bank",
+      "code": "AL_4",
+      "name": "Albanian Banks SWIFT codes",
+      "shortName": "Albanians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_5",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_6",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_7",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_8",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_9",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_10",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_11",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_12",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_13",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_14",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_15",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_16",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_17",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_18",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_19",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_20",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_21",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_22",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_23",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_24",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_25",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_26",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_27",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_28",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_29",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_30",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_31",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_32",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_33",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_34",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_35",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_36",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_37",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_38",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_39",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_40",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_41",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_42",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_43",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_44",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_45",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_46",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_47",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_48",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_49",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_50",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_51",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_52",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_53",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_54",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_55",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_56",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_57",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_58",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_59",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_60",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_61",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_62",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_63",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_64",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_65",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_66",
+      "name": "Ardiaei",
+      "shortName": "Ardiaei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_67",
+      "name": "Albanoi",
+      "shortName": "Albanoi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_68",
+      "name": "Amantes",
+      "shortName": "Amantes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_69",
+      "name": "Amantini",
+      "shortName": "Amantini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_70",
+      "name": "Balaites",
+      "shortName": "Balaites",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_71",
+      "name": "Bylliones",
+      "shortName": "Bylliones",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_72",
+      "name": "Dassaretii",
+      "shortName": "Dassaretii",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_73",
+      "name": "Enchele",
+      "shortName": "Enchele",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_74",
+      "name": "Labeatae",
+      "shortName": "Labeatae",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_75",
+      "name": "Parthini",
+      "shortName": "Parthini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_76",
+      "name": "Taulantii",
+      "shortName": "Taulantii",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_77",
+      "name": "Principality of Arbanon",
+      "shortName": "Principality of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_78",
+      "name": "Kingdom of Albania",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_79",
+      "name": "Despotate of Arta",
+      "shortName": "Despotate of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_80",
+      "name": "House of Kastrioti",
+      "shortName": "House of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_81",
+      "name": "Skanderbeg's rebellion",
+      "shortName": "Skanderbeg's rebellion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_82",
+      "name": "League of Lezhë",
+      "shortName": "League of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_83",
+      "name": "Kanun of Lekë Dukagjini",
+      "shortName": "Kanun of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_84",
+      "name": "Arbëni Council",
+      "shortName": "Arbëni Council",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_85",
+      "name": "Islamization of Albania",
+      "shortName": "Islamization of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_86",
+      "name": "Albanian Pashaliks",
+      "shortName": "Albanian Pashaliks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_87",
+      "name": "Massacre of the Albanian Beys",
+      "shortName": "Massacre of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_88",
+      "name": "Revolts of 1833–1839",
+      "shortName": "Revolts of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_89",
+      "name": "Uprising of Dervish Cara",
+      "shortName": "Uprising of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_90",
+      "name": "Albanian National Awakening",
+      "shortName": "Albanian National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_91",
+      "name": "League of Prizren",
+      "shortName": "League of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_92",
+      "name": "Congress of Manastir",
+      "shortName": "Congress of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_93",
+      "name": "Revolt of 1910",
+      "shortName": "Revolt of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_94",
+      "name": "Malissori uprising",
+      "shortName": "Malissori uprising",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_95",
+      "name": "Taksim meeting",
+      "shortName": "Taksim meeting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_96",
+      "name": "Revolt of 1912",
+      "shortName": "Revolt of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_97",
+      "name": "Kimza Government",
+      "shortName": "Kimza Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_98",
+      "name": "Declaration of Independence",
+      "shortName": "Declaration of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_99",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_100",
+      "name": "Provisional Government of Albania",
+      "shortName": "Provisional Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_101",
+      "name": "Albania during the Balkan Wars",
+      "shortName": "Albania during",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_102",
+      "name": "Republic of Central Albania",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_103",
+      "name": "Principality of Albania (1914–25)",
+      "shortName": "Principality of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_104",
+      "name": "World War I in Albania",
+      "shortName": "World War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_105",
+      "name": "Autonomous Province of Korçë",
+      "shortName": "Autonomous Province",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_106",
+      "name": "Italian expedition",
+      "shortName": "Italian expedition",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_107",
+      "name": "Vlora War",
+      "shortName": "Vlora War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_108",
+      "name": "Treaties of Tirana",
+      "shortName": "Treaties of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_109",
+      "name": "Republic of Mirdita",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_110",
+      "name": "Albanian Republic (1925–1928)",
+      "shortName": "Albanian Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_111",
+      "name": "Albanian Kingdom (1928–1939)",
+      "shortName": "Albanian Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_112",
+      "name": "Italian invasion of Albania",
+      "shortName": "Italian invasion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_113",
+      "name": "Union with Italian kingdom",
+      "shortName": "Union with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_114",
+      "name": "Nazi German occupation",
+      "shortName": "Nazi German",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_115",
+      "name": "The Holocaust in Albania",
+      "shortName": "The Holocaust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_116",
+      "name": "Albanian resistance during World War II",
+      "shortName": "Albanian resistance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_117",
+      "name": "Communist Albania (1946–91)",
+      "shortName": "Communist Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_118",
+      "name": "Orthography Congress (1972)",
+      "shortName": "Orthography Congress",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_119",
+      "name": "Post-Communist Albania",
+      "shortName": "Post-Communist Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_120",
+      "name": "1997 civil unrest",
+      "shortName": "1997 civil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_121",
+      "name": "NATO membership",
+      "shortName": "NATO membership",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_122",
+      "name": "EU accession",
+      "shortName": "EU accession",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_123",
+      "name": "Origins",
+      "shortName": "Origins",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_124",
+      "name": "Timeline",
+      "shortName": "Timeline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_125",
+      "name": "Archives",
+      "shortName": "Archives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_126",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_127",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_128",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_129",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_130",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_131",
+      "name": "Biodiversity",
+      "shortName": "Biodiversity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_132",
+      "name": "Habitat",
+      "shortName": "Habitat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_133",
+      "name": "Protected areas",
+      "shortName": "Protected areas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_134",
+      "name": "Government (agencies)",
+      "shortName": "Government (agencies)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_135",
+      "name": "Head of state (list)",
+      "shortName": "Head of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_136",
+      "name": "Prime Minister",
+      "shortName": "Prime Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_137",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_138",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_139",
+      "name": "Treaties",
+      "shortName": "Treaties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_140",
+      "name": "Visa policy",
+      "shortName": "Visa policy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_141",
+      "name": "KPA",
+      "shortName": "KPA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_142",
+      "name": "IKP",
+      "shortName": "IKP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_143",
+      "name": "ONM",
+      "shortName": "ONM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_144",
+      "name": "KPK",
+      "shortName": "KPK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_145",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_146",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_147",
+      "name": "EURALIUS",
+      "shortName": "EURALIUS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_148",
+      "name": "SPAK",
+      "shortName": "SPAK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_149",
+      "name": "Prosecutor General",
+      "shortName": "Prosecutor General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_150",
+      "name": "NUTS",
+      "shortName": "NUTS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_151",
+      "name": "Counties",
+      "shortName": "Counties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_152",
+      "name": "Municipalities",
+      "shortName": "Municipalities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_153",
+      "name": "Cities and towns",
+      "shortName": "Cities and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_154",
+      "name": "Communes",
+      "shortName": "Communes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_155",
+      "name": "Villages",
+      "shortName": "Villages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_156",
+      "name": "Maps",
+      "shortName": "Maps",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_157",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_158",
+      "name": "Assembly (speakers)",
+      "shortName": "Assembly (speakers)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_159",
+      "name": "Members",
+      "shortName": "Members",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_160",
+      "name": "Opposition",
+      "shortName": "Opposition",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_161",
+      "name": "Abortion",
+      "shortName": "Abortion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_162",
+      "name": "Capital punishment",
+      "shortName": "Capital punishment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_163",
+      "name": "Assassinations",
+      "shortName": "Assassinations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_164",
+      "name": "LGBT",
+      "shortName": "LGBT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_165",
+      "name": "Ombudsman",
+      "shortName": "Ombudsman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_166",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_167",
+      "name": "Police",
+      "shortName": "Police",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_168",
+      "name": "Organized crime",
+      "shortName": "Organized crime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_169",
+      "name": "Prisons",
+      "shortName": "Prisons",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_170",
+      "name": "Border crossings",
+      "shortName": "Border crossings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_171",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_172",
+      "name": "Lek (currency)",
+      "shortName": "Lek (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_173",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_174",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_175",
+      "name": "State Supreme Audit",
+      "shortName": "State Supreme",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_176",
+      "name": "Shopping centers",
+      "shortName": "Shopping centers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_177",
+      "name": "Supermarkets",
+      "shortName": "Supermarkets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_178",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_179",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_180",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_181",
+      "name": "KESH",
+      "shortName": "KESH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_182",
+      "name": "OST",
+      "shortName": "OST",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_183",
+      "name": "OSHEE",
+      "shortName": "OSHEE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_184",
+      "name": "ERE",
+      "shortName": "ERE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_185",
+      "name": "Hydropower plants",
+      "shortName": "Hydropower plants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_186",
+      "name": "Oil and gas",
+      "shortName": "Oil and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_187",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_188",
+      "name": "Highways",
+      "shortName": "Highways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_189",
+      "name": "Aviation",
+      "shortName": "Aviation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_190",
+      "name": "Ports",
+      "shortName": "Ports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_191",
+      "name": "Railways",
+      "shortName": "Railways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_192",
+      "name": "Bridges",
+      "shortName": "Bridges",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_193",
+      "name": "Tunnels",
+      "shortName": "Tunnels",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_194",
+      "name": "Highrises (structures)",
+      "shortName": "Highrises (structures)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_195",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_196",
+      "name": "Posta Shqiptare",
+      "shortName": "Posta Shqiptare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_197",
+      "name": "Squatting",
+      "shortName": "Squatting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_198",
+      "name": "Archaeological sites",
+      "shortName": "Archaeological sites",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_199",
+      "name": "Castles",
+      "shortName": "Castles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_200",
+      "name": "Mosques",
+      "shortName": "Mosques",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_201",
+      "name": "Tekkes",
+      "shortName": "Tekkes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_202",
+      "name": "Churches",
+      "shortName": "Churches",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_203",
+      "name": "Lighthouses",
+      "shortName": "Lighthouses",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_204",
+      "name": "Adriatic Sea Coast",
+      "shortName": "Adriatic Sea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_205",
+      "name": "Ionian Sea Coast (riviera)",
+      "shortName": "Ionian Sea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_206",
+      "name": "Beaches",
+      "shortName": "Beaches",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_207",
+      "name": "Images of Albania",
+      "shortName": "Images of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_208",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_209",
+      "name": "Census",
+      "shortName": "Census",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_210",
+      "name": "Tribes",
+      "shortName": "Tribes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_211",
+      "name": "Noble families",
+      "shortName": "Noble families",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_212",
+      "name": "Diaspora",
+      "shortName": "Diaspora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_213",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_214",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_215",
+      "name": "Photography",
+      "shortName": "Photography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_216",
+      "name": "Museums",
+      "shortName": "Museums",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_217",
+      "name": "Theatres",
+      "shortName": "Theatres",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_218",
+      "name": "Abetare",
+      "shortName": "Abetare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_219",
+      "name": "Language",
+      "shortName": "Language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_220",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_221",
+      "name": "Research institutes",
+      "shortName": "Research institutes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_222",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_223",
+      "name": "Universities",
+      "shortName": "Universities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_224",
+      "name": "Publishers",
+      "shortName": "Publishers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_225",
+      "name": "Proverbs",
+      "shortName": "Proverbs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_226",
+      "name": "Albanology",
+      "shortName": "Albanology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_227",
+      "name": "Folk beliefs",
+      "shortName": "Folk beliefs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_228",
+      "name": "Besa",
+      "shortName": "Besa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_229",
+      "name": "Oda",
+      "shortName": "Oda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_230",
+      "name": "Secularism",
+      "shortName": "Secularism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_231",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_232",
+      "name": "Nevruz",
+      "shortName": "Nevruz",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_233",
+      "name": "Sworn virgins",
+      "shortName": "Sworn virgins",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_234",
+      "name": "Qeleshe",
+      "shortName": "Qeleshe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_235",
+      "name": "Fustanella",
+      "shortName": "Fustanella",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_236",
+      "name": "Xhubleta",
+      "shortName": "Xhubleta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_237",
+      "name": "Brez",
+      "shortName": "Brez",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_238",
+      "name": "Opinga",
+      "shortName": "Opinga",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_239",
+      "name": "Xhamadan",
+      "shortName": "Xhamadan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_240",
+      "name": "Gjellë",
+      "shortName": "Gjellë",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_241",
+      "name": "Tavë kosi",
+      "shortName": "Tavë kosi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_242",
+      "name": "Kabuni",
+      "shortName": "Kabuni",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_243",
+      "name": "Raki",
+      "shortName": "Raki",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_244",
+      "name": "Beer",
+      "shortName": "Beer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_245",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_246",
+      "name": "Cognac Skënderbeu",
+      "shortName": "Cognac Skënderbeu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_247",
+      "name": "National team",
+      "shortName": "National team",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_248",
+      "name": "Clubs",
+      "shortName": "Clubs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_249",
+      "name": "Players",
+      "shortName": "Players",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_250",
+      "name": "Stadiums",
+      "shortName": "Stadiums",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_251",
+      "name": "Weightlifting",
+      "shortName": "Weightlifting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_252",
+      "name": "Athletics",
+      "shortName": "Athletics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_253",
+      "name": "Cycling",
+      "shortName": "Cycling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_254",
+      "name": "Basketball",
+      "shortName": "Basketball",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_255",
+      "name": "Volleyball",
+      "shortName": "Volleyball",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_256",
+      "name": "Swimming",
+      "shortName": "Swimming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_257",
+      "name": "Olympics",
+      "shortName": "Olympics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_258",
+      "name": "Indoor arenas",
+      "shortName": "Indoor arenas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_259",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_260",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_261",
+      "name": "Radio",
+      "shortName": "Radio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_262",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_263",
+      "name": "Heraldry",
+      "shortName": "Heraldry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_264",
+      "name": "Flag (list)",
+      "shortName": "Flag (list)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_265",
+      "name": "Coat of arms (armorial)",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_266",
+      "name": "Epitaph of Gllavenica",
+      "shortName": "Epitaph of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_267",
+      "name": "Sign language",
+      "shortName": "Sign language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_268",
+      "name": "Orders, decorations and medals",
+      "shortName": "Orders, decorations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_269",
+      "name": "Passport",
+      "shortName": "Passport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_270",
+      "name": ".al",
+      "shortName": ".al",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_271",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_272",
+      "name": "Smoking",
+      "shortName": "Smoking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_273",
+      "name": "Copyright law",
+      "shortName": "Copyright law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_274",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_275",
+      "name": "Index",
+      "shortName": "Index",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_276",
+      "name": "Bibliography",
+      "shortName": "Bibliography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_277",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_278",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_279",
+      "name": "Banks of Albania",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_280",
+      "name": "Financial system of Albania",
+      "shortName": "Financial system",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_281",
+      "name": "Lists of companies of Albania",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_282",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_283",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_284",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_285",
+      "name": "Banka Kombëtare Tregtare (BKT)",
+      "shortName": "Banka Kombëtare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_286",
+      "name": "Banka Credins",
+      "shortName": "Banka Credins",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_287",
+      "name": "Banka Intesa Sanpaolo Albania",
+      "shortName": "Banka Intesa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_288",
+      "name": "Banka Procredit, subsidiary of ProCredit Bank",
+      "shortName": "Banka Procredit,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_289",
+      "name": "Banka OTP Albania, subsidiary of OTP Bank",
+      "shortName": "Banka OTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_290",
+      "name": "Banka Tirana (Tirana Bank)",
+      "shortName": "Banka Tirana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_291",
+      "name": "Banka Union (UnionBank)",
+      "shortName": "Banka Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AL_292",
+      "name": "Banka e Bashkuar e Shqipërisë (United Bank of Albania, UBA)",
+      "shortName": "Banka e",
       "type": "bank",
       "aliases": ""
     }

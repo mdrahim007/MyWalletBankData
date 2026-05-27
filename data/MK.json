@@ -1,40 +1,1608 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "MK",
   "institutions": [
     {
-      "code": "CENBMK",
-      "name": "Central Bank of MK",
-      "shortName": "Central Bank",
+      "code": "MK_0",
+      "name": "National Bank of the Republic of North Macedonia",
+      "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMK",
-      "name": "National Bank of MK",
-      "shortName": "National Bank",
+      "code": "MK_1",
+      "name": "AL KOSA – Stip",
+      "shortName": "AL KOSA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMK",
-      "name": "State Bank of MK",
-      "shortName": "State Bank",
+      "code": "MK_2",
+      "name": "AM - Skopje",
+      "shortName": "AM -",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMK",
-      "name": "Commercial Bank of MK",
-      "shortName": "Commercial Bank",
+      "code": "MK_3",
+      "name": "Bavag d.o.o.- Skopje",
+      "shortName": "Bavag d.o.o.-",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMK",
-      "name": "First MK Bank",
-      "shortName": "First Bank",
+      "code": "MK_4",
+      "name": "Fersped d.o.o. - Skopje",
+      "shortName": "Fersped d.o.o.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_5",
+      "name": "FULM stedilnica d.o.o.-Skopje",
+      "shortName": "FULM stedilnica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_6",
+      "name": "Gragjanska stedilnica - Skopje",
+      "shortName": "Gragjanska stedilnica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_7",
+      "name": "Inko d.o.o. - Skopje",
+      "shortName": "Inko d.o.o.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_8",
+      "name": "Interfalko - Skopje",
+      "shortName": "Interfalko -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_9",
+      "name": "Peon - Strumica",
+      "shortName": "Peon -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_10",
+      "name": "Mak- BS - Skopje",
+      "shortName": "Mak- BS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_11",
+      "name": "Mladinec d.o.o. - Skopje",
+      "shortName": "Mladinec d.o.o.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_12",
+      "name": "Moznosti - Skopje",
+      "shortName": "Moznosti -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_13",
+      "name": "Paeonia",
+      "shortName": "Paeonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_14",
+      "name": "Pelagonia",
+      "shortName": "Pelagonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_15",
+      "name": "Kingdom of Dardania",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_16",
+      "name": "Roman Diocese",
+      "shortName": "Roman Diocese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_17",
+      "name": "Second",
+      "shortName": "Second",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_18",
+      "name": "Ottoman Empire",
+      "shortName": "Ottoman Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_19",
+      "name": "Karposh's rebellion",
+      "shortName": "Karposh's rebellion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_20",
+      "name": "Macedonian awakening",
+      "shortName": "Macedonian awakening",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_21",
+      "name": "Kruševo Manifesto",
+      "shortName": "Kruševo Manifesto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_22",
+      "name": "Balkan Wars",
+      "shortName": "Balkan Wars",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_23",
+      "name": "Treaty of Bucharest",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_24",
+      "name": "South Serbia",
+      "shortName": "South Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_25",
+      "name": "Vardar Banovina",
+      "shortName": "Vardar Banovina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_26",
+      "name": "The Holocaust in Macedonia",
+      "shortName": "The Holocaust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_27",
+      "name": "Independent Macedonia (1944)",
+      "shortName": "Independent Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_28",
+      "name": "Anti-Fascist Assembly (ASNOM)",
+      "shortName": "Anti-Fascist Assembly",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_29",
+      "name": "Socialist Republic",
+      "shortName": "Socialist Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_30",
+      "name": "1963 Skopje earthquake",
+      "shortName": "1963 Skopje",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_31",
+      "name": "2012 inter-ethnic violence",
+      "shortName": "2012 inter-ethnic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_32",
+      "name": "2014 Macedonian government building attack",
+      "shortName": "2014 Macedonian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_33",
+      "name": "2015 Kumanovo clashes",
+      "shortName": "2015 Kumanovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_34",
+      "name": "2015 Macedonian protests",
+      "shortName": "2015 Macedonian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_35",
+      "name": "2016 Macedonian protests-Colorful Revolution",
+      "shortName": "2016 Macedonian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_36",
+      "name": "2017 storming of the Macedonian Parliament",
+      "shortName": "2017 storming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_37",
+      "name": "2018 Prespa agreement",
+      "shortName": "2018 Prespa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_38",
+      "name": "2022 North Macedonia protests",
+      "shortName": "2022 North",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_39",
+      "name": "2025 Kočani nightclub fire",
+      "shortName": "2025 Kočani",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_40",
+      "name": "Balkans",
+      "shortName": "Balkans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_41",
+      "name": "Cities",
+      "shortName": "Cities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_42",
+      "name": "Environmental issues",
+      "shortName": "Environmental issues",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_43",
+      "name": "Geology",
+      "shortName": "Geology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_44",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_45",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_46",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_47",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_48",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_49",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_50",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_51",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_52",
+      "name": "President",
+      "shortName": "President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_53",
+      "name": "Prime Minister",
+      "shortName": "Prime Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_54",
+      "name": "Administrative divisions",
+      "shortName": "Administrative divisions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_55",
+      "name": "Municipalities",
+      "shortName": "Municipalities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_56",
+      "name": "Statistical regions",
+      "shortName": "Statistical regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_57",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_58",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_59",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_60",
+      "name": "Naming dispute",
+      "shortName": "Naming dispute",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_61",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_62",
+      "name": "Central bank",
+      "shortName": "Central bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_63",
+      "name": "Currency",
+      "shortName": "Currency",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_64",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_65",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_66",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_67",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_68",
+      "name": "Archaeology",
+      "shortName": "Archaeology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_69",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_70",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_71",
+      "name": "Albanians",
+      "shortName": "Albanians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_72",
+      "name": "Romani",
+      "shortName": "Romani",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_73",
+      "name": "Health",
+      "shortName": "Health",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_74",
+      "name": "Historiography",
+      "shortName": "Historiography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_75",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_76",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_77",
+      "name": "Sociology",
+      "shortName": "Sociology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_78",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_79",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_80",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_81",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_82",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_83",
+      "name": "Embroidery",
+      "shortName": "Embroidery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_84",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_85",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_86",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_87",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_88",
+      "name": "Mythology",
+      "shortName": "Mythology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_89",
+      "name": "National emblem",
+      "shortName": "National emblem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_90",
+      "name": "National symbols",
+      "shortName": "National symbols",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_91",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_92",
+      "name": "Radio stations",
+      "shortName": "Radio stations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_93",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_94",
+      "name": "World Heritage Sites",
+      "shortName": "World Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_95",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_96",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_97",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_98",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_99",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_100",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_101",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_102",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_103",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_104",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_105",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_106",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_107",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_108",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_109",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_110",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_111",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_112",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_113",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_114",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_115",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_116",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_117",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_118",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_119",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_120",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_121",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_122",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_123",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_124",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_125",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_126",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_127",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_128",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_129",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_130",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_131",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_132",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_133",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_134",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_135",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_136",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_137",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_138",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_139",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_140",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_141",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_142",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_143",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_144",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_145",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_146",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_147",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_148",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_149",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_150",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_151",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_152",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_153",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_154",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_155",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_156",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_157",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_158",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_159",
+      "name": "Banks of North Macedonia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_160",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_161",
+      "name": "Lists of companies of North Macedonia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_162",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_163",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_164",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_165",
+      "name": "Silk Road Bank AD Skopje",
+      "shortName": "Silk Road",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_166",
+      "name": "Silk Road Bank",
+      "shortName": "Silk Road",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_167",
+      "name": "KRSKMK2X",
+      "shortName": "KRSKMK2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_168",
+      "name": "Silk Road Capital AG",
+      "shortName": "Silk Road",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_169",
+      "name": "silkroadbank.com.mk",
+      "shortName": "silkroadbank.com.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_170",
+      "name": "Halkbank AD Skopje",
+      "shortName": "Halkbank AD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_171",
+      "name": "Halkbank",
+      "shortName": "Halkbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_172",
+      "name": "EXPCMK22",
+      "shortName": "EXPCMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_173",
+      "name": "Türkiye Halk Bankası A.Ş",
+      "shortName": "Türkiye Halk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_174",
+      "name": "halkbank.mk",
+      "shortName": "halkbank.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_175",
+      "name": "Sparkasse Banka AD Skopje",
+      "shortName": "Sparkassea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_176",
+      "name": "Sparkasse Bank",
+      "shortName": "Sparkasse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_177",
+      "name": "INSBMK22",
+      "shortName": "INSBMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_178",
+      "name": "Erste Group Bank AG",
+      "shortName": "Erste Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_179",
+      "name": "sparkasse.mk",
+      "shortName": "sparkasse.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_180",
+      "name": "Capital Bank AD Skopje",
+      "shortName": "Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_181",
+      "name": "Capital Bank",
+      "shortName": "Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_182",
+      "name": "INPBMK21",
+      "shortName": "INPBMK21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_183",
+      "name": "Alfa Finance Holding AD",
+      "shortName": "Alfa Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_184",
+      "name": "capitalbank.com.mk",
+      "shortName": "capitalbank.com.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_185",
+      "name": "Komercijalna Banka AD Skopje",
+      "shortName": "Komercijalnaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_186",
+      "name": "Komercijalna banka",
+      "shortName": "Komercijalna banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_187",
+      "name": "KOBSMK2X",
+      "shortName": "KOBSMK2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_188",
+      "name": "Public",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_189",
+      "name": "kb.com.mk",
+      "shortName": "kb.com.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_190",
+      "name": "Development Bank of North Macedonia AD Skopje",
+      "shortName": "Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_191",
+      "name": "MBDP",
+      "shortName": "MBDP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_192",
+      "name": "MBDPMK22",
+      "shortName": "MBDPMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_193",
+      "name": "State-owned",
+      "shortName": "State-owned",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_194",
+      "name": "mbdp.com.mk",
+      "shortName": "mbdp.com.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_195",
+      "name": "NLB Banka AD Skopje",
+      "shortName": "NLBa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_196",
+      "name": "NLB Banka",
+      "shortName": "NLBa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_197",
+      "name": "TUTNMK22",
+      "shortName": "TUTNMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_198",
+      "name": "NLB Group",
+      "shortName": "NLB Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_199",
+      "name": "nlb.mk",
+      "shortName": "nlb.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_200",
+      "name": "ProCredit Bank AD Skopje",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_201",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_202",
+      "name": "PRBUMK22",
+      "shortName": "PRBUMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_203",
+      "name": "ProCredit Group",
+      "shortName": "ProCredit Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_204",
+      "name": "pcb.mk",
+      "shortName": "pcb.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_205",
+      "name": "Centralna kooperativna banka AD Skopje",
+      "shortName": "Centralna kooperativna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_206",
+      "name": "CCB",
+      "shortName": "CCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_207",
+      "name": "CECBMK22",
+      "shortName": "CECBMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_208",
+      "name": "Central Cooperative Bank Plc.",
+      "shortName": "Central Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_209",
+      "name": "ccbank.mk",
+      "shortName": "ccbank.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_210",
+      "name": "Alta Banka AD Bitola",
+      "shortName": "Altaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_211",
+      "name": "STBBT",
+      "shortName": "STBBT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_212",
+      "name": "STBBMK22",
+      "shortName": "STBBMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_213",
+      "name": "Alta Bank a.d. Beograd",
+      "shortName": "Alta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_214",
+      "name": "altabanka.com.mk",
+      "shortName": "altabanka.com.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_215",
+      "name": "Stopanska Banka AD Skopje",
+      "shortName": "Stopanskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_216",
+      "name": "Stopanska Banka",
+      "shortName": "Stopanskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_217",
+      "name": "STOBMK2X",
+      "shortName": "STOBMK2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_218",
+      "name": "National Bank of Greece S.A.",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_219",
+      "name": "stb.mk",
+      "shortName": "stb.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_220",
+      "name": "Universal Investment Bank AD Skopje",
+      "shortName": "Universal Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_221",
+      "name": "UNI Bank",
+      "shortName": "UNI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_222",
+      "name": "UIBMMK22",
+      "shortName": "UIBMMK22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_223",
+      "name": "First Investment Bank Plc.",
+      "shortName": "First Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_224",
+      "name": "unibank.mk",
+      "shortName": "unibank.mk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_225",
+      "name": "TTK Banka AD Skopje",
+      "shortName": "TTKa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_226",
+      "name": "TTK",
+      "shortName": "TTK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_227",
+      "name": "TTXBMK2X",
+      "shortName": "TTXBMK2X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MK_228",
+      "name": "ttk.com.mk",
+      "shortName": "ttk.com.mk",
       "type": "bank",
       "aliases": ""
     }

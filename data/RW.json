@@ -1,40 +1,789 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "RW",
   "institutions": [
     {
-      "code": "CENBRW",
-      "name": "Central Bank of RW",
-      "shortName": "Central Bank",
+      "code": "RW_0",
+      "name": "I&amp;M Bank Rwanda, part of I&amp;M Holdings Limited",
+      "shortName": "I&amp;M",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBRW",
-      "name": "National Bank of RW",
-      "shortName": "National Bank",
+      "code": "RW_1",
+      "name": "Bank of Kigali Plc",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABRW",
-      "name": "State Bank of RW",
-      "shortName": "State Bank",
+      "code": "RW_2",
+      "name": "BPR Bank Rwanda Plc, part of KCB Group",
+      "shortName": "BPR",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBRW",
-      "name": "Commercial Bank of RW",
-      "shortName": "Commercial Bank",
+      "code": "RW_3",
+      "name": "Guaranty Trust Bank Plc, part of GTCO Group",
+      "shortName": "Guaranty Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBRW",
-      "name": "First RW Bank",
-      "shortName": "First Bank",
+      "code": "RW_4",
+      "name": "Ecobank Rwanda Plc, part of Ecobank Group",
+      "shortName": "Ecobank Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_5",
+      "name": "Access Bank Rwanda Plc, part of Access Bank Group",
+      "shortName": "Access",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_6",
+      "name": "Equity Bank Rwanda Plc, part of Equity Group",
+      "shortName": "Equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_7",
+      "name": "Bank of Africa Rwanda, part of Bank of Africa Group",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_8",
+      "name": "NCBA Rwanda Plc, part of NCBA Group",
+      "shortName": "NCBA Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_9",
+      "name": "Rwanda Development Bank (RDB)",
+      "shortName": "Rwanda Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_10",
+      "name": "Zigama Credit and Savings Bank, a cooperative bank",
+      "shortName": "Zigama Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_11",
+      "name": "AB Bank Rwanda",
+      "shortName": "AB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_12",
+      "name": "Unguka Bank",
+      "shortName": "Unguka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_13",
+      "name": "National Bank of Rwanda",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_14",
+      "name": "Economy of Rwanda",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_15",
+      "name": "Website of National Bank of Rwanda",
+      "shortName": "Website of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_16",
+      "name": "Rwandan franc",
+      "shortName": "Rwandan franc",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_17",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_18",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_19",
+      "name": "Coffee",
+      "shortName": "Coffee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_20",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_21",
+      "name": "Tea",
+      "shortName": "Tea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_22",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_23",
+      "name": "Sugar",
+      "shortName": "Sugar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_24",
+      "name": "The Treasury",
+      "shortName": "The Treasury",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_25",
+      "name": "Rwanda Revenue Authority",
+      "shortName": "Rwanda Revenue",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_26",
+      "name": "Rwanda Development Board",
+      "shortName": "Rwanda Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_27",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_28",
+      "name": "RwandAir",
+      "shortName": "RwandAir",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_29",
+      "name": "Bralirwa Brewery",
+      "shortName": "Bralirwa Brewery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_30",
+      "name": "Airports",
+      "shortName": "Airports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_31",
+      "name": "Roads",
+      "shortName": "Roads",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_32",
+      "name": "Kigali International Airport",
+      "shortName": "Kigali International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_33",
+      "name": "Mobile networks",
+      "shortName": "Mobile networks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_34",
+      "name": "MTN Rwanda",
+      "shortName": "MTN Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_35",
+      "name": "Airtel Rwanda",
+      "shortName": "Airtel Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_36",
+      "name": "Rwanda Stock Exchange",
+      "shortName": "Rwanda Stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_37",
+      "name": "Kigali International Financial Centre",
+      "shortName": "Kigali International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_38",
+      "name": "East Africa Exchange",
+      "shortName": "East Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_39",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_40",
+      "name": "East African Community",
+      "shortName": "East African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_41",
+      "name": "COMESA",
+      "shortName": "COMESA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_42",
+      "name": "AfCFTA",
+      "shortName": "AfCFTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_43",
+      "name": "Rwanda Vision 2050",
+      "shortName": "Rwanda Vision",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_44",
+      "name": "Bugesera International Airport",
+      "shortName": "Bugesera International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_45",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_46",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_47",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_48",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_49",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_50",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_51",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_52",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_53",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_54",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_55",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_56",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_57",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_58",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_59",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_60",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_61",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_62",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_63",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_64",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_65",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_66",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_67",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_68",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_69",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_70",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_71",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_72",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_73",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_74",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_75",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_76",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_77",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_78",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_79",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_80",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_81",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_82",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_83",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_84",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_85",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_86",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_87",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_88",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_89",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_90",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_91",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_92",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_93",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_94",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_95",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_96",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_97",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_98",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_99",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_100",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_101",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_102",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_103",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_104",
+      "name": "Banks of Rwanda",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_105",
+      "name": "Lists of companies of Rwanda",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_106",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_107",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_108",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_109",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_110",
+      "name": "Use British English from December 2025",
+      "shortName": "Use British",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RW_111",
+      "name": "Use dmy dates from December 2025",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,1265 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "SO",
   "institutions": [
     {
-      "code": "CENBSO",
-      "name": "Central Bank of SO",
-      "shortName": "Central Bank",
+      "code": "SO_0",
+      "name": "Mybank Limited",
+      "shortName": "Mybank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSO",
-      "name": "National Bank of SO",
-      "shortName": "National Bank",
+      "code": "SO_1",
+      "name": "Agro Africa Bank",
+      "shortName": "Agro Africa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSO",
-      "name": "State Bank of SO",
-      "shortName": "State Bank",
+      "code": "SO_2",
+      "name": "Amal Bank",
+      "shortName": "Amal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSO",
-      "name": "Commercial Bank of SO",
-      "shortName": "Commercial Bank",
+      "code": "SO_3",
+      "name": "Amana Bank",
+      "shortName": "Amana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSO",
-      "name": "First SO Bank",
-      "shortName": "First Bank",
+      "code": "SO_4",
+      "name": "Bushra Business Bank",
+      "shortName": "Bushra Business",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_5",
+      "name": "Dahabshil Bank International",
+      "shortName": "Dahabshil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_6",
+      "name": "Daryeel Bank Ltd",
+      "shortName": "Daryeel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_7",
+      "name": "Galaxy International Bank",
+      "shortName": "Galaxy International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_8",
+      "name": "Idman Community Bank",
+      "shortName": "Idman Community",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_9",
+      "name": "International Bank of Somalia",
+      "shortName": "International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_10",
+      "name": "Premier Bank",
+      "shortName": "Premier",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_11",
+      "name": "Salaam Somali Bank",
+      "shortName": "Salaam Somali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_12",
+      "name": "SomBank Ltd",
+      "shortName": "SomBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_13",
+      "name": "Central Bank of Somalia",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_14",
+      "name": "Economy of Somalia",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_15",
+      "name": "Website of Central Bank of Somalia",
+      "shortName": "Website of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_16",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_17",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_18",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_19",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_20",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_21",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_22",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_23",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_24",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_25",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_26",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_27",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_28",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_29",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_30",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_31",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_32",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_33",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_34",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_35",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_36",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_37",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_38",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_39",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_40",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_41",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_42",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_43",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_44",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_45",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_46",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_47",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_48",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_49",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_50",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_51",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_52",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_53",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_54",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_55",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_56",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_57",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_58",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_59",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_60",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_61",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_62",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_63",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_64",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_65",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_66",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_67",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_68",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_69",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_70",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_71",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_72",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_73",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_74",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_75",
+      "name": "Laas Geel",
+      "shortName": "Laas Geel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_76",
+      "name": "Land of Punt",
+      "shortName": "Land of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_77",
+      "name": "Walashma dynasty",
+      "shortName": "Walashma dynasty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_78",
+      "name": "Adal Sultanate",
+      "shortName": "Adal Sultanate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_79",
+      "name": "Ajuran Empire",
+      "shortName": "Ajuran Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_80",
+      "name": "Sultanate of the Geledi",
+      "shortName": "Sultanate of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_81",
+      "name": "Isaaq Sultanate",
+      "shortName": "Isaaq Sultanate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_82",
+      "name": "Majeerteen Sultanate",
+      "shortName": "Majeerteen Sultanate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_83",
+      "name": "Sultanate of Hobyo",
+      "shortName": "Sultanate of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_84",
+      "name": "Warsangali Sultanate",
+      "shortName": "Warsangali Sultanate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_85",
+      "name": "Dervish movement",
+      "shortName": "Dervish movement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_86",
+      "name": "Trust Territory of Somaliland",
+      "shortName": "Trust Territory",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_87",
+      "name": "Ogaden War",
+      "shortName": "Ogaden War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_88",
+      "name": "Somaliland War of Independence (1981–1991)",
+      "shortName": "Somaliland War",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_89",
+      "name": "Isaaq genocide",
+      "shortName": "Isaaq genocide",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_90",
+      "name": "Rebellion (1986–1992)",
+      "shortName": "Rebellion (1986–1992)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_91",
+      "name": "Piracy",
+      "shortName": "Piracy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_92",
+      "name": "(2009–present)",
+      "shortName": "(2009–present)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_93",
+      "name": "Maritime",
+      "shortName": "Maritime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_94",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_95",
+      "name": "Postal",
+      "shortName": "Postal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_96",
+      "name": "Cities",
+      "shortName": "Cities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_97",
+      "name": "Climate",
+      "shortName": "Climate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_98",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_99",
+      "name": "Greater Somalia",
+      "shortName": "Greater Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_100",
+      "name": "Guardafui Channel",
+      "shortName": "Guardafui Channel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_101",
+      "name": "Hafun",
+      "shortName": "Hafun",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_102",
+      "name": "Lamadaya",
+      "shortName": "Lamadaya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_103",
+      "name": "Buur Dhaab",
+      "shortName": "Buur Dhaab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_104",
+      "name": "Awdal",
+      "shortName": "Awdal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_105",
+      "name": "Bakool",
+      "shortName": "Bakool",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_106",
+      "name": "Banaadir",
+      "shortName": "Banaadir",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_107",
+      "name": "Bari",
+      "shortName": "Bari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_108",
+      "name": "Bay",
+      "shortName": "Bay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_109",
+      "name": "Galguduud",
+      "shortName": "Galguduud",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_110",
+      "name": "Gedo",
+      "shortName": "Gedo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_111",
+      "name": "Sool",
+      "shortName": "Sool",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_112",
+      "name": "Sanaag",
+      "shortName": "Sanaag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_113",
+      "name": "Hiran",
+      "shortName": "Hiran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_114",
+      "name": "Middle Juba",
+      "shortName": "Middle Juba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_115",
+      "name": "Lower Juba",
+      "shortName": "Lower Juba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_116",
+      "name": "Mudug",
+      "shortName": "Mudug",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_117",
+      "name": "Nugal",
+      "shortName": "Nugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_118",
+      "name": "Middle Shebelle",
+      "shortName": "Middle Shebelle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_119",
+      "name": "Lower Shebelle",
+      "shortName": "Lower Shebelle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_120",
+      "name": "Togdheer",
+      "shortName": "Togdheer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_121",
+      "name": "Woqooyi Galbeed",
+      "shortName": "Woqooyi Galbeed",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_122",
+      "name": "Galmudug",
+      "shortName": "Galmudug",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_123",
+      "name": "Khatumo",
+      "shortName": "Khatumo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_124",
+      "name": "Hirshabelle",
+      "shortName": "Hirshabelle",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_125",
+      "name": "Jubaland",
+      "shortName": "Jubaland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_126",
+      "name": "Puntland",
+      "shortName": "Puntland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_127",
+      "name": "South West Somalia",
+      "shortName": "South West",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_128",
+      "name": "Cabinet",
+      "shortName": "Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_129",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_130",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_131",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_132",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_133",
+      "name": "Judiciary",
+      "shortName": "Judiciary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_134",
+      "name": "Law (Xeer)",
+      "shortName": "Law (Xeer)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_135",
+      "name": "Political history",
+      "shortName": "Political history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_136",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_137",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_138",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_139",
+      "name": "Central Bank",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_140",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_141",
+      "name": "Economic history",
+      "shortName": "Economic history",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_142",
+      "name": "EEZ",
+      "shortName": "EEZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_143",
+      "name": "Mineral industry",
+      "shortName": "Mineral industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_144",
+      "name": "Oil industry",
+      "shortName": "Oil industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_145",
+      "name": "Shilling (currency)",
+      "shortName": "Shilling (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_146",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_147",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_148",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_149",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_150",
+      "name": "Child marriage",
+      "shortName": "Child marriage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_151",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_152",
+      "name": "Deafness",
+      "shortName": "Deafness",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_153",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_154",
+      "name": "Diaspora",
+      "shortName": "Diaspora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_155",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_156",
+      "name": "Mental health",
+      "shortName": "Mental health",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_157",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_158",
+      "name": "Polygamy",
+      "shortName": "Polygamy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_159",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_160",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_161",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_162",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_163",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_164",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_165",
+      "name": "Folklore",
+      "shortName": "Folklore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_166",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_167",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_168",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_169",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_170",
+      "name": "Sports",
+      "shortName": "Sports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_171",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_172",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_173",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_174",
+      "name": "Banks of Somalia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_175",
+      "name": "Lists of companies of Somalia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_176",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_177",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_178",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SO_179",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

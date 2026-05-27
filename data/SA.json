@@ -1,33 +1,873 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "SA",
   "institutions": [
     {
-      "code": "RIABORDDH",
+      "code": "SA_0",
+      "name": "List of companies of Saudi Arabia",
+      "shortName": "List of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_1",
+      "name": "Public Investment Fund",
+      "shortName": "Public Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_2",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_3",
+      "name": "Banks of Saudi Arabia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_4",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_5",
+      "name": "Lists of companies of Saudi Arabia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_6",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_7",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_8",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_9",
+      "name": "Saudi National Bank (SNB)",
+      "shortName": "Saudi National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_10",
+      "name": "البنك الأهلي السعودي",
+      "shortName": "البنك الأهلي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_11",
+      "name": "Riyadh",
+      "shortName": "Riyadh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_12",
+      "name": "1953",
+      "shortName": "1953",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_13",
+      "name": "1180",
+      "shortName": "1180",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_14",
+      "name": "Local Bank",
+      "shortName": "Local",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_15",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_16",
       "name": "Al Rajhi Bank",
       "shortName": "Al Rajhi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SAMBSARIY",
-      "name": "Saudi National Bank",
-      "shortName": "SNB",
+      "code": "SA_17",
+      "name": "مصرف الراجحي",
+      "shortName": "مصرف الراجحي",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RYAD",
+      "code": "SA_18",
+      "name": "1957",
+      "shortName": "1957",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_19",
+      "name": "1120",
+      "shortName": "1120",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_20",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_21",
       "name": "Riyad Bank",
-      "shortName": "Riyad Bank",
+      "shortName": "Riyad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SABB",
-      "name": "Saudi British Bank",
-      "shortName": "SABB",
+      "code": "SA_22",
+      "name": "بنك الرياض",
+      "shortName": "بنك الرياض",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_23",
+      "name": "1010",
+      "shortName": "1010",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_24",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_25",
+      "name": "Saudi Awwal Bank (SAB)",
+      "shortName": "Saudi Awwal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_26",
+      "name": "البنك السعودي الأول",
+      "shortName": "البنك السعودي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_27",
+      "name": "1978",
+      "shortName": "1978",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_28",
+      "name": "1060",
+      "shortName": "1060",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_29",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_30",
+      "name": "Arab National Bank (ANB)",
+      "shortName": "Arab National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_31",
+      "name": "البنك العربي الوطني",
+      "shortName": "البنك العربي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_32",
+      "name": "1979",
+      "shortName": "1979",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_33",
+      "name": "1080",
+      "shortName": "1080",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_34",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_35",
+      "name": "Alinma Bank",
+      "shortName": "Alinma",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_36",
+      "name": "مصرف الإنماء",
+      "shortName": "مصرف الإنماء",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_37",
+      "name": "2006",
+      "shortName": "2006",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_38",
+      "name": "1150",
+      "shortName": "1150",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_39",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_40",
+      "name": "Banque Saudi Fransi (BSF)",
+      "shortName": "Banque Saudi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_41",
+      "name": "البنك السعودي الفرنسي",
+      "shortName": "البنك السعودي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_42",
+      "name": "1977",
+      "shortName": "1977",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_43",
+      "name": "1050",
+      "shortName": "1050",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_44",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_45",
+      "name": "The Saudi Investment Bank (SAIB)",
+      "shortName": "The Saudi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_46",
+      "name": "البنك السعودي للاستثمار",
+      "shortName": "البنك السعودي",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_47",
+      "name": "1976",
+      "shortName": "1976",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_48",
+      "name": "1030",
+      "shortName": "1030",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_49",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_50",
+      "name": "Bank Albilad",
+      "shortName": "Bank Albilad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_51",
+      "name": "بنك البلاد",
+      "shortName": "بنك البلاد",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_52",
+      "name": "2004",
+      "shortName": "2004",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_53",
+      "name": "1140",
+      "shortName": "1140",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_54",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_55",
+      "name": "Bank Aljazira",
+      "shortName": "Bank Aljazira",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_56",
+      "name": "بنك الجزيرة",
+      "shortName": "بنك الجزيرة",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_57",
+      "name": "Jeddah",
+      "shortName": "Jeddah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_58",
+      "name": "1975",
+      "shortName": "1975",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_59",
+      "name": "1020",
+      "shortName": "1020",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_60",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_61",
+      "name": "Gulf International Bank Saudi Arabia (GIB-SA)",
+      "shortName": "Gulf International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_62",
+      "name": "بنك الخليج الدولي",
+      "shortName": "بنك الخليج",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_63",
+      "name": "Khobar",
+      "shortName": "Khobar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_64",
+      "name": "2017",
+      "shortName": "2017",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_65",
+      "name": "—",
+      "shortName": "—",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_66",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_67",
+      "name": "D360 Bank",
+      "shortName": "D360",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_68",
+      "name": "بنك دال ثلاثمائة وستون",
+      "shortName": "بنك دال",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_69",
+      "name": "2024",
+      "shortName": "2024",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_70",
+      "name": "Digital Bank",
+      "shortName": "Digital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_71",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_72",
+      "name": "STC Bank",
+      "shortName": "STC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_73",
+      "name": "بنك إس تي سي",
+      "shortName": "بنك إس",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_74",
+      "name": "2025",
+      "shortName": "2025",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_75",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_76",
+      "name": "Vision Bank",
+      "shortName": "Vision",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_77",
+      "name": "بنك فيجن",
+      "shortName": "بنك فيجن",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_78",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_79",
+      "name": "EZ Bank",
+      "shortName": "EZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_80",
+      "name": "آيزي بنك",
+      "shortName": "آيزي بنك",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_81",
+      "name": "Digital Bank (Not yet operational)",
+      "shortName": "Digital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_82",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_83",
+      "name": "National Bank of Bahrain (NBB)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_84",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_85",
+      "name": "Bank of China Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_86",
+      "name": "Industrial and Commercial Bank of China (ICBC)",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_87",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_88",
+      "name": "Banque Misr",
+      "shortName": "Banque Misr",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_89",
+      "name": "National Bank of Egypt",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_90",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_91",
+      "name": "BNP Paribas",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_92",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_93",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_94",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_95",
+      "name": "Bank Syariah Indonesia",
+      "shortName": "Bank Syariah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_96",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_97",
+      "name": "National Bank of Iraq",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_98",
+      "name": "Trade Bank of Iraq",
+      "shortName": "Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_99",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_100",
+      "name": "MUFG Bank, Ltd.",
+      "shortName": "MUFG,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_101",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_102",
+      "name": "Bank of Jordan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_103",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_104",
+      "name": "National Bank of Kuwait (NBK)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_105",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_106",
+      "name": "Bank Muscat",
+      "shortName": "Bank Muscat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_107",
+      "name": "Sohar International Bank",
+      "shortName": "Sohar International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_108",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_109",
+      "name": "National Bank of Pakistan (NBP)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_110",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_111",
+      "name": "Qatar National Bank (QNB)",
+      "shortName": "Qatar National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_112",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_113",
+      "name": "UBS AG Bank (Previously Credit Suisse)",
+      "shortName": "UBS AG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_114",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_115",
+      "name": "Ziraat Bankası",
+      "shortName": "Ziraatası",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_116",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_117",
+      "name": "Abu Dhabi Commercial Bank (ADCB)",
+      "shortName": "Abu Dhabi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_118",
+      "name": "Emirates NBD",
+      "shortName": "Emirates NBD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_119",
+      "name": "First Abu Dhabi Bank (FAB)",
+      "shortName": "First Abu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_120",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_121",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_122",
+      "name": "United States",
+      "shortName": "United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SA_123",
+      "name": "J.P. Morgan Chase",
+      "shortName": "J.P. Morgan",
       "type": "bank",
       "aliases": ""
     }

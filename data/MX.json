@@ -1,40 +1,1279 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "MX",
   "institutions": [
     {
-      "code": "CENBMX",
-      "name": "Central Bank of MX",
-      "shortName": "Central Bank",
+      "code": "MX_0",
+      "name": "Bank of Mexico",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBMX",
-      "name": "National Bank of MX",
-      "shortName": "National Bank",
+      "code": "MX_1",
+      "name": "Actinver",
+      "shortName": "Actinver",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABMX",
-      "name": "State Bank of MX",
-      "shortName": "State Bank",
+      "code": "MX_2",
+      "name": "Banca Afirme",
+      "shortName": "Banca Afirme",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBMX",
-      "name": "Commercial Bank of MX",
-      "shortName": "Commercial Bank",
+      "code": "MX_3",
+      "name": "Banca Mifel",
+      "shortName": "Banca Mifel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBMX",
-      "name": "First MX Bank",
-      "shortName": "First Bank",
+      "code": "MX_4",
+      "name": "Banco Azteca",
+      "shortName": "Banco Azteca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_5",
+      "name": "Banco BASE",
+      "shortName": "Banco BASE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_6",
+      "name": "Banco Bineo",
+      "shortName": "Banco Bineo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_7",
+      "name": "Banco Covalto",
+      "shortName": "Banco Covalto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_8",
+      "name": "Banco Dondé",
+      "shortName": "Banco Dondé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_9",
+      "name": "Banco Inmobiliario Mexicano",
+      "shortName": "Banco Inmobiliario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_10",
+      "name": "Banco Invex",
+      "shortName": "Banco Invex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_11",
+      "name": "Banco Multiva",
+      "shortName": "Banco Multiva",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_12",
+      "name": "Banco Monex",
+      "shortName": "Banco Monex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_13",
+      "name": "Banco Pagatodo",
+      "shortName": "Banco Pagatodo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_14",
+      "name": "Banco Plata",
+      "shortName": "Banco Plata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_15",
+      "name": "Banco Ve por Más",
+      "shortName": "Banco Ve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_16",
+      "name": "BanBajío",
+      "shortName": "BanBajío",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_17",
+      "name": "BanCoppel",
+      "shortName": "BanCoppel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_18",
+      "name": "Bancrea",
+      "shortName": "Bancrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_19",
+      "name": "Banfeliz",
+      "shortName": "Banfeliz",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_20",
+      "name": "Bankaool",
+      "shortName": "Bankaool",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_21",
+      "name": "Banorte",
+      "shortName": "Banorte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_22",
+      "name": "BanRegio",
+      "shortName": "BanRegio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_23",
+      "name": "Bansí",
+      "shortName": "Bansí",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_24",
+      "name": "Compartamos Banco",
+      "shortName": "Compartamos Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_25",
+      "name": "Consubanco",
+      "shortName": "Consubanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_26",
+      "name": "Grupo Financiero Banamex",
+      "shortName": "Grupo Financiero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_27",
+      "name": "Grupo Financiero Kapital",
+      "shortName": "Grupo Financiero",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_28",
+      "name": "Hey Banco",
+      "shortName": "Hey Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_29",
+      "name": "Inbursa",
+      "shortName": "Inbursa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_30",
+      "name": "American Express Bank",
+      "shortName": "American Express",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_31",
+      "name": "Banco Falabella",
+      "shortName": "Banco Falabella",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_32",
+      "name": "Banco Sabadell",
+      "shortName": "Banco Sabadell",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_33",
+      "name": "Banco Volkswagen México",
+      "shortName": "Banco Volkswagen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_34",
+      "name": "Bank of America",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_35",
+      "name": "Bank of China",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_36",
+      "name": "Bank Saderat Iran",
+      "shortName": "Bank Saderat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_37",
+      "name": "Barclays Mexico",
+      "shortName": "Barclays Mexico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_38",
+      "name": "Citibank Mexico",
+      "shortName": "Citibank Mexico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_39",
+      "name": "Credit Suisse",
+      "shortName": "Credit Suisse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_40",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_41",
+      "name": "HSBC México",
+      "shortName": "HSBC México",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_42",
+      "name": "Industrial and Commercial Bank of China",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_43",
+      "name": "ING Mexico",
+      "shortName": "ING Mexico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_44",
+      "name": "J. P. Morgan Chase",
+      "shortName": "J. P.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_45",
+      "name": "Mizuho Bank Mexico",
+      "shortName": "Mizuho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_46",
+      "name": "MUFG",
+      "shortName": "MUFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_47",
+      "name": "Nubank",
+      "shortName": "Nubank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_48",
+      "name": "Openbank",
+      "shortName": "Openbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_49",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_50",
+      "name": "Santander México, formerly Banco Santander Serfin.",
+      "shortName": "Santander México,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_51",
+      "name": "Shinhan Bank",
+      "shortName": "Shinhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_52",
+      "name": "Ualá",
+      "shortName": "Ualá",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_53",
+      "name": "UBS Bank",
+      "shortName": "UBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_54",
+      "name": "Bancomext, SNC (Export - import bank)",
+      "shortName": "Bancomext, SNC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_55",
+      "name": "Banjercito, SNC (Army)",
+      "shortName": "Banjercito, SNC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_56",
+      "name": "Banobras, SNC (Subnational and project finance)",
+      "shortName": "Banobras, SNC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_57",
+      "name": "Financiera Rural (Agriculture)",
+      "shortName": "Financiera Rural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_58",
+      "name": "Nafinsa, SNC",
+      "shortName": "Nafinsa, SNC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_59",
+      "name": "SHF, SNC (Mortgage)",
+      "shortName": "SHF, SNC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_60",
+      "name": "ABC Capital (bought by Banco Ualá)",
+      "shortName": "ABC Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_61",
+      "name": "Accendo Banco (failed)",
+      "shortName": "Accendo Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_62",
+      "name": "Agrofinanzas  (bought and became Bankaool)",
+      "shortName": "Agrofinanzas (bought",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_63",
+      "name": "Banco Amigo (bought by ABC Capital)",
+      "shortName": "Banco Amigo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_64",
+      "name": "Banco Autofin  (bought by Grupo Financiero Kapital)",
+      "shortName": "Banco Autofin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_65",
+      "name": "Banca Confia (failed); acquired by Citibank Mexico",
+      "shortName": "Banca Confia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_66",
+      "name": "Banca Cremi (bought and became Banco Unión)",
+      "shortName": "Banca Cremi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_67",
+      "name": "Banca Promex (begin as Banco de Zamora)",
+      "shortName": "Banca Promex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_68",
+      "name": "Banco Bilbao Vizcaya (bought Bancomer)",
+      "shortName": "Banco Bilbao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_69",
+      "name": "Banco Central Mexicano (failed, early 20th century)",
+      "shortName": "Banco Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_70",
+      "name": "Banco Forjadores  (bought by Banfeliz)",
+      "shortName": "Banco Forjadores",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_71",
+      "name": "Banco de Oriente (bought by BBVA)",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_72",
+      "name": "Banco del Sureste",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_73",
+      "name": "Banco Hipotecario",
+      "shortName": "Banco Hipotecario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_74",
+      "name": "Banco Internacional (bought by Prime and became BITAL)",
+      "shortName": "Banco Internacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_75",
+      "name": "Banco Interacciones (bought by Banorte)",
+      "shortName": "Banco Interacciones",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_76",
+      "name": "Banco Longoria",
+      "shortName": "Banco Longoria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_77",
+      "name": "Banco Sofimex",
+      "shortName": "Banco Sofimex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_78",
+      "name": "Banco Unión (failed and bought by Banorte)",
+      "shortName": "Banco Unión",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_79",
+      "name": "Banco Viltaza (sold to Inbursa)",
+      "shortName": "Banco Viltaza",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_80",
+      "name": "Bancreser (later Bancrecer)",
+      "shortName": "Bancreser (later",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_81",
+      "name": "Banpaís (bought by Asemex)",
+      "shortName": "Banpaís (bought",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_82",
+      "name": "Banpeco (bought by BNCI)",
+      "shortName": "Banpeco (bought",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_83",
+      "name": "Banoro",
+      "shortName": "Banoro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_84",
+      "name": "Banrural",
+      "shortName": "Banrural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_85",
+      "name": "Banco BCH (bought by Banco Unión)",
+      "shortName": "Banco BCH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_86",
+      "name": "BITAL (taken over by HSBC)",
+      "shortName": "BITAL (taken",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_87",
+      "name": "CI Banco (assets acquired by Banco Multiva)",
+      "shortName": "CI Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_88",
+      "name": "Crédito Méxicano",
+      "shortName": "Crédito Méxicano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_89",
+      "name": "KEB Hana Mexico (Sold Mexican unit to InvestaBank S.A.)",
+      "shortName": "KEB Hana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_90",
+      "name": "Intercam (assets acquired by Grupo Financiero Kapital)",
+      "shortName": "Intercam (assets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_91",
+      "name": "IXE Banco (merged with Banorte)",
+      "shortName": "IXE Banco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_92",
+      "name": "Grupo Bursatil Mexicano (bought by Banco del Atlántico)",
+      "shortName": "Grupo Bursatil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_93",
+      "name": "Multibanco Mercantil de México",
+      "shortName": "Multibanco Mercantil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_94",
+      "name": "Multibanco Mercantil Probursa (later BBVA Probursa)",
+      "shortName": "Multibanco Mercantil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_95",
+      "name": "Prudential Bank (taken over by Actinver S. A.)",
+      "shortName": "Prudential",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_96",
+      "name": "Ziraat Bank Mexico (went bankrupt)",
+      "shortName": "Ziraat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_97",
+      "name": "Bancomext",
+      "shortName": "Bancomext",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_98",
+      "name": "Banobras",
+      "shortName": "Banobras",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_99",
+      "name": "Banco del Bienestar",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_100",
+      "name": "Agrofinanzas",
+      "shortName": "Agrofinanzas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_101",
+      "name": "Banco Ahorro Famsa",
+      "shortName": "Banco Ahorro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_102",
+      "name": "Banco Amigo",
+      "shortName": "Banco Amigo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_103",
+      "name": "Banco Autofin",
+      "shortName": "Banco Autofin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_104",
+      "name": "Bansi S.A.",
+      "shortName": "Bansi S.A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_105",
+      "name": "Banco Facil (Chedraui)",
+      "shortName": "Banco Facil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_106",
+      "name": "Banco Famsa",
+      "shortName": "Banco Famsa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_107",
+      "name": "Banco Interacciones",
+      "shortName": "Banco Interacciones",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_108",
+      "name": "Banco Ve X +",
+      "shortName": "Banco Ve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_109",
+      "name": "Banamex",
+      "shortName": "Banamex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_110",
+      "name": "BBVA México",
+      "shortName": "BBVA México",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_111",
+      "name": "MUFG Bank",
+      "shortName": "MUFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_112",
+      "name": "Santander México",
+      "shortName": "Santander México",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_113",
+      "name": "Scotiabank",
+      "shortName": "Scotiabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_114",
+      "name": "Antigua and Barbuda",
+      "shortName": "Antigua and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_115",
+      "name": "Argentina",
+      "shortName": "Argentina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_116",
+      "name": "Bahamas",
+      "shortName": "Bahamas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_117",
+      "name": "Barbados",
+      "shortName": "Barbados",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_118",
+      "name": "Belize",
+      "shortName": "Belize",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_119",
+      "name": "Bolivia",
+      "shortName": "Bolivia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_120",
+      "name": "Brazil",
+      "shortName": "Brazil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_121",
+      "name": "Canada",
+      "shortName": "Canada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_122",
+      "name": "Chile",
+      "shortName": "Chile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_123",
+      "name": "Colombia",
+      "shortName": "Colombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_124",
+      "name": "Costa Rica",
+      "shortName": "Costa Rica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_125",
+      "name": "Cuba",
+      "shortName": "Cuba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_126",
+      "name": "Dominica",
+      "shortName": "Dominica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_127",
+      "name": "Dominican Republic",
+      "shortName": "Dominican Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_128",
+      "name": "Ecuador",
+      "shortName": "Ecuador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_129",
+      "name": "El Salvador",
+      "shortName": "El Salvador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_130",
+      "name": "Grenada",
+      "shortName": "Grenada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_131",
+      "name": "Guatemala",
+      "shortName": "Guatemala",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_132",
+      "name": "Guyana",
+      "shortName": "Guyana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_133",
+      "name": "Haiti",
+      "shortName": "Haiti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_134",
+      "name": "Honduras",
+      "shortName": "Honduras",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_135",
+      "name": "Jamaica",
+      "shortName": "Jamaica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_136",
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_137",
+      "name": "Nicaragua",
+      "shortName": "Nicaragua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_138",
+      "name": "Panama",
+      "shortName": "Panama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_139",
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_140",
+      "name": "Peru",
+      "shortName": "Peru",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_141",
+      "name": "Saint Kitts and Nevis",
+      "shortName": "Saint Kitts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_142",
+      "name": "Saint Lucia",
+      "shortName": "Saint Lucia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_143",
+      "name": "Saint Vincent and the Grenadines",
+      "shortName": "Saint Vincent",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_144",
+      "name": "Suriname",
+      "shortName": "Suriname",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_145",
+      "name": "Trinidad and Tobago",
+      "shortName": "Trinidad and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_146",
+      "name": "United States",
+      "shortName": "United States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_147",
+      "name": "Uruguay",
+      "shortName": "Uruguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_148",
+      "name": "Venezuela",
+      "shortName": "Venezuela",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_149",
+      "name": "Anguilla",
+      "shortName": "Anguilla",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_150",
+      "name": "Aruba",
+      "shortName": "Aruba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_151",
+      "name": "Bermuda",
+      "shortName": "Bermuda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_152",
+      "name": "Bonaire",
+      "shortName": "Bonaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_153",
+      "name": "British Virgin Islands",
+      "shortName": "British Virgin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_154",
+      "name": "Cayman Islands",
+      "shortName": "Cayman Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_155",
+      "name": "Curaçao",
+      "shortName": "Curaçao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_156",
+      "name": "Falkland Islands",
+      "shortName": "Falkland Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_157",
+      "name": "French Guiana",
+      "shortName": "French Guiana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_158",
+      "name": "Greenland",
+      "shortName": "Greenland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_159",
+      "name": "Guadeloupe",
+      "shortName": "Guadeloupe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_160",
+      "name": "Martinique",
+      "shortName": "Martinique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_161",
+      "name": "Montserrat",
+      "shortName": "Montserrat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_162",
+      "name": "Puerto Rico",
+      "shortName": "Puerto Rico",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_163",
+      "name": "Saba",
+      "shortName": "Saba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_164",
+      "name": "Saint Barthélemy",
+      "shortName": "Saint Barthélemy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_165",
+      "name": "Saint Martin",
+      "shortName": "Saint Martin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_166",
+      "name": "Saint Pierre and Miquelon",
+      "shortName": "Saint Pierre",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_167",
+      "name": "Sint Eustatius",
+      "shortName": "Sint Eustatius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_168",
+      "name": "Sint Maarten",
+      "shortName": "Sint Maarten",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_169",
+      "name": "South Georgia and the South Sandwich Islands",
+      "shortName": "South Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_170",
+      "name": "Turks and Caicos Islands",
+      "shortName": "Turks and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_171",
+      "name": "U.S. Virgin Islands",
+      "shortName": "U.S. Virgin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_172",
+      "name": "North America",
+      "shortName": "North America",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_173",
+      "name": "Central America",
+      "shortName": "Central America",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_174",
+      "name": "Caribbean",
+      "shortName": "Caribbean",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_175",
+      "name": "South America",
+      "shortName": "South America",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_176",
+      "name": "Banks of Mexico",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_177",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_178",
+      "name": "Lists of companies of Mexico",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_179",
+      "name": "Lists of banks in North America",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_180",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MX_181",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

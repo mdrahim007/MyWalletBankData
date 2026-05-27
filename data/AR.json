@@ -1,40 +1,579 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "AR",
   "institutions": [
     {
-      "code": "CENBAR",
-      "name": "Central Bank of AR",
-      "shortName": "Central Bank",
+      "code": "AR_0",
+      "name": "Argentine economic crisis (1999–2002)",
+      "shortName": "Argentine economic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBAR",
-      "name": "National Bank of AR",
-      "shortName": "National Bank",
+      "code": "AR_1",
+      "name": "Corralito",
+      "shortName": "Corralito",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABAR",
-      "name": "State Bank of AR",
-      "shortName": "State Bank",
+      "code": "AR_2",
+      "name": "(in Spanish and English) Central Bank official website",
+      "shortName": "(in Spanish",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBAR",
-      "name": "Commercial Bank of AR",
-      "shortName": "Commercial Bank",
+      "code": "AR_3",
+      "name": "Nación",
+      "shortName": "Nación",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBAR",
-      "name": "First AR Bank",
-      "shortName": "First Bank",
+      "code": "AR_4",
+      "name": "Ciudad",
+      "shortName": "Ciudad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_5",
+      "name": "Provincia",
+      "shortName": "Provincia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_6",
+      "name": "BBVA",
+      "shortName": "BBVA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_7",
+      "name": "Brubank",
+      "shortName": "Brubank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_8",
+      "name": "Credicoop",
+      "shortName": "Credicoop",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_9",
+      "name": "Galicia",
+      "shortName": "Galicia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_10",
+      "name": "Hipotecario",
+      "shortName": "Hipotecario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_11",
+      "name": "ICBC",
+      "shortName": "ICBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_12",
+      "name": "Macro",
+      "shortName": "Macro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_13",
+      "name": "Patagonia",
+      "shortName": "Patagonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_14",
+      "name": "Santander",
+      "shortName": "Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_15",
+      "name": "Municipal de Rosario",
+      "shortName": "Municipal de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_16",
+      "name": "Nuevo de Santa Fe",
+      "shortName": "Nuevo de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_17",
+      "name": "Santiago del Estero",
+      "shortName": "Santiago del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_18",
+      "name": "Banco Credicoop",
+      "shortName": "Banco Credicoop",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_19",
+      "name": "Banelco",
+      "shortName": "Banelco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_20",
+      "name": "Naranja X",
+      "shortName": "Naranja X",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_21",
+      "name": "Red Link",
+      "shortName": "Red Link",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_22",
+      "name": "Ualá",
+      "shortName": "Ualá",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_23",
+      "name": "Unidad de Inteligencia Financiera",
+      "shortName": "Unidad de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_24",
+      "name": "Ministry of the Treasury",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_25",
+      "name": "Agricultural colonies ·&#160;Railway nationalization",
+      "shortName": "Agricultural colonies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_26",
+      "name": "Five-Year Plans",
+      "shortName": "Five-Year Plans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_27",
+      "name": "Rodrigazo",
+      "shortName": "Rodrigazo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_28",
+      "name": "Austral plan",
+      "shortName": "Austral plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_29",
+      "name": "Spring plan",
+      "shortName": "Spring plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_30",
+      "name": "BONEX plan",
+      "shortName": "BONEX plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_31",
+      "name": "Convertibility plan",
+      "shortName": "Convertibility plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_32",
+      "name": "Railway privatisation",
+      "shortName": "Railway privatisation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_33",
+      "name": "1998–2002 crisis",
+      "shortName": "1998–2002 crisis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_34",
+      "name": "2007–10 recession",
+      "shortName": "2007–10 recession",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_35",
+      "name": "2008 farmers' strike",
+      "shortName": "2008 farmers'",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_36",
+      "name": "Argentine currency controls (2011–15)",
+      "shortName": "Argentine currency",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_37",
+      "name": "2018–present Argentine monetary crisis",
+      "shortName": "2018–present Argentine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_38",
+      "name": "Historical exchange rates",
+      "shortName": "Historical exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_39",
+      "name": "Beef",
+      "shortName": "Beef",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_40",
+      "name": "Estancia",
+      "shortName": "Estancia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_41",
+      "name": "Timber",
+      "shortName": "Timber",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_42",
+      "name": "Tobacco",
+      "shortName": "Tobacco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_43",
+      "name": "Whaling",
+      "shortName": "Whaling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_44",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_45",
+      "name": "Defence industry",
+      "shortName": "Defence industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_46",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_47",
+      "name": "Foreign trade",
+      "shortName": "Foreign trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_48",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_49",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_50",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_51",
+      "name": "Argentine peso",
+      "shortName": "Argentine peso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_52",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_53",
+      "name": "Infrastructure",
+      "shortName": "Infrastructure",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_54",
+      "name": "Ministry of Economy",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_55",
+      "name": "Provincial economies",
+      "shortName": "Provincial economies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_56",
+      "name": "Provinces by HDI",
+      "shortName": "Provinces by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_57",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_58",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_59",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_60",
+      "name": "Argentina",
+      "shortName": "Argentina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_61",
+      "name": "Bolivia",
+      "shortName": "Bolivia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_62",
+      "name": "Brazil",
+      "shortName": "Brazil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_63",
+      "name": "Chile",
+      "shortName": "Chile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_64",
+      "name": "Colombia",
+      "shortName": "Colombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_65",
+      "name": "Ecuador",
+      "shortName": "Ecuador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_66",
+      "name": "Guyana",
+      "shortName": "Guyana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_67",
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_68",
+      "name": "Peru",
+      "shortName": "Peru",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_69",
+      "name": "Suriname",
+      "shortName": "Suriname",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_70",
+      "name": "Uruguay",
+      "shortName": "Uruguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_71",
+      "name": "Venezuela",
+      "shortName": "Venezuela",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_72",
+      "name": "Falkland Islands",
+      "shortName": "Falkland Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_73",
+      "name": "French Guiana",
+      "shortName": "French Guiana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_74",
+      "name": "South Georgia and the South Sandwich Islands",
+      "shortName": "South Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_75",
+      "name": "Banking in Argentina",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_76",
+      "name": "Finance in Argentina",
+      "shortName": "Finance in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_77",
+      "name": "Articles to be expanded from January 2024",
+      "shortName": "Articles to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_78",
+      "name": "Articles lacking in-text citations from July 2025",
+      "shortName": "Articles lacking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_79",
+      "name": "All articles lacking in-text citations",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_80",
+      "name": "Articles with multiple maintenance issues",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AR_81",
+      "name": "Articles with Spanish-language sources (es)",
+      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

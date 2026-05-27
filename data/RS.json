@@ -1,40 +1,1699 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "RS",
   "institutions": [
     {
-      "code": "CENBRS",
-      "name": "Central Bank of RS",
-      "shortName": "Central Bank",
+      "code": "RS_0",
+      "name": "Banking",
+      "shortName": "Banking",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBRS",
-      "name": "National Bank of RS",
-      "shortName": "National Bank",
+      "code": "RS_1",
+      "name": "Banks",
+      "shortName": "Banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABRS",
-      "name": "State Bank of RS",
-      "shortName": "State Bank",
+      "code": "RS_2",
+      "name": "Companies",
+      "shortName": "Companies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBRS",
-      "name": "Commercial Bank of RS",
-      "shortName": "Commercial Bank",
+      "code": "RS_3",
+      "name": "Insurance",
+      "shortName": "Insurance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBRS",
-      "name": "First RS Bank",
-      "shortName": "First Bank",
+      "code": "RS_4",
+      "name": "National Bank of Serbia",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_5",
+      "name": "Stock Exchange",
+      "shortName": "Stock Exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_6",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_7",
+      "name": "Automotive industry",
+      "shortName": "Automotive industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_8",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_9",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_10",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_11",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_12",
+      "name": "Culture",
+      "shortName": "Culture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_13",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_14",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_15",
+      "name": "Geography",
+      "shortName": "Geography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_16",
+      "name": "History",
+      "shortName": "History",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_17",
+      "name": "Politics",
+      "shortName": "Politics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_18",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_19",
+      "name": "Serbia&#32;portal",
+      "shortName": "Serbia&#32;portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_20",
+      "name": "Dafiment banka (May 1993)",
+      "shortName": "Dafiment banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_21",
+      "name": "Jugoskandik (July 1993)",
+      "shortName": "Jugoskandik (July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_22",
+      "name": "BB Slavija banka (October 2001)",
+      "shortName": "BB Slavija",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_23",
+      "name": "Beogradska banka (January 2002)&#91;4&#93;",
+      "shortName": "Beogradska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_24",
+      "name": "Beobanka (January 2002)&#91;4&#93;",
+      "shortName": "Beobanka (January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_25",
+      "name": "Jugobanka (January 2002)&#91;4&#93;",
+      "shortName": "Jugobanka (January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_26",
+      "name": "Investbanka (January 2002)&#91;4&#93;",
+      "shortName": "Investbanka (January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_27",
+      "name": "Borska banka (February 2004)",
+      "shortName": "Borska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_28",
+      "name": "Valjevska banka (November 2004)",
+      "shortName": "Valjevska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_29",
+      "name": "JIK banka (April 2005)",
+      "shortName": "JIK banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_30",
+      "name": "Srpska komercijalna banka (December 2005)",
+      "shortName": "Srpska komercijalna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_31",
+      "name": "Control banka (January 2007)",
+      "shortName": "Control banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_32",
+      "name": "Medifarm banka (January 2007)",
+      "shortName": "Medifarm banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_33",
+      "name": "Zepter banka (May 2007)",
+      "shortName": "Zepter banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_34",
+      "name": "Kombanka (June 2007)",
+      "shortName": "Kombanka (June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_35",
+      "name": "MONTEX banka (July 2007)",
+      "shortName": "MONTEX banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_36",
+      "name": "Raj banka (November 2007)",
+      "shortName": "Raj banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_37",
+      "name": "AIK Banka Senta (January 2008)",
+      "shortName": "AIKa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_38",
+      "name": "BC Bank Credit (May 2008)",
+      "shortName": "BC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_39",
+      "name": "Gold Internacional Bank (October 2008)",
+      "shortName": "Gold Internacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_40",
+      "name": "Astra banka (October 2008)",
+      "shortName": "Astra banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_41",
+      "name": "YU EKI banka (January 2009)",
+      "shortName": "YU EKI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_42",
+      "name": "Razvojna banka Vojvodine (2010)",
+      "shortName": "Razvojna banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_43",
+      "name": "Agrobanka (May 2012)",
+      "shortName": "Agrobanka (May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_44",
+      "name": "Nova Agrobanka (October 2012)",
+      "shortName": "Nova Agrobanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_45",
+      "name": "Privredna banka (October 2013)",
+      "shortName": "Privredna banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_46",
+      "name": "Univerzal banka (February 2014)",
+      "shortName": "Univerzal banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_47",
+      "name": "Findomestic Bank Serbia (November 2016)",
+      "shortName": "Findomestic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_48",
+      "name": "Jubanka (December 2017)",
+      "shortName": "Jubanka (December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_49",
+      "name": "Jugobanka Jugbanka (April 2018)",
+      "shortName": "Jugobanka Jugbanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_50",
+      "name": "Piraeus Bank Beograd (October 2018)",
+      "shortName": "Piraeus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_51",
+      "name": "Vojvođanska banka (April 2019)",
+      "shortName": "Vojvođanska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_52",
+      "name": "OTP banka Srbija (April 2021)",
+      "shortName": "OTP banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_53",
+      "name": "mts banka (July 2021)",
+      "shortName": "mts banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_54",
+      "name": "Direktna Banka (December 2021)",
+      "shortName": "Direktnaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_55",
+      "name": "NLB banka (April 2022)",
+      "shortName": "NLB banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_56",
+      "name": "Naša AIK Banka (December 2022)",
+      "shortName": "Naša AIK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_57",
+      "name": "Eurobank Direktna (March 2025)",
+      "shortName": "Eurobank Direktna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_58",
+      "name": "Citibank, United States",
+      "shortName": "Citibank, United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_59",
+      "name": "Deutsche Bank, Germany",
+      "shortName": "Deutsche,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_60",
+      "name": "Banking in Serbia",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_61",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_62",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_63",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_64",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_65",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_66",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_67",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_68",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_69",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_70",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_71",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_72",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_73",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_74",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_75",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_76",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_77",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_78",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_79",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_80",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_81",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_82",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_83",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_84",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_85",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_86",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_87",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_88",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_89",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_90",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_91",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_92",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_93",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_94",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_95",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_96",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_97",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_98",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_99",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_100",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_101",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_102",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_103",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_104",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_105",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_106",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_107",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_108",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_109",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_110",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_111",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_112",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_113",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_114",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_115",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_116",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_117",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_118",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_119",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_120",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_121",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_122",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_123",
+      "name": "Banks of Serbia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_124",
+      "name": "Lists of companies of Serbia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_125",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_126",
+      "name": "CS1 Serbian-language sources (sr)",
+      "shortName": "CS1 Serbian-language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_127",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_128",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_129",
+      "name": "Bank",
+      "shortName": "Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_130",
+      "name": "Bank's name in a simplified form",
+      "shortName": "Bank's name",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_131",
+      "name": "Capital",
+      "shortName": "Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_132",
+      "name": "Majority owner origin",
+      "shortName": "Majority owner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_133",
+      "name": "Headquarters",
+      "shortName": "Headquarters",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_134",
+      "name": "Location of bank's headquarters in Serbia",
+      "shortName": "Location of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_135",
+      "name": "Assets",
+      "shortName": "Assets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_136",
+      "name": "Equity",
+      "shortName": "Equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_137",
+      "name": "Ratio",
+      "shortName": "Ratio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_138",
+      "name": "Equity to assets ratio percentage",
+      "shortName": "Equity to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_139",
+      "name": "Employees",
+      "shortName": "Employees",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_140",
+      "name": "Number of people working at the bank",
+      "shortName": "Number of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_141",
+      "name": "3banka",
+      "shortName": "3banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_142",
+      "name": "Novi Sad",
+      "shortName": "Novi Sad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_143",
+      "name": "301",
+      "shortName": "301",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_144",
+      "name": "51",
+      "shortName": "51",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_145",
+      "name": "17.35",
+      "shortName": "17.35",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_146",
+      "name": "567",
+      "shortName": "567",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_147",
+      "name": "Addiko Bank",
+      "shortName": "Addiko",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_148",
+      "name": "Belgrade",
+      "shortName": "Belgrade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_149",
+      "name": "884",
+      "shortName": "884",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_150",
+      "name": "208",
+      "shortName": "208",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_151",
+      "name": "23.16",
+      "shortName": "23.16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_152",
+      "name": "535",
+      "shortName": "535",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_153",
+      "name": "AikBank",
+      "shortName": "AikBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_154",
+      "name": "6,290",
+      "shortName": "6,290",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_155",
+      "name": "830",
+      "shortName": "830",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_156",
+      "name": "13.79",
+      "shortName": "13.79",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_157",
+      "name": "648",
+      "shortName": "648",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_158",
+      "name": "Alta banka",
+      "shortName": "Alta banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_159",
+      "name": "1,654",
+      "shortName": "1,654",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_160",
+      "name": "144",
+      "shortName": "144",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_161",
+      "name": "13.35",
+      "shortName": "13.35",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_162",
+      "name": "195",
+      "shortName": "195",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_163",
+      "name": "Adriatic Bank",
+      "shortName": "Adriatic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_164",
+      "name": "284",
+      "shortName": "284",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_165",
+      "name": "52",
+      "shortName": "52",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_166",
+      "name": "16.94",
+      "shortName": "16.94",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_167",
+      "name": "135",
+      "shortName": "135",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_168",
+      "name": "API Bank",
+      "shortName": "API",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_169",
+      "name": "221",
+      "shortName": "221",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_170",
+      "name": "42",
+      "shortName": "42",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_171",
+      "name": "21.43",
+      "shortName": "21.43",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_172",
+      "name": "85",
+      "shortName": "85",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_173",
+      "name": "Banca Intesa",
+      "shortName": "Banca Intesa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_174",
+      "name": "9,149",
+      "shortName": "9,149",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_175",
+      "name": "1,120",
+      "shortName": "1,120",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_176",
+      "name": "12.82",
+      "shortName": "12.82",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_177",
+      "name": "3,124",
+      "shortName": "3,124",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_178",
+      "name": "Banka Poštanska štedionica",
+      "shortName": "Banka Poštanska",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_179",
+      "name": "5,136",
+      "shortName": "5,136",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_180",
+      "name": "403",
+      "shortName": "403",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_181",
+      "name": "8.71",
+      "shortName": "8.71",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_182",
+      "name": "2,751",
+      "shortName": "2,751",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_183",
+      "name": "Bank of China Srbija",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_184",
+      "name": "378",
+      "shortName": "378",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_185",
+      "name": "11.86",
+      "shortName": "11.86",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_186",
+      "name": "28",
+      "shortName": "28",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_187",
+      "name": "Erste Bank",
+      "shortName": "Erste",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_188",
+      "name": "3,776",
+      "shortName": "3,776",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_189",
+      "name": "498",
+      "shortName": "498",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_190",
+      "name": "14.44",
+      "shortName": "14.44",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_191",
+      "name": "1,244",
+      "shortName": "1,244",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_192",
+      "name": "Halkbank",
+      "shortName": "Halkbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_193",
+      "name": "1,448",
+      "shortName": "1,448",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_194",
+      "name": "241",
+      "shortName": "241",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_195",
+      "name": "20.13",
+      "shortName": "20.13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_196",
+      "name": "623",
+      "shortName": "623",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_197",
+      "name": "Mirabank",
+      "shortName": "Mirabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_198",
+      "name": "69",
+      "shortName": "69",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_199",
+      "name": "43",
+      "shortName": "43",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_200",
+      "name": "56.58",
+      "shortName": "56.58",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_201",
+      "name": "40",
+      "shortName": "40",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_202",
+      "name": "NLB Komercijalna banka",
+      "shortName": "NLB Komercijalna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_203",
+      "name": "6,066",
+      "shortName": "6,066",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_204",
+      "name": "911",
+      "shortName": "911",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_205",
+      "name": "16.33",
+      "shortName": "16.33",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_206",
+      "name": "2,582",
+      "shortName": "2,582",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_207",
+      "name": "OTP Banka Srbija",
+      "shortName": "OTPa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_208",
+      "name": "8,490",
+      "shortName": "8,490",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_209",
+      "name": "1,087",
+      "shortName": "1,087",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_210",
+      "name": "13.37",
+      "shortName": "13.37",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_211",
+      "name": "2,825",
+      "shortName": "2,825",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_212",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_213",
+      "name": "1,513",
+      "shortName": "1,513",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_214",
+      "name": "182",
+      "shortName": "182",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_215",
+      "name": "12.46",
+      "shortName": "12.46",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_216",
+      "name": "390",
+      "shortName": "390",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_217",
+      "name": "Raiffeisen Bank",
+      "shortName": "Raiffeisen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_218",
+      "name": "6,599",
+      "shortName": "6,599",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_219",
+      "name": "756",
+      "shortName": "756",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_220",
+      "name": "12.18",
+      "shortName": "12.18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_221",
+      "name": "2,270",
+      "shortName": "2,270",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_222",
+      "name": "Srpska banka",
+      "shortName": "Srpska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_223",
+      "name": "540",
+      "shortName": "540",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_224",
+      "name": "48",
+      "shortName": "48",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_225",
+      "name": "8.76",
+      "shortName": "8.76",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_226",
+      "name": "76",
+      "shortName": "76",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_227",
+      "name": "UniCredit Bank Serbia",
+      "shortName": "UniCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_228",
+      "name": "6,478",
+      "shortName": "6,478",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_229",
+      "name": "828",
+      "shortName": "828",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_230",
+      "name": "14.21",
+      "shortName": "14.21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_231",
+      "name": "1,344",
+      "shortName": "1,344",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_232",
+      "name": "Yettel Bank",
+      "shortName": "Yettel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_233",
+      "name": "439",
+      "shortName": "439",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_234",
+      "name": "45",
+      "shortName": "45",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_235",
+      "name": "12.99",
+      "shortName": "12.99",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_236",
+      "name": "542",
+      "shortName": "542",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_237",
+      "name": "Total",
+      "shortName": "Total",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_238",
+      "name": "59,725",
+      "shortName": "59,725",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_239",
+      "name": "7,546",
+      "shortName": "7,546",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_240",
+      "name": "13.29",
+      "shortName": "13.29",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RS_241",
+      "name": "21,728",
+      "shortName": "21,728",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,747 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "CI",
   "institutions": [
     {
-      "code": "CENBCI",
-      "name": "Central Bank of CI",
-      "shortName": "Central Bank",
+      "code": "CI_0",
+      "name": "AFG Bank Côte d'Ivoire, part of Atlantic Financial Group",
+      "shortName": "AFG",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBCI",
-      "name": "National Bank of CI",
-      "shortName": "National Bank",
+      "code": "CI_1",
+      "name": "Banque Atlantique Côte d'Ivoire (BACI), part of BCP Group",
+      "shortName": "Banque Atlantique",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABCI",
-      "name": "State Bank of CI",
-      "shortName": "State Bank",
+      "code": "CI_2",
+      "name": "Banque d'Abidjan",
+      "shortName": "Banque d'Abidjan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBCI",
-      "name": "Commercial Bank of CI",
-      "shortName": "Commercial Bank",
+      "code": "CI_3",
+      "name": "Banque de l'Habitat de Côte d'Ivoire (BHCI)",
+      "shortName": "Banque de",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBCI",
-      "name": "First CI Bank",
-      "shortName": "First Bank",
+      "code": "CI_4",
+      "name": "Banque De l'Union - Côte d'Ivoire (BDU-CI)",
+      "shortName": "Banque De",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_5",
+      "name": "Banque Nationale d'Investissement",
+      "shortName": "Banque Nationale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_6",
+      "name": "Banque Populaire de Côte d'Ivoire",
+      "shortName": "Banque Populaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_7",
+      "name": "BGFIBank Côte d'Ivoire, part of BGFIBank Group",
+      "shortName": "BGFIBank Côte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_8",
+      "name": "Bridge Bank Group Côte d'Ivoire (BBG-CI)",
+      "shortName": "Bridge",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_9",
+      "name": "Citibank Côte d'Ivoire, part of Citigroup",
+      "shortName": "Citibank Côte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_10",
+      "name": "Ecobank Côte d'Ivoire, part of Ecobank Group",
+      "shortName": "Ecobank Côte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_11",
+      "name": "Mansa Bank",
+      "shortName": "Mansa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_12",
+      "name": "Orabank Côte d'Ivoire, part of Orabank Group",
+      "shortName": "Orabank Côte",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_13",
+      "name": "Orange Bank Côte d'Ivoire, part of Orange Group",
+      "shortName": "Orange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_14",
+      "name": "Stanbic Bank, part of Standard Bank Group",
+      "shortName": "Stanbic,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_15",
+      "name": "United Bank for Africa (UBA), part of UBA Group",
+      "shortName": "United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_16",
+      "name": "Versus Bank",
+      "shortName": "Versus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_17",
+      "name": "Branch of Banque Malienne de Solidarité (BMS)",
+      "shortName": "Branch of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_18",
+      "name": "Branch of Banque Régionale de Marchés (BRM)",
+      "shortName": "Branch of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_19",
+      "name": "Economy of Ivory Coast",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_20",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_21",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_22",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_23",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_24",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_25",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_26",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_27",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_28",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_29",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_30",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_31",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_32",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_33",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_34",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_35",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_36",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_37",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_38",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_39",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_40",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_41",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_42",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_43",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_44",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_45",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_46",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_47",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_48",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_49",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_50",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_51",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_52",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_53",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_54",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_55",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_56",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_57",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_58",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_59",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_60",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_61",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_62",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_63",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_64",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_65",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_66",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_67",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_68",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_69",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_70",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_71",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_72",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_73",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_74",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_75",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_76",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_77",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_78",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_79",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_80",
+      "name": "History of trade",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_81",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_82",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_83",
+      "name": "Banana",
+      "shortName": "Banana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_84",
+      "name": "Cocoa",
+      "shortName": "Cocoa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_85",
+      "name": "Coffee",
+      "shortName": "Coffee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_86",
+      "name": "Cotton",
+      "shortName": "Cotton",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_87",
+      "name": "Fishing",
+      "shortName": "Fishing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_88",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_89",
+      "name": "Palm oil",
+      "shortName": "Palm oil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_90",
+      "name": "Pineapple",
+      "shortName": "Pineapple",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_91",
+      "name": "Petroleum",
+      "shortName": "Petroleum",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_92",
+      "name": "Timber",
+      "shortName": "Timber",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_93",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_94",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_95",
+      "name": "Banque de l'Afrique Occidentale",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_96",
+      "name": "Central Bank of West African States",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_97",
+      "name": "BRVM Composite",
+      "shortName": "BRVM Composite",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_98",
+      "name": "Banks of Ivory Coast",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_99",
+      "name": "Lists of companies of Ivory Coast",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_100",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_101",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_102",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_103",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_104",
+      "name": "All articles with unsourced statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_105",
+      "name": "Articles with unsourced statements from December 2024",
+      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,572 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "SM",
   "institutions": [
     {
-      "code": "CENBSM",
-      "name": "Central Bank of SM",
-      "shortName": "Central Bank",
+      "code": "SM_0",
+      "name": "Albania",
+      "shortName": "Albania",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSM",
-      "name": "National Bank of SM",
-      "shortName": "National Bank",
+      "code": "SM_1",
+      "name": "Andorra",
+      "shortName": "Andorra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSM",
-      "name": "State Bank of SM",
-      "shortName": "State Bank",
+      "code": "SM_2",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSM",
-      "name": "Commercial Bank of SM",
-      "shortName": "Commercial Bank",
+      "code": "SM_3",
+      "name": "Austria",
+      "shortName": "Austria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSM",
-      "name": "First SM Bank",
-      "shortName": "First Bank",
+      "code": "SM_4",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_5",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_6",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_7",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_8",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_9",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_10",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_11",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_12",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_13",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_14",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_15",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_16",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_17",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_18",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_19",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_20",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_21",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_22",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_23",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_24",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_25",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_26",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_27",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_28",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_29",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_30",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_31",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_32",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_33",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_34",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_35",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_36",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_37",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_38",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_39",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_40",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_41",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_42",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_43",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_44",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_45",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_46",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_47",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_48",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_49",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_50",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_51",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_52",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_53",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_54",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_55",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_56",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_57",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_58",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_59",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_60",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_61",
+      "name": "Banks of San Marino",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_62",
+      "name": "Lists of organizations based in San Marino",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_63",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_64",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_65",
+      "name": "CS1 Italian-language sources (it)",
+      "shortName": "CS1 Italian-language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_66",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_67",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_68",
+      "name": "www.bcsm.sm/en/",
+      "shortName": "www.bcsm.sm/en/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_69",
+      "name": "Banca Agricola Commerciale Istituto Bancario Sammarinese",
+      "shortName": "Banca Agricola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_70",
+      "name": "www.bac.sm",
+      "shortName": "www.bac.sm",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_71",
+      "name": "BASMSMSM",
+      "shortName": "BASMSMSM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_72",
+      "name": "Banca di San Marino",
+      "shortName": "Banca di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_73",
+      "name": "www.bsm.sm",
+      "shortName": "www.bsm.sm",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_74",
+      "name": "MAOISMS1",
+      "shortName": "MAOISMS1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_75",
+      "name": "Banca Sammarinese di Investimento",
+      "shortName": "Banca Sammarinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_76",
+      "name": "www.bsi.sm",
+      "shortName": "www.bsi.sm",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_77",
+      "name": "BSDISMSD",
+      "shortName": "BSDISMSD",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_78",
+      "name": "Cassa di Risparmio della Repubblica di San Marino",
+      "shortName": "Cassa di",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_79",
+      "name": "www.carisp.sm",
+      "shortName": "www.carisp.sm",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SM_80",
+      "name": "CSSMSMSM",
+      "shortName": "CSSMSMSM",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,145 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "SI",
   "institutions": [
     {
-      "code": "CENBSI",
-      "name": "Central Bank of SI",
-      "shortName": "Central Bank",
+      "code": "SI_0",
+      "name": "AikGroup (Cyprus) Ltd, holding entity of Gorenjska Banka",
+      "shortName": "AikGroup (Cyprus)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSI",
-      "name": "National Bank of SI",
-      "shortName": "National Bank",
+      "code": "SI_1",
+      "name": "Nova Ljubljanska Banka dd, parent entity of NLB Group",
+      "shortName": "Nova Ljubljanska",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSI",
-      "name": "State Bank of SI",
-      "shortName": "State Bank",
+      "code": "SI_2",
+      "name": "Delavska Hranilnica dd Ljubljana&#160;&#91;sl&#93;",
+      "shortName": "Delavska Hranilnica",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSI",
-      "name": "Commercial Bank of SI",
-      "shortName": "Commercial Bank",
+      "code": "SI_3",
+      "name": "Deželna Banka Slovenije dd",
+      "shortName": "Deželnaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSI",
-      "name": "First SI Bank",
-      "shortName": "First Bank",
+      "code": "SI_4",
+      "name": "Hranilnica Lon dd Kranj",
+      "shortName": "Hranilnica Lon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_5",
+      "name": "Primorska hranilnica Vipava dd",
+      "shortName": "Primorska hranilnica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_6",
+      "name": "Carniolan Savings Bank (1820-1945)",
+      "shortName": "Carniolan Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_7",
+      "name": "Murska Sobota Savings Bank&#160;&#91;sl&#93; (1873-1945)",
+      "shortName": "Murska Sobota",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_8",
+      "name": "Ljubljana Credit Bank (1900-1945)",
+      "shortName": "Ljubljana Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_9",
+      "name": "Carniolan Regional Bank&#160;&#91;sl&#93; (1909-1930)",
+      "shortName": "Carniolan Regional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_10",
+      "name": "Ljubljanska Banka (1955-1994)",
+      "shortName": "Ljubljanskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_11",
+      "name": "SKB Housing and Communal Bank&#160;&#91;sl&#93; (1965-2024)",
+      "shortName": "SKB Housing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_12",
+      "name": "Nova Kreditna Banka Maribor (1994-2024)",
+      "shortName": "Nova Kreditna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_13",
+      "name": "Banks of Slovenia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_14",
+      "name": "Lists of companies of Slovenia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_15",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_16",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_17",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_18",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_19",
+      "name": "Articles containing Slovene-language text",
+      "shortName": "Articles containing",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,859 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "HR",
   "institutions": [
     {
-      "code": "CENBHR",
-      "name": "Central Bank of HR",
-      "shortName": "Central Bank",
+      "code": "HR_0",
+      "name": "Counties (GDP)",
+      "shortName": "Counties (GDP)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBHR",
-      "name": "National Bank of HR",
-      "shortName": "National Bank",
+      "code": "HR_1",
+      "name": "Currency history",
+      "shortName": "Currency history",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABHR",
-      "name": "State Bank of HR",
-      "shortName": "State Bank",
+      "code": "HR_2",
+      "name": "Banking system",
+      "shortName": "Banking system",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBHR",
-      "name": "Commercial Bank of HR",
-      "shortName": "Commercial Bank",
+      "code": "HR_3",
+      "name": "Banks",
+      "shortName": "Banks",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBHR",
-      "name": "First HR Bank",
-      "shortName": "First Bank",
+      "code": "HR_4",
+      "name": "Brands",
+      "shortName": "Brands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_5",
+      "name": "Companies",
+      "shortName": "Companies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_6",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_7",
+      "name": "Euro",
+      "shortName": "Euro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_8",
+      "name": "Croatian National Bank",
+      "shortName": "Croatian National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_9",
+      "name": "Stock Exchange",
+      "shortName": "Stock Exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_10",
+      "name": "Privatization",
+      "shortName": "Privatization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_11",
+      "name": "Industry",
+      "shortName": "Industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_12",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_13",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_14",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_15",
+      "name": "Automotive",
+      "shortName": "Automotive",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_16",
+      "name": "Defence",
+      "shortName": "Defence",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_17",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_18",
+      "name": "History",
+      "shortName": "History",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_19",
+      "name": "Culture",
+      "shortName": "Culture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_20",
+      "name": "Politics",
+      "shortName": "Politics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_21",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_22",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_23",
+      "name": "Geography",
+      "shortName": "Geography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_24",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_25",
+      "name": "Croatia&#32;portal",
+      "shortName": "Croatia&#32;portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_26",
+      "name": "Hrvatska poštanska banka dd, a state-owned institution",
+      "shortName": "Hrvatska poštanska",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_27",
+      "name": "OTP Banka dd, subsidiary of Budapest-based OTP Bank",
+      "shortName": "OTPa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_28",
+      "name": "Agram Banka dd, in Zagreb",
+      "shortName": "Agrama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_29",
+      "name": "Banka Kovanica dd, in Varaždin",
+      "shortName": "Banka Kovanica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_30",
+      "name": "Croatia Banka dd&#160;&#91;hr&#93;, in Zagreb",
+      "shortName": "Croatiaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_31",
+      "name": "Imex banka dd, in Split",
+      "shortName": "Imex banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_32",
+      "name": "Istarska Kreditna Banka Umag dd, in Umag",
+      "shortName": "Istarska Kreditna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_33",
+      "name": "J&amp;T Banka dd, in Varaždin",
+      "shortName": "J&amp;Ta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_34",
+      "name": "Karlovačka Banka dd, in Karlovac",
+      "shortName": "Karlovačkaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_35",
+      "name": "KentBank dd, in Zagreb",
+      "shortName": "KentBank dd,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_36",
+      "name": "Partner Banka dd, in Zagreb",
+      "shortName": "Partnera",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_37",
+      "name": "Podravska Banka dd, in Koprivnica",
+      "shortName": "Podravskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_38",
+      "name": "Samoborska Banka dd, in Samobor",
+      "shortName": "Samoborskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_39",
+      "name": "Slatinska Banka dd, in Slatina",
+      "shortName": "Slatinskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_40",
+      "name": "Solvera Stambena Štedionica dd, in Zagreb",
+      "shortName": "Solvera Stambena",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_41",
+      "name": "First Croatian Savings Bank (1846-1945)",
+      "shortName": "First Croatian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_42",
+      "name": "Croatian Discount Bank (1868-1945)",
+      "shortName": "Croatian Discount",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_43",
+      "name": "Istrian Loan Bank in Pula&#160;&#91;hr&#93; (1891-1928)",
+      "shortName": "Istrian Loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_44",
+      "name": "Serbian Bank in Zagreb (1895-1945)",
+      "shortName": "Serbian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_45",
+      "name": "Medulin Loan Bank (1898-1928)",
+      "shortName": "Medulin Loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_46",
+      "name": "Jugoslavenska Banka (1909-1945)",
+      "shortName": "Jugoslavenskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_47",
+      "name": "City Savings Bank of Zagreb (1913-1952)",
+      "shortName": "City Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_48",
+      "name": "Slavenska Banka (1918-1925)",
+      "shortName": "Slavenskaa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_49",
+      "name": "Croatian State Bank&#160;&#91;hr&#93; (1941-1945)",
+      "shortName": "Croatian State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_50",
+      "name": "Cibalae Banka&#160;&#91;hr&#93; (1961-2000)",
+      "shortName": "Cibalaea&#160;&#91;hr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_51",
+      "name": "Splitska banka (1965-2018)",
+      "shortName": "Splitska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_52",
+      "name": "Primorska banka (2001-2018)",
+      "shortName": "Primorska banka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_53",
+      "name": "Overview of banks in Croatia",
+      "shortName": "Overview of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_54",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_55",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_56",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_57",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_58",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_59",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_60",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_61",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_62",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_63",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_64",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_65",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_66",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_67",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_68",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_69",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_70",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_71",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_72",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_73",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_74",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_75",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_76",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_77",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_78",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_79",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_80",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_81",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_82",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_83",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_84",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_85",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_86",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_87",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_88",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_89",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_90",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_91",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_92",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_93",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_94",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_95",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_96",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_97",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_98",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_99",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_100",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_101",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_102",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_103",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_104",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_105",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_106",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_107",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_108",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_109",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_110",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_111",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_112",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_113",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_114",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_115",
+      "name": "Banks of Croatia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_116",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_117",
+      "name": "Lists of companies of Croatia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_118",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_119",
+      "name": "Economy of Croatia",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_120",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HR_121",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

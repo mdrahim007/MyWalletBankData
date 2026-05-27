@@ -1,40 +1,2357 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "UA",
   "institutions": [
     {
-      "code": "CENBUA",
-      "name": "Central Bank of UA",
-      "shortName": "Central Bank",
+      "code": "UA_0",
+      "name": "National Bank of Ukraine",
+      "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBUA",
-      "name": "National Bank of UA",
-      "shortName": "National Bank",
+      "code": "UA_1",
+      "name": "A-Bank",
+      "shortName": "A-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABUA",
-      "name": "State Bank of UA",
-      "shortName": "State Bank",
+      "code": "UA_2",
+      "name": "Accordbank",
+      "shortName": "Accordbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBUA",
-      "name": "Commercial Bank of UA",
-      "shortName": "Commercial Bank",
+      "code": "UA_3",
+      "name": "Bank Lviv",
+      "shortName": "Bank Lviv",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBUA",
-      "name": "First UA Bank",
-      "shortName": "First Bank",
+      "code": "UA_4",
+      "name": "BTA Bank",
+      "shortName": "BTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_5",
+      "name": "Credit Dnipro Bank",
+      "shortName": "Credit Dnipro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_6",
+      "name": "Credit Europe Bank",
+      "shortName": "Credit Europe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_7",
+      "name": "Creditwest Bank",
+      "shortName": "Creditwest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_8",
+      "name": "UTB Bank Ukraine",
+      "shortName": "UTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_9",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_10",
+      "name": "First Investment Bank",
+      "shortName": "First Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_11",
+      "name": "Idea Bank (99.5% ownership in Getin Holding S.A.)",
+      "shortName": "Idea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_12",
+      "name": "ING Bank Ukraine",
+      "shortName": "ING",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_13",
+      "name": "Marfin Bank",
+      "shortName": "Marfin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_14",
+      "name": "Megabank",
+      "shortName": "Megabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_15",
+      "name": "Piraeus Bank",
+      "shortName": "Piraeus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_16",
+      "name": "Pravex Bank (subsidiary of Intesa Sanpaolo)",
+      "shortName": "Pravex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_17",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_18",
+      "name": "SEB",
+      "shortName": "SEB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_19",
+      "name": "Universal Bank",
+      "shortName": "Universal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_20",
+      "name": "VS Bank",
+      "shortName": "VS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_21",
+      "name": "Concord bank (КОНКОРД банк)",
+      "shortName": "Concord bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_22",
+      "name": "Banking in Ukraine",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_23",
+      "name": "Economy of Ukraine",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_24",
+      "name": "Scythians",
+      "shortName": "Scythians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_25",
+      "name": "Sarmatians",
+      "shortName": "Sarmatians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_26",
+      "name": "Goths",
+      "shortName": "Goths",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_27",
+      "name": "Early Slavs",
+      "shortName": "Early Slavs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_28",
+      "name": "East Slavs",
+      "shortName": "East Slavs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_29",
+      "name": "Kuyaba",
+      "shortName": "Kuyaba",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_30",
+      "name": "Galicia–Volhynia",
+      "shortName": "Galicia–Volhynia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_31",
+      "name": "Mongol invasion",
+      "shortName": "Mongol invasion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_32",
+      "name": "Hetmanate",
+      "shortName": "Hetmanate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_33",
+      "name": "Pereiaslav Agreement",
+      "shortName": "Pereiaslav Agreement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_34",
+      "name": "Russification",
+      "shortName": "Russification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_35",
+      "name": "Galician Russophilia",
+      "shortName": "Galician Russophilia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_36",
+      "name": "Supreme Ruthenian Council",
+      "shortName": "Supreme Ruthenian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_37",
+      "name": "Hromada",
+      "shortName": "Hromada",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_38",
+      "name": "Treaty of Brest",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_39",
+      "name": "Ukrainian State",
+      "shortName": "Ukrainian State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_40",
+      "name": "West Ukrainian People's Republic",
+      "shortName": "West Ukrainian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_41",
+      "name": "Makhnovshchina",
+      "shortName": "Makhnovshchina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_42",
+      "name": "Ukrainization",
+      "shortName": "Ukrainization",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_43",
+      "name": "Holodomor",
+      "shortName": "Holodomor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_44",
+      "name": "Executed Renaissance",
+      "shortName": "Executed Renaissance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_45",
+      "name": "Pacification",
+      "shortName": "Pacification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_46",
+      "name": "Carpatho-Ukraine",
+      "shortName": "Carpatho-Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_47",
+      "name": "Bessarabia and Bukovina",
+      "shortName": "Bessarabia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_48",
+      "name": "Eastern Front",
+      "shortName": "Eastern Front",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_49",
+      "name": "Reichskommissariat Ukraine",
+      "shortName": "Reichskommissariat Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_50",
+      "name": "Ukrainian Insurgent Army",
+      "shortName": "Ukrainian Insurgent",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_51",
+      "name": "Volhynia massacre",
+      "shortName": "Volhynia massacre",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_52",
+      "name": "Ukrainian National Committee",
+      "shortName": "Ukrainian National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_53",
+      "name": "1946-1947 famine",
+      "shortName": "1946-1947 famine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_54",
+      "name": "Operation Vistula",
+      "shortName": "Operation Vistula",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_55",
+      "name": "Sixtiers",
+      "shortName": "Sixtiers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_56",
+      "name": "Ukrainian Helsinki Group",
+      "shortName": "Ukrainian Helsinki",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_57",
+      "name": "Chernobyl disaster",
+      "shortName": "Chernobyl disaster",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_58",
+      "name": "Declaration of Independence",
+      "shortName": "Declaration of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_59",
+      "name": "Referendum",
+      "shortName": "Referendum",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_60",
+      "name": "Ukrainian oligarchs",
+      "shortName": "Ukrainian oligarchs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_61",
+      "name": "Orange Revolution",
+      "shortName": "Orange Revolution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_62",
+      "name": "2014 pro-Russian unrest",
+      "shortName": "2014 pro-Russian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_63",
+      "name": "Annexation of Crimea by Russia",
+      "shortName": "Annexation of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_64",
+      "name": "War in Donbas",
+      "shortName": "War in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_65",
+      "name": "2022 Russian invasion",
+      "shortName": "2022 Russian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_66",
+      "name": "Christianity",
+      "shortName": "Christianity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_67",
+      "name": "Economic",
+      "shortName": "Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_68",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_69",
+      "name": "Cartography",
+      "shortName": "Cartography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_70",
+      "name": "Historic reserves",
+      "shortName": "Historic reserves",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_71",
+      "name": "Islands and sandbars",
+      "shortName": "Islands and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_72",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_73",
+      "name": "Nature reserves",
+      "shortName": "Nature reserves",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_74",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_75",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_76",
+      "name": "Rural settlements",
+      "shortName": "Rural settlements",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_77",
+      "name": "Villages",
+      "shortName": "Villages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_78",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_79",
+      "name": "Seven Wonders of Ukraine",
+      "shortName": "Seven Wonders",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_80",
+      "name": "Spits",
+      "shortName": "Spits",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_81",
+      "name": "Waterfalls",
+      "shortName": "Waterfalls",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_82",
+      "name": "World Heritage Sites",
+      "shortName": "World Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_83",
+      "name": "Administrative divisions",
+      "shortName": "Administrative divisions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_84",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_85",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_86",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_87",
+      "name": "Ukraine–NATO relations",
+      "shortName": "Ukraine–NATO relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_88",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_89",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_90",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_91",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_92",
+      "name": "President",
+      "shortName": "President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_93",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_94",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_95",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_96",
+      "name": "Industry",
+      "shortName": "Industry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_97",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_98",
+      "name": "Stock exchanges",
+      "shortName": "Stock exchanges",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_99",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_100",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_101",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_102",
+      "name": "Human trafficking",
+      "shortName": "Human trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_103",
+      "name": "Organized crime",
+      "shortName": "Organized crime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_104",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_105",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_106",
+      "name": "Gender inequality",
+      "shortName": "Gender inequality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_107",
+      "name": "HIV/AIDS",
+      "shortName": "HIV/AIDS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_108",
+      "name": "Swine flu",
+      "shortName": "Swine flu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_109",
+      "name": "COVID-19",
+      "shortName": "COVID-19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_110",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_111",
+      "name": "Minorities",
+      "shortName": "Minorities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_112",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_113",
+      "name": "Suicide",
+      "shortName": "Suicide",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_114",
+      "name": "Baroque",
+      "shortName": "Baroque",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_115",
+      "name": "Art Nouveau",
+      "shortName": "Art Nouveau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_116",
+      "name": "Ukrainian khata",
+      "shortName": "Ukrainian khata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_117",
+      "name": "Wooden churches",
+      "shortName": "Wooden churches",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_118",
+      "name": "Kosiv ceramics",
+      "shortName": "Kosiv ceramics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_119",
+      "name": "Opishnia ceramics",
+      "shortName": "Opishnia ceramics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_120",
+      "name": "Petrykivka painting",
+      "shortName": "Petrykivka painting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_121",
+      "name": "Pysanka",
+      "shortName": "Pysanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_122",
+      "name": "Rushnyk",
+      "shortName": "Rushnyk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_123",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_124",
+      "name": "Dance",
+      "shortName": "Dance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_125",
+      "name": "Kozhukh/Kozhushanka",
+      "shortName": "Kozhukh/Kozhushanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_126",
+      "name": "Ochipok",
+      "shortName": "Ochipok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_127",
+      "name": "Sharovary",
+      "shortName": "Sharovary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_128",
+      "name": "Vyshyvanka",
+      "shortName": "Vyshyvanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_129",
+      "name": "Embroidery",
+      "shortName": "Embroidery",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_130",
+      "name": "Wreath",
+      "shortName": "Wreath",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_131",
+      "name": "Vertep",
+      "shortName": "Vertep",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_132",
+      "name": "Day of Unity",
+      "shortName": "Day of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_133",
+      "name": "Butter Week",
+      "shortName": "Butter Week",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_134",
+      "name": "Easter",
+      "shortName": "Easter",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_135",
+      "name": "Green Week",
+      "shortName": "Green Week",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_136",
+      "name": "Kupala Night",
+      "shortName": "Kupala Night",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_137",
+      "name": "Independence Day",
+      "shortName": "Independence Day",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_138",
+      "name": "Pokrova/Defenders Day",
+      "shortName": "Pokrova/Defenders Day",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_139",
+      "name": "Saint Nicholas Day",
+      "shortName": "Saint Nicholas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_140",
+      "name": "Christmas",
+      "shortName": "Christmas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_141",
+      "name": "Malanka",
+      "shortName": "Malanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_142",
+      "name": "Vechornytsi",
+      "shortName": "Vechornytsi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_143",
+      "name": "Traditional wedding",
+      "shortName": "Traditional wedding",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_144",
+      "name": "Intangible Cultural Heritage",
+      "shortName": "Intangible Cultural",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_145",
+      "name": "contemporary",
+      "shortName": "contemporary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_146",
+      "name": "sci-fi",
+      "shortName": "sci-fi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_147",
+      "name": "Duma/Dumka",
+      "shortName": "Duma/Dumka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_148",
+      "name": "Kobzar",
+      "shortName": "Kobzar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_149",
+      "name": "Koliadka",
+      "shortName": "Koliadka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_150",
+      "name": "Shchedryk",
+      "shortName": "Shchedryk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_151",
+      "name": "Opera",
+      "shortName": "Opera",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_152",
+      "name": "Traditional singing",
+      "shortName": "Traditional singing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_153",
+      "name": "Photography",
+      "shortName": "Photography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_154",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_155",
+      "name": "Theatre",
+      "shortName": "Theatre",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_156",
+      "name": "Ruthenians",
+      "shortName": "Ruthenians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_157",
+      "name": "Gente Ruthenus, natione Polonus",
+      "shortName": "Gente Ruthenus,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_158",
+      "name": "Little Russian identity",
+      "shortName": "Little Russian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_159",
+      "name": "Diaspora",
+      "shortName": "Diaspora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_160",
+      "name": "Refugees",
+      "shortName": "Refugees",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_161",
+      "name": "Immigration to Ukraine",
+      "shortName": "Immigration to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_162",
+      "name": "Censuses",
+      "shortName": "Censuses",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_163",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_164",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_165",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_166",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_167",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_168",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_169",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_170",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_171",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_172",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_173",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_174",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_175",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_176",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_177",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_178",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_179",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_180",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_181",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_182",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_183",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_184",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_185",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_186",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_187",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_188",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_189",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_190",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_191",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_192",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_193",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_194",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_195",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_196",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_197",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_198",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_199",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_200",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_201",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_202",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_203",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_204",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_205",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_206",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_207",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_208",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_209",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_210",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_211",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_212",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_213",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_214",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_215",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_216",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_217",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_218",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_219",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_220",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_221",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_222",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_223",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_224",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_225",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_226",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_227",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_228",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_229",
+      "name": "Banks of Ukraine",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_230",
+      "name": "Lists of companies of Ukraine",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_231",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_232",
+      "name": "Articles with Ukrainian-language sources (uk)",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_233",
+      "name": "Webarchive template wayback links",
+      "shortName": "Webarchive template",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_234",
+      "name": "CS1 Ukrainian-language sources (uk)",
+      "shortName": "CS1 Ukrainian-language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_235",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_236",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_237",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_238",
+      "name": "PrivatBank (state-owned)",
+      "shortName": "PrivatBank (state-owned)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_239",
+      "name": "727,371",
+      "shortName": "727,371",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_240",
+      "name": "2,243",
+      "shortName": "2,243",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_241",
+      "name": "privatbank.ua",
+      "shortName": "privatbank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_242",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_243",
+      "name": "Oschadbank (state-owned)",
+      "shortName": "Oschadbank (state-owned)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_244",
+      "name": "281,908",
+      "shortName": "281,908",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_245",
+      "name": "3,205",
+      "shortName": "3,205",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_246",
+      "name": "oschadbank.ua",
+      "shortName": "oschadbank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_247",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_248",
+      "name": "Ukreximbank (state-owned)",
+      "shortName": "Ukreximbank (state-owned)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_249",
+      "name": "159,956",
+      "shortName": "159,956",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_250",
+      "name": "65",
+      "shortName": "65",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_251",
+      "name": "eximb.com",
+      "shortName": "eximb.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_252",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_253",
+      "name": "Raiffeisen Bank (Raiffeisen Banking Group)",
+      "shortName": "Raiffeisen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_254",
+      "name": "133,454",
+      "shortName": "133,454",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_255",
+      "name": "503",
+      "shortName": "503",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_256",
+      "name": "raiffeisen.ua",
+      "shortName": "raiffeisen.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_257",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_258",
+      "name": "UTB Bank of Ukraine",
+      "shortName": "UTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_259",
+      "name": "338,542",
+      "shortName": "338,542",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_260",
+      "name": "542",
+      "shortName": "542",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_261",
+      "name": "utbua.org",
+      "shortName": "utbua.org",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_262",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_263",
+      "name": "First Ukrainian International Bank (SCM Group)",
+      "shortName": "First Ukrainian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_264",
+      "name": "124,758",
+      "shortName": "124,758",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_265",
+      "name": "165",
+      "shortName": "165",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_266",
+      "name": "pumb.ua",
+      "shortName": "pumb.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_267",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_268",
+      "name": "Sense Bank (state-owned)",
+      "shortName": "Sense",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_269",
+      "name": "86,184",
+      "shortName": "86,184",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_270",
+      "name": "187",
+      "shortName": "187",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_271",
+      "name": "sensebank.ua",
+      "shortName": "sensebank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_272",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_273",
+      "name": "UkrSibbank (BNP Paribas Group)",
+      "shortName": "UkrSibbank (BNP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_274",
+      "name": "83,721",
+      "shortName": "83,721",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_275",
+      "name": "325",
+      "shortName": "325",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_276",
+      "name": "ukrsibbank.com",
+      "shortName": "ukrsibbank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_277",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_278",
+      "name": "Universal Bank (TAS Group)",
+      "shortName": "Universal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_279",
+      "name": "82,196",
+      "shortName": "82,196",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_280",
+      "name": "universalbank.com.ua",
+      "shortName": "universalbank.com.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_281",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_282",
+      "name": "Crédit Agricole",
+      "shortName": "Crédit Agricole",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_283",
+      "name": "73,511",
+      "shortName": "73,511",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_284",
+      "name": "153",
+      "shortName": "153",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_285",
+      "name": "credit-agricole.ua",
+      "shortName": "credit-agricole.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_286",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_287",
+      "name": "OTP Bank",
+      "shortName": "OTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_288",
+      "name": "73,064",
+      "shortName": "73,064",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_289",
+      "name": "85",
+      "shortName": "85",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_290",
+      "name": "otpbank.com.ua",
+      "shortName": "otpbank.com.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_291",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_292",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_293",
+      "name": "55,005",
+      "shortName": "55,005",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_294",
+      "name": "231",
+      "shortName": "231",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_295",
+      "name": "citibank.ua",
+      "shortName": "citibank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_296",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_297",
+      "name": "KredoBank (PKO Bank Polski Group)",
+      "shortName": "KredoBank (PKO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_298",
+      "name": "37,627",
+      "shortName": "37,627",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_299",
+      "name": "104",
+      "shortName": "104",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_300",
+      "name": "kredobank.ua",
+      "shortName": "kredobank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_301",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_302",
+      "name": "Ukrgasbank (state-owned)",
+      "shortName": "Ukrgasbank (state-owned)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_303",
+      "name": "131,363",
+      "shortName": "131,363",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_304",
+      "name": "243",
+      "shortName": "243",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_305",
+      "name": "ukrgasbank.com",
+      "shortName": "ukrgasbank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_306",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_307",
+      "name": "Pivdennyi Bank",
+      "shortName": "Pivdennyi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_308",
+      "name": "34,954",
+      "shortName": "34,954",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_309",
+      "name": "56",
+      "shortName": "56",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_310",
+      "name": "bank.com.ua",
+      "shortName": "bank.com.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_311",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_312",
+      "name": "TAScombank (TAS Group)",
+      "shortName": "TAScombank (TAS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_313",
+      "name": "27,278",
+      "shortName": "27,278",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_314",
+      "name": "tascombank.ua",
+      "shortName": "tascombank.ua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_315",
+      "name": "Monobank",
+      "shortName": "Monobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_316",
+      "name": "monobank.ua Archived 2020-05-12 at the Wayback Machine",
+      "shortName": "monobank.ua Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_317",
+      "name": "Публічне акціонерне товариство «Універсал Банк»",
+      "shortName": "Публічне акціонерне",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_318",
+      "name": "O.Bank",
+      "shortName": "O.Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_319",
+      "name": "obank.com.ua Archived 2020-06-18 at the Wayback Machine",
+      "shortName": "obank.com.ua Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_320",
+      "name": "Idea Bank",
+      "shortName": "Idea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_321",
+      "name": "Акціонерне товариство «Ідея Банк»",
+      "shortName": "Акціонерне товариство",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_322",
+      "name": "sportbank",
+      "shortName": "sportbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_323",
+      "name": "sportbank.ua Archived 2022-01-27 at the Wayback Machine",
+      "shortName": "sportbank.ua Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_324",
+      "name": "Oksi BankTascombank",
+      "shortName": "OksiTascombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_325",
+      "name": "BVR (Bank Vlasny Rakhunok)",
+      "shortName": "BVR (Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_326",
+      "name": "bvr.ua Archived 2022-01-27 at the Wayback Machine",
+      "shortName": "bvr.ua Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_327",
+      "name": "Bank Vostok",
+      "shortName": "Bank Vostok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_328",
+      "name": "Публічне акціонерне товариство «Банк Восток»",
+      "shortName": "Публічне акціонерне",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_329",
+      "name": "izibank",
+      "shortName": "izibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_330",
+      "name": "izibank.ua Archived 2022-03-15 at the Wayback Machine",
+      "shortName": "izibank.ua Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_331",
+      "name": "Tascombank",
+      "shortName": "Tascombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_332",
+      "name": "Акціонерне товариство «Таскомбанк»",
+      "shortName": "Акціонерне товариство",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_333",
+      "name": "neobank",
+      "shortName": "neobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_334",
+      "name": "neobank.one Archived 2021-04-22 at the Wayback Machine",
+      "shortName": "neobank.one Archived",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UA_335",
+      "name": "Concord Bank",
+      "shortName": "Concord",
       "type": "bank",
       "aliases": ""
     }

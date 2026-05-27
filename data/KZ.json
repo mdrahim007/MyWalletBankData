@@ -1,40 +1,1433 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "KZ",
   "institutions": [
     {
-      "code": "CENBKZ",
-      "name": "Central Bank of KZ",
-      "shortName": "Central Bank",
+      "code": "KZ_0",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBKZ",
-      "name": "National Bank of KZ",
-      "shortName": "National Bank",
+      "code": "KZ_1",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABKZ",
-      "name": "State Bank of KZ",
-      "shortName": "State Bank",
+      "code": "KZ_2",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBKZ",
-      "name": "Commercial Bank of KZ",
-      "shortName": "Commercial Bank",
+      "code": "KZ_3",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBKZ",
-      "name": "First KZ Bank",
-      "shortName": "First Bank",
+      "code": "KZ_4",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_5",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_6",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_7",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_8",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_9",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_10",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_11",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_12",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_13",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_14",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_15",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_16",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_17",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_18",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_19",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_20",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_21",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_22",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_23",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_24",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_25",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_26",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_27",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_28",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_29",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_30",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_31",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_32",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_33",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_34",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_35",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_36",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_37",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_38",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_39",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_40",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_41",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_42",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_43",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_44",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_45",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_46",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_47",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_48",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_49",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_50",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_51",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_52",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_53",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_54",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_55",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_56",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_57",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_58",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_59",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_60",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_61",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_62",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_63",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_64",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_65",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_66",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_67",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_68",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_69",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_70",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_71",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_72",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_73",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_74",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_75",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_76",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_77",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_78",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_79",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_80",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_81",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_82",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_83",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_84",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_85",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_86",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_87",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_88",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_89",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_90",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_91",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_92",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_93",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_94",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_95",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_96",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_97",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_98",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_99",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_100",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_101",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_102",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_103",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_104",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_105",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_106",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_107",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_108",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_109",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_110",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_111",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_112",
+      "name": "Banks of Kazakhstan",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_113",
+      "name": "Economy of Kazakhstan-related lists",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_114",
+      "name": "Financial services companies of Kazakhstan",
+      "shortName": "Financial services",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_115",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_116",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_117",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_118",
+      "name": "Lists of companies of Kazakhstan",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_119",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_120",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_121",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_122",
+      "name": "Halyk Savings Bank of Kazakhstan",
+      "shortName": "Halyk Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_123",
+      "name": "Holding Group ALMEX JSC",
+      "shortName": "Holding Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_124",
+      "name": "14943",
+      "shortName": "14943",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_125",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_126",
+      "name": "Kaspi Bank",
+      "shortName": "Kaspi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_127",
+      "name": "Kaspi Group JSC",
+      "shortName": "Kaspi Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_128",
+      "name": "6689",
+      "shortName": "6689",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_129",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_130",
+      "name": "Bank CenterCredit",
+      "shortName": "Bank CenterCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_131",
+      "name": "Bakhytbek Rymbekovich Baiseitov",
+      "shortName": "Bakhytbek Rymbekovich",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_132",
+      "name": "5261",
+      "shortName": "5261",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_133",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_134",
+      "name": "Otbasy bank",
+      "shortName": "Otbasy bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_135",
+      "name": "National Managing Holding «Baiterek» JSC",
+      "shortName": "National Managing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_136",
+      "name": "3996",
+      "shortName": "3996",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_137",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_138",
+      "name": "ForteBank",
+      "shortName": "ForteBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_139",
+      "name": "Bulat Zhamitovich Utemuratov",
+      "shortName": "Bulat Zhamitovich",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_140",
+      "name": "3444",
+      "shortName": "3444",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_141",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_142",
+      "name": "Jusan Bank",
+      "shortName": "Jusan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_143",
+      "name": "First Heartland Securities JSC",
+      "shortName": "First Heartland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_144",
+      "name": "2869",
+      "shortName": "2869",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_145",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_146",
+      "name": "Eurasian Bank",
+      "shortName": "Eurasian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_147",
+      "name": "Eurasian Financial Company JSC",
+      "shortName": "Eurasian Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_148",
+      "name": "2759",
+      "shortName": "2759",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_149",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_150",
+      "name": "Freedom Bank Kazakhstan",
+      "shortName": "Freedom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_151",
+      "name": "Freedom Finance JSC",
+      "shortName": "Freedom Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_152",
+      "name": "2211",
+      "shortName": "2211",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_153",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_154",
+      "name": "Bereke Bank",
+      "shortName": "Bereke",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_155",
+      "name": "2076",
+      "shortName": "2076",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_156",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_157",
+      "name": "Bank RBK",
+      "shortName": "Bank RBK",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_158",
+      "name": "KCC Financ LLP",
+      "shortName": "KCC Financ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_159",
+      "name": "2044",
+      "shortName": "2044",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_160",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_161",
+      "name": "Citibank Kazakhstan",
+      "shortName": "Citibank Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_162",
+      "name": "Citibank, N.A.",
+      "shortName": "Citibank, N.A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_163",
+      "name": "1087",
+      "shortName": "1087",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_164",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_165",
+      "name": "Altyn Bank",
+      "shortName": "Altyn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_166",
+      "name": "China CITIC Bank Corporation",
+      "shortName": "China CITIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_167",
+      "name": "889",
+      "shortName": "889",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_168",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_169",
+      "name": "Home Credit Bank Kazakhstan",
+      "shortName": "Home Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_170",
+      "name": "Home Credit and Finance Bank LLC",
+      "shortName": "Home Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_171",
+      "name": "803",
+      "shortName": "803",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_172",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_173",
+      "name": "Shinhan Bank Kazakhstan",
+      "shortName": "Shinhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_174",
+      "name": "Shinhan Bank",
+      "shortName": "Shinhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_175",
+      "name": "475",
+      "shortName": "475",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_176",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_177",
+      "name": "Nurbank",
+      "shortName": "Nurbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_178",
+      "name": "JP Finance Group LLP",
+      "shortName": "JP Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_179",
+      "name": "466",
+      "shortName": "466",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_180",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_181",
+      "name": "Bank of China in Kazakhstan",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_182",
+      "name": "Bank of China Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_183",
+      "name": "417",
+      "shortName": "417",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_184",
+      "name": "17",
+      "shortName": "17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_185",
+      "name": "Industrial &amp; Commercial Bank of China (Almaty)",
+      "shortName": "Industrial &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_186",
+      "name": "Industrial and Commercial Bank of China",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_187",
+      "name": "349",
+      "shortName": "349",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_188",
+      "name": "18",
+      "shortName": "18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_189",
+      "name": "KZI Bank",
+      "shortName": "KZI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_190",
+      "name": "T.C. Ziraat Bankası A.Ş.",
+      "shortName": "T.C. Ziraat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_191",
+      "name": "233",
+      "shortName": "233",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_192",
+      "name": "19",
+      "shortName": "19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_193",
+      "name": "VTB Bank Kazakhstan",
+      "shortName": "VTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_194",
+      "name": "PJSC VTB Bank",
+      "shortName": "PJSC VTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_195",
+      "name": "226",
+      "shortName": "226",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_196",
+      "name": "20",
+      "shortName": "20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_197",
+      "name": "Al Hilal Islamic Bank",
+      "shortName": "Al Hilal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_198",
+      "name": "Al Hilal Bank PJSC",
+      "shortName": "Al Hilal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_199",
+      "name": "178",
+      "shortName": "178",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_200",
+      "name": "21",
+      "shortName": "21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_201",
+      "name": "Zaman-Bank",
+      "shortName": "Zaman-Bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_202",
+      "name": "Tasbulat Abguzhinov",
+      "shortName": "Tasbulat Abguzhinov",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KZ_203",
+      "name": "25",
+      "shortName": "25",
       "type": "bank",
       "aliases": ""
     }

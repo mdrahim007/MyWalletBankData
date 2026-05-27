@@ -1,40 +1,1433 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "SK",
   "institutions": [
     {
-      "code": "CENBSK",
-      "name": "Central Bank of SK",
-      "shortName": "Central Bank",
+      "code": "SK_0",
+      "name": "Erste Group (€26 billion), via Slovenská Sporiteľňa",
+      "shortName": "Erste Group",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBSK",
-      "name": "National Bank of SK",
-      "shortName": "National Bank",
+      "code": "SK_1",
+      "name": "Intesa Sanpaolo (€24 billion), via Všeobecná Úverová Banka",
+      "shortName": "Intesa Sanpaolo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABSK",
-      "name": "State Bank of SK",
-      "shortName": "State Bank",
+      "code": "SK_2",
+      "name": "KBC (€15 billion), via ČSOB and 365.bank as",
+      "shortName": "KBC (€15",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBSK",
-      "name": "Commercial Bank of SK",
-      "shortName": "Commercial Bank",
+      "code": "SK_3",
+      "name": "Commerzbank, via mBank Slovakia&#160;&#91;sk&#93;",
+      "shortName": "Commerzbank, via",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBSK",
-      "name": "First SK Bank",
-      "shortName": "First Bank",
+      "code": "SK_4",
+      "name": "Société Générale, via Komerční Banka Bratislava",
+      "shortName": "Société Générale,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_5",
+      "name": "Prvá Stavebná Sporiteľňa as&#160;&#91;sk&#93;",
+      "shortName": "Prvá Stavebná",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_6",
+      "name": "Slovak branch of Fio Banka&#160;&#91;cs&#93;",
+      "shortName": "Slovak branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_7",
+      "name": "Slovak branch of J&amp;T Banka",
+      "shortName": "Slovak branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_8",
+      "name": "Slovak branch of PKO BP SA",
+      "shortName": "Slovak branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_9",
+      "name": "Tatra Banka&#160;&#91;sk&#93; (1884–1948)",
+      "shortName": "Tatraa&#160;&#91;sk&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_10",
+      "name": "Slovak National Bank (1939–1945)",
+      "shortName": "Slovak National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_11",
+      "name": "Istrobanka (1992–2009)&#91;12&#93;",
+      "shortName": "Istrobanka (1992–2009)&#91;12&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_12",
+      "name": "OTP Bank Slovakia&#160;&#91;sk&#93; (2002–2020)&#91;14&#93;",
+      "shortName": "OTP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_13",
+      "name": "UniCredit Bank Slovakia (2007–2013)",
+      "shortName": "UniCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_14",
+      "name": "ZUNO Bank (2010–2017)&#91;15&#93;",
+      "shortName": "ZUNO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_15",
+      "name": "AG Banka, failed in 1999&#91;16&#93;",
+      "shortName": "AGa,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_16",
+      "name": "Dopravná Banka, failed in 2000&#91;18&#93;",
+      "shortName": "Dopravnáa,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_17",
+      "name": "Slovenská Kreditná Banka, failed in 2000&#91;19&#93;",
+      "shortName": "Slovenská Kreditná",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_18",
+      "name": "Devín Banka, failed in 2001&#91;20&#93;",
+      "shortName": "Devína,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_19",
+      "name": "Prvá Komunálna Banka, purchased by Dexia in 2003&#91;5&#93;",
+      "shortName": "Prvá Komunálna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_20",
+      "name": "The Slovak operation of HSBC, ended in 2012&#91;22&#93;",
+      "shortName": "The Slovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_21",
+      "name": "Branch of Royal Bank of Scotland, left in 2015&#91;25&#93;",
+      "shortName": "Branch of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_22",
+      "name": "National Bank of Slovakia official site",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_23",
+      "name": "Slovak Banking Association official site",
+      "shortName": "Slovaking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_24",
+      "name": "Pannonia",
+      "shortName": "Pannonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_25",
+      "name": "Pannonian Limes",
+      "shortName": "Pannonian Limes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_26",
+      "name": "Danubian Limes",
+      "shortName": "Danubian Limes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_27",
+      "name": "Laugaricio",
+      "shortName": "Laugaricio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_28",
+      "name": "Gerulata",
+      "shortName": "Gerulata",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_29",
+      "name": "Celemantia",
+      "shortName": "Celemantia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_30",
+      "name": "Hunnic Empire",
+      "shortName": "Hunnic Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_31",
+      "name": "Ostrogothic Kingdom",
+      "shortName": "Ostrogothic Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_32",
+      "name": "Avar Khaganate",
+      "shortName": "Avar Khaganate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_33",
+      "name": "West Slavs",
+      "shortName": "West Slavs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_34",
+      "name": "Svatopluk the Great",
+      "shortName": "Svatopluk the",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_35",
+      "name": "Balaton Principality",
+      "shortName": "Balaton Principality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_36",
+      "name": "Hungarian invasions of Europe (~800–970)",
+      "shortName": "Hungarian invasions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_37",
+      "name": "Hungarian conquest (862–895)",
+      "shortName": "Hungarian conquest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_38",
+      "name": "Principality of Hungary (895–1000)",
+      "shortName": "Principality of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_39",
+      "name": "High Medieval Kingdom of Hungary (1000–1301)",
+      "shortName": "High Medieval",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_40",
+      "name": "Late Medieval Kingdom of Hungary (1301–1526)",
+      "shortName": "Late Medieval",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_41",
+      "name": "Hungarian–Ottoman Wars (1366–1718)",
+      "shortName": "Hungarian–Ottoman Wars",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_42",
+      "name": "Ottoman Hungary (1541–1699)",
+      "shortName": "Ottoman Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_43",
+      "name": "Principality of Transylvania (1570–1711)",
+      "shortName": "Principality of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_44",
+      "name": "Austrian Empire (1804–1867)",
+      "shortName": "Austrian Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_45",
+      "name": "Kingdom of Hungary (1526–1867)",
+      "shortName": "Kingdom of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_46",
+      "name": "Austro-Hungarian Empire (1867–1918)",
+      "shortName": "Austro-Hungarian Empire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_47",
+      "name": "Demands of the Slovak Nation",
+      "shortName": "Demands of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_48",
+      "name": "Upper Hungary",
+      "shortName": "Upper Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_49",
+      "name": "Treaty of Saint-Germain-en-Laye (1919)",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_50",
+      "name": "Treaty of Trianon (1920)",
+      "shortName": "Treaty of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_51",
+      "name": "First Czechoslovak Republic (1918–1938)",
+      "shortName": "First Czechoslovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_52",
+      "name": "Slovak Soviet Republic (1919)",
+      "shortName": "Slovak Soviet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_53",
+      "name": "Munich Betrayal (1938)",
+      "shortName": "Munich Betrayal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_54",
+      "name": "First Vienna Award (1938)",
+      "shortName": "First Vienna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_55",
+      "name": "Second Czechoslovak Republic (1938–1939)",
+      "shortName": "Second Czechoslovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_56",
+      "name": "Autonomous Land of Slovakia (1938–1939)",
+      "shortName": "Autonomous Land",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_57",
+      "name": "Occupation of Czechoslovakia (1938–1945)",
+      "shortName": "Occupation of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_58",
+      "name": "Czechoslovak government-in-exile (1939–1945)",
+      "shortName": "Czechoslovak government-in-exile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_59",
+      "name": "(First) Slovak Republic (1939–1945)",
+      "shortName": "(First) Slovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_60",
+      "name": "Slovak National Uprising (1944)",
+      "shortName": "Slovak National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_61",
+      "name": "Iron Curtain",
+      "shortName": "Iron Curtain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_62",
+      "name": "Third Czechoslovak Republic (1945–1948)",
+      "shortName": "Third Czechoslovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_63",
+      "name": "Czechoslovak coup d'état (1948)",
+      "shortName": "Czechoslovak coup",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_64",
+      "name": "Fourth Czechoslovak Republic (1948–1960)",
+      "shortName": "Fourth Czechoslovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_65",
+      "name": "Czechoslovak Socialist Republic (1960–1990)",
+      "shortName": "Czechoslovak Socialist",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_66",
+      "name": "Prague Spring (1968)",
+      "shortName": "Prague Spring",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_67",
+      "name": "Warsaw Pact invasion of Czechoslovakia (1968)",
+      "shortName": "Warsaw Pact",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_68",
+      "name": "Slovak Socialist Republic (1969–1990)",
+      "shortName": "Slovak Socialist",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_69",
+      "name": "Velvet Revolution (1989)",
+      "shortName": "Velvet Revolution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_70",
+      "name": "Czech and Slovak Federative Republic (1990–1992)",
+      "shortName": "Czech and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_71",
+      "name": "Slovak Republic (1990–1992)",
+      "shortName": "Slovak Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_72",
+      "name": "Velvet Divorce (1992)",
+      "shortName": "Velvet Divorce",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_73",
+      "name": "Castles",
+      "shortName": "Castles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_74",
+      "name": "Carpathians",
+      "shortName": "Carpathians",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_75",
+      "name": "Cities and towns",
+      "shortName": "Cities and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_76",
+      "name": "Districts",
+      "shortName": "Districts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_77",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_78",
+      "name": "Municipalities",
+      "shortName": "Municipalities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_79",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_80",
+      "name": "Protected areas",
+      "shortName": "Protected areas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_81",
+      "name": "Regions",
+      "shortName": "Regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_82",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_83",
+      "name": "Tourism regions",
+      "shortName": "Tourism regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_84",
+      "name": "Traditional regions",
+      "shortName": "Traditional regions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_85",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_86",
+      "name": "World Heritage Sites (UNESCO)",
+      "shortName": "World Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_87",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_88",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_89",
+      "name": "Seal",
+      "shortName": "Seal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_90",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_91",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_92",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_93",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_94",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_95",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_96",
+      "name": "Nationalism",
+      "shortName": "Nationalism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_97",
+      "name": "National Council (parliament)",
+      "shortName": "National Council",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_98",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_99",
+      "name": "President",
+      "shortName": "President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_100",
+      "name": "Prime Minister",
+      "shortName": "Prime Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_101",
+      "name": "Referendums",
+      "shortName": "Referendums",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_102",
+      "name": "Slovak Government Flying Service",
+      "shortName": "Slovak Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_103",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_104",
+      "name": "Central bank",
+      "shortName": "Central bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_105",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_106",
+      "name": "Euro (Slovak euro coins)",
+      "shortName": "Euro (Slovak",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_107",
+      "name": "Privatisation",
+      "shortName": "Privatisation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_108",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_109",
+      "name": "\"Tatra Tiger\"",
+      "shortName": "\"Tatra Tiger\"",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_110",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_111",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_112",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_113",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_114",
+      "name": "Identity card",
+      "shortName": "Identity card",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_115",
+      "name": "Language",
+      "shortName": "Language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_116",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_117",
+      "name": "Passport",
+      "shortName": "Passport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_118",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_119",
+      "name": "Remembrance days",
+      "shortName": "Remembrance days",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_120",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_121",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_122",
+      "name": "Wine",
+      "shortName": "Wine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_123",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_124",
+      "name": "Matica slovenská",
+      "shortName": "Matica slovenská",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_125",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_126",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_127",
+      "name": "Shepherd's axe",
+      "shortName": "Shepherd's axe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_128",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_129",
+      "name": "Newspapers",
+      "shortName": "Newspapers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_130",
+      "name": "Radio",
+      "shortName": "Radio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_131",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_132",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_133",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_134",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_135",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_136",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_137",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_138",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_139",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_140",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_141",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_142",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_143",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_144",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_145",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_146",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_147",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_148",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_149",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_150",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_151",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_152",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_153",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_154",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_155",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_156",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_157",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_158",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_159",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_160",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_161",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_162",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_163",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_164",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_165",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_166",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_167",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_168",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_169",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_170",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_171",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_172",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_173",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_174",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_175",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_176",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_177",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_178",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_179",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_180",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_181",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_182",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_183",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_184",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_185",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_186",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_187",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_188",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_189",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_190",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_191",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_192",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_193",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_194",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_195",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_196",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_197",
+      "name": "Banks of Slovakia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_198",
+      "name": "Lists of companies of Slovakia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_199",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_200",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_201",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_202",
+      "name": "All articles with unsourced statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SK_203",
+      "name": "Articles with unsourced statements from January 2026",
+      "shortName": "Articles with",
       "type": "bank",
       "aliases": ""
     }

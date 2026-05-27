@@ -1,40 +1,677 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "TN",
   "institutions": [
     {
-      "code": "CENBTN",
-      "name": "Central Bank of TN",
-      "shortName": "Central Bank",
+      "code": "TN_0",
+      "name": "Tunis International Bank&#160;&#91;fr&#93;",
+      "shortName": "Tunis International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBTN",
-      "name": "National Bank of TN",
-      "shortName": "National Bank",
+      "code": "TN_1",
+      "name": "Tunisian Foreign Bank",
+      "shortName": "Tunisian Foreign",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABTN",
-      "name": "State Bank of TN",
-      "shortName": "State Bank",
+      "code": "TN_2",
+      "name": "North Africa International Bank",
+      "shortName": "North Africa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBTN",
-      "name": "Commercial Bank of TN",
-      "shortName": "Commercial Bank",
+      "code": "TN_3",
+      "name": "Wifak International Bank (WIB)",
+      "shortName": "Wifak International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBTN",
-      "name": "First TN Bank",
-      "shortName": "First Bank",
+      "code": "TN_4",
+      "name": "Al Baraka Bank Tunisia, part of Al Baraka Group",
+      "shortName": "Al Baraka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_5",
+      "name": "Banque Zitouna (BZ)",
+      "shortName": "Banque Zitouna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_6",
+      "name": "Banque Tuniso-Libyenne&#160;&#91;fr&#93; (BTL)",
+      "shortName": "Banque Tuniso-Libyenne&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_7",
+      "name": "Banque de Tunisie et des Emirats (BTE)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_8",
+      "name": "Tunisian Saudi Bank (TSB)",
+      "shortName": "Tunisian Saudi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_9",
+      "name": "Banque Tuniso-Koweitienne&#160;&#91;fr&#93; (BTK)",
+      "shortName": "Banque Tuniso-Koweitienne&#160;&#91;fr&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_10",
+      "name": "Bank ABC",
+      "shortName": "Bank ABC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_11",
+      "name": "Citibank Tunisie",
+      "shortName": "Citibank Tunisie",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_12",
+      "name": "BH Bank",
+      "shortName": "BH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_13",
+      "name": "Union Internationale de Banques&#160;&#91;fr&#93; (UIB)",
+      "shortName": "Union Internationale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_14",
+      "name": "Union Bancaire pour le Commerce et l'Industrie (UBCI)",
+      "shortName": "Union Bancaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_15",
+      "name": "Société Tunisienne de Banque (STB)",
+      "shortName": "Société Tunisienne",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_16",
+      "name": "Banque Internationale Arabe de Tunisie (BIAT)",
+      "shortName": "Banque Internationale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_17",
+      "name": "Amen Bank (AB)",
+      "shortName": "Amen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_18",
+      "name": "Banque Tunisienne de Solidarité&#160;&#91;fr&#93; (BTS)",
+      "shortName": "Banque Tunisienne",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_19",
+      "name": "Banque de Tunisie (BT)",
+      "shortName": "Banque de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_20",
+      "name": "Banque Nationale Agricole",
+      "shortName": "Banque Nationale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_21",
+      "name": "Arab Tunisian Bank (ATB)",
+      "shortName": "Arab Tunisian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_22",
+      "name": "Offshore branch of Citibank",
+      "shortName": "Offshore branch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_23",
+      "name": "Economy of Tunisia",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_24",
+      "name": "Website of Central Bank of Tunisia (English)",
+      "shortName": "Website of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_25",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_26",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_27",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_28",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_29",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_30",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_31",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_32",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_33",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_34",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_35",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_36",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_37",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_38",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_39",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_40",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_41",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_42",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_43",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_44",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_45",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_46",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_47",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_48",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_49",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_50",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_51",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_52",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_53",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_54",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_55",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_56",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_57",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_58",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_59",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_60",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_61",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_62",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_63",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_64",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_65",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_66",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_67",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_68",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_69",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_70",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_71",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_72",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_73",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_74",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_75",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_76",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_77",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_78",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_79",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_80",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_81",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_82",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_83",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_84",
+      "name": "Banking",
+      "shortName": "Banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_85",
+      "name": "Communications",
+      "shortName": "Communications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_86",
+      "name": "History of Trade",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_87",
+      "name": "Transportation",
+      "shortName": "Transportation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_88",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_89",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_90",
+      "name": "Banks of Tunisia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_91",
+      "name": "Lists of companies of Tunisia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_92",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_93",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_94",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TN_95",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,6683 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "MY",
   "institutions": [
     {
-      "code": "MAABORDDH",
-      "name": "Malayan Banking Berhad",
-      "shortName": "Maybank",
+      "code": "MY_0",
+      "name": "Affin Bank",
+      "shortName": "Affin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CIMABORDDH",
-      "name": "CIMB Bank",
+      "code": "MY_1",
+      "name": "Alliance Bank",
+      "shortName": "Alliance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_2",
+      "name": "AmBank",
+      "shortName": "AmBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_3",
+      "name": "CIMB",
       "shortName": "CIMB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PBB",
-      "name": "Public Bank Berhad",
-      "shortName": "Public Bank",
+      "code": "MY_4",
+      "name": "Hong Leong Bank",
+      "shortName": "Hong Leong",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "RHB",
+      "code": "MY_5",
+      "name": "Maybank",
+      "shortName": "Maybank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_6",
+      "name": "Public Bank",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_7",
       "name": "RHB Bank",
       "shortName": "RHB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "HLB",
-      "name": "Hong Leong Bank",
+      "code": "MY_8",
+      "name": "American Express Bank (Malaysia) Berhad",
+      "shortName": "American Express",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_9",
+      "name": "BNP Paribas Malaysia Berhad",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_10",
+      "name": "Bangkok Bank Berhad",
+      "shortName": "Bangkok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_11",
+      "name": "Bank of America Malaysia Berhad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_12",
+      "name": "Bank of China (Malaysia) Berhad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_13",
+      "name": "Bank of Tokyo-Mitsubishi UFJ (Malaysia) Berhad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_14",
+      "name": "Citibank Berhad (Sold to UOB Group Malaysia)",
+      "shortName": "Citibank Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_15",
+      "name": "Deutsche Bank (Malaysia) Berhad",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_16",
+      "name": "HSBC Bank Malaysia Berhad",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_17",
+      "name": "India International Bank (Malaysia) Berhad",
+      "shortName": "India International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_18",
+      "name": "J.P. Morgan Chase Bank Berhad",
+      "shortName": "J.P. Morgan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_19",
+      "name": "Mizuho Bank (Malaysia)",
+      "shortName": "Mizuho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_20",
+      "name": "OCBC Bank (Malaysia) Berhad",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_21",
+      "name": "Standard Chartered Bank Malaysia Berhad",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_22",
+      "name": "The Bank of Nova Scotia Berhad",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_23",
+      "name": "United Overseas Bank (Malaysia) Bhd.",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_24",
+      "name": "AN1142 National Bank Limited",
+      "shortName": "AN1142 National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_25",
+      "name": "The Bank of Tokyo-Mitsubishi UFJ Limited",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_26",
+      "name": "The Bank of New York Mellon Limited",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_27",
+      "name": "Credit Suisse Limited",
+      "shortName": "Credit Suisse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_28",
+      "name": "Middle East Investment Bank LTD",
+      "shortName": "Middle East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_29",
+      "name": "DBS Bank Limited",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_30",
+      "name": "National Australia Bank Limited",
+      "shortName": "National Australia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_31",
+      "name": "The Royal Bank of Scotland Limited",
+      "shortName": "The Royal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_32",
+      "name": "Wells Fargo Bank Limited",
+      "shortName": "Wells Fargo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_33",
+      "name": "Zamora Trading Limited",
+      "shortName": "Zamora Trading",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_34",
+      "name": "Aminternational (Labuan) Ltd (Labuan Branch)",
+      "shortName": "Aminternational (Labuan)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_35",
+      "name": "AmMerchant Bank Berhad",
+      "shortName": "AmMerchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_36",
+      "name": "Asian Trade Investment Offshore Bank (Labuan)",
+      "shortName": "Asian Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_37",
+      "name": "The Bank of East Asia Ltd (BEA) (Labuan Branch)",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_38",
+      "name": "The Bank of Nova Scotia (Labuan Branch)",
+      "shortName": "The",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_39",
+      "name": "Barclays Bank PLC (Labuan Branch)",
+      "shortName": "Barclays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_40",
+      "name": "BNP Paribas (Labuan Branch)",
+      "shortName": "BNP Paribas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_41",
+      "name": "Calyon (Labuan Branch)",
+      "shortName": "Calyon (Labuan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_42",
+      "name": "Capital Investment Bank Limited (Labuan)",
+      "shortName": "Capital Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_43",
+      "name": "Cathay United Bank (Labuan)",
+      "shortName": "Cathay United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_44",
+      "name": "Consolidated Credit(S)Berhad",
+      "shortName": "Consolidated Credit(S)Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_45",
+      "name": "CIMB Bank (L) Limited",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_46",
+      "name": "Citibank Malaysia (L) Limited (Labuan)",
+      "shortName": "Citibank Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_47",
+      "name": "City Credit Investment Bank Limited (Labuan)",
+      "shortName": "City Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_48",
+      "name": "Commercial IBT (Labuan Branch)",
+      "shortName": "Commercial IBT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_49",
+      "name": "Credit Suisse (Labuan Branch)",
+      "shortName": "Credit Suisse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_50",
+      "name": "DBS Bank Limited (Labuan Branch)",
+      "shortName": "DBS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_51",
+      "name": "Deutsche Bank AG (Labuan Branch)",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_52",
+      "name": "Dresdner Bank AG (Labuan Branch)",
+      "shortName": "Dresdner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_53",
+      "name": "ECM Libra Investment Bank Limited (Labuan)",
+      "shortName": "ECM Libra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_54",
+      "name": "European Credit Investment Bank Ltd (ECIB)",
+      "shortName": "European Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_55",
+      "name": "First East Export Bank (P.L.C) (FEEBANK)",
+      "shortName": "First East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_56",
+      "name": "ING Bank NV (Labuan Branch)",
+      "shortName": "ING",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_57",
+      "name": "J.P. Morgan Malaysia Ltd (Labuan)",
+      "shortName": "J.P. Morgan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_58",
+      "name": "KBC Bank NV (Labuan Branch)",
+      "shortName": "KBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_59",
+      "name": "Lloyds TSB Bank PLC (Labuan Branch)",
+      "shortName": "Lloyds TSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_60",
+      "name": "Mizuho Bank Ltd (Labuan Branch)",
+      "shortName": "Mizuho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_61",
+      "name": "Macquarie Bank Limited (Labuan Branch)",
+      "shortName": "Macquarie",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_62",
+      "name": "Natexis Banques Populaires (Labuan Branch)",
+      "shortName": "Natexis Banques",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_63",
+      "name": "OSK Investment Bank (Labuan) Limited (Labuan)",
+      "shortName": "OSK Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_64",
+      "name": "OCBC Bank Limited (Labuan Branch)",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_65",
+      "name": "Public Bank (L) Limited (Labuan)",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_66",
+      "name": "Rabobank Nederland (Labuan Branch)",
+      "shortName": "Rabobank Nederland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_67",
+      "name": "RHB Bank (L) Ltd (Labuan)",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_68",
+      "name": "RM Investment Bank",
+      "shortName": "RM Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_69",
+      "name": "The Royal Bank of Scotland PLC (Labuan Branch)",
+      "shortName": "The Royal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_70",
+      "name": "RUSD Investment Bank Inc (Labuan)",
+      "shortName": "RUSD Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_71",
+      "name": "Schroders Malaysia (L) Berhad (Labuan)",
+      "shortName": "Schroders Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_72",
+      "name": "Société Générale (Labuan Branch)",
+      "shortName": "Société Générale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_73",
+      "name": "UBS AG (Labuan Branch)",
+      "shortName": "UBS AG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_74",
+      "name": "United Overseas Bank Limited (Labuan Branch)",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_75",
+      "name": "Alliance Investment Bank Berhad",
+      "shortName": "Alliance Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_76",
+      "name": "AmInvestment Bank Berhad",
+      "shortName": "AmInvestment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_77",
+      "name": "Hong Leong Investment Bank Berhad",
       "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_78",
+      "name": "Public Investment Bank Berhad",
+      "shortName": "Public Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_79",
+      "name": "RHB Investment Bank Berhad",
+      "shortName": "RHB Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_80",
+      "name": "KAF Investment Bank Berhad",
+      "shortName": "KAF Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_81",
+      "name": "Kenanga Investment Bank Berhad",
+      "shortName": "Kenanga Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_82",
+      "name": "Maybank Investment Bank",
+      "shortName": "Maybank Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_83",
+      "name": "MIDF Investment Bank Berhad",
+      "shortName": "MIDF Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_84",
+      "name": "Affin Islamic Bank Berhad",
+      "shortName": "Affin Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_85",
+      "name": "Al Rajhi Bank",
+      "shortName": "Al Rajhi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_86",
+      "name": "Alkhair International Islamic Bank Malaysia",
+      "shortName": "Alkhair International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_87",
+      "name": "Alliance Islamic Bank Berhad",
+      "shortName": "Alliance Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_88",
+      "name": "AmBank Islamic Berhad",
+      "shortName": "AmBank Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_89",
+      "name": "MBSB Bank Berhad",
+      "shortName": "MBSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_90",
+      "name": "Asia Offshore Finance Agency",
+      "shortName": "Asia Offshore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_91",
+      "name": "Bank Islam Malaysia",
+      "shortName": "Bank Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_92",
+      "name": "Bank Muamalat Malaysia",
+      "shortName": "Bank Muamalat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_93",
+      "name": "CIMB Islamic Bank Berhad",
+      "shortName": "CIMB Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_94",
+      "name": "Hong Leong Islamic Banking Berhad",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_95",
+      "name": "HSBC Amanah Malaysia Berhad",
+      "shortName": "HSBC Amanah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_96",
+      "name": "Kuwait Finance House (Malaysia) Berhad",
+      "shortName": "Kuwait Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_97",
+      "name": "Maybank Islamic Berhad",
+      "shortName": "Maybank Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_98",
+      "name": "OCBC Al-Amin Bank Berhad",
+      "shortName": "OCBC Al-Amin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_99",
+      "name": "Public Islamic Bank Berhad",
+      "shortName": "Public Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_100",
+      "name": "RHB Islamic Bank Berhad",
+      "shortName": "RHB Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_101",
+      "name": "Standard Chartered Saadiq Berhad",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_102",
+      "name": "Agro Bank Malaysia",
+      "shortName": "Agro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_103",
+      "name": "Bank Rakyat",
+      "shortName": "Bank Rakyat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_104",
+      "name": "Bank Simpanan Nasional",
+      "shortName": "Bank Simpanan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_105",
+      "name": "Export-Import Bank of Malaysia Berhad (Exim Bank)",
+      "shortName": "Export-Import",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_106",
+      "name": "Sabah Development Bank Berhad (SDB)",
+      "shortName": "Sabah Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_107",
+      "name": "Sabah Credit Corporation (SCC)",
+      "shortName": "Sabah Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_108",
+      "name": "Tabung Haji",
+      "shortName": "Tabung Haji",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_109",
+      "name": "Malaysia Debt Ventures Berhad",
+      "shortName": "Malaysia Debt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_110",
+      "name": "Affin Moneybrokers Sdn Bhd",
+      "shortName": "Affin Moneybrokers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_111",
+      "name": "Harlow's &amp; MGI Sdn Bhd",
+      "shortName": "Harlow's &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_112",
+      "name": "ERF Sdn Bhd",
+      "shortName": "ERF Sdn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_113",
+      "name": "Pengurusan Danaharta Nasional Berhad",
+      "shortName": "Pengurusan Danaharta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_114",
+      "name": "Alliance Bank - Mastercard and Visa",
+      "shortName": "Alliance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_115",
+      "name": "Al Rajhi Bank Malaysia (i) - Visa",
+      "shortName": "Al Rajhi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_116",
+      "name": "AmBank - Mastercard, Visa and UnionPay",
+      "shortName": "AmBank -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_117",
+      "name": "Bank Islam Malaysia (i) - Mastercard and Visa",
+      "shortName": "Bank Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_118",
+      "name": "Bank Muamalat Malaysia (i) - Visa",
+      "shortName": "Bank Muamalat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_119",
+      "name": "Bank Simpanan Nasional (i) - Mastercard and Visa",
+      "shortName": "Bank Simpanan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_120",
+      "name": "Bank Rakyat (i) - Mastercard",
+      "shortName": "Bank Rakyat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_121",
+      "name": "CIMB Bank - Mastercard and Visa",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_122",
+      "name": "Hong Leong Bank - Mastercard and Visa",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_123",
+      "name": "HSBC Bank Malaysia - Mastercard and Visa",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_124",
+      "name": "Maybank - American Express, Mastercard and Visa",
+      "shortName": "Maybank -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_125",
+      "name": "OCBC Bank - Mastercard and Visa",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_126",
+      "name": "Public Bank Berhad - Mastercard and Visa",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_127",
+      "name": "RHB Bank - Mastercard and Visa",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_128",
+      "name": "Standard Chartered - Mastercard and Visa",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_129",
+      "name": "United Overseas Bank - Mastercard and Visa",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_130",
+      "name": "Synergy Cards Sdn Bhd",
+      "shortName": "Synergy Cards",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_131",
+      "name": "Cagamas Berhad",
+      "shortName": "Cagamas Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_132",
+      "name": "Permodalan Nasional Berhad (PNB)",
+      "shortName": "Permodalan Nasional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_133",
+      "name": "Treasury Malaysia",
+      "shortName": "Treasury Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_134",
+      "name": "National Economic Action Council",
+      "shortName": "National Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_135",
+      "name": "Labuan Financial Service Authority (Labuan FSA)",
+      "shortName": "Labuan Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_136",
+      "name": "Malaysia Deposit Insurance Corporation",
+      "shortName": "Malaysia Deposit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_137",
+      "name": "Inland Revenue Board",
+      "shortName": "Inland Revenue",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_138",
+      "name": "Malaysia Derivatives Exchange Berhad",
+      "shortName": "Malaysia Derivatives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_139",
+      "name": "Department of Statistics",
+      "shortName": "Department of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_140",
+      "name": "Institute of Bankers Malaysia",
+      "shortName": "Institute of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_141",
+      "name": "Malaysian Insurance Institute",
+      "shortName": "Malaysian Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_142",
+      "name": "Life Insurance Association of Malaysia",
+      "shortName": "Life Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_143",
+      "name": "General Insurance Association of Malaysia",
+      "shortName": "General Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_144",
+      "name": "International Association of Insurance Supervisor",
+      "shortName": "International Association",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_145",
+      "name": "Financial Mediation Bureau (FMB)",
+      "shortName": "Financial Mediation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_146",
+      "name": "FK Capital Berhad",
+      "shortName": "FK Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_147",
+      "name": "Sri Guan Teik Enterprise Sdn Bhd",
+      "shortName": "Sri Guan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_148",
+      "name": "Broadway money lenders",
+      "shortName": "Broadway money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_149",
+      "name": "Bhera Investment Berhad",
+      "shortName": "Bhera Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_150",
+      "name": "Easytop Capital Sdn Bhd",
+      "shortName": "Easytop Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_151",
+      "name": "SS SIong Wang Trading SS",
+      "shortName": "SS SIong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_152",
+      "name": "ACE Credit Berhad",
+      "shortName": "ACE Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_153",
+      "name": "PS Alliance Sdn Bhd",
+      "shortName": "PS Alliance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_154",
+      "name": "Maxmatic Capital sdn Bhd",
+      "shortName": "Maxmatic Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_155",
+      "name": "Safe Best Enterprise Sdn Bhd",
+      "shortName": "Safe Best",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_156",
+      "name": "Euritage Sdn Bhd",
+      "shortName": "Euritage Sdn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_157",
+      "name": "Fullup Credit Sdn Bhd",
+      "shortName": "Fullup Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_158",
+      "name": "Twomax Enterprise",
+      "shortName": "Twomax Enterprise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_159",
+      "name": "First Max Enterprise",
+      "shortName": "First Max",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_160",
+      "name": "Perfect Million Capital Sdn Bhd",
+      "shortName": "Perfect Million",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_161",
+      "name": "Everlast Enterprise",
+      "shortName": "Everlast Enterprise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_162",
+      "name": "Bakti Mentari Enterprise",
+      "shortName": "Bakti Mentari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_163",
+      "name": "Money Aim Enterprise",
+      "shortName": "Money Aim",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_164",
+      "name": "Ultimax Management Services",
+      "shortName": "Ultimax Management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_165",
+      "name": "Well Delight Sdn Bhd",
+      "shortName": "Well Delight",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_166",
+      "name": "Doritama Holding Sdn Bhd",
+      "shortName": "Doritama Holding",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_167",
+      "name": "Kenanga Capital Sdn Bhd",
+      "shortName": "Kenanga Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_168",
+      "name": "Fidelity Funding Sdn Bhd",
+      "shortName": "Fidelity Funding",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_169",
+      "name": "Amalan Credit Corporation Sdn Bhd",
+      "shortName": "Amalan Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_170",
+      "name": "Short Deposit Malaysia Private Bank Bhd",
+      "shortName": "Short Deposit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_171",
+      "name": "Zamora Trading Sdn Bhd",
+      "shortName": "Zamora Trading",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_172",
+      "name": "Max Loans Sdn Bhd",
+      "shortName": "Max Loans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_173",
+      "name": "Kawanku Enterprise",
+      "shortName": "Kawanku Enterprise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_174",
+      "name": "Garnal Enterprise",
+      "shortName": "Garnal Enterprise",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_175",
+      "name": "Sibu Kurnia Marine Sdn Bhd / IOUpay Pty Ltd",
+      "shortName": "Sibu Kurnia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_176",
+      "name": "ABN (M) Berhad",
+      "shortName": "ABN (M)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_177",
+      "name": "ABN AMRO (M) Berhad",
+      "shortName": "ABN AMRO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_178",
+      "name": "Abrar Finance Berhad",
+      "shortName": "Abrar Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_179",
+      "name": "Advance Finance Berhad",
+      "shortName": "Advance Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_180",
+      "name": "Amanah Capital Partners Berhad",
+      "shortName": "Amanah Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_181",
+      "name": "Amanah International Finance Berhad",
+      "shortName": "Amanah International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_182",
+      "name": "Amanah Merchant Bank Berhad",
+      "shortName": "Amanah Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_183",
+      "name": "Amsterdamsche Bank (AB)",
+      "shortName": "Amsterdamsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_184",
+      "name": "Amsterdamsche-Rotterdamsche Bank NV (AMRO)",
+      "shortName": "Amsterdamsche-Rotterdamsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_185",
+      "name": "Affin Finance Berhad",
+      "shortName": "Affin Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_186",
+      "name": "Affin-ACF Finance Berhad",
+      "shortName": "Affin-ACF Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_187",
+      "name": "Affin Investment Bank Berhad",
+      "shortName": "Affin Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_188",
+      "name": "Affin Merchant Bank Berhad",
+      "shortName": "Affin Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_189",
+      "name": "Affin Motor and Credit Finance Sdn Bhd",
+      "shortName": "Affin Motor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_190",
+      "name": "Algemene Bank Nederland NV (ABN)",
+      "shortName": "Algemene",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_191",
+      "name": "Allied Bank Berhad",
+      "shortName": "Allied",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_192",
+      "name": "Allied Finance Berhad",
+      "shortName": "Allied Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_193",
+      "name": "Alliance Finance Berhad",
+      "shortName": "Alliance Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_194",
+      "name": "Alliance Merchant Bank Berhad",
+      "shortName": "Alliance Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_195",
+      "name": "AmFinance Berhad",
+      "shortName": "AmFinance Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_196",
+      "name": "ANZ Banking Group Ltd",
+      "shortName": "ANZing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_197",
+      "name": "Agra and United Service Bank Ltd",
+      "shortName": "Agra and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_198",
+      "name": "Agra and Masterman Bank Ltd",
+      "shortName": "Agra and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_199",
+      "name": "Arab Malaysian Development Finance Berhad",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_200",
+      "name": "Arab Malaysian Finance Berhad",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_201",
+      "name": "Arab Malaysian Merchant Bank Berhad",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_202",
+      "name": "Arab Malaysian Bank Berhad",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_203",
+      "name": "Arab Malaysian Industrial Finance Berhad",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_204",
+      "name": "Arab Investment for Asia",
+      "shortName": "Arab Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_205",
+      "name": "Aseambankers Malaysia Berhad",
+      "shortName": "Aseambankers Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_206",
+      "name": "The Asiatic Bank Corporation",
+      "shortName": "The Asiatic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_207",
+      "name": "Asian International Merchant Bankers Berhad",
+      "shortName": "Asian International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_208",
+      "name": "Ban Hin Lee Bank Berhad",
+      "shortName": "Ban Hin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_209",
+      "name": "Bank Agong (Apex Bank)",
+      "shortName": "Bank Agong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_210",
+      "name": "Bank of America Asia (HK) Limited",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_211",
+      "name": "Bank Buruh Berhad",
+      "shortName": "Bank Buruh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_212",
+      "name": "Bank Kerjasama Malaysia Berhad",
+      "shortName": "Bank Kerjasama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_213",
+      "name": "Bank Oriental",
+      "shortName": "Bank Oriental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_214",
+      "name": "Bank Negara Tanah Melayu",
+      "shortName": "Bank Negara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_215",
+      "name": "Bank of Canton",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_216",
+      "name": "Bank of Communication",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_217",
+      "name": "Bank of Malaya",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_218",
+      "name": "Bank of Tokyo (M) Berhad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_219",
+      "name": "Bank of Tokyo-Mitsubishi (M) Berhad",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_220",
+      "name": "Bank Simpanan Pejabat POS (POSB)",
+      "shortName": "Bank Simpanan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_221",
+      "name": "Bank Persatuan Kerjasama Seberang Perai Berhad",
+      "shortName": "Bank Persatuan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_222",
+      "name": "Bank Pembangunan Sabah Berhad",
+      "shortName": "Bank Pembangunan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_223",
+      "name": "Bank Utama Berhad",
+      "shortName": "Bank Utama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_224",
+      "name": "Banque Indosuez",
+      "shortName": "Banque Indosuez",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_225",
+      "name": "Bank Industri &amp; Teknologi Malaysia Berhad",
+      "shortName": "Bank Industri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_226",
+      "name": "Batu Pahat Bank",
+      "shortName": "Batu Pahat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_227",
+      "name": "Bian Chiang Bank Ltd",
+      "shortName": "Bian Chiang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_228",
+      "name": "British East India Company",
+      "shortName": "British East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_229",
+      "name": "British North Borneo Company",
+      "shortName": "British North",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_230",
+      "name": "Bolton Finance Berhad",
+      "shortName": "Bolton Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_231",
+      "name": "Boon Siew Finance Berhad",
+      "shortName": "Boon Siew",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_232",
+      "name": "Board of Commissioners of Currency, Malaya",
+      "shortName": "Board of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_233",
+      "name": "Borneo Development Corporation Sdn Bhd (Sabah)",
+      "shortName": "Borneo Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_234",
+      "name": "Borneo Development Corporation Sdn Bhd (Sarawak)",
+      "shortName": "Borneo Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_235",
+      "name": "BSN Commercial Bank",
+      "shortName": "BSN Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_236",
+      "name": "BSN Finance Berhad",
+      "shortName": "BSN Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_237",
+      "name": "BSN Merchant Bank Berhad",
+      "shortName": "BSN Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_238",
+      "name": "Bumiputra Commerce Bank Berhad (BCB)",
+      "shortName": "Bumiputra Commerce",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_239",
+      "name": "Bumiputra Commerce Finance Berhad",
+      "shortName": "Bumiputra Commerce",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_240",
+      "name": "Bumiputra Merchant Bankers Berhad",
+      "shortName": "Bumiputra Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_241",
+      "name": "Cempaka Finance Berhad",
+      "shortName": "Cempaka Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_242",
+      "name": "The Chase Manhattan Bank (M) Berhad",
+      "shortName": "The Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_243",
+      "name": "Chartered Merchant Bankers Malaysia Berhad",
+      "shortName": "Chartered Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_244",
+      "name": "Central Bank of Malaya",
+      "shortName": "Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_245",
+      "name": "Chew Geok Lin Finance Berhad",
+      "shortName": "Chew Geok",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_246",
+      "name": "The Chinese Commercial Bank Ltd",
+      "shortName": "The Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_247",
+      "name": "Chung Khiaw Bank (M) Berhad",
+      "shortName": "Chung Khiaw",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_248",
+      "name": "Chung Khiaw Finance (M) Berhad",
+      "shortName": "Chung Khiaw",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_249",
+      "name": "City Finance Berhad",
+      "shortName": "City Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_250",
+      "name": "Co-Operative Central Banks Ltd",
+      "shortName": "Co-Operative Central",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_251",
+      "name": "Commercial Bank Corporation of India and the East",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_252",
+      "name": "Commerce Tijari Bank Berhad",
+      "shortName": "Commerce Tijari",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_253",
+      "name": "Credit Corporation Malaysia",
+      "shortName": "Credit Corporation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_254",
+      "name": "D &amp; D Finance Berhad",
+      "shortName": "D &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_255",
+      "name": "D &amp; C Sakura Merchant Bankers Berhad",
+      "shortName": "D &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_256",
+      "name": "Dai-Kangyo Bank (M) Berhad",
+      "shortName": "Dai-Kangyo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_257",
+      "name": "Delta Finance Berhad",
+      "shortName": "Delta Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_258",
+      "name": "Delta Leasing sdn.bhd",
+      "shortName": "Delta Leasing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_259",
+      "name": "European Asian Bank Berhad",
+      "shortName": "European Asian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_260",
+      "name": "Federated Malay States Pos Office Savings Bank",
+      "shortName": "Federated Malay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_261",
+      "name": "Federal &amp; colonial Building Society Limited",
+      "shortName": "Federal &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_262",
+      "name": "First Malaysia Finance Berhad",
+      "shortName": "First Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_263",
+      "name": "The First National City Bank of New York",
+      "shortName": "The First",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_264",
+      "name": "First National City Bank",
+      "shortName": "First National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_265",
+      "name": "Habib Bank Ltd",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_266",
+      "name": "Ho Hong Bank Ltd",
+      "shortName": "Ho Hong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_267",
+      "name": "Hock Hua Bank Berhad",
+      "shortName": "Hock Hua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_268",
+      "name": "Hock Hua Finance Berhad",
+      "shortName": "Hock Hua",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_269",
+      "name": "Hong Kong Bank (M) Berhad",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_270",
+      "name": "The Hong Kong Shanghai Banking Company Limited",
+      "shortName": "The Hong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_271",
+      "name": "Hong Leong Credit Berhad",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_272",
+      "name": "Hong Leong Finance Berhad",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_273",
+      "name": "Hwang-DBS Investment Bank Berhad",
+      "shortName": "Hwang-DBS Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_274",
+      "name": "I.M.A.Sdn Bhd",
+      "shortName": "I.M.A.Sdn Bhd",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_275",
+      "name": "Indian Overseas Bank Ltd",
+      "shortName": "Indian Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_276",
+      "name": "Indian Bank Ltd",
+      "shortName": "Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_277",
+      "name": "Interfinance Berhad",
+      "shortName": "Interfinance Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_278",
+      "name": "International Banking Corporation",
+      "shortName": "Internationaling",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_279",
+      "name": "International Merchant Bankers Berhad",
+      "shortName": "International Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_280",
+      "name": "Intradagang Merchant Bankers (M) Berhad",
+      "shortName": "Intradagang Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_281",
+      "name": "J.P. Morgan Chase &amp; Co.",
+      "shortName": "J.P. Morgan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_282",
+      "name": "K &amp; N Kenanga Berhad",
+      "shortName": "K &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_283",
+      "name": "KCB Finance Berhad",
+      "shortName": "KCB Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_284",
+      "name": "Kewangan KGN Berhad",
+      "shortName": "Kewangan KGN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_285",
+      "name": "Kewangan Pekembarjaya Berhad",
+      "shortName": "Kewangan Pekembarjaya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_286",
+      "name": "Kewangan Bersatu Berhad",
+      "shortName": "Kewangan Bersatu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_287",
+      "name": "Kewangan Industrial Berhad",
+      "shortName": "Kewangan Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_288",
+      "name": "Kewangan Usaha Bersatu Berhad",
+      "shortName": "Kewangan Usaha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_289",
+      "name": "Kewangan Usahasama Makmur Berhad",
+      "shortName": "Kewangan Usahasama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_290",
+      "name": "Kewangan Utama Berhad",
+      "shortName": "Kewangan Utama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_291",
+      "name": "Kong Ming Bank Berhad",
+      "shortName": "Kong Ming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_292",
+      "name": "Kong Ming Finance Corporation Berhad",
+      "shortName": "Kong Ming",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_293",
+      "name": "Kuala Lumpur Finance Berhad",
+      "shortName": "Kuala Lumpur",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_294",
+      "name": "Kwantung Provincial Bank Limited",
+      "shortName": "Kwantung Provincial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_295",
+      "name": "Kwong Lee Mortgage &amp; Remittance Company",
+      "shortName": "Kwong Lee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_296",
+      "name": "Kwong Lee Bank Berhad",
+      "shortName": "Kwong Lee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_297",
+      "name": "Kwong Yik Banking Company",
+      "shortName": "Kwong Yik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_298",
+      "name": "Kwong Yik Banking Corporation",
+      "shortName": "Kwong Yik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_299",
+      "name": "Kwong Yik Bank Berhad",
+      "shortName": "Kwong Yik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_300",
+      "name": "Kwong Yik Finance Berhad",
+      "shortName": "Kwong Yik",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_301",
+      "name": "Lee Wah Bank Ltd",
+      "shortName": "Lee Wah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_302",
+      "name": "Magnum Finance Berhad",
+      "shortName": "Magnum Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_303",
+      "name": "Malaya Borneo Building Society Limited",
+      "shortName": "Malaya Borneo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_304",
+      "name": "Malaysia Credit Finance Berhad",
+      "shortName": "Malaysia Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_305",
+      "name": "Malayan Banking Corporation",
+      "shortName": "Malayaning",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_306",
+      "name": "Malayan United Bank Berhad",
+      "shortName": "Malayan United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_307",
+      "name": "Malaysian Industrial Finance Corporation Limited",
+      "shortName": "Malaysian Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_308",
+      "name": "Malaysian Industrial Finance Company Limited",
+      "shortName": "Malaysian Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_309",
+      "name": "Malaysian International Finance Berhad",
+      "shortName": "Malaysian International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_310",
+      "name": "Mayban Finance Berhad",
+      "shortName": "Mayban Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_311",
+      "name": "Malayan Finance Corporation Berhad",
+      "shortName": "Malayan Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_312",
+      "name": "Malayan United Industries Bank Berhad (MUI Bank)",
+      "shortName": "Malayan United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_313",
+      "name": "MBF Finance Berhad",
+      "shortName": "MBF Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_314",
+      "name": "MBF Leasing Sdn Bhd",
+      "shortName": "MBF Leasing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_315",
+      "name": "MIMB Investment Bank Berhad",
+      "shortName": "MIMB Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_316",
+      "name": "Multinational Bank of United Kingdom",
+      "shortName": "Multinational",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_317",
+      "name": "Multi-Purpose Bank Berhad",
+      "shortName": "Multi-Purpose",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_318",
+      "name": "Multi-Purpose Finance Berhad",
+      "shortName": "Multi-Purpose Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_319",
+      "name": "National Australia Bank Limited (NAB)",
+      "shortName": "National Australia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_320",
+      "name": "National Bank Of Australasia Limited (NBA)",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_321",
+      "name": "The National City Bank of New York",
+      "shortName": "The National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_322",
+      "name": "National Commercial Bank",
+      "shortName": "National Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_323",
+      "name": "Nationale Handelsbank",
+      "shortName": "Nationale Handelsbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_324",
+      "name": "Netherland Hondele Bank",
+      "shortName": "Netherland Hondele",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_325",
+      "name": "The Nederlandsch-Indische Handelsbank",
+      "shortName": "The Nederlandsch-Indische",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_326",
+      "name": "Nederlandsche Handel-Maatschappij",
+      "shortName": "Nederlandsche Handel-Maatschappij",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_327",
+      "name": "The Netherlands Trading Society",
+      "shortName": "The Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_328",
+      "name": "North Western Bank of India",
+      "shortName": "North Western",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_329",
+      "name": "The Oriental Bank Corporation",
+      "shortName": "The Oriental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_330",
+      "name": "The New Oriental Bank Corporation Limited",
+      "shortName": "The New",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_331",
+      "name": "Oriental Bank Berhad",
+      "shortName": "Oriental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_332",
+      "name": "Oversea-Chinese Bank Ltd",
+      "shortName": "Oversea-Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_333",
+      "name": "Overseas Chinese Union Bank Limited",
+      "shortName": "Overseas Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_334",
+      "name": "Overseas Union Bank (M) Berhad (OUB Bank)",
+      "shortName": "Overseas Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_335",
+      "name": "Overseas Union Trust (M) Berhad",
+      "shortName": "Overseas Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_336",
+      "name": "P &amp; O Banking Corporation",
+      "shortName": "P &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_337",
+      "name": "Pacific Development Credit Berhad",
+      "shortName": "Pacific Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_338",
+      "name": "The Pacific Bank Berhad",
+      "shortName": "The Pacific",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_339",
+      "name": "Perak Savings Bank",
+      "shortName": "Perak Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_340",
+      "name": "Perdana Finance Berhad",
+      "shortName": "Perdana Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_341",
+      "name": "Perdana Merchant Bankers Berhad",
+      "shortName": "Perdana Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_342",
+      "name": "Perkasa Finance Berhad",
+      "shortName": "Perkasa Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_343",
+      "name": "Permata Chartered Merchant Bank Berhad",
+      "shortName": "Permata Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_344",
+      "name": "Permata Merchant Bank Berhad",
+      "shortName": "Permata Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_345",
+      "name": "Pertama Malaysia Finance Berhad",
+      "shortName": "Pertama Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_346",
+      "name": "Pertanian Baring Sanwa Multinational Berhad",
+      "shortName": "Pertanian Baring",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_347",
+      "name": "Petra Finance Berhad",
+      "shortName": "Petra Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_348",
+      "name": "Pewira Affin Bank Berhad",
+      "shortName": "Pewira Affin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_349",
+      "name": "Pewira Affin Merchant Bank Berhad",
+      "shortName": "Pewira Affin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_350",
+      "name": "Pewira Habib Bank Malaysia Berhad",
+      "shortName": "Pewira Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_351",
+      "name": "Phileo Allied Bank Berhad",
+      "shortName": "Phileo Allied",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_352",
+      "name": "Phileo Allied Finance Berhad",
+      "shortName": "Phileo Allied",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_353",
+      "name": "Pos Office Savings Bank",
+      "shortName": "Pos Office",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_354",
+      "name": "Public Finance Berhad",
+      "shortName": "Public Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_355",
+      "name": "Public Merchant Bank Berhad",
+      "shortName": "Public Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_356",
+      "name": "Rakyat First Merchant Bankers Berhad",
+      "shortName": "Rakyat First",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_357",
+      "name": "RHB Sakura Merchant Bankers Berhad",
+      "shortName": "RHB Sakura",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_358",
+      "name": "Rotterdamsche Bank NV (RB)",
+      "shortName": "Rotterdamsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_359",
+      "name": "Sabah Bank Berhad",
+      "shortName": "Sabah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_360",
+      "name": "Sabah Finance Berhad",
+      "shortName": "Sabah Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_361",
+      "name": "Sanwa Bank of Japan",
+      "shortName": "Sanwa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_362",
+      "name": "Security Pacific Asian Bank Ltd",
+      "shortName": "Security Pacific",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_363",
+      "name": "Selangor Savings Bank",
+      "shortName": "Selangor Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_364",
+      "name": "Sime Bank Berhad",
+      "shortName": "Sime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_365",
+      "name": "Sime Darby Investment Services Ltd",
+      "shortName": "Sime Darby",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_366",
+      "name": "Sime Finance Berhad",
+      "shortName": "Sime Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_367",
+      "name": "Sime Merchant Bankers Berhad",
+      "shortName": "Sime Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_368",
+      "name": "Southern Banking Limited",
+      "shortName": "Southerning",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_369",
+      "name": "Southern Bank Berhad",
+      "shortName": "Southern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_370",
+      "name": "Southern Finance Berhad",
+      "shortName": "Southern Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_371",
+      "name": "Southern Investment Bank Berhad",
+      "shortName": "Southern Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_372",
+      "name": "Supreme Finance Berhad",
+      "shortName": "Supreme Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_373",
+      "name": "Syarikat Permodalan Kebangsaan Berhad",
+      "shortName": "Syarikat Permodalan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_374",
+      "name": "Sze Hai Tong Banking and Insurance Company",
+      "shortName": "Sze Hai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_375",
+      "name": "Tenaga Finance Berhad",
+      "shortName": "Tenaga Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_376",
+      "name": "Unfederated Malay States Pos Office Savings Bank",
+      "shortName": "Unfederated Malay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_377",
+      "name": "The Union Bank of Culcutta",
+      "shortName": "The Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_378",
+      "name": "Terengganu Finance Berhad",
+      "shortName": "Terengganu Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_379",
+      "name": "United Asian Bank Berhad",
+      "shortName": "United Asian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_380",
+      "name": "United Commercial Bank Ltd",
+      "shortName": "United Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_381",
+      "name": "United Chinese Bank Ltd",
+      "shortName": "United Chinese",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_382",
+      "name": "United Malayan Banking Corporation Berhad (UMBC)",
+      "shortName": "United Malayan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_383",
+      "name": "United Malayan Banking Berhad",
+      "shortName": "United Malayan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_384",
+      "name": "United Merchant Finance Berhad",
+      "shortName": "United Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_385",
+      "name": "United National Finance Berhad",
+      "shortName": "United National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_386",
+      "name": "Utama Merchant Finance Berhad",
+      "shortName": "Utama Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_387",
+      "name": "Utama Merchant Bank Berhad",
+      "shortName": "Utama Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_388",
+      "name": "Utama Wardley Berhad",
+      "shortName": "Utama Wardley",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_389",
+      "name": "Visia Finance Berhad",
+      "shortName": "Visia Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_390",
+      "name": "Wah Tat Bank Berhad",
+      "shortName": "Wah Tat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_391",
+      "name": "The Yokohama Specie Bank Limited",
+      "shortName": "The Yokohama",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_392",
+      "name": "Aberdeen Asset Management Sdn Bhd",
+      "shortName": "Aberdeen Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_393",
+      "name": "Affin Hwang Asset Management Berhad",
+      "shortName": "Affin Hwang",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_394",
+      "name": "Alpha Asset MAnagement Berhad",
+      "shortName": "Alpha Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_395",
+      "name": "Amanah Saham Kedah Berhad",
+      "shortName": "Amanah Saham",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_396",
+      "name": "Amanah SSCM Asset Management Sdn Bhd",
+      "shortName": "Amanah SSCM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_397",
+      "name": "Apex Investment Services Berhad",
+      "shortName": "Apex Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_398",
+      "name": "Areca Capital Sdn Bhd",
+      "shortName": "Areca Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_399",
+      "name": "ASM Investment Service Berhad",
+      "shortName": "ASM Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_400",
+      "name": "Assar Asset Management Sdn Bhd",
+      "shortName": "Assar Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_401",
+      "name": "Ayman Capital Sdn Bhd",
+      "shortName": "Ayman Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_402",
+      "name": "BIMB Unit Trust Management Sdn Bhd",
+      "shortName": "BIMB Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_403",
+      "name": "Behra Investment Berhad",
+      "shortName": "Behra Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_404",
+      "name": "BIMSEC Asset Management Sdn Bhd",
+      "shortName": "BIMSEC Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_405",
+      "name": "BTR Capital Partners Sdn Bhd",
+      "shortName": "BTR Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_406",
+      "name": "Bumiwerk Asset Management Sdn Bhd",
+      "shortName": "Bumiwerk Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_407",
+      "name": "The Capital Dynamics Asset Management Sdn Bhd",
+      "shortName": "The Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_408",
+      "name": "CMS Dresdner Asset Management Sdn Bhd",
+      "shortName": "CMS Dresdner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_409",
+      "name": "Easset Management Sdn Bhd",
+      "shortName": "Easset Management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_410",
+      "name": "ECM Libra capital Markets Sdn Bhd",
+      "shortName": "ECM Libra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_411",
+      "name": "First Bond Asset Management Sdn Bhd",
+      "shortName": "First Bond",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_412",
+      "name": "Fortitude Asset Management Sdn Bhd",
+      "shortName": "Fortitude Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_413",
+      "name": "Fortress Capital Asset Management Sdn Bhd",
+      "shortName": "Fortress Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_414",
+      "name": "Fulcrum Asset Management Sdn Bhd",
+      "shortName": "Fulcrum Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_415",
+      "name": "Golden Touch Asset Management Sdn Bhd",
+      "shortName": "Golden Touch",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_416",
+      "name": "Hadrons Capital Sdn Bhd",
+      "shortName": "Hadrons Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_417",
+      "name": "Hickham Capital Management Sdn Bhd",
+      "shortName": "Hickham Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_418",
+      "name": "Hong Leong Fund Management Sdn Bhd",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_419",
+      "name": "ING Funds Berhad",
+      "shortName": "ING Funds",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_420",
+      "name": "Inter-Pacific Asset Management Sdn Bhd",
+      "shortName": "Inter-Pacific Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_421",
+      "name": "Itrinsic Capital Management Sdn Bhd",
+      "shortName": "Itrinsic Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_422",
+      "name": "IUB Asset Management Sdn Bhd",
+      "shortName": "IUB Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_423",
+      "name": "Kenanga Asset Management Sdn Bhd",
+      "shortName": "Kenanga Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_424",
+      "name": "Kenanga Investment Management Sdn Bhd",
+      "shortName": "Kenanga Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_425",
+      "name": "Kestrel Capital Partners (M) Sdn Bhd",
+      "shortName": "Kestrel Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_426",
+      "name": "Mayban Investment Management Sdn Bhd",
+      "shortName": "Mayban Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_427",
+      "name": "Mercury Asset Management Sdn Bhd",
+      "shortName": "Mercury Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_428",
+      "name": "Meridian Asset Management Sdn Bhd",
+      "shortName": "Meridian Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_429",
+      "name": "MTC Asset Management (M) Sdn Bhd",
+      "shortName": "MTC Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_430",
+      "name": "Navis Management Sdn Bhd",
+      "shortName": "Navis Management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_431",
+      "name": "OSK-UOB Unit Trust Management Berhad",
+      "shortName": "OSK-UOB Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_432",
+      "name": "Pacific Mutual Fund Berhad",
+      "shortName": "Pacific Mutual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_433",
+      "name": "PacificMas Asset Management Sdn Bhd",
+      "shortName": "PacificMas Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_434",
+      "name": "PCB Asset Management Sdn Bhd",
+      "shortName": "PCB Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_435",
+      "name": "Pelaburan Johor Berhad",
+      "shortName": "Pelaburan Johor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_436",
+      "name": "Pengurusan Kumipa Berhad",
+      "shortName": "Pengurusan Kumipa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_437",
+      "name": "Perkasa Normandy Managers Sdn Bhd",
+      "shortName": "Perkasa Normandy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_438",
+      "name": "Permodalan Nasional Berhad",
+      "shortName": "Permodalan Nasional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_439",
+      "name": "PFM Capital Holdings Sdn Bhd",
+      "shortName": "PFM Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_440",
+      "name": "Philip Capital Management Sdn Bhd",
+      "shortName": "Philip Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_441",
+      "name": "PowerHouse Asset Management Sdn Bhd",
+      "shortName": "PowerHouse Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_442",
+      "name": "PRB Asset Management Sdn Bhd",
+      "shortName": "PRB Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_443",
+      "name": "Premier Investment Management Sdn Bhd",
+      "shortName": "Premier Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_444",
+      "name": "Prudential Fund Management Berhad",
+      "shortName": "Prudential Fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_445",
+      "name": "PTB Unit Trust Berhad",
+      "shortName": "PTB Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_446",
+      "name": "Public Mutual Berhad",
+      "shortName": "Public Mutual",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_447",
+      "name": "Singular Asset Management Sdn Bhd",
+      "shortName": "Singular Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_448",
+      "name": "SJ Asset Management Sdn Bhd",
+      "shortName": "SJ Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_449",
+      "name": "Suria Asset Management Sdn Bhd",
+      "shortName": "Suria Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_450",
+      "name": "Trillium Advisory Investment Management Berhad",
+      "shortName": "Trillium Advisory",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_451",
+      "name": "UOB-OSK Asset Management Sdn Bhd",
+      "shortName": "UOB-OSK Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_452",
+      "name": "TA Asset Management Sdn Bhd (Futures only)",
+      "shortName": "TA Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_453",
+      "name": "VCB Capital Sdn Bhd",
+      "shortName": "VCB Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_454",
+      "name": "Zamora Holdings Sdn Bhd",
+      "shortName": "Zamora Holdings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_455",
+      "name": "AmFutures Sdn Bhd",
+      "shortName": "AmFutures Sdn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_456",
+      "name": "Apex Futures Sdn Bhd",
+      "shortName": "Apex Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_457",
+      "name": "Avenue Securities Sdn Bhd",
+      "shortName": "Avenue Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_458",
+      "name": "CIMB Futures Sdn Bhd",
+      "shortName": "CIMB Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_459",
+      "name": "Fedrums Sdn Bhd",
+      "shortName": "Fedrums Sdn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_460",
+      "name": "Fontanazz Futures Sdn Bhd",
+      "shortName": "Fontanazz Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_461",
+      "name": "Innosabah Options &amp; futures Sdn Bhd",
+      "shortName": "Innosabah Options",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_462",
+      "name": "Inter-Pacific Futures Sdn Bhd",
+      "shortName": "Inter-Pacific Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_463",
+      "name": "Kenanga Deutsche Futures Sdn Bhd",
+      "shortName": "Kenanga Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_464",
+      "name": "Okachi (Malaysia) Sdn Bhd",
+      "shortName": "Okachi (Malaysia)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_465",
+      "name": "Oriental Pacific Futures Sdn Bhd",
+      "shortName": "Oriental Pacific",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_466",
+      "name": "OSK Futures &amp; Options Sdn Bhd",
+      "shortName": "OSK Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_467",
+      "name": "RHB Futures Sdn Bhd",
+      "shortName": "RHB Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_468",
+      "name": "Sunny Futures Sdn Bhd",
+      "shortName": "Sunny Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_469",
+      "name": "TA Futures Sdn Bhd",
+      "shortName": "TA Futures",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_470",
+      "name": "Affin Securities Sdn Bhd",
+      "shortName": "Affin Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_471",
+      "name": "AmSecurities Sdn Bhd",
+      "shortName": "AmSecurities Sdn",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_472",
+      "name": "BIMB Securities Sdn Bhd",
+      "shortName": "BIMB Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_473",
+      "name": "CIMB Securities Sdn Bhd",
+      "shortName": "CIMB Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_474",
+      "name": "CLSA Securities Malaysia Sdn Bhd",
+      "shortName": "CLSA Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_475",
+      "name": "Credit Suisse Securities (Malaysia) Sdn Bhd",
+      "shortName": "Credit Suisse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_476",
+      "name": "EONCAP Securities Sdn Bhd",
+      "shortName": "EONCAP Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_477",
+      "name": "FA Securities Sdn Bhd",
+      "shortName": "FA Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_478",
+      "name": "HLG Securities Sdn Bhd",
+      "shortName": "HLG Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_479",
+      "name": "Hwang-DBS Securities Sdn Bhd",
+      "shortName": "Hwang-DBS Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_480",
+      "name": "Inter-Pacific Securities Sdn Bhd",
+      "shortName": "Inter-Pacific Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_481",
+      "name": "JF Apex Securities Berhad",
+      "shortName": "JF Apex",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_482",
+      "name": "JPMorgan Securities (Malaysia) Sdn Bhd",
+      "shortName": "JPMorgan Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_483",
+      "name": "Jupiter Securities Sdn Bhd",
+      "shortName": "Jupiter Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_484",
+      "name": "K*N Kenanga Berhad",
+      "shortName": "K*N Kenanga",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_485",
+      "name": "KAF-Seagroatt &amp; Campbell Securities Sdn Bhd",
+      "shortName": "KAF-Seagroatt &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_486",
+      "name": "M&amp;A Securities Sdn Bhd",
+      "shortName": "M&amp;A Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_487",
+      "name": "Macquarie (Malaysia) Sdn Bhd",
+      "shortName": "Macquarie (Malaysia)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_488",
+      "name": "Malaysian Issuing House Sdn Bhd (Issuing House)",
+      "shortName": "Malaysian Issuing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_489",
+      "name": "Mercury Securities Sdn Bhd",
+      "shortName": "Mercury Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_490",
+      "name": "MIDF Sisma Securities Sdn Bhd",
+      "shortName": "MIDF Sisma",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_491",
+      "name": "Nomura Securities Malaysia Sdn Bhd",
+      "shortName": "Nomura Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_492",
+      "name": "OSK Securities Berhad",
+      "shortName": "OSK Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_493",
+      "name": "RHB Securities Sdn Bhd",
+      "shortName": "RHB Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_494",
+      "name": "SBB Securities Sdn Bhd",
+      "shortName": "SBB Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_495",
+      "name": "SJ Securities Sdn Bhd",
+      "shortName": "SJ Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_496",
+      "name": "TA Securities Holdings Bhd",
+      "shortName": "TA Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_497",
+      "name": "UBS Securities Malaysia Sdn Bhd",
+      "shortName": "UBS Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_498",
+      "name": "UOB KAY HIAN SECURITIES (M)SDN BHD",
+      "shortName": "UOB KAY",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_499",
+      "name": "AIGIC (M) Sdn Bhd",
+      "shortName": "AIGIC (M)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_500",
+      "name": "Allied Avenue Assets Securities Sdn Bhd",
+      "shortName": "Allied Avenue",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_501",
+      "name": "Allied Philip Capital Management Sdn Bhd",
+      "shortName": "Allied Philip",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_502",
+      "name": "AMMB asset Management Sdn Bhd",
+      "shortName": "AMMB asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_503",
+      "name": "Arab Malaysian Securities Sdn Bhd",
+      "shortName": "Arab Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_504",
+      "name": "Avenue Asset Management Services Sdn Bhd",
+      "shortName": "Avenue Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_505",
+      "name": "Avenue Unit Trust Berhad",
+      "shortName": "Avenue Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_506",
+      "name": "CMS Dresdner Thornton Asset Management Sdn Bhd",
+      "shortName": "CMS Dresdner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_507",
+      "name": "Commerce Trust Berhad",
+      "shortName": "Commerce Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_508",
+      "name": "Fima Asset Management Sdn Bhd",
+      "shortName": "Fima Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_509",
+      "name": "FOS Asset Sdn Bhd",
+      "shortName": "FOS Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_510",
+      "name": "IR Asset Management Sdn Bhd",
+      "shortName": "IR Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_511",
+      "name": "J.B Securities Sdn Bhd",
+      "shortName": "J.B Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_512",
+      "name": "JMF Asset Management Sdn Bhd",
+      "shortName": "JMF Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_513",
+      "name": "Libra Capital Markets Sdn Bhd",
+      "shortName": "Libra Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_514",
+      "name": "Premier Capital Management Sdn Bhd",
+      "shortName": "Premier Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_515",
+      "name": "Rashid Hussein Securities Sdn Bhd",
+      "shortName": "Rashid Hussein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_516",
+      "name": "Towry Law Asset Management Sdn Bhd",
+      "shortName": "Towry Law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_517",
+      "name": "Hwang-DBS Unit Trust Berhad",
+      "shortName": "Hwang-DBS Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_518",
+      "name": "Merchant Holdings Sdn Bhd",
+      "shortName": "Merchant Holdings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_519",
+      "name": "Seacorp-Schroder Capital Management Berhad",
+      "shortName": "Seacorp-Schroder Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_520",
+      "name": "Inter-Pacific Portfolio Managers Sdn Bhd",
+      "shortName": "Inter-Pacific Portfolio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_521",
+      "name": "Prudential Unit Trust Berhad",
+      "shortName": "Prudential Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_522",
+      "name": "Rashid Hussein Asset Management Sdn Bhd",
+      "shortName": "Rashid Hussein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_523",
+      "name": "SDB Asset Management Sdn Bhd",
+      "shortName": "SDB Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_524",
+      "name": "TA Unit Trust Management Berhad",
+      "shortName": "TA Unit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_525",
+      "name": "Leong &amp; Company Sdn Bhd",
+      "shortName": "Leong &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_526",
+      "name": "Seagroatt &amp; Campbell Sdn Bhd",
+      "shortName": "Seagroatt &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_527",
+      "name": "Pengkalan Securities Sdn Bhd",
+      "shortName": "Pengkalan Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_528",
+      "name": "Bolty Securities Sdn Bhd",
+      "shortName": "Bolty Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_529",
+      "name": "Mohaiyani Securities Sdn Bhd",
+      "shortName": "Mohaiyani Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_530",
+      "name": "ShareTech Securities Sdn Bhd",
+      "shortName": "ShareTech Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_531",
+      "name": "Labuan Securities Sdn Bhd",
+      "shortName": "Labuan Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_532",
+      "name": "AmAssurance Berhad",
+      "shortName": "AmAssurance Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_533",
+      "name": "American International Assurance Co Ltd (AIA)",
+      "shortName": "American International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_534",
+      "name": "Hong Leong Assurance Berhad",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_535",
+      "name": "ING Insurance Berhad",
+      "shortName": "ING Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_536",
+      "name": "Malaysia National Insurance Berhad (MNI)",
+      "shortName": "Malaysia National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_537",
+      "name": "Malaysian Assurance Alliance Berhad",
+      "shortName": "Malaysian Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_538",
+      "name": "MCIS Insurance Berhad",
+      "shortName": "MCIS Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_539",
+      "name": "Prudential Assurance (M) Berhad",
+      "shortName": "Prudential Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_540",
+      "name": "Allianz Life Insurance (Malaysia) Berhad",
+      "shortName": "Allianz Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_541",
+      "name": "Asia Life (Malaysia) Berhad",
+      "shortName": "Asia Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_542",
+      "name": "AXA Affin Life Insurance Berhad",
+      "shortName": "AXA Affin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_543",
+      "name": "Commerce Life Assurance (Malaysia) Berhad",
+      "shortName": "Commerce Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_544",
+      "name": "Great Eastern Life Assurance (Malaysia) Berhad",
+      "shortName": "Great Eastern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_545",
+      "name": "Manulife Insurance (M) Berhad",
+      "shortName": "Manulife Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_546",
+      "name": "Maybank Life Assurance Berhad",
+      "shortName": "Maybank Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_547",
+      "name": "Uni.Asia Life Assurance Berhad",
+      "shortName": "Uni.Asia Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_548",
+      "name": "ACE Synergy Insurance Berhad",
+      "shortName": "ACE Synergy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_549",
+      "name": "Allianz General Insurance Malaysia Berhad",
+      "shortName": "Allianz General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_550",
+      "name": "American Home Assurance Company",
+      "shortName": "American Home",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_551",
+      "name": "AMI Insurans Berhad",
+      "shortName": "AMI Insurans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_552",
+      "name": "Asia Insurance (Malaysia) Berhad",
+      "shortName": "Asia Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_553",
+      "name": "AXA Affin General Insurance Berhad",
+      "shortName": "AXA Affin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_554",
+      "name": "Berjaya General Insurance Berhad",
+      "shortName": "Berjaya General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_555",
+      "name": "Jerneh Insurance Berhad",
+      "shortName": "Jerneh Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_556",
+      "name": "Kurnia Insurans (Malaysia) Berhad",
+      "shortName": "Kurnia Insurans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_557",
+      "name": "Lonpac Insurance Berhad",
+      "shortName": "Lonpac Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_558",
+      "name": "Mayban General Assurance Berhad",
+      "shortName": "Mayban General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_559",
+      "name": "MUI Continental Insurance Berhad",
+      "shortName": "MUI Continental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_560",
+      "name": "Oriental Capital Assurance Berhad",
+      "shortName": "Oriental Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_561",
+      "name": "Overseas Assurance Corporation (Malaysia) Berhad",
+      "shortName": "Overseas Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_562",
+      "name": "Pacific &amp; Orient Insurance Co. Berhad",
+      "shortName": "Pacific &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_563",
+      "name": "Pacific Insurance Berhad, The",
+      "shortName": "Pacific Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_564",
+      "name": "PanGlobal Insurance Berhad",
+      "shortName": "PanGlobal Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_565",
+      "name": "Progressive Insurance Berhad",
+      "shortName": "Progressive Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_566",
+      "name": "QBE Insurance Berhad",
+      "shortName": "QBE Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_567",
+      "name": "RHB Insurance Berhad",
+      "shortName": "RHB Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_568",
+      "name": "Tahan Insurance Malaysia Berhad",
+      "shortName": "Tahan Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_569",
+      "name": "Tokio Marine Insurans (Malaysia) Berhad",
+      "shortName": "Tokio Marine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_570",
+      "name": "Uni.Asia General Insurance Berhad",
+      "shortName": "Uni.Asia General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_571",
+      "name": "Hannover Rueckversicherungs AG",
+      "shortName": "Hannover Rueckversicherungs",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_572",
+      "name": "Malaysian Life Reinsurance Group Berhad",
+      "shortName": "Malaysian Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_573",
+      "name": "Malaysian Reinsurance Berhad",
+      "shortName": "Malaysian Reinsurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_574",
+      "name": "Munchener Ruckversicherungs-Gesellschaft",
+      "shortName": "Munchener Ruckversicherungs-Gesellschaft",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_575",
+      "name": "Swiss Reinsurance Company",
+      "shortName": "Swiss Reinsurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_576",
+      "name": "The TOA Reinsurance Company Ltd.",
+      "shortName": "The TOA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_577",
+      "name": "Sun Life Takaful",
+      "shortName": "Sun Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_578",
+      "name": "HSBC Amanah Takaful (Malaysia) Sdn Bhd",
+      "shortName": "HSBC Amanah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_579",
+      "name": "Etiqa Takaful Berhad",
+      "shortName": "Etiqa Takaful",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_580",
+      "name": "Prudential BSN Takaful Berhad",
+      "shortName": "Prudential BSN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_581",
+      "name": "Syarikat Takaful Malaysia Berhad",
+      "shortName": "Syarikat Takaful",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_582",
+      "name": "Takaful Ikhlas Sdn. Bhd",
+      "shortName": "Takaful Ikhlas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_583",
+      "name": "Takaful Nasional Sdn. Bhd.",
+      "shortName": "Takaful Nasional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_584",
+      "name": "Hong Leong MSIG Takaful",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_585",
+      "name": "Great Eastern Takaful Sdn Bhd",
+      "shortName": "Great Eastern",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_586",
+      "name": "AIA AFG Takaful Berhad",
+      "shortName": "AIA AFG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_587",
+      "name": "AmMetLife Takaful Berhad",
+      "shortName": "AmMetLife Takaful",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_588",
+      "name": "AIA PUBLIC Takaful Berhad",
+      "shortName": "AIA PUBLIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_589",
+      "name": "MAA Takaful Berhad",
+      "shortName": "MAA Takaful",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_590",
+      "name": "Aetna Universal Insurance Berhad",
+      "shortName": "Aetna Universal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_591",
+      "name": "ACE Insurance Limited",
+      "shortName": "ACE Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_592",
+      "name": "AMAL Assurance Berhad",
+      "shortName": "AMAL Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_593",
+      "name": "AMI Insurance Berhad",
+      "shortName": "AMI Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_594",
+      "name": "The Asia Insurance Company Limited",
+      "shortName": "The Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_595",
+      "name": "AVIVA Insurance Berhad",
+      "shortName": "AVIVA Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_596",
+      "name": "AXA Affin Assurance Berhad",
+      "shortName": "AXA Affin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_597",
+      "name": "Berjaya General Insurance Sdn Bhd",
+      "shortName": "Berjaya General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_598",
+      "name": "Commerce Assurance Berhad",
+      "shortName": "Commerce Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_599",
+      "name": "EON CMG Life Assurance Berhad",
+      "shortName": "EON CMG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_600",
+      "name": "Hong Leong Assurance Sdn Bhd",
+      "shortName": "Hong Leong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_601",
+      "name": "John Hancock Life Insurance Berhad",
+      "shortName": "John Hancock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_602",
+      "name": "Industrial &amp;z\\ Commercial Insurance Berhad",
+      "shortName": "Industrial &amp;z\\",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_603",
+      "name": "KSM Insurans Berhad",
+      "shortName": "KSM Insurans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_604",
+      "name": "Kompas Insurans Berhad",
+      "shortName": "Kompas Insurans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_605",
+      "name": "London &amp; Pacific Insurance Company Berhad",
+      "shortName": "London &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_606",
+      "name": "Malaysia National Reinsurance Berhad",
+      "shortName": "Malaysia National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_607",
+      "name": "Malaysia Pacific Insurance Berhad (MPI)",
+      "shortName": "Malaysia Pacific",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_608",
+      "name": "Mayban Assurance Berhad",
+      "shortName": "Mayban Assurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_609",
+      "name": "MBA Life Assurance Berhad",
+      "shortName": "MBA Life",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_610",
+      "name": "MBF Insurans Berhad",
+      "shortName": "MBF Insurans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_611",
+      "name": "The Netherlands Insurance Co. Est 1845 Ltd",
+      "shortName": "The Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_612",
+      "name": "The Netherlands Insurance (M) Sdn Bhd",
+      "shortName": "The Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_613",
+      "name": "Overseas Union Insurance Berhad",
+      "shortName": "Overseas Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_614",
+      "name": "The Pacific Netherlands Insurance Berhad",
+      "shortName": "The Pacific",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_615",
+      "name": "Perdana CIGNA Insurance Berhad",
+      "shortName": "Perdana CIGNA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_616",
+      "name": "People's Insurance Company (M) Berhad",
+      "shortName": "People's Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_617",
+      "name": "Progressive Insurance Sdn Bhd",
+      "shortName": "Progressive Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_618",
+      "name": "South East Insurance Berhad",
+      "shortName": "South East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_619",
+      "name": "South East Asia Insurance Berhad",
+      "shortName": "South East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_620",
+      "name": "Sri Bumi Insurance Sdn Bhd",
+      "shortName": "Sri Bumi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_621",
+      "name": "Talasco Insurance Berhad",
+      "shortName": "Talasco Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_622",
+      "name": "Tenaga Insurance Berhad",
+      "shortName": "Tenaga Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_623",
+      "name": "The Tokio Marine and Fire Insurance Company",
+      "shortName": "The Tokio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_624",
+      "name": "The Tokio Marine and Fire Insurance (M) Sdn Bhd",
+      "shortName": "The Tokio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_625",
+      "name": "United Prime Insurance ( M ) Sdn Bhd",
+      "shortName": "United Prime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_626",
+      "name": "Wing on Fire &amp; marine Insurance",
+      "shortName": "Wing on",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_627",
+      "name": "Zurich Insurance (Malaysia) Berhad",
+      "shortName": "Zurich Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_628",
+      "name": "Asset management in Malaysia",
+      "shortName": "Asset management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_629",
+      "name": "Bursa Malaysia (Kuala Lumpur Stock Exchange)",
+      "shortName": "Bursa Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_630",
+      "name": "Economy of Malaysia",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_631",
+      "name": "Foreign direct investment",
+      "shortName": "Foreign direct",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_632",
+      "name": "Islamic banking in Malaysia",
+      "shortName": "Islamic banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_633",
+      "name": "Malaysian Electronic Payment System",
+      "shortName": "Malaysian Electronic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_634",
+      "name": "Malaysian Ringgit",
+      "shortName": "Malaysian Ringgit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_635",
+      "name": "Banking information in Malaysia",
+      "shortName": "Banking information",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_636",
+      "name": "Association of banks in Malaysia",
+      "shortName": "Association of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_637",
+      "name": "Timeline",
+      "shortName": "Timeline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_638",
+      "name": "Prehistoric",
+      "shortName": "Prehistoric",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_639",
+      "name": "Portuguese Malacca",
+      "shortName": "Portuguese Malacca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_640",
+      "name": "Dutch Malacca",
+      "shortName": "Dutch Malacca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_641",
+      "name": "British Malaya",
+      "shortName": "British Malaya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_642",
+      "name": "British Borneo",
+      "shortName": "British Borneo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_643",
+      "name": "Japanese occupation of Malaya / Borneo",
+      "shortName": "Japanese occupation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_644",
+      "name": "Malayan Union",
+      "shortName": "Malayan Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_645",
+      "name": "Federation of Malaya",
+      "shortName": "Federation of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_646",
+      "name": "Malayan Emergency",
+      "shortName": "Malayan Emergency",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_647",
+      "name": "Malaysia Agreement",
+      "shortName": "Malaysia Agreement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_648",
+      "name": "Indonesia–Malaysia confrontation",
+      "shortName": "Indonesia–Malaysia confrontation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_649",
+      "name": "Sarawak communist insurgency",
+      "shortName": "Sarawak communist",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_650",
+      "name": "Second Malayan Emergency",
+      "shortName": "Second Malayan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_651",
+      "name": "13 May incident",
+      "shortName": "13 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_652",
+      "name": "1988 constitutional crisis",
+      "shortName": "1988 constitutional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_653",
+      "name": "1997 Asian financial crisis",
+      "shortName": "1997 Asian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_654",
+      "name": "1MDB scandal",
+      "shortName": "1MDB scandal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_655",
+      "name": "2020–2022 Malaysian political crisis",
+      "shortName": "2020–2022 Malaysian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_656",
+      "name": "Borders",
+      "shortName": "Borders",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_657",
+      "name": "Cities, towns and villages",
+      "shortName": "Cities, towns",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_658",
+      "name": "Districts",
+      "shortName": "Districts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_659",
+      "name": "Divisions",
+      "shortName": "Divisions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_660",
+      "name": "East Malaysia",
+      "shortName": "East Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_661",
+      "name": "conservation",
+      "shortName": "conservation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_662",
+      "name": "environmental issues",
+      "shortName": "environmental issues",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_663",
+      "name": "deforestation",
+      "shortName": "deforestation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_664",
+      "name": "wildlife",
+      "shortName": "wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_665",
+      "name": "plants",
+      "shortName": "plants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_666",
+      "name": "World Heritage Sites",
+      "shortName": "World Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_667",
+      "name": "Hill stations",
+      "shortName": "Hill stations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_668",
+      "name": "Islands",
+      "shortName": "Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_669",
+      "name": "Lakes",
+      "shortName": "Lakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_670",
+      "name": "Mountains",
+      "shortName": "Mountains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_671",
+      "name": "National parks",
+      "shortName": "National parks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_672",
+      "name": "Peninsular Malaysia",
+      "shortName": "Peninsular Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_673",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_674",
+      "name": "States",
+      "shortName": "States",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_675",
+      "name": "Earthquakes",
+      "shortName": "Earthquakes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_676",
+      "name": "Volcanoes",
+      "shortName": "Volcanoes",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_677",
+      "name": "Cabinet",
+      "shortName": "Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_678",
+      "name": "Shadow Cabinet",
+      "shortName": "Shadow Cabinet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_679",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_680",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_681",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_682",
+      "name": "Government",
+      "shortName": "Government",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_683",
+      "name": "King",
+      "shortName": "King",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_684",
+      "name": "Human rights",
+      "shortName": "Human rights",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_685",
+      "name": "Censorship",
+      "shortName": "Censorship",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_686",
+      "name": "Judiciary",
+      "shortName": "Judiciary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_687",
+      "name": "Law",
+      "shortName": "Law",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_688",
+      "name": "Law enforcement",
+      "shortName": "Law enforcement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_689",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_690",
+      "name": "Monarchies",
+      "shortName": "Monarchies",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_691",
+      "name": "Parliament",
+      "shortName": "Parliament",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_692",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_693",
+      "name": "Prime Minister",
+      "shortName": "Prime Minister",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_694",
+      "name": "State legislative assemblies",
+      "shortName": "State legislative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_695",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_696",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_697",
+      "name": "Federal budget",
+      "shortName": "Federal budget",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_698",
+      "name": "Ringgit (currency)",
+      "shortName": "Ringgit (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_699",
+      "name": "States by GDP",
+      "shortName": "States by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_700",
+      "name": "States and municipalities by exports",
+      "shortName": "States and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_701",
+      "name": "States by household income",
+      "shortName": "States by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_702",
+      "name": "States by wage",
+      "shortName": "States by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_703",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_704",
+      "name": "Stock exchange",
+      "shortName": "Stock exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_705",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_706",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_707",
+      "name": "Transport",
+      "shortName": "Transport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_708",
+      "name": "Unions",
+      "shortName": "Unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_709",
+      "name": "World Bank Relations",
+      "shortName": "World",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_710",
+      "name": "Abortion",
+      "shortName": "Abortion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_711",
+      "name": "Crime",
+      "shortName": "Crime",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_712",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_713",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_714",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_715",
+      "name": "Ethnic groups",
+      "shortName": "Ethnic groups",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_716",
+      "name": "Human trafficking",
+      "shortName": "Human trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_717",
+      "name": "Income inequality",
+      "shortName": "Income inequality",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_718",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_719",
+      "name": "LGBT",
+      "shortName": "LGBT",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_720",
+      "name": "Malaysian diaspora",
+      "shortName": "Malaysian diaspora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_721",
+      "name": "Poverty",
+      "shortName": "Poverty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_722",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_723",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_724",
+      "name": "Sex trafficking",
+      "shortName": "Sex trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_725",
+      "name": "Squatting",
+      "shortName": "Squatting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_726",
+      "name": "Water supply and sanitation",
+      "shortName": "Water supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_727",
+      "name": "Women",
+      "shortName": "Women",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_728",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_729",
+      "name": "Architecture",
+      "shortName": "Architecture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_730",
+      "name": "Cinema",
+      "shortName": "Cinema",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_731",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_732",
+      "name": "Folklore",
+      "shortName": "Folklore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_733",
+      "name": "Libraries",
+      "shortName": "Libraries",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_734",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_735",
+      "name": "Malay ethnic nationalism",
+      "shortName": "Malay ethnic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_736",
+      "name": "Media",
+      "shortName": "Media",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_737",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_738",
+      "name": "Names",
+      "shortName": "Names",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_739",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_740",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_741",
+      "name": "Animal",
+      "shortName": "Animal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_742",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_743",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_744",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_745",
+      "name": "Flower",
+      "shortName": "Flower",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_746",
+      "name": "Rukun Negara",
+      "shortName": "Rukun Negara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_747",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_748",
+      "name": "Index",
+      "shortName": "Index",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_749",
+      "name": "Bibliography",
+      "shortName": "Bibliography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_750",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_751",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_752",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_753",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_754",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_755",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_756",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_757",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_758",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_759",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_760",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_761",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_762",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_763",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_764",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_765",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_766",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_767",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_768",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_769",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_770",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_771",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_772",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_773",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_774",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_775",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_776",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_777",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_778",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_779",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_780",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_781",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_782",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_783",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_784",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_785",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_786",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_787",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_788",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_789",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_790",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_791",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_792",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_793",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_794",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_795",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_796",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_797",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_798",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_799",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_800",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_801",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_802",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_803",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_804",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_805",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_806",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_807",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_808",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_809",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_810",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_811",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_812",
+      "name": "Banks of Malaysia",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_813",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_814",
+      "name": "Lists of companies of Malaysia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_815",
+      "name": "Lists of banks in Southeast Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_816",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_817",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_818",
+      "name": "Dynamic lists",
+      "shortName": "Dynamic lists",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_819",
+      "name": "Articles with excerpts",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_820",
+      "name": "Commons category link is on Wikidata",
+      "shortName": "Commons category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_821",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_822",
+      "name": "947.8",
+      "shortName": "947.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_823",
+      "name": "86.0",
+      "shortName": "86.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_824",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_825",
+      "name": "733.6",
+      "shortName": "733.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_826",
+      "name": "73.72",
+      "shortName": "73.72",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_827",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_828",
+      "name": "493.3",
+      "shortName": "493.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_829",
+      "name": "50.2",
+      "shortName": "50.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_830",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_831",
+      "name": "RHB",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_832",
+      "name": "310.8",
+      "shortName": "310.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_833",
+      "name": "28.7",
+      "shortName": "28.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_834",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_835",
+      "name": "265.2",
+      "shortName": "265.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_836",
+      "name": "32.1",
+      "shortName": "32.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_837",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_838",
+      "name": "185.2",
+      "shortName": "185.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_839",
+      "name": "17.6",
+      "shortName": "17.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_840",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_841",
+      "name": "UOB Malaysia",
+      "shortName": "UOB Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_842",
+      "name": "140.4",
+      "shortName": "140.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_843",
+      "name": "12.6",
+      "shortName": "12.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_844",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_845",
+      "name": "117.3",
+      "shortName": "117.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_846",
+      "name": "22.6",
+      "shortName": "22.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_847",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_848",
+      "name": "OCBC  Malaysia",
+      "shortName": "OCBC Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_849",
+      "name": "99.5",
+      "shortName": "99.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_850",
+      "name": "9.3",
+      "shortName": "9.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_851",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_852",
+      "name": "HSBC Malaysia",
+      "shortName": "HSBC Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_853",
+      "name": "94.6",
+      "shortName": "94.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_854",
+      "name": "11.2",
+      "shortName": "11.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_855",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_856",
+      "name": "Bank Islam",
+      "shortName": "Bank Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_857",
+      "name": "90.9",
+      "shortName": "90.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_858",
+      "name": "6.8",
+      "shortName": "6.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_859",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_860",
+      "name": "90.1",
+      "shortName": "90.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_861",
+      "name": "10.6",
+      "shortName": "10.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_862",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_863",
+      "name": "65.1",
+      "shortName": "65.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_864",
+      "name": "6.6",
+      "shortName": "6.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_865",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_866",
+      "name": "Standard Chartered Malaysia",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_867",
+      "name": "57.9",
+      "shortName": "57.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_868",
+      "name": "5.5",
+      "shortName": "5.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_869",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_870",
+      "name": "MBSB Bank",
+      "shortName": "MBSB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_871",
+      "name": "66.7",
+      "shortName": "66.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_872",
+      "name": "7.4",
+      "shortName": "7.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_873",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_874",
+      "name": "Citibank Malaysia",
+      "shortName": "Citibank Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_875",
+      "name": "42.9",
+      "shortName": "42.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_876",
+      "name": "4.3",
+      "shortName": "4.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_877",
+      "name": "17",
+      "shortName": "17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_878",
+      "name": "BSN",
+      "shortName": "BSN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_879",
+      "name": "49.8",
+      "shortName": "49.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_880",
+      "name": "4.0",
+      "shortName": "4.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_881",
+      "name": "18",
+      "shortName": "18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_882",
+      "name": "Bank Muamalat",
+      "shortName": "Bank Muamalat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_883",
+      "name": "31.5",
+      "shortName": "31.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_884",
+      "name": "2.9",
+      "shortName": "2.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_885",
+      "name": "19",
+      "shortName": "19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_886",
+      "name": "Agrobank",
+      "shortName": "Agrobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_887",
+      "name": "18.8",
+      "shortName": "18.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_888",
+      "name": "3.2",
+      "shortName": "3.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_889",
+      "name": "20",
+      "shortName": "20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_890",
+      "name": "Al Rajhi Bank Malaysia",
+      "shortName": "Al Rajhi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_891",
+      "name": "12.2",
+      "shortName": "12.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_892",
+      "name": "0.9",
+      "shortName": "0.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_893",
+      "name": "21",
+      "shortName": "21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_894",
+      "name": "Co-op Bank Pertama",
+      "shortName": "Co-op",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_895",
+      "name": "6.1",
+      "shortName": "6.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_896",
+      "name": "1.0",
+      "shortName": "1.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_897",
+      "name": "22",
+      "shortName": "22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_898",
+      "name": "United Overseas Bank (UOB) Malaysia",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_899",
+      "name": "Diners Club (Malaysia) Sdn Bhd*",
+      "shortName": "Diners Club",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_900",
+      "name": "Diners Club*",
+      "shortName": "Diners Club*",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_901",
+      "name": "Maybank Berhad",
+      "shortName": "Maybank Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_902",
+      "name": "American Express",
+      "shortName": "American Express",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_903",
+      "name": "Al-Rajhi Islamic Bank",
+      "shortName": "Al-Rajhi Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_904",
+      "name": "MEPS",
+      "shortName": "MEPS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_905",
+      "name": "Visa Electron",
+      "shortName": "Visa Electron",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_906",
+      "name": "Musafir-Hajj (SAR)",
+      "shortName": "Musafir-Hajj (SAR)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_907",
+      "name": "Mastercard",
+      "shortName": "Mastercard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_908",
+      "name": "MyDebit",
+      "shortName": "MyDebit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_909",
+      "name": "Affin Islamic",
+      "shortName": "Affin Islamic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_910",
+      "name": "Maestro, MyDebit",
+      "shortName": "Maestro, MyDebit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_911",
+      "name": "Bank of China (Malaysia)",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_912",
+      "name": "-",
+      "shortName": "-",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_913",
+      "name": "Mastercard, Unionpay",
+      "shortName": "Mastercard, Unionpay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_914",
+      "name": "Bank Muamalat Malaysia Bhd",
+      "shortName": "Bank Muamalat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_915",
+      "name": "CIMB Bank",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_916",
+      "name": "Citibank(Sold to UOB Group Malaysia)",
+      "shortName": "Citibank(Sold to",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_917",
+      "name": "HSBC Bank",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_918",
+      "name": "Visa",
+      "shortName": "Visa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_919",
+      "name": "ICBC Malaysia",
+      "shortName": "ICBC Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_920",
+      "name": "UnionPay",
+      "shortName": "UnionPay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_921",
+      "name": "Kuwait Finance House",
+      "shortName": "Kuwait Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_922",
+      "name": "Visa, Mastercard",
+      "shortName": "Visa, Mastercard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_923",
+      "name": "OCBC Bank",
+      "shortName": "OCBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_924",
+      "name": "Visa, Unionpay, Mastercard",
+      "shortName": "Visa, Unionpay,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_925",
+      "name": "Ryt Bank",
+      "shortName": "Ryt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_926",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_927",
+      "name": "United Overseas Bank",
+      "shortName": "United Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_928",
+      "name": "Merchantrade Asia",
+      "shortName": "Merchantrade Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_929",
+      "name": "RM100",
+      "shortName": "RM100",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_930",
+      "name": "RM10 per annum.",
+      "shortName": "RM10 per",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_931",
+      "name": "AEON Credit Service",
+      "shortName": "AEON Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_932",
+      "name": "RM25",
+      "shortName": "RM25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_933",
+      "name": "Free",
+      "shortName": "Free",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_934",
+      "name": "Mastercard (DIGI Simple MasterCard)",
+      "shortName": "Mastercard (DIGI",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_935",
+      "name": "Nil (for DiGi subscriber)",
+      "shortName": "Nil (for",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_936",
+      "name": "Nil*",
+      "shortName": "Nil*",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_937",
+      "name": "AmBank Berhad",
+      "shortName": "AmBank Berhad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_938",
+      "name": "Mastercard (NextG)",
+      "shortName": "Mastercard (NextG)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_939",
+      "name": "RM3 per month*",
+      "shortName": "RM3 per",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_940",
+      "name": "Bank Islam Berhad",
+      "shortName": "Bank Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_941",
+      "name": "RM50",
+      "shortName": "RM50",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_942",
+      "name": "Free but up to 3 years*",
+      "shortName": "Free but",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_943",
+      "name": "CIMB Bank Malaysia",
+      "shortName": "CIMB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_944",
+      "name": "RM10",
+      "shortName": "RM10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_945",
+      "name": "RM15",
+      "shortName": "RM15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_946",
+      "name": "RM6 per annum.  Shell easiGo.",
+      "shortName": "RM6 per",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_947",
+      "name": "RM20",
+      "shortName": "RM20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_948",
+      "name": "RM6 per annum. Manchester United Card",
+      "shortName": "RM6 per",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_949",
+      "name": "RHB Bank Berhad",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_950",
+      "name": "RM24",
+      "shortName": "RM24",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_951",
+      "name": "RM24 per annum.",
+      "shortName": "RM24 per",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_952",
+      "name": "BigPay Malaysia",
+      "shortName": "BigPay Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MY_953",
+      "name": "Waived unconditionally",
+      "shortName": "Waived unconditionally",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,4184 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "IR",
   "institutions": [
     {
-      "code": "CENBIR",
-      "name": "Central Bank of IR",
-      "shortName": "Central Bank",
+      "code": "IR_0",
+      "name": "Advising",
+      "shortName": "Advising",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBIR",
-      "name": "National Bank of IR",
-      "shortName": "National Bank",
+      "code": "IR_1",
+      "name": "Banq",
+      "shortName": "Banq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABIR",
-      "name": "State Bank of IR",
-      "shortName": "State Bank",
+      "code": "IR_2",
+      "name": "Bulge bracket",
+      "shortName": "Bulge bracket",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBIR",
-      "name": "Commercial Bank of IR",
-      "shortName": "Commercial Bank",
+      "code": "IR_3",
+      "name": "Central",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBIR",
-      "name": "First IR Bank",
-      "shortName": "First Bank",
+      "code": "IR_4",
+      "name": "Commercial",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_5",
+      "name": "Community development",
+      "shortName": "Community development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_6",
+      "name": "Cooperative",
+      "shortName": "Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_7",
+      "name": "Credit union",
+      "shortName": "Credit union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_8",
+      "name": "Custodian",
+      "shortName": "Custodian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_9",
+      "name": "Depository",
+      "shortName": "Depository",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_10",
+      "name": "Development",
+      "shortName": "Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_11",
+      "name": "Direct",
+      "shortName": "Direct",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_12",
+      "name": "Export credit agency",
+      "shortName": "Export credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_13",
+      "name": "Investment",
+      "shortName": "Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_14",
+      "name": "Industrial",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_15",
+      "name": "Merchant",
+      "shortName": "Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_16",
+      "name": "Middle market",
+      "shortName": "Middle market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_17",
+      "name": "Money center",
+      "shortName": "Money center",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_18",
+      "name": "Mutual savings",
+      "shortName": "Mutual savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_19",
+      "name": "Neobank",
+      "shortName": "Neobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_20",
+      "name": "Offshore",
+      "shortName": "Offshore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_21",
+      "name": "Participation",
+      "shortName": "Participation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_22",
+      "name": "Payments",
+      "shortName": "Payments",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_23",
+      "name": "Postal savings",
+      "shortName": "Postal savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_24",
+      "name": "Private",
+      "shortName": "Private",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_25",
+      "name": "Public",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_26",
+      "name": "Retail",
+      "shortName": "Retail",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_27",
+      "name": "Savings",
+      "shortName": "Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_28",
+      "name": "Savings and loan",
+      "shortName": "Savings and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_29",
+      "name": "Universal",
+      "shortName": "Universal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_30",
+      "name": "Wholesale",
+      "shortName": "Wholesale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_31",
+      "name": "Bank holding company",
+      "shortName": "Bank holding",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_32",
+      "name": "Christmas club",
+      "shortName": "Christmas club",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_33",
+      "name": "Deposit",
+      "shortName": "Deposit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_34",
+      "name": "Interest rate",
+      "shortName": "Interest rate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_35",
+      "name": "Money-market",
+      "shortName": "Money-market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_36",
+      "name": "Time deposit (Bond)",
+      "shortName": "Time deposit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_37",
+      "name": "ATM",
+      "shortName": "ATM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_38",
+      "name": "Credit",
+      "shortName": "Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_39",
+      "name": "Debit",
+      "shortName": "Debit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_40",
+      "name": "Prepaid",
+      "shortName": "Prepaid",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_41",
+      "name": "Cheque",
+      "shortName": "Cheque",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_42",
+      "name": "Card",
+      "shortName": "Card",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_43",
+      "name": "Instant payment",
+      "shortName": "Instant payment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_44",
+      "name": "Mobile",
+      "shortName": "Mobile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_45",
+      "name": "NS",
+      "shortName": "NS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_46",
+      "name": "Direct debit",
+      "shortName": "Direct debit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_47",
+      "name": "ACH",
+      "shortName": "ACH",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_48",
+      "name": "Giro",
+      "shortName": "Giro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_49",
+      "name": "CLS",
+      "shortName": "CLS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_50",
+      "name": "CIPS",
+      "shortName": "CIPS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_51",
+      "name": "SPFS",
+      "shortName": "SPFS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_52",
+      "name": "BRICS PAY",
+      "shortName": "BRICS PAY",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_53",
+      "name": "management",
+      "shortName": "management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_54",
+      "name": "Automated teller machine",
+      "shortName": "Automated teller",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_55",
+      "name": "Bad debt",
+      "shortName": "Bad debt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_56",
+      "name": "Bank secrecy",
+      "shortName": "Bank secrecy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_57",
+      "name": "Asset growth",
+      "shortName": "Asset growth",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_58",
+      "name": "Capital asset",
+      "shortName": "Capital asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_59",
+      "name": "Cash",
+      "shortName": "Cash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_60",
+      "name": "Climate finance",
+      "shortName": "Climate finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_61",
+      "name": "Corporate finance",
+      "shortName": "Corporate finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_62",
+      "name": "Disinvestment",
+      "shortName": "Disinvestment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_63",
+      "name": "Diversification (finance)",
+      "shortName": "Diversification (finance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_64",
+      "name": "Eco-investing",
+      "shortName": "Eco-investing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_65",
+      "name": "Economic bubble",
+      "shortName": "Economic bubble",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_66",
+      "name": "Economic expansion",
+      "shortName": "Economic expansion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_67",
+      "name": "Enterprise value",
+      "shortName": "Enterprise value",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_68",
+      "name": "Enterprise risk management",
+      "shortName": "Enterprise risk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_69",
+      "name": "Environmental finance",
+      "shortName": "Environmental finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_70",
+      "name": "ESG",
+      "shortName": "ESG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_71",
+      "name": "Ethical banking",
+      "shortName": "Ethical banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_72",
+      "name": "analyst",
+      "shortName": "analyst",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_73",
+      "name": "asset",
+      "shortName": "asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_74",
+      "name": "economics",
+      "shortName": "economics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_75",
+      "name": "engineering",
+      "shortName": "engineering",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_76",
+      "name": "forecast",
+      "shortName": "forecast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_77",
+      "name": "plan",
+      "shortName": "plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_78",
+      "name": "planner",
+      "shortName": "planner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_79",
+      "name": "services",
+      "shortName": "services",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_80",
+      "name": "Fractional-reserve banking",
+      "shortName": "Fractional-reserve banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_81",
+      "name": "Full-reserve banking",
+      "shortName": "Full-reserve banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_82",
+      "name": "Fundamental analysis",
+      "shortName": "Fundamental analysis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_83",
+      "name": "Growth investing",
+      "shortName": "Growth investing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_84",
+      "name": "Hedge (finance)",
+      "shortName": "Hedge (finance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_85",
+      "name": "Impact investing",
+      "shortName": "Impact investing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_86",
+      "name": "Investment advisory",
+      "shortName": "Investment advisory",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_87",
+      "name": "Investment management",
+      "shortName": "Investment management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_88",
+      "name": "Islamic banking",
+      "shortName": "Islamic banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_89",
+      "name": "Loan",
+      "shortName": "Loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_90",
+      "name": "Mathematical finance",
+      "shortName": "Mathematical finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_91",
+      "name": "Mobile banking",
+      "shortName": "Mobile banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_92",
+      "name": "Money creation",
+      "shortName": "Money creation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_93",
+      "name": "Pension fund",
+      "shortName": "Pension fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_94",
+      "name": "Private banking",
+      "shortName": "Private banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_95",
+      "name": "Sustainability",
+      "shortName": "Sustainability",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_96",
+      "name": "Sustainable finance",
+      "shortName": "Sustainable finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_97",
+      "name": "Speculation",
+      "shortName": "Speculation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_98",
+      "name": "Statistical finance",
+      "shortName": "Statistical finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_99",
+      "name": "Strategic financial management",
+      "shortName": "Strategic financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_100",
+      "name": "Stress test (financial)",
+      "shortName": "Stress test",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_101",
+      "name": "Structured finance",
+      "shortName": "Structured finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_102",
+      "name": "Structured product",
+      "shortName": "Structured product",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_103",
+      "name": "Toxic asset",
+      "shortName": "Toxic asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_104",
+      "name": "Asset pricing",
+      "shortName": "Asset pricing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_105",
+      "name": "Bond (finance)",
+      "shortName": "Bond (finance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_106",
+      "name": "Capital structure",
+      "shortName": "Capital structure",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_107",
+      "name": "Cost of capital",
+      "shortName": "Cost of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_108",
+      "name": "Equity (finance)",
+      "shortName": "Equity (finance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_109",
+      "name": "Exchange-traded fund",
+      "shortName": "Exchange-traded fund",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_110",
+      "name": "Financial",
+      "shortName": "Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_111",
+      "name": "participants",
+      "shortName": "participants",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_112",
+      "name": "regulation",
+      "shortName": "regulation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_113",
+      "name": "risk",
+      "shortName": "risk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_114",
+      "name": "system",
+      "shortName": "system",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_115",
+      "name": "History of banking",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_116",
+      "name": "Market risk",
+      "shortName": "Market risk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_117",
+      "name": "Personal finance",
+      "shortName": "Personal finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_118",
+      "name": "Public finance",
+      "shortName": "Public finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_119",
+      "name": "Security (finance)",
+      "shortName": "Security (finance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_120",
+      "name": "Shares",
+      "shortName": "Shares",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_121",
+      "name": "Sustainable Development Goals",
+      "shortName": "Sustainable Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_122",
+      "name": "Systematic risk",
+      "shortName": "Systematic risk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_123",
+      "name": "Systemic risk",
+      "shortName": "Systemic risk",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_124",
+      "name": "Time value of money",
+      "shortName": "Time value",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_125",
+      "name": "Too big to fail",
+      "shortName": "Too big",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_126",
+      "name": "Too connected to fail",
+      "shortName": "Too connected",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_127",
+      "name": "Watered stock",
+      "shortName": "Watered stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_128",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_129",
+      "name": "Commons",
+      "shortName": "Commons",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_130",
+      "name": "Portal",
+      "shortName": "Portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_131",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_132",
+      "name": "Finance &amp; Credit Institutions",
+      "shortName": "Finance &amp;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_133",
+      "name": "Current deposit: 20 percent",
+      "shortName": "Current deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_134",
+      "name": "Interest-free-loan deposit: 10 percent",
+      "shortName": "Interest-free-loan deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_135",
+      "name": "Short-term deposit: 17 percent",
+      "shortName": "Short-term deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_136",
+      "name": "One-year deposit: 17 percent",
+      "shortName": "One-year deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_137",
+      "name": "Two- and Three-year deposit: 15 percent",
+      "shortName": "Two- and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_138",
+      "name": "Four-year deposit: 13 percent",
+      "shortName": "Four-year deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_139",
+      "name": "Five-year deposit: 11 percent",
+      "shortName": "Five-year deposit:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_140",
+      "name": "Other deposits: 20 percent",
+      "shortName": "Other deposits:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_141",
+      "name": "Asset (economics)",
+      "shortName": "Asset (economics)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_142",
+      "name": "Bond",
+      "shortName": "Bond",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_143",
+      "name": "Commodity",
+      "shortName": "Commodity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_144",
+      "name": "Derivatives",
+      "shortName": "Derivatives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_145",
+      "name": "Domains",
+      "shortName": "Domains",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_146",
+      "name": "Equity",
+      "shortName": "Equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_147",
+      "name": "Foreign exchange",
+      "shortName": "Foreign exchange",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_148",
+      "name": "Money",
+      "shortName": "Money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_149",
+      "name": "Over-the-counter",
+      "shortName": "Over-the-counter",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_150",
+      "name": "Private equity",
+      "shortName": "Private equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_151",
+      "name": "Real estate",
+      "shortName": "Real estate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_152",
+      "name": "Spot",
+      "shortName": "Spot",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_153",
+      "name": "Stock",
+      "shortName": "Stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_154",
+      "name": "Angel investor",
+      "shortName": "Angel investor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_155",
+      "name": "Bull (stock market speculator)",
+      "shortName": "Bull (stock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_156",
+      "name": "Financial planner",
+      "shortName": "Financial planner",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_157",
+      "name": "Speculator",
+      "shortName": "Speculator",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_158",
+      "name": "Financial centres",
+      "shortName": "Financial centres",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_159",
+      "name": "Offshore financial centres",
+      "shortName": "Offshore financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_160",
+      "name": "Conduit and sink OFCs",
+      "shortName": "Conduit and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_161",
+      "name": "Collateralised debt obligation",
+      "shortName": "Collateralised debt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_162",
+      "name": "Credit default swap",
+      "shortName": "Credit default",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_163",
+      "name": "Time deposit (certificate of deposit)",
+      "shortName": "Time deposit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_164",
+      "name": "Credit line",
+      "shortName": "Credit line",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_165",
+      "name": "Derivative",
+      "shortName": "Derivative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_166",
+      "name": "Futures contract",
+      "shortName": "Futures contract",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_167",
+      "name": "Indemnity",
+      "shortName": "Indemnity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_168",
+      "name": "Insurance",
+      "shortName": "Insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_169",
+      "name": "Letter of credit",
+      "shortName": "Letter of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_170",
+      "name": "Mortgage",
+      "shortName": "Mortgage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_171",
+      "name": "Option&#160;(call",
+      "shortName": "Option&#160;(call",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_172",
+      "name": "exotic",
+      "shortName": "exotic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_173",
+      "name": "put)",
+      "shortName": "put)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_174",
+      "name": "Performance bonds",
+      "shortName": "Performance bonds",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_175",
+      "name": "Repurchase agreement",
+      "shortName": "Repurchase agreement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_176",
+      "name": "Security",
+      "shortName": "Security",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_177",
+      "name": "Syndicated loan",
+      "shortName": "Syndicated loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_178",
+      "name": "Synthetic CDO",
+      "shortName": "Synthetic CDO",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_179",
+      "name": "Accounting",
+      "shortName": "Accounting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_180",
+      "name": "Audit",
+      "shortName": "Audit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_181",
+      "name": "Capital budgeting",
+      "shortName": "Capital budgeting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_182",
+      "name": "Credit rating agency",
+      "shortName": "Credit rating",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_183",
+      "name": "Risk management",
+      "shortName": "Risk management",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_184",
+      "name": "Financial statements",
+      "shortName": "Financial statements",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_185",
+      "name": "Leveraged buyout",
+      "shortName": "Leveraged buyout",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_186",
+      "name": "Mergers and acquisitions",
+      "shortName": "Mergers and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_187",
+      "name": "Venture capital",
+      "shortName": "Venture capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_188",
+      "name": "Base erosion and profit shifting (BEPS)",
+      "shortName": "Base erosion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_189",
+      "name": "Corporate tax haven",
+      "shortName": "Corporate tax",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_190",
+      "name": "Tax inversion",
+      "shortName": "Tax inversion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_191",
+      "name": "Tax haven",
+      "shortName": "Tax haven",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_192",
+      "name": "Transfer pricing",
+      "shortName": "Transfer pricing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_193",
+      "name": "Credit&#160;/&#32;Debt",
+      "shortName": "Credit&#160;/&#32;Debt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_194",
+      "name": "Employment contract",
+      "shortName": "Employment contract",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_195",
+      "name": "Financial planning",
+      "shortName": "Financial planning",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_196",
+      "name": "Retirement",
+      "shortName": "Retirement",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_197",
+      "name": "Student loan",
+      "shortName": "Student loan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_198",
+      "name": "Final consumption expenditure",
+      "shortName": "Final consumption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_199",
+      "name": "Operations",
+      "shortName": "Operations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_200",
+      "name": "Redistribution",
+      "shortName": "Redistribution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_201",
+      "name": "Transfer payment",
+      "shortName": "Transfer payment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_202",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_203",
+      "name": "Deficit spending",
+      "shortName": "Deficit spending",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_204",
+      "name": "Budget&#160;(balance)",
+      "shortName": "Budget&#160;(balance)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_205",
+      "name": "Debt",
+      "shortName": "Debt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_206",
+      "name": "Non-tax revenue",
+      "shortName": "Non-tax revenue",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_207",
+      "name": "Warrant of payment",
+      "shortName": "Warrant of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_208",
+      "name": "Central bank",
+      "shortName": "Central bank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_209",
+      "name": "Deposit account",
+      "shortName": "Deposit account",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_210",
+      "name": "Fractional-reserve",
+      "shortName": "Fractional-reserve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_211",
+      "name": "Full-reserve",
+      "shortName": "Full-reserve",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_212",
+      "name": "Investment banking",
+      "shortName": "Investment banking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_213",
+      "name": "Money supply",
+      "shortName": "Money supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_214",
+      "name": "Lists of banks",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_215",
+      "name": "Banking license",
+      "shortName": "Banking license",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_216",
+      "name": "Basel Accords",
+      "shortName": "Basel Accords",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_217",
+      "name": "Bank for International Settlements",
+      "shortName": "Bank for",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_218",
+      "name": "Financial Stability Board",
+      "shortName": "Financial Stability",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_219",
+      "name": "Deposit insurance",
+      "shortName": "Deposit insurance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_220",
+      "name": "Separation of investment and retail banking",
+      "shortName": "Separation of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_221",
+      "name": "International Financial Reporting Standards",
+      "shortName": "International Financial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_222",
+      "name": "ISO 31000",
+      "shortName": "ISO 31000",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_223",
+      "name": "Professional certification",
+      "shortName": "Professional certification",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_224",
+      "name": "Fund governance",
+      "shortName": "Fund governance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_225",
+      "name": "Private equity and venture capital",
+      "shortName": "Private equity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_226",
+      "name": "Recession",
+      "shortName": "Recession",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_227",
+      "name": "Stock market bubble",
+      "shortName": "Stock market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_228",
+      "name": "Stock market crash",
+      "shortName": "Stock market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_229",
+      "name": "Accounting scandals",
+      "shortName": "Accounting scandals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_230",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_231",
+      "name": "Business and Economics&#32;portal",
+      "shortName": "Business and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_232",
+      "name": "Money&#32;portal",
+      "shortName": "Money&#32;portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_233",
+      "name": "Islamic Economics Organization of Iran",
+      "shortName": "Islamic Economics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_234",
+      "name": "National Development Fund – Iran's sovereign wealth fund",
+      "shortName": "National Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_235",
+      "name": "Communications in Iran",
+      "shortName": "Communications in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_236",
+      "name": "Economy of Iran",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_237",
+      "name": "Iranian Economic Reform Plan",
+      "shortName": "Iranian Economic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_238",
+      "name": "History of banking in Iran",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_239",
+      "name": "BMI: Iran Commercial Banking Report (56-page report, 2009)",
+      "shortName": "BMI: Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_240",
+      "name": "BMI: Iran Insurance Report (72-page report, 2012)",
+      "shortName": "BMI: Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_241",
+      "name": "Bank Melli Iran",
+      "shortName": "Bank Melli",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_242",
+      "name": "Bank Sepah",
+      "shortName": "Bank Sepah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_243",
+      "name": "Post Bank of Iran",
+      "shortName": "Post",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_244",
+      "name": "Bank Maskan",
+      "shortName": "Bank Maskan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_245",
+      "name": "Bank of Industry and Mine",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_246",
+      "name": "Export Development Bank of Iran",
+      "shortName": "Export Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_247",
+      "name": "Qarz Al-Hasaneh Mehr Iran Bank",
+      "shortName": "Qarz Al-Hasaneh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_248",
+      "name": "Bank Keshavarzi Iran",
+      "shortName": "Bank Keshavarzi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_249",
+      "name": "Bank Pasargad",
+      "shortName": "Bank Pasargad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_250",
+      "name": "Bank Mellat",
+      "shortName": "Bank Mellat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_251",
+      "name": "Bank Saderat Iran",
+      "shortName": "Bank Saderat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_252",
+      "name": "EN Bank",
+      "shortName": "EN",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_253",
+      "name": "Karafarin Bank",
+      "shortName": "Karafarin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_254",
+      "name": "Parsian Bank",
+      "shortName": "Parsian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_255",
+      "name": "Sina Bank",
+      "shortName": "Sina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_256",
+      "name": "Tejarat Bank",
+      "shortName": "Tejarat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_257",
+      "name": "Ayandeh Bank",
+      "shortName": "Ayandeh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_258",
+      "name": "Bank Day",
+      "shortName": "Bank Day",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_259",
+      "name": "Ghavamin Bank",
+      "shortName": "Ghavamin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_260",
+      "name": "Iran Zamin Bank",
+      "shortName": "Iran Zamin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_261",
+      "name": "Refah Bank",
+      "shortName": "Refah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_262",
+      "name": "Saman Bank",
+      "shortName": "Saman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_263",
+      "name": "Sarmayeh Bank",
+      "shortName": "Sarmayeh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_264",
+      "name": "Amin Investment Bank",
+      "shortName": "Amin Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_265",
+      "name": "Middle East Bank",
+      "shortName": "Middle East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_266",
+      "name": "Bank Shahr",
+      "shortName": "Bank Shahr",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_267",
+      "name": "Tourism Bank",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_268",
+      "name": "Persia International Bank",
+      "shortName": "Persia International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_269",
+      "name": "Future Bank",
+      "shortName": "Future",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_270",
+      "name": "Mir Business Bank",
+      "shortName": "Mir Business",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_271",
+      "name": "Iranian-European Bank",
+      "shortName": "Iranian-European",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_272",
+      "name": "Iran-Venezuela Bi-National Bank",
+      "shortName": "Iran-Venezuela Bi-National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_273",
+      "name": "Islamic Cooperation Investment Bank",
+      "shortName": "Islamic Cooperation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_274",
+      "name": "Shetab Banking System",
+      "shortName": "Shetabing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_275",
+      "name": "Shaba Number",
+      "shortName": "Shaba Number",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_276",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_277",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_278",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_279",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_280",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_281",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_282",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_283",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_284",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_285",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_286",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_287",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_288",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_289",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_290",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_291",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_292",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_293",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_294",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_295",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_296",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_297",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_298",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_299",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_300",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_301",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_302",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_303",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_304",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_305",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_306",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_307",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_308",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_309",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_310",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_311",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_312",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_313",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_314",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_315",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_316",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_317",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_318",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_319",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_320",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_321",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_322",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_323",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_324",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_325",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_326",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_327",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_328",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_329",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_330",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_331",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_332",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_333",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_334",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_335",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_336",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_337",
+      "name": "Banking in Iran",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_338",
+      "name": "Insurance by country",
+      "shortName": "Insurance by",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_339",
+      "name": "Webarchive template wayback links",
+      "shortName": "Webarchive template",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_340",
+      "name": "Source attribution",
+      "shortName": "Source attribution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_341",
+      "name": "CS1 maint: archived copy as title",
+      "shortName": "CS1 maint:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_342",
+      "name": "All articles with dead external links",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_343",
+      "name": "Articles with dead external links from July 2017",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_344",
+      "name": "Articles with permanently dead external links",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_345",
+      "name": "CS1 Persian-language sources (fa)",
+      "shortName": "CS1 Persian-language",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_346",
+      "name": "CS1 uses Persian-language script (fa)",
+      "shortName": "CS1 uses",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_347",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_348",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_349",
+      "name": "All articles with style issues",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_350",
+      "name": "All articles with unsourced statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_351",
+      "name": "Articles with unsourced statements from August 2021",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_352",
+      "name": "All articles with vague or ambiguous time",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_353",
+      "name": "Vague or ambiguous time from March 2024",
+      "shortName": "Vague or",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_354",
+      "name": "Articles with unsourced statements from September 2016",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_355",
+      "name": "Articles containing potentially dated statements from 2010",
+      "shortName": "Articles containing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_356",
+      "name": "All articles containing potentially dated statements",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_357",
+      "name": "Articles with unsourced statements from June 2025",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_358",
+      "name": "15",
+      "shortName": "15",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_359",
+      "name": "14.5",
+      "shortName": "14.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_360",
+      "name": "14",
+      "shortName": "14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_361",
+      "name": "13",
+      "shortName": "13",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_362",
+      "name": "12.5",
+      "shortName": "12.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_363",
+      "name": "6-10",
+      "shortName": "6-10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_364",
+      "name": "15-18.5",
+      "shortName": "15-18.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_365",
+      "name": "15-18",
+      "shortName": "15-18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_366",
+      "name": "15-17.75",
+      "shortName": "15-17.75",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_367",
+      "name": "17-17.5",
+      "shortName": "17-17.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_368",
+      "name": "15-17.25",
+      "shortName": "15-17.25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_369",
+      "name": "10-16.5",
+      "shortName": "10-16.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_370",
+      "name": "Foreign assets",
+      "shortName": "Foreign assets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_371",
+      "name": "1,216,175.6",
+      "shortName": "1,216,175.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_372",
+      "name": "2,273,570.6",
+      "shortName": "2,273,570.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_373",
+      "name": "Claims on public sector",
+      "shortName": "Claims on",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_374",
+      "name": "235,940.9",
+      "shortName": "235,940.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_375",
+      "name": "910,354.4",
+      "shortName": "910,354.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_376",
+      "name": "Claims on public sector - Government",
+      "shortName": "Claims on",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_377",
+      "name": "206,925.9",
+      "shortName": "206,925.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_378",
+      "name": "698,989.7",
+      "shortName": "698,989.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_379",
+      "name": "Claims on public sector - Public corporations and agencies",
+      "shortName": "Claims on",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_380",
+      "name": "84,613.5",
+      "shortName": "84,613.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_381",
+      "name": "211,364.7",
+      "shortName": "211,364.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_382",
+      "name": "Claims on non-public sector",
+      "shortName": "Claims on",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_383",
+      "name": "1,866,550.9",
+      "shortName": "1,866,550.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_384",
+      "name": "4,138,974.7",
+      "shortName": "4,138,974.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_385",
+      "name": "Others",
+      "shortName": "Others",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_386",
+      "name": "1,208,222.0",
+      "shortName": "1,208,222.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_387",
+      "name": "2,992,062.2",
+      "shortName": "2,992,062.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_388",
+      "name": "Sub-total",
+      "shortName": "Sub-total",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_389",
+      "name": "4,582,487.9",
+      "shortName": "4,582,487.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_390",
+      "name": "10,314,961.9",
+      "shortName": "10,314,961.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_391",
+      "name": "Below the line items",
+      "shortName": "Below the",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_392",
+      "name": "810,382.2",
+      "shortName": "810,382.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_393",
+      "name": "1,345,559.4",
+      "shortName": "1,345,559.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_394",
+      "name": "Total assets = total liabilities",
+      "shortName": "Total assets",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_395",
+      "name": "5,392,870.1",
+      "shortName": "5,392,870.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_396",
+      "name": "11,660,521.3",
+      "shortName": "11,660,521.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_397",
+      "name": "Liquidity:",
+      "shortName": "Liquidity:",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_398",
+      "name": "1,901,366.0",
+      "shortName": "1,901,366.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_399",
+      "name": "4,606,935.9",
+      "shortName": "4,606,935.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_400",
+      "name": "Liquidity - Money",
+      "shortName": "Liquidity -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_401",
+      "name": "1,136,717.7",
+      "shortName": "1,136,717.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_402",
+      "name": "Liquidity - Quasi money",
+      "shortName": "Liquidity -",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_403",
+      "name": "525,482.5",
+      "shortName": "525,482.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_404",
+      "name": "3,470,218.2",
+      "shortName": "3,470,218.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_405",
+      "name": "Deposits and loans of public sector:",
+      "shortName": "Deposits and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_406",
+      "name": "335,620.6",
+      "shortName": "335,620.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_407",
+      "name": "407,779.3",
+      "shortName": "407,779.3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_408",
+      "name": "Deposits and loans of public sector - Government",
+      "shortName": "Deposits and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_409",
+      "name": "319,542.4",
+      "shortName": "319,542.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_410",
+      "name": "389,635.8",
+      "shortName": "389,635.8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_411",
+      "name": "16,078.2",
+      "shortName": "16,078.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_412",
+      "name": "18,143.5",
+      "shortName": "18,143.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_413",
+      "name": "Capital account",
+      "shortName": "Capital account",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_414",
+      "name": "244,659.0",
+      "shortName": "244,659.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_415",
+      "name": "574,643.7",
+      "shortName": "574,643.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_416",
+      "name": "Foreign loans and credits and foreign exchange deposits",
+      "shortName": "Foreign loans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_417",
+      "name": "610,550.4",
+      "shortName": "610,550.4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_418",
+      "name": "1,373,864.5",
+      "shortName": "1,373,864.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_419",
+      "name": "Import order registration deposits of non-public sector",
+      "shortName": "Import order",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_420",
+      "name": "2.0",
+      "shortName": "2.0",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_421",
+      "name": "Advance payments on letters of credit by public sector",
+      "shortName": "Advance payments",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_422",
+      "name": "662.7",
+      "shortName": "662.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_423",
+      "name": "1,501.6",
+      "shortName": "1,501.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_424",
+      "name": "1,489,627.2",
+      "shortName": "1,489,627.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_425",
+      "name": "3,350,234.9",
+      "shortName": "3,350,234.9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_426",
+      "name": "Sub–total",
+      "shortName": "Sub–total",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_427",
+      "name": "Agriculture, water, and processing industries",
+      "shortName": "Agriculture, water,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_428",
+      "name": "25",
+      "shortName": "25",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_429",
+      "name": "Manufacturing and mining",
+      "shortName": "Manufacturing and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_430",
+      "name": "33",
+      "shortName": "33",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_431",
+      "name": "35",
+      "shortName": "35",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_432",
+      "name": "Construction and housing",
+      "shortName": "Construction and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_433",
+      "name": "20",
+      "shortName": "20",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_434",
+      "name": "Trade and services",
+      "shortName": "Trade and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_435",
+      "name": "Export",
+      "shortName": "Export",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_436",
+      "name": "7",
+      "shortName": "7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_437",
+      "name": "-",
+      "shortName": "-",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_438",
+      "name": "Municipalities",
+      "shortName": "Municipalities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_439",
+      "name": "14,613",
+      "shortName": "14,613",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_440",
+      "name": "9",
+      "shortName": "9",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_441",
+      "name": "Government corporations",
+      "shortName": "Government corporations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_442",
+      "name": "70,841",
+      "shortName": "70,841",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_443",
+      "name": "45",
+      "shortName": "45",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_444",
+      "name": "Maskan Bank",
+      "shortName": "Maskan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_445",
+      "name": "71,351",
+      "shortName": "71,351",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_446",
+      "name": "46",
+      "shortName": "46",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_447",
+      "name": "Total",
+      "shortName": "Total",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_448",
+      "name": "156,805",
+      "shortName": "156,805",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_449",
+      "name": "--",
+      "shortName": "--",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_450",
+      "name": "1",
+      "shortName": "1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_451",
+      "name": "259",
+      "shortName": "259",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_452",
+      "name": "3,109",
+      "shortName": "3,109",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_453",
+      "name": "4.46",
+      "shortName": "4.46",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_454",
+      "name": "54,877",
+      "shortName": "54,877",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_455",
+      "name": "3",
+      "shortName": "3",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_456",
+      "name": "14.22",
+      "shortName": "14.22",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_457",
+      "name": "5.66",
+      "shortName": "5.66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_458",
+      "name": "25.63",
+      "shortName": "25.63",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_459",
+      "name": "8",
+      "shortName": "8",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_460",
+      "name": "1.45",
+      "shortName": "1.45",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_461",
+      "name": "2",
+      "shortName": "2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_462",
+      "name": "266",
+      "shortName": "266",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_463",
+      "name": "3,057",
+      "shortName": "3,057",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_464",
+      "name": "147.7",
+      "shortName": "147.7",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_465",
+      "name": "18,057",
+      "shortName": "18,057",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_466",
+      "name": "47.41",
+      "shortName": "47.41",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_467",
+      "name": "16.93",
+      "shortName": "16.93",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_468",
+      "name": "20.69",
+      "shortName": "20.69",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_469",
+      "name": "3.5",
+      "shortName": "3.5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_470",
+      "name": "310",
+      "shortName": "310",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_471",
+      "name": "2,550",
+      "shortName": "2,550",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_472",
+      "name": "-2.16",
+      "shortName": "-2.16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_473",
+      "name": "9,432",
+      "shortName": "9,432",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_474",
+      "name": "10",
+      "shortName": "10",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_475",
+      "name": "12.1",
+      "shortName": "12.1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_476",
+      "name": "27.04",
+      "shortName": "27.04",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_477",
+      "name": "3.2",
+      "shortName": "3.2",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_478",
+      "name": "0.87",
+      "shortName": "0.87",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_479",
+      "name": "4",
+      "shortName": "4",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_480",
+      "name": "320",
+      "shortName": "320",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_481",
+      "name": "2,402",
+      "shortName": "2,402",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_482",
+      "name": "NM",
+      "shortName": "NM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_483",
+      "name": "68,370",
+      "shortName": "68,370",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_484",
+      "name": "3.51",
+      "shortName": "3.51",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_485",
+      "name": "12",
+      "shortName": "12",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_486",
+      "name": "32.59",
+      "shortName": "32.59",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_487",
+      "name": "1.14",
+      "shortName": "1.14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_488",
+      "name": "5",
+      "shortName": "5",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_489",
+      "name": "350",
+      "shortName": "350",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_490",
+      "name": "2,103",
+      "shortName": "2,103",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_491",
+      "name": "13.6",
+      "shortName": "13.6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_492",
+      "name": "45,188",
+      "shortName": "45,188",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_493",
+      "name": "18.65",
+      "shortName": "18.65",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_494",
+      "name": "4.66",
+      "shortName": "4.66",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_495",
+      "name": "27.14",
+      "shortName": "27.14",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_496",
+      "name": "1.26",
+      "shortName": "1.26",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_497",
+      "name": "بانک ملی ایران",
+      "shortName": "بانک ملی",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_498",
+      "name": "1927",
+      "shortName": "1927",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_499",
+      "name": "3,300&#91;61&#93;",
+      "shortName": "3,300&#91;61&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_500",
+      "name": "بانک سپه",
+      "shortName": "بانک سپه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_501",
+      "name": "1925",
+      "shortName": "1925",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_502",
+      "name": "2000&#91;62&#93;",
+      "shortName": "2000&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_503",
+      "name": "پست بانک ایران",
+      "shortName": "پست بانک",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_504",
+      "name": "2006",
+      "shortName": "2006",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_505",
+      "name": "400&#91;62&#93;",
+      "shortName": "400&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_506",
+      "name": "Bank Keshavarzi Iran (agriculture)",
+      "shortName": "Bank Keshavarzi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_507",
+      "name": "بانک کشاورزی",
+      "shortName": "بانک کشاورزی",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_508",
+      "name": "1933",
+      "shortName": "1933",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_509",
+      "name": "1,900.&#91;62&#93;",
+      "shortName": "1,900.&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_510",
+      "name": "Bank Maskan (housing)",
+      "shortName": "Bank Maskan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_511",
+      "name": "بانک مسکن",
+      "shortName": "بانک مسکن",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_512",
+      "name": "1938",
+      "shortName": "1938",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_513",
+      "name": "بانک صنعت و معدن",
+      "shortName": "بانک صنعت",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_514",
+      "name": "1983",
+      "shortName": "1983",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_515",
+      "name": "65&#91;62&#93;",
+      "shortName": "65&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_516",
+      "name": "بانک توسعه صادرات ايران",
+      "shortName": "بانک توسعه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_517",
+      "name": "1991",
+      "shortName": "1991",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_518",
+      "name": "34&#91;62&#93;",
+      "shortName": "34&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_519",
+      "name": "Cooperative Development Bank/Tose'e Ta'avon Bank",
+      "shortName": "Cooperative Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_520",
+      "name": "بانک توسعه تعاون",
+      "shortName": "بانک توسعه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_521",
+      "name": "2009&#91;citation needed&#93;",
+      "shortName": "2009&#91;citation needed&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_522",
+      "name": "6",
+      "shortName": "6",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_523",
+      "name": "بانک قرض الحسنه مهر ایران",
+      "shortName": "بانک قرض",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_524",
+      "name": "2007",
+      "shortName": "2007",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_525",
+      "name": "بانک اقتصاد نوین",
+      "shortName": "بانک اقتصاد",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_526",
+      "name": "2001",
+      "shortName": "2001",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_527",
+      "name": "680",
+      "shortName": "680",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_528",
+      "name": "21",
+      "shortName": "21",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_529",
+      "name": "بانک پارسیان",
+      "shortName": "بانک پارسیان",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_530",
+      "name": "2002",
+      "shortName": "2002",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_531",
+      "name": "160",
+      "shortName": "160",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_532",
+      "name": "بانک کار آفرین",
+      "shortName": "بانک کار",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_533",
+      "name": "52",
+      "shortName": "52",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_534",
+      "name": "بانک سامان",
+      "shortName": "بانک سامان",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_535",
+      "name": "123&#91;62&#93;",
+      "shortName": "123&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_536",
+      "name": "بانک پاسارگاد",
+      "shortName": "بانک پاسارگاد",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_537",
+      "name": "2005",
+      "shortName": "2005",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_538",
+      "name": "296&#91;62&#93;",
+      "shortName": "296&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_539",
+      "name": "بانک سرمایه",
+      "shortName": "بانک سرمایه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_540",
+      "name": "بانک سینا",
+      "shortName": "بانک سینا",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_541",
+      "name": "2009",
+      "shortName": "2009",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_542",
+      "name": "260&#91;20&#93;",
+      "shortName": "260&#91;20&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_543",
+      "name": "Ayandeh Bank&#91;citation needed&#93;",
+      "shortName": "Ayandeh&#91;citation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_544",
+      "name": "بانک آینده",
+      "shortName": "بانک آینده",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_545",
+      "name": "2012",
+      "shortName": "2012",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_546",
+      "name": "بانک شهر",
+      "shortName": "بانک شهر",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_547",
+      "name": "2010",
+      "shortName": "2010",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_548",
+      "name": "131",
+      "shortName": "131",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_549",
+      "name": "بانک دی",
+      "shortName": "بانک دی",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_550",
+      "name": "&#91;40&#93;",
+      "shortName": "&#91;40&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_551",
+      "name": "11",
+      "shortName": "11",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_552",
+      "name": "Ansar Bank",
+      "shortName": "Ansar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_553",
+      "name": "بانک انصار",
+      "shortName": "بانک انصار",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_554",
+      "name": "بانک تجارت",
+      "shortName": "بانک تجارت",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_555",
+      "name": "1979",
+      "shortName": "1979",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_556",
+      "name": "1887",
+      "shortName": "1887",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_557",
+      "name": "بانک رفاه",
+      "shortName": "بانک رفاه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_558",
+      "name": "1960",
+      "shortName": "1960",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_559",
+      "name": "1128",
+      "shortName": "1128",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_560",
+      "name": "بانک صادرات ايران",
+      "shortName": "بانک صادرات",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_561",
+      "name": "1952",
+      "shortName": "1952",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_562",
+      "name": "3300",
+      "shortName": "3300",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_563",
+      "name": "30&#91;62&#93;",
+      "shortName": "30&#91;62&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_564",
+      "name": "بانک ملت",
+      "shortName": "بانک ملت",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_565",
+      "name": "1980",
+      "shortName": "1980",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_566",
+      "name": "1820&#91;62&#93;&#91;65&#93;&#91;66&#93;",
+      "shortName": "1820&#91;62&#93;&#91;65&#93;&#91;66&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_567",
+      "name": "4&#91;67&#93;&#91;68&#93;",
+      "shortName": "4&#91;67&#93;&#91;68&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_568",
+      "name": "16",
+      "shortName": "16",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_569",
+      "name": "Bank Hekmat Iranian",
+      "shortName": "Bank Hekmat",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_570",
+      "name": "بانک حکمت ایرانیان",
+      "shortName": "بانک حکمت",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_571",
+      "name": "2011",
+      "shortName": "2011",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_572",
+      "name": "17",
+      "shortName": "17",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_573",
+      "name": "بانک گردشگری",
+      "shortName": "بانک گردشگری",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_574",
+      "name": "18",
+      "shortName": "18",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_575",
+      "name": "بانک ایران زمین",
+      "shortName": "بانک ایران",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_576",
+      "name": "19",
+      "shortName": "19",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_577",
+      "name": "بانک خاورمیانه",
+      "shortName": "بانک خاورمیانه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_578",
+      "name": "Qarz Al-Hasaneh Resalat Bank",
+      "shortName": "Qarz Al-Hasaneh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_579",
+      "name": "بانک قرض الحسنه رسالت",
+      "shortName": "بانک قرض",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_580",
+      "name": "بانک قوامین",
+      "shortName": "بانک قوامین",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_581",
+      "name": "Ghadir Investment Company",
+      "shortName": "Ghadir Investment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_582",
+      "name": "سرمایه‌گذاری غدیر",
+      "shortName": "سرمایه‌گذاری غدیر",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_583",
+      "name": "AminIB&#91;69&#93;",
+      "shortName": "AminIB&#91;69&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_584",
+      "name": "تأمین سرمایه امین",
+      "shortName": "تأمین سرمایه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_585",
+      "name": "2008",
+      "shortName": "2008",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_586",
+      "name": "EN Bank&#91;69&#93;",
+      "shortName": "EN&#91;69&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_587",
+      "name": "شرکت سرمایه گذاری بانک اقنصاد نوین",
+      "shortName": "شرکت سرمایه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_588",
+      "name": "1994",
+      "shortName": "1994",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_589",
+      "name": "Pasargad Bank&#91;69&#93;",
+      "shortName": "Pasargad&#91;69&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_590",
+      "name": "شرکت سرمایه گذاری بانک پاسارگاد",
+      "shortName": "شرکت سرمایه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_591",
+      "name": "Turquoise Partners&#91;69&#93;",
+      "shortName": "Turquoise Partners&#91;69&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_592",
+      "name": "شرکت سرمایه گذاری فیروزه",
+      "shortName": "شرکت سرمایه",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_593",
+      "name": "Mofid Securities Co.",
+      "shortName": "Mofid Securities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_594",
+      "name": "شرکت کارگزاری مفید",
+      "shortName": "شرکت کارگزاری",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_595",
+      "name": "MellatIB&#91;69&#93;",
+      "shortName": "MellatIB&#91;69&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IR_596",
+      "name": "تأمین سرمایه بانک ملت",
+      "shortName": "تأمین سرمایه",
       "type": "bank",
       "aliases": ""
     }

@@ -1,40 +1,607 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "KW",
   "institutions": [
     {
-      "code": "CENBKW",
-      "name": "Central Bank of KW",
-      "shortName": "Central Bank",
+      "code": "KW_0",
+      "name": "Central Bank of Kuwait (CBK)&#91;2&#93;",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBKW",
-      "name": "National Bank of KW",
-      "shortName": "National Bank",
+      "code": "KW_1",
+      "name": "National Bank of Kuwait (K.S.C) (NBK)&#91;3&#93;",
+      "shortName": "National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABKW",
-      "name": "State Bank of KW",
-      "shortName": "State Bank",
+      "code": "KW_2",
+      "name": "Commercial Bank of Kuwait (K.S.C)(Al-Tijari CBK)&#91;4&#93;",
+      "shortName": "Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBKW",
-      "name": "Commercial Bank of KW",
-      "shortName": "Commercial Bank",
+      "code": "KW_3",
+      "name": "Gulf Bank (K.S.C) (GBK)&#91;5&#93;",
+      "shortName": "Gulf",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBKW",
-      "name": "First KW Bank",
-      "shortName": "First Bank",
+      "code": "KW_4",
+      "name": "Al Ahli Bank of Kuwait (K.S.C.P.) (ABK)&#91;6&#93;",
+      "shortName": "Al Ahli",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_5",
+      "name": "Burgan Bank (K.S.C) (Burgan)&#91;7&#93;",
+      "shortName": "Burgan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_6",
+      "name": "Kuwait Finance House (KFH)&#91;9&#93;",
+      "shortName": "Kuwait Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_7",
+      "name": "Boubyan Bank (K.S.C) (Boubyan)&#91;10&#93;",
+      "shortName": "Boubyan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_8",
+      "name": "Kuwait International Bank (K.S.C) (KIB)&#91;13&#93;",
+      "shortName": "Kuwait International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_9",
+      "name": "The Industrial Bank of Kuwait (K.S.C) (IBK)&#91;14&#93;",
+      "shortName": "The Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_10",
+      "name": "Bank of Bahrain and Kuwait (B.S.C) (BBK)&#91;15&#93;",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_11",
+      "name": "Banque Nationale de Paris (BNP) and Paribas&#91;16&#93;",
+      "shortName": "Banque Nationale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_12",
+      "name": "First Abu Dhabi Bank (FAB Kuwait)&#91;18&#93;",
+      "shortName": "First Abu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_13",
+      "name": "Qatar National Bank (Q.P.S.C) (QNB)&#91;20&#93;",
+      "shortName": "Qatar National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_14",
+      "name": "Mashreq Bank P.S.C (Mashreq)&#91;21&#93;",
+      "shortName": "Mashreq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_15",
+      "name": "Bank Muscat&#91;23&#93;",
+      "shortName": "Bank Muscat&#91;23&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_16",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_17",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_18",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_19",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_20",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_21",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_22",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_23",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_24",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_25",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_26",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_27",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_28",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_29",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_30",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_31",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_32",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_33",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_34",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_35",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_36",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_37",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_38",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_39",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_40",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_41",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_42",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_43",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_44",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_45",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_46",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_47",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_48",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_49",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_50",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_51",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_52",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_53",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_54",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_55",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_56",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_57",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_58",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_59",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_60",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_61",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_62",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_63",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_64",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_65",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_66",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_67",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_68",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_69",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_70",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_71",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_72",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_73",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_74",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_75",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_76",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_77",
+      "name": "Banks of Kuwait",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_78",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_79",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_80",
+      "name": "Lists of companies of Kuwait",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_81",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_82",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_83",
+      "name": "Use dmy dates from June 2022",
+      "shortName": "Use dmy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_84",
+      "name": "Articles needing additional references from September 2018",
+      "shortName": "Articles needing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_85",
+      "name": "All articles needing additional references",
+      "shortName": "All articles",
       "type": "bank",
       "aliases": ""
     }

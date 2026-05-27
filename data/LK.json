@@ -1,40 +1,1440 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "LK",
   "institutions": [
     {
-      "code": "CENBLK",
-      "name": "Central Bank of LK",
-      "shortName": "Central Bank",
+      "code": "LK_0",
+      "name": "Central Bank of Sri Lanka",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBLK",
-      "name": "National Bank of LK",
-      "shortName": "National Bank",
+      "code": "LK_1",
+      "name": "Amana Bank",
+      "shortName": "Amana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABLK",
-      "name": "State Bank of LK",
-      "shortName": "State Bank",
+      "code": "LK_2",
+      "name": "Bank of Ceylon",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBLK",
-      "name": "Commercial Bank of LK",
-      "shortName": "Commercial Bank",
+      "code": "LK_3",
+      "name": "Bank of China",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBLK",
-      "name": "First LK Bank",
-      "shortName": "First Bank",
+      "code": "LK_4",
+      "name": "Cargills Bank",
+      "shortName": "Cargills",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_5",
+      "name": "Citibank",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_6",
+      "name": "Commercial Bank of Ceylon",
+      "shortName": "Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_7",
+      "name": "Deutsche Bank",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_8",
+      "name": "DFCC Bank",
+      "shortName": "DFCC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_9",
+      "name": "Habib Bank",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_10",
+      "name": "Hatton National Bank",
+      "shortName": "Hatton National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_11",
+      "name": "Indian Bank",
+      "shortName": "Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_12",
+      "name": "Indian Overseas Bank",
+      "shortName": "Indian Overseas",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_13",
+      "name": "MCB Bank",
+      "shortName": "MCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_14",
+      "name": "National Development Bank",
+      "shortName": "National Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_15",
+      "name": "Nations Trust Bank",
+      "shortName": "Nations Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_16",
+      "name": "Pan Asia Bank",
+      "shortName": "Pan Asia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_17",
+      "name": "People's Bank",
+      "shortName": "People's",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_18",
+      "name": "Public Bank Berhad",
+      "shortName": "Public",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_19",
+      "name": "Sampath Bank",
+      "shortName": "Sampath",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_20",
+      "name": "Seylan Bank",
+      "shortName": "Seylan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_21",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_22",
+      "name": "State Bank of India",
+      "shortName": "State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_23",
+      "name": "Hong Kong and Shanghai Banking Corporation (HSBC)",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_24",
+      "name": "Union Bank of Colombo",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_25",
+      "name": "National Savings Bank",
+      "shortName": "National Savings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_26",
+      "name": "Regional Development Bank (Pradheshiya Sanwardhana Bank)",
+      "shortName": "Regional Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_27",
+      "name": "Sanasa Development Bank",
+      "shortName": "Sanasa Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_28",
+      "name": "Sri Lanka Savings Bank",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_29",
+      "name": "State Mortgage and Investment Bank",
+      "shortName": "State Mortgage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_30",
+      "name": "Abans Finance",
+      "shortName": "Abans Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_31",
+      "name": "Alliance Finance Company",
+      "shortName": "Alliance Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_32",
+      "name": "AMW Capital Leasing and Finance",
+      "shortName": "AMW Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_33",
+      "name": "Asia Asset Finance",
+      "shortName": "Asia Asset",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_34",
+      "name": "Assetline Finance",
+      "shortName": "Assetline Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_35",
+      "name": "Associated Motor Finance Company&#91;N 1&#93;",
+      "shortName": "Associated Motor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_36",
+      "name": "CBC Finance (previously known as Serendib Finance)",
+      "shortName": "CBC Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_37",
+      "name": "Central Finance Company",
+      "shortName": "Central Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_38",
+      "name": "Citizens Development Business Finance",
+      "shortName": "Citizens Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_39",
+      "name": "Commercial Credit and Finance&#91;N 2&#93;",
+      "shortName": "Commercial Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_40",
+      "name": "Dialog Finance",
+      "shortName": "Dialog Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_41",
+      "name": "ETI Finance&#91;N 3&#93;",
+      "shortName": "ETI Finance&#91;N",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_42",
+      "name": "Fintrex Finance",
+      "shortName": "Fintrex Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_43",
+      "name": "HNB Finance",
+      "shortName": "HNB Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_44",
+      "name": "Lanka Credit and Business Finance",
+      "shortName": "Lanka Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_45",
+      "name": "LB Finance",
+      "shortName": "LB Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_46",
+      "name": "LOLC Finance",
+      "shortName": "LOLC Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_47",
+      "name": "Mahindra Ideal Finance",
+      "shortName": "Mahindra Ideal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_48",
+      "name": "Mercantile Investments and Finance",
+      "shortName": "Mercantile Investments",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_49",
+      "name": "Merchant Bank of Sri Lanka and Finance",
+      "shortName": "Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_50",
+      "name": "Multi Finance",
+      "shortName": "Multi Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_51",
+      "name": "Nation Lanka Finance",
+      "shortName": "Nation Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_52",
+      "name": "Orient Finance",
+      "shortName": "Orient Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_53",
+      "name": "People's Leasing &amp; Finance",
+      "shortName": "People's Leasing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_54",
+      "name": "People's Merchant Finance",
+      "shortName": "People's Merchant",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_55",
+      "name": "Richard Pieris Finance",
+      "shortName": "Richard Pieris",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_56",
+      "name": "Sarvodaya Development Finance",
+      "shortName": "Sarvodaya Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_57",
+      "name": "Senkadagala Finance",
+      "shortName": "Senkadagala Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_58",
+      "name": "Singer Finance",
+      "shortName": "Singer Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_59",
+      "name": "Siyapatha Finance",
+      "shortName": "Siyapatha Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_60",
+      "name": "SMB Finance",
+      "shortName": "SMB Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_61",
+      "name": "Softlogic Finance",
+      "shortName": "Softlogic Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_62",
+      "name": "U B Finance Company",
+      "shortName": "U B",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_63",
+      "name": "Vallibel Finance",
+      "shortName": "Vallibel Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_64",
+      "name": "Union Bank",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_65",
+      "name": "HSBC",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_66",
+      "name": "Associated Motor Finance Company",
+      "shortName": "Associated Motor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_67",
+      "name": "CBC Finance",
+      "shortName": "CBC Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_68",
+      "name": "Commercial Credit and Finance",
+      "shortName": "Commercial Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_69",
+      "name": "ETI Finance",
+      "shortName": "ETI Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_70",
+      "name": "Bimputh Finance",
+      "shortName": "Bimputh Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_71",
+      "name": "TKS Finance",
+      "shortName": "TKS Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_72",
+      "name": "Cirrus",
+      "shortName": "Cirrus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_73",
+      "name": "LankaPay",
+      "shortName": "LankaPay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_74",
+      "name": "Plus",
+      "shortName": "Plus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_75",
+      "name": "Common Electronic Fund Transfer Switch",
+      "shortName": "Common Electronic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_76",
+      "name": "Sri Lanka Interbank Payment System",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_77",
+      "name": "Ministry of Finance",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_78",
+      "name": "Institute of Bankers of Sri Lanka",
+      "shortName": "Institute of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_79",
+      "name": "By market capitalisation",
+      "shortName": "By market",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_80",
+      "name": "LMD 100",
+      "shortName": "LMD 100",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_81",
+      "name": "Largest",
+      "shortName": "Largest",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_82",
+      "name": "Government-owned",
+      "shortName": "Government-owned",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_83",
+      "name": "List",
+      "shortName": "List",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_84",
+      "name": "Ministry of Industry and Commerce",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_85",
+      "name": "Public Utilities Commission of Sri Lanka",
+      "shortName": "Public Utilities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_86",
+      "name": "Taxation",
+      "shortName": "Taxation",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_87",
+      "name": "Coffee rust",
+      "shortName": "Coffee rust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_88",
+      "name": "Mahaweli Development programme",
+      "shortName": "Mahaweli Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_89",
+      "name": "Sri Lankan economic crisis (2019–present)",
+      "shortName": "Sri Lankan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_90",
+      "name": "Demographics",
+      "shortName": "Demographics",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_91",
+      "name": "ETF",
+      "shortName": "ETF",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_92",
+      "name": "Squatting",
+      "shortName": "Squatting",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_93",
+      "name": "Unemployment",
+      "shortName": "Unemployment",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_94",
+      "name": "Board of Investment of Sri Lanka",
+      "shortName": "Board of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_95",
+      "name": "Ceylon Chamber of Commerce",
+      "shortName": "Ceylon Chamber",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_96",
+      "name": "Ceylon tea",
+      "shortName": "Ceylon tea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_97",
+      "name": "Ministry of Investment Promotion",
+      "shortName": "Ministry of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_98",
+      "name": "Cocoa",
+      "shortName": "Cocoa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_99",
+      "name": "Coconut",
+      "shortName": "Coconut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_100",
+      "name": "Coffee",
+      "shortName": "Coffee",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_101",
+      "name": "Livestock",
+      "shortName": "Livestock",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_102",
+      "name": "Rice",
+      "shortName": "Rice",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_103",
+      "name": "Rubber",
+      "shortName": "Rubber",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_104",
+      "name": "Sugar",
+      "shortName": "Sugar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_105",
+      "name": "Tea",
+      "shortName": "Tea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_106",
+      "name": "Forestry",
+      "shortName": "Forestry",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_107",
+      "name": "Graphite",
+      "shortName": "Graphite",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_108",
+      "name": "Apparel",
+      "shortName": "Apparel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_109",
+      "name": "Beer",
+      "shortName": "Beer",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_110",
+      "name": "Solar",
+      "shortName": "Solar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_111",
+      "name": "Wind",
+      "shortName": "Wind",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_112",
+      "name": "Trade",
+      "shortName": "Trade",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_113",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_114",
+      "name": "Lanka Electricity Company",
+      "shortName": "Lanka Electricity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_115",
+      "name": "Water Supply",
+      "shortName": "Water Supply",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_116",
+      "name": "All Share Price Index",
+      "shortName": "All Share",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_117",
+      "name": "Healthcare",
+      "shortName": "Healthcare",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_118",
+      "name": "Information technology",
+      "shortName": "Information technology",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_119",
+      "name": "Port City Colombo",
+      "shortName": "Port City",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_120",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_121",
+      "name": "Ports",
+      "shortName": "Ports",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_122",
+      "name": "Rail",
+      "shortName": "Rail",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_123",
+      "name": "Expressways",
+      "shortName": "Expressways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_124",
+      "name": "Highways",
+      "shortName": "Highways",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_125",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_126",
+      "name": "Radio",
+      "shortName": "Radio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_127",
+      "name": "Television",
+      "shortName": "Television",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_128",
+      "name": "Science and technology",
+      "shortName": "Science and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_129",
+      "name": "SAARC",
+      "shortName": "SAARC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_130",
+      "name": "SAFTA",
+      "shortName": "SAFTA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_131",
+      "name": "BIMSTEC",
+      "shortName": "BIMSTEC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_132",
+      "name": "Colombo Plan",
+      "shortName": "Colombo Plan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_133",
+      "name": "G77",
+      "shortName": "G77",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_134",
+      "name": "Commons",
+      "shortName": "Commons",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_135",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_136",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_137",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_138",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_139",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_140",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_141",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_142",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_143",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_144",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_145",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_146",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_147",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_148",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_149",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_150",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_151",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_152",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_153",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_154",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_155",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_156",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_157",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_158",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_159",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_160",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_161",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_162",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_163",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_164",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_165",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_166",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_167",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_168",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_169",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_170",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_171",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_172",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_173",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_174",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_175",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_176",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_177",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_178",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_179",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_180",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_181",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_182",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_183",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_184",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_185",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_186",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_187",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_188",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_189",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_190",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_191",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_192",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_193",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_194",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_195",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_196",
+      "name": "Banks of Sri Lanka",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_197",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_198",
+      "name": "Lists of companies of Sri Lanka",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_199",
+      "name": "Lists of banks in Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_200",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_201",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_202",
+      "name": "Articles needing additional references from October 2018",
+      "shortName": "Articles needing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_203",
+      "name": "All articles needing additional references",
+      "shortName": "All articles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LK_204",
+      "name": "Use dmy dates from August 2017",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

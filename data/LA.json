@@ -1,40 +1,1342 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "LA",
   "institutions": [
     {
-      "code": "CENBLA",
-      "name": "Central Bank of LA",
-      "shortName": "Central Bank",
+      "code": "LA_0",
+      "name": "Bank of the Lao P.D.R.",
+      "shortName": "Bank of",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBLA",
-      "name": "National Bank of LA",
-      "shortName": "National Bank",
+      "code": "LA_1",
+      "name": "Lao Construction Bank (LCB)&#91;9&#93;",
+      "shortName": "Lao Construction",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABLA",
-      "name": "State Bank of LA",
-      "shortName": "State Bank",
+      "code": "LA_2",
+      "name": "Afghanistan",
+      "shortName": "Afghanistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBLA",
-      "name": "Commercial Bank of LA",
-      "shortName": "Commercial Bank",
+      "code": "LA_3",
+      "name": "Armenia",
+      "shortName": "Armenia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBLA",
-      "name": "First LA Bank",
-      "shortName": "First Bank",
+      "code": "LA_4",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_5",
+      "name": "Bahrain",
+      "shortName": "Bahrain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_6",
+      "name": "Bangladesh",
+      "shortName": "Bangladesh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_7",
+      "name": "Bhutan",
+      "shortName": "Bhutan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_8",
+      "name": "Brunei",
+      "shortName": "Brunei",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_9",
+      "name": "Cambodia",
+      "shortName": "Cambodia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_10",
+      "name": "China",
+      "shortName": "China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_11",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_12",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_13",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_14",
+      "name": "India",
+      "shortName": "India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_15",
+      "name": "Indonesia",
+      "shortName": "Indonesia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_16",
+      "name": "Iran",
+      "shortName": "Iran",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_17",
+      "name": "Iraq",
+      "shortName": "Iraq",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_18",
+      "name": "Israel",
+      "shortName": "Israel",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_19",
+      "name": "Japan",
+      "shortName": "Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_20",
+      "name": "Jordan",
+      "shortName": "Jordan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_21",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_22",
+      "name": "North Korea",
+      "shortName": "North Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_23",
+      "name": "South Korea",
+      "shortName": "South Korea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_24",
+      "name": "Kuwait",
+      "shortName": "Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_25",
+      "name": "Kyrgyzstan",
+      "shortName": "Kyrgyzstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_26",
+      "name": "Laos",
+      "shortName": "Laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_27",
+      "name": "Lebanon",
+      "shortName": "Lebanon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_28",
+      "name": "Malaysia",
+      "shortName": "Malaysia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_29",
+      "name": "Maldives",
+      "shortName": "Maldives",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_30",
+      "name": "Mongolia",
+      "shortName": "Mongolia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_31",
+      "name": "Myanmar",
+      "shortName": "Myanmar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_32",
+      "name": "Nepal",
+      "shortName": "Nepal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_33",
+      "name": "Oman",
+      "shortName": "Oman",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_34",
+      "name": "Palestine",
+      "shortName": "Palestine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_35",
+      "name": "Pakistan",
+      "shortName": "Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_36",
+      "name": "Philippines",
+      "shortName": "Philippines",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_37",
+      "name": "Qatar",
+      "shortName": "Qatar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_38",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_39",
+      "name": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_40",
+      "name": "Singapore",
+      "shortName": "Singapore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_41",
+      "name": "Sri Lanka",
+      "shortName": "Sri Lanka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_42",
+      "name": "Syria",
+      "shortName": "Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_43",
+      "name": "Tajikistan",
+      "shortName": "Tajikistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_44",
+      "name": "Thailand",
+      "shortName": "Thailand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_45",
+      "name": "Timor-Leste (East Timor)",
+      "shortName": "Timor-Leste (East",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_46",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_47",
+      "name": "Turkmenistan",
+      "shortName": "Turkmenistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_48",
+      "name": "United Arab Emirates",
+      "shortName": "United Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_49",
+      "name": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_50",
+      "name": "Vietnam",
+      "shortName": "Vietnam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_51",
+      "name": "Yemen",
+      "shortName": "Yemen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_52",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_53",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_54",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_55",
+      "name": "Taiwan",
+      "shortName": "Taiwan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_56",
+      "name": "British Indian Ocean Territory",
+      "shortName": "British Indian",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_57",
+      "name": "Christmas Island",
+      "shortName": "Christmas Island",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_58",
+      "name": "Cocos (Keeling) Islands",
+      "shortName": "Cocos (Keeling)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_59",
+      "name": "Hong Kong",
+      "shortName": "Hong Kong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_60",
+      "name": "Macau",
+      "shortName": "Macau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_61",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_62",
+      "name": "Asia portal",
+      "shortName": "Asia portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_63",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_64",
+      "name": "Lists of companies of Laos",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_65",
+      "name": "Banks of Laos",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_66",
+      "name": "Lists of banks in Southeast Asia",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_67",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_68",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_69",
+      "name": "Banque pour le Commerce Exterieur Lao Public",
+      "shortName": "Banque pour",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_70",
+      "name": "BCEL",
+      "shortName": "BCEL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_71",
+      "name": "2 December 1975",
+      "shortName": "2 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_72",
+      "name": "bcel.com.la",
+      "shortName": "bcel.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_73",
+      "name": "Lao Development Bank",
+      "shortName": "Lao Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_74",
+      "name": "LDB",
+      "shortName": "LDB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_75",
+      "name": "9 April 2003",
+      "shortName": "9 April",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_76",
+      "name": "ldblao.la",
+      "shortName": "ldblao.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_77",
+      "name": "Agricultural Promotion Bank",
+      "shortName": "Agricultural Promotion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_78",
+      "name": "APB",
+      "shortName": "APB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_79",
+      "name": "19 June 1993",
+      "shortName": "19 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_80",
+      "name": "apb.com.la",
+      "shortName": "apb.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_81",
+      "name": "Nayoby Bank",
+      "shortName": "Nayoby",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_82",
+      "name": "NBB",
+      "shortName": "NBB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_83",
+      "name": "15 September 2006",
+      "shortName": "15 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_84",
+      "name": "nbb.com.la",
+      "shortName": "nbb.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_85",
+      "name": "Lao-Viet Bank",
+      "shortName": "Lao-Viet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_86",
+      "name": "LVB",
+      "shortName": "LVB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_87",
+      "name": "22 June 1999",
+      "shortName": "22 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_88",
+      "name": "-",
+      "shortName": "-",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_89",
+      "name": "laovietbank.com.la",
+      "shortName": "laovietbank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_90",
+      "name": "Agreement between BCEL and BIDV",
+      "shortName": "Agreement between",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_91",
+      "name": "Banque Franco-Lao",
+      "shortName": "Banque Franco-Lao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_92",
+      "name": "BDL",
+      "shortName": "BDL",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_93",
+      "name": "October 2008",
+      "shortName": "October 2008",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_94",
+      "name": "bfl-bred.com",
+      "shortName": "bfl-bred.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_95",
+      "name": "Agreement between BCEL and BRED",
+      "shortName": "Agreement between",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_96",
+      "name": "Lao China Bank",
+      "shortName": "Lao China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_97",
+      "name": "LCNB",
+      "shortName": "LCNB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_98",
+      "name": "22 January 2014",
+      "shortName": "22 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_99",
+      "name": "lcnb.la",
+      "shortName": "lcnb.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_100",
+      "name": "Agreement between BCEL and Fudian Bank",
+      "shortName": "Agreement between",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_101",
+      "name": "Joint Development Bank",
+      "shortName": "Joint Development",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_102",
+      "name": "JDB",
+      "shortName": "JDB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_103",
+      "name": "21 January 1989",
+      "shortName": "21 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_104",
+      "name": "Simuong Group",
+      "shortName": "Simuong Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_105",
+      "name": "jdbbank.com.la",
+      "shortName": "jdbbank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_106",
+      "name": "Phongsavanh Bank",
+      "shortName": "Phongsavanh",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_107",
+      "name": "29 March 2007",
+      "shortName": "29 March",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_108",
+      "name": "Phongsavanh Group",
+      "shortName": "Phongsavanh Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_109",
+      "name": "phongsavanhbank.com",
+      "shortName": "phongsavanhbank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_110",
+      "name": "Indochina Bank",
+      "shortName": "Indochina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_111",
+      "name": "6 February 2009",
+      "shortName": "6 February",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_112",
+      "name": "LVMC Holdings&#91;4&#93;",
+      "shortName": "LVMC Holdings&#91;4&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_113",
+      "name": "indochinabank.com",
+      "shortName": "indochinabank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_114",
+      "name": "Booyoung Lao Bank",
+      "shortName": "Booyoung Lao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_115",
+      "name": "September 2007",
+      "shortName": "September 2007",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_116",
+      "name": "Booyoung Group&#91;5&#93;",
+      "shortName": "Booyoung Group&#91;5&#93;",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_117",
+      "name": "booyoungbank.com",
+      "shortName": "booyoungbank.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_118",
+      "name": "Maruhan Japan Bank Lao",
+      "shortName": "Maruhan Japan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_119",
+      "name": "MJB",
+      "shortName": "MJB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_120",
+      "name": "February 2013",
+      "shortName": "February 2013",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_121",
+      "name": "Maruhan",
+      "shortName": "Maruhan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_122",
+      "name": "maruhanjapanbanklao.com",
+      "shortName": "maruhanjapanbanklao.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_123",
+      "name": "Bank for Investment and Commerce",
+      "shortName": "Bank for",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_124",
+      "name": "BIC",
+      "shortName": "BIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_125",
+      "name": "22 June 2017",
+      "shortName": "22 June",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_126",
+      "name": "AIF Group",
+      "shortName": "AIF Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_127",
+      "name": "biclaos.com",
+      "shortName": "biclaos.com",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_128",
+      "name": "ST Bank",
+      "shortName": "ST",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_129",
+      "name": "3 July 2009",
+      "shortName": "3 July",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_130",
+      "name": "ST Group",
+      "shortName": "ST Group",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_131",
+      "name": "stbanklaos.la",
+      "shortName": "stbanklaos.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_132",
+      "name": "ACLEDA Bank Lao",
+      "shortName": "ACLEDA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_133",
+      "name": "26 December 2007",
+      "shortName": "26 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_134",
+      "name": "ACLEDA Bank",
+      "shortName": "ACLEDA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_135",
+      "name": "acledabank.com.la",
+      "shortName": "acledabank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_136",
+      "name": "RHB Bank Lao",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_137",
+      "name": "6 May 2014&#91;6&#93;",
+      "shortName": "6 May",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_138",
+      "name": "RHB Bank",
+      "shortName": "RHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_139",
+      "name": "rhbgroup.com/laos",
+      "shortName": "rhbgroup.com/laos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_140",
+      "name": "Kasikornthaibank Lao",
+      "shortName": "Kasikornthaibank Lao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_141",
+      "name": "KBank",
+      "shortName": "KBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_142",
+      "name": "14 November 2014&#91;7&#93;",
+      "shortName": "14 November",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_143",
+      "name": "Kasikornbank",
+      "shortName": "Kasikornbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_144",
+      "name": "kasikornbank.com.la",
+      "shortName": "kasikornbank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_145",
+      "name": "Saigon Thuong Tin Bank Lao",
+      "shortName": "Saigon Thuong",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_146",
+      "name": "Sacombank",
+      "shortName": "Sacombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_147",
+      "name": "12 December 2008",
+      "shortName": "12 December",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_148",
+      "name": "sacombank.com.la",
+      "shortName": "sacombank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_149",
+      "name": "VietinBank Lao",
+      "shortName": "VietinBank Lao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_150",
+      "name": "27 January 2012",
+      "shortName": "27 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_151",
+      "name": "VietinBank",
+      "shortName": "VietinBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_152",
+      "name": "vietinbank.com.la",
+      "shortName": "vietinbank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_153",
+      "name": "Vietcombank Lao",
+      "shortName": "Vietcombank Lao",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_154",
+      "name": "VCB",
+      "shortName": "VCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_155",
+      "name": "19 October 2018&#91;8&#93;",
+      "shortName": "19 October",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_156",
+      "name": "Vietcombank",
+      "shortName": "Vietcombank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_157",
+      "name": "Canadia Bank Lao",
+      "shortName": "Canadia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_158",
+      "name": "1 September 2009",
+      "shortName": "1 September",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_159",
+      "name": "Canadia Bank",
+      "shortName": "Canadia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_160",
+      "name": "canadiabank.com.la",
+      "shortName": "canadiabank.com.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_161",
+      "name": "Saigon-Hanoi Bank Lao",
+      "shortName": "Saigon-Hanoi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_162",
+      "name": "SHB",
+      "shortName": "SHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_163",
+      "name": "15 January 2016",
+      "shortName": "15 January",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_164",
+      "name": "SHB Bank",
+      "shortName": "SHB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_165",
+      "name": "shb.la",
+      "shortName": "shb.la",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_166",
+      "name": "Vientiane",
+      "shortName": "Vientiane",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_167",
+      "name": "Pakse",
+      "shortName": "Pakse",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_168",
+      "name": "Savannakhet",
+      "shortName": "Savannakhet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_169",
+      "name": "Bank of Ayudhya",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_170",
+      "name": "Krungsri",
+      "shortName": "Krungsri",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_171",
+      "name": "TMBThanachart Bank",
+      "shortName": "TMBThanachart",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_172",
+      "name": "TTB",
+      "shortName": "TTB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_173",
+      "name": "Siam Commercial Bank",
+      "shortName": "Siam Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_174",
+      "name": "SCB",
+      "shortName": "SCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_175",
+      "name": "Military CJS Bank",
+      "shortName": "Military CJS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_176",
+      "name": "MB",
+      "shortName": "MB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_177",
+      "name": "Industrial and Commercial Bank of China",
+      "shortName": "Industrial and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_178",
+      "name": "ICBC",
+      "shortName": "ICBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_179",
+      "name": "CIMB Thai",
+      "shortName": "CIMB Thai",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_180",
+      "name": "Cathay United Bank",
+      "shortName": "Cathay United",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_181",
+      "name": "CUBC",
+      "shortName": "CUBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_182",
+      "name": "Bank of China",
+      "shortName": "Bank of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_183",
+      "name": "BOC",
+      "shortName": "BOC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_184",
+      "name": "First Commercial Bank",
+      "shortName": "First Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_185",
+      "name": "FCB",
+      "shortName": "FCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_186",
+      "name": "Maybank",
+      "shortName": "Maybank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_187",
+      "name": "Australia and New Zealand Banking Group",
+      "shortName": "Australia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_188",
+      "name": "ANZ",
+      "shortName": "ANZ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_189",
+      "name": "Taiwan Cooperative Bank",
+      "shortName": "Taiwan Cooperative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LA_190",
+      "name": "TCB",
+      "shortName": "TCB",
       "type": "bank",
       "aliases": ""
     }

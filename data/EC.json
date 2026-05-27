@@ -1,40 +1,418 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "EC",
   "institutions": [
     {
-      "code": "CENBEC",
-      "name": "Central Bank of EC",
-      "shortName": "Central Bank",
+      "code": "EC_0",
+      "name": "Agriculture",
+      "shortName": "Agriculture",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBEC",
-      "name": "National Bank of EC",
-      "shortName": "National Bank",
+      "code": "EC_1",
+      "name": "Central Bank of Ecuador",
+      "shortName": "Central",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABEC",
-      "name": "State Bank of EC",
-      "shortName": "State Bank",
+      "code": "EC_2",
+      "name": "Companies",
+      "shortName": "Companies",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBEC",
-      "name": "Commercial Bank of EC",
-      "shortName": "Commercial Bank",
+      "code": "EC_3",
+      "name": "Mining",
+      "shortName": "Mining",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBEC",
-      "name": "First EC Bank",
-      "shortName": "First Bank",
+      "code": "EC_4",
+      "name": "Currency",
+      "shortName": "Currency",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_5",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_6",
+      "name": "Culture",
+      "shortName": "Culture",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_7",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_8",
+      "name": "Geography",
+      "shortName": "Geography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_9",
+      "name": "History",
+      "shortName": "History",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_10",
+      "name": "Ecuador&#32;portal",
+      "shortName": "Ecuador&#32;portal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_11",
+      "name": "Banco Bolivariano",
+      "shortName": "Banco Bolivariano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_12",
+      "name": "Banco Cofiec",
+      "shortName": "Banco Cofiec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_13",
+      "name": "Banco de Guayaquil",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_14",
+      "name": "Banco de Machala",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_15",
+      "name": "Banco del Austro",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_16",
+      "name": "Banco del Pacífico",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_17",
+      "name": "Banco Pichincha",
+      "shortName": "Banco Pichincha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_18",
+      "name": "Banco Delbank",
+      "shortName": "Banco Delbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_19",
+      "name": "Banco General Rumiñahui",
+      "shortName": "Banco General",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_20",
+      "name": "Banco Internacional",
+      "shortName": "Banco Internacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_21",
+      "name": "Banco Finca",
+      "shortName": "Banco Finca",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_22",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_23",
+      "name": "Produbanco",
+      "shortName": "Produbanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_24",
+      "name": "Banco Solidario",
+      "shortName": "Banco Solidario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_25",
+      "name": "Banco Sudamericano",
+      "shortName": "Banco Sudamericano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_26",
+      "name": "Citibank Ecuador",
+      "shortName": "Citibank Ecuador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_27",
+      "name": "Banco Promérica",
+      "shortName": "Banco Promérica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_28",
+      "name": "Banco Coopnacional",
+      "shortName": "Banco Coopnacional",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_29",
+      "name": "Banco D-Miro",
+      "shortName": "Banco D-Miro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_30",
+      "name": "Banco Capital",
+      "shortName": "Banco Capital",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_31",
+      "name": "Banco de la Previsora (closed in 1999)",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_32",
+      "name": "Banco de Préstamos (closed in 1998)&#91;6&#93;",
+      "shortName": "Banco de",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_33",
+      "name": "Banco del Progreso (closed in 1999)&#91;7&#93;",
+      "shortName": "Banco del",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_34",
+      "name": "Banco Territorial (closed in 2013)&#91;8&#93;",
+      "shortName": "Banco Territorial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_35",
+      "name": "Unibanco (merged with Banco Solidario in 2013)&#91;9&#93;",
+      "shortName": "Unibanco (merged",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_36",
+      "name": "Banking in Ecuador",
+      "shortName": "Banking in",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_37",
+      "name": "Argentina",
+      "shortName": "Argentina",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_38",
+      "name": "Bolivia",
+      "shortName": "Bolivia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_39",
+      "name": "Brazil",
+      "shortName": "Brazil",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_40",
+      "name": "Chile",
+      "shortName": "Chile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_41",
+      "name": "Colombia",
+      "shortName": "Colombia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_42",
+      "name": "Ecuador",
+      "shortName": "Ecuador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_43",
+      "name": "Guyana",
+      "shortName": "Guyana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_44",
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_45",
+      "name": "Peru",
+      "shortName": "Peru",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_46",
+      "name": "Suriname",
+      "shortName": "Suriname",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_47",
+      "name": "Uruguay",
+      "shortName": "Uruguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_48",
+      "name": "Venezuela",
+      "shortName": "Venezuela",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_49",
+      "name": "Falkland Islands",
+      "shortName": "Falkland Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_50",
+      "name": "French Guiana",
+      "shortName": "French Guiana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_51",
+      "name": "South Georgia and the South Sandwich Islands",
+      "shortName": "South Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_52",
+      "name": "Banks of Ecuador",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_53",
+      "name": "Lists of companies of Ecuador",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_54",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_55",
+      "name": "Lists of banks in South America",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_56",
+      "name": "Webarchive template wayback links",
+      "shortName": "Webarchive template",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_57",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EC_58",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
       "type": "bank",
       "aliases": ""
     }

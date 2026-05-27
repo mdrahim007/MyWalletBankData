@@ -1,40 +1,922 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "BW",
   "institutions": [
     {
-      "code": "CENBBW",
-      "name": "Central Bank of BW",
-      "shortName": "Central Bank",
+      "code": "BW_0",
+      "name": "ABSA Bank Botswana Limited, part of Absa Group",
+      "shortName": "ABSA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBBW",
-      "name": "National Bank of BW",
-      "shortName": "National Bank",
+      "code": "BW_1",
+      "name": "Bank Gaborone Limited",
+      "shortName": "Bank Gaborone",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABBW",
-      "name": "State Bank of BW",
-      "shortName": "State Bank",
+      "code": "BW_2",
+      "name": "BBS Bank Limited",
+      "shortName": "BBS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBBW",
-      "name": "Commercial Bank of BW",
-      "shortName": "Commercial Bank",
+      "code": "BW_3",
+      "name": "First National Bank of Botswana Limited",
+      "shortName": "First National",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBBW",
-      "name": "First BW Bank",
-      "shortName": "First Bank",
+      "code": "BW_4",
+      "name": "Stanbic Bank Botswana Limited, part of Standard Bank Group",
+      "shortName": "Stanbic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_5",
+      "name": "Economy of Botswana",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_6",
+      "name": "Directory of Financial Institutions As At December 2020",
+      "shortName": "Directory of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_7",
+      "name": "Bantu expansion",
+      "shortName": "Bantu expansion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_8",
+      "name": "Bechuanaland Protectorate",
+      "shortName": "Bechuanaland Protectorate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_9",
+      "name": "History of Gaborone",
+      "shortName": "History of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_10",
+      "name": "Years",
+      "shortName": "Years",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_11",
+      "name": "Cities",
+      "shortName": "Cities",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_12",
+      "name": "Dams and reservoirs",
+      "shortName": "Dams and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_13",
+      "name": "Districts",
+      "shortName": "Districts",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_14",
+      "name": "Ecoregions",
+      "shortName": "Ecoregions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_15",
+      "name": "Rivers",
+      "shortName": "Rivers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_16",
+      "name": "Wildlife",
+      "shortName": "Wildlife",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_17",
+      "name": "Constitution",
+      "shortName": "Constitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_18",
+      "name": "Corruption",
+      "shortName": "Corruption",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_19",
+      "name": "Elections",
+      "shortName": "Elections",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_20",
+      "name": "Foreign relations",
+      "shortName": "Foreign relations",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_21",
+      "name": "Human trafficking",
+      "shortName": "Human trafficking",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_22",
+      "name": "Military",
+      "shortName": "Military",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_23",
+      "name": "Political parties",
+      "shortName": "Political parties",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_24",
+      "name": "President",
+      "shortName": "President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_25",
+      "name": "Vice-President",
+      "shortName": "Vice-President",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_26",
+      "name": "Companies and Intellectual Property Authority",
+      "shortName": "Companies and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_27",
+      "name": "Department of Information Technology",
+      "shortName": "Department of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_28",
+      "name": "Unified Revenue Service",
+      "shortName": "Unified Revenue",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_29",
+      "name": "Banks",
+      "shortName": "Banks",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_30",
+      "name": "Energy",
+      "shortName": "Energy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_31",
+      "name": "Manufacturing",
+      "shortName": "Manufacturing",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_32",
+      "name": "Mining",
+      "shortName": "Mining",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_33",
+      "name": "Pula (currency)",
+      "shortName": "Pula (currency)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_34",
+      "name": "Telecommunications",
+      "shortName": "Telecommunications",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_35",
+      "name": "Tourism",
+      "shortName": "Tourism",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_36",
+      "name": "Trade unions",
+      "shortName": "Trade unions",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_37",
+      "name": "Anthem",
+      "shortName": "Anthem",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_38",
+      "name": "Art",
+      "shortName": "Art",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_39",
+      "name": "Coat of arms",
+      "shortName": "Coat of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_40",
+      "name": "Cuisine",
+      "shortName": "Cuisine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_41",
+      "name": "Flag",
+      "shortName": "Flag",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_42",
+      "name": "Hospitals",
+      "shortName": "Hospitals",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_43",
+      "name": "Internet",
+      "shortName": "Internet",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_44",
+      "name": "Literature",
+      "shortName": "Literature",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_45",
+      "name": "Music",
+      "shortName": "Music",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_46",
+      "name": "Newspapers",
+      "shortName": "Newspapers",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_47",
+      "name": "Public holidays",
+      "shortName": "Public holidays",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_48",
+      "name": "Sport",
+      "shortName": "Sport",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_49",
+      "name": "World Heritage Sites",
+      "shortName": "World Heritage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_50",
+      "name": "Abortion",
+      "shortName": "Abortion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_51",
+      "name": "Child marriage",
+      "shortName": "Child marriage",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_52",
+      "name": "Education",
+      "shortName": "Education",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_53",
+      "name": "Ethnic groups",
+      "shortName": "Ethnic groups",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_54",
+      "name": "Health",
+      "shortName": "Health",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_55",
+      "name": "International rankings",
+      "shortName": "International rankings",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_56",
+      "name": "Languages",
+      "shortName": "Languages",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_57",
+      "name": "People",
+      "shortName": "People",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_58",
+      "name": "Polygamy",
+      "shortName": "Polygamy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_59",
+      "name": "Prostitution",
+      "shortName": "Prostitution",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_60",
+      "name": "Religion",
+      "shortName": "Religion",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_61",
+      "name": "Outline",
+      "shortName": "Outline",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_62",
+      "name": "Index",
+      "shortName": "Index",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_63",
+      "name": "Bibliography",
+      "shortName": "Bibliography",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_64",
+      "name": "Category",
+      "shortName": "Category",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_65",
+      "name": "Algeria",
+      "shortName": "Algeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_66",
+      "name": "Angola",
+      "shortName": "Angola",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_67",
+      "name": "Benin",
+      "shortName": "Benin",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_68",
+      "name": "Botswana",
+      "shortName": "Botswana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_69",
+      "name": "Burkina Faso",
+      "shortName": "Burkina Faso",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_70",
+      "name": "Burundi",
+      "shortName": "Burundi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_71",
+      "name": "Cameroon",
+      "shortName": "Cameroon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_72",
+      "name": "Cape Verde",
+      "shortName": "Cape Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_73",
+      "name": "Central African Republic",
+      "shortName": "Central African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_74",
+      "name": "Chad",
+      "shortName": "Chad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_75",
+      "name": "Comoros",
+      "shortName": "Comoros",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_76",
+      "name": "Democratic Republic of the Congo",
+      "shortName": "Democratic Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_77",
+      "name": "Republic of the Congo",
+      "shortName": "Republic of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_78",
+      "name": "Djibouti",
+      "shortName": "Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_79",
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_80",
+      "name": "Equatorial Guinea",
+      "shortName": "Equatorial Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_81",
+      "name": "Eritrea",
+      "shortName": "Eritrea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_82",
+      "name": "Eswatini",
+      "shortName": "Eswatini",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_83",
+      "name": "Ethiopia",
+      "shortName": "Ethiopia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_84",
+      "name": "Gabon",
+      "shortName": "Gabon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_85",
+      "name": "The Gambia",
+      "shortName": "The Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_86",
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_87",
+      "name": "Guinea",
+      "shortName": "Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_88",
+      "name": "Guinea-Bissau",
+      "shortName": "Guinea-Bissau",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_89",
+      "name": "Ivory Coast",
+      "shortName": "Ivory Coast",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_90",
+      "name": "Kenya",
+      "shortName": "Kenya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_91",
+      "name": "Lesotho",
+      "shortName": "Lesotho",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_92",
+      "name": "Liberia",
+      "shortName": "Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_93",
+      "name": "Libya",
+      "shortName": "Libya",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_94",
+      "name": "Madagascar",
+      "shortName": "Madagascar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_95",
+      "name": "Malawi",
+      "shortName": "Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_96",
+      "name": "Mali",
+      "shortName": "Mali",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_97",
+      "name": "Mauritania",
+      "shortName": "Mauritania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_98",
+      "name": "Mauritius",
+      "shortName": "Mauritius",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_99",
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_100",
+      "name": "Mozambique",
+      "shortName": "Mozambique",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_101",
+      "name": "Namibia",
+      "shortName": "Namibia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_102",
+      "name": "Niger",
+      "shortName": "Niger",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_103",
+      "name": "Nigeria",
+      "shortName": "Nigeria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_104",
+      "name": "Rwanda",
+      "shortName": "Rwanda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_105",
+      "name": "São Tomé and Príncipe",
+      "shortName": "São Tomé",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_106",
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_107",
+      "name": "Seychelles",
+      "shortName": "Seychelles",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_108",
+      "name": "Sierra Leone",
+      "shortName": "Sierra Leone",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_109",
+      "name": "Somalia",
+      "shortName": "Somalia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_110",
+      "name": "South Africa",
+      "shortName": "South Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_111",
+      "name": "South Sudan",
+      "shortName": "South Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_112",
+      "name": "Sudan",
+      "shortName": "Sudan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_113",
+      "name": "Tanzania",
+      "shortName": "Tanzania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_114",
+      "name": "Togo",
+      "shortName": "Togo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_115",
+      "name": "Tunisia",
+      "shortName": "Tunisia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_116",
+      "name": "Uganda",
+      "shortName": "Uganda",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_117",
+      "name": "Zambia",
+      "shortName": "Zambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_118",
+      "name": "Zimbabwe",
+      "shortName": "Zimbabwe",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_119",
+      "name": "Sahrawi Arab Democratic Republic",
+      "shortName": "Sahrawi Arab",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_120",
+      "name": "Somaliland",
+      "shortName": "Somaliland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_121",
+      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
+      "shortName": "Canary Islands&#160;/",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_122",
+      "name": "Madeira&#160;(Portugal)",
+      "shortName": "Madeira&#160;(Portugal)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_123",
+      "name": "Mayotte&#160;/ Réunion&#160;(France)",
+      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_124",
+      "name": "Banks of Botswana",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_125",
+      "name": "Lists of companies of Botswana",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_126",
+      "name": "Lists of banks by country",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_127",
+      "name": "Lists of banks in Africa",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_128",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_129",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BW_130",
+      "name": "Use dmy dates from April 2022",
+      "shortName": "Use dmy",
       "type": "bank",
       "aliases": ""
     }

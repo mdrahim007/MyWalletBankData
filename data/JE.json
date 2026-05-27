@@ -1,40 +1,649 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-05-26",
+  "version": 2,
+  "lastUpdated": "2026-05-27",
   "country": "JE",
   "institutions": [
     {
-      "code": "CENBJE",
-      "name": "Central Bank of JE",
-      "shortName": "Central Bank",
+      "code": "JE_0",
+      "name": "Barclays Bank plc, Jersey Branch",
+      "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NATBJE",
-      "name": "National Bank of JE",
-      "shortName": "National Bank",
+      "code": "JE_1",
+      "name": "BNP Paribas S.A. Jersey Branch",
+      "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "STABJE",
-      "name": "State Bank of JE",
-      "shortName": "State Bank",
+      "code": "JE_2",
+      "name": "BNP Paribas Securities Services Custody Bank",
+      "shortName": "BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "COBBJE",
-      "name": "Commercial Bank of JE",
-      "shortName": "Commercial Bank",
+      "code": "JE_3",
+      "name": "Butterfield Bank (Jersey) Limited",
+      "shortName": "Butterfield",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "FIBJE",
-      "name": "First JE Bank",
-      "shortName": "First Bank",
+      "code": "JE_4",
+      "name": "Citibank N.A., Jersey Branch",
+      "shortName": "Citibank N.A.,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_5",
+      "name": "Citicorp Banking Corporation",
+      "shortName": "Citicorping",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_6",
+      "name": "The Co-operative Bank",
+      "shortName": "The Co-operative",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_7",
+      "name": "Deutsche Bank International",
+      "shortName": "Deutsche",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_8",
+      "name": "EFG Private Bank (Channel Islands) Limited, Jersey Branch",
+      "shortName": "EFG Private",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_9",
+      "name": "HSBC Bank Plc, Jersey Branch",
+      "shortName": "HSBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_10",
+      "name": "Investec Bank (Channel Islands) Limited, Jersey Branch",
+      "shortName": "Investec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_11",
+      "name": "JPMorgan Chase Bank N.A., Jersey Branch",
+      "shortName": "JPMorgan Chase",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_12",
+      "name": "Kleinwort Benson (Channel Islands)",
+      "shortName": "Kleinwort Benson",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_13",
+      "name": "Lloyds Bank Jersey Branch",
+      "shortName": "Lloyds",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_14",
+      "name": "Lloyds Bank International",
+      "shortName": "Lloyds",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_15",
+      "name": "Nedbank Private Wealth Limited, Jersey Branch",
+      "shortName": "Nedbank Private",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_16",
+      "name": "Standard Bank Jersey",
+      "shortName": "Standard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_17",
+      "name": "Standard Chartered Bank, Jersey Branch",
+      "shortName": "Standard Chartered",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_18",
+      "name": "Santander",
+      "shortName": "Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_19",
+      "name": "UBS AG, Jersey Branch",
+      "shortName": "UBS AG,",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_20",
+      "name": "Union Bancaire Privée, Jersey Branch",
+      "shortName": "Union Bancaire",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_21",
+      "name": "Albania",
+      "shortName": "Albania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_22",
+      "name": "Andorra",
+      "shortName": "Andorra",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_23",
+      "name": "Armenia",
+      "shortName": "Armenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_24",
+      "name": "Austria",
+      "shortName": "Austria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_25",
+      "name": "Azerbaijan",
+      "shortName": "Azerbaijan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_26",
+      "name": "Belarus",
+      "shortName": "Belarus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_27",
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_28",
+      "name": "Bosnia and Herzegovina",
+      "shortName": "Bosnia and",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_29",
+      "name": "Bulgaria",
+      "shortName": "Bulgaria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_30",
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_31",
+      "name": "Cyprus",
+      "shortName": "Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_32",
+      "name": "Czech Republic",
+      "shortName": "Czech Republic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_33",
+      "name": "Denmark",
+      "shortName": "Denmark",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_34",
+      "name": "Estonia",
+      "shortName": "Estonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_35",
+      "name": "Finland",
+      "shortName": "Finland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_36",
+      "name": "France",
+      "shortName": "France",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_37",
+      "name": "Georgia",
+      "shortName": "Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_38",
+      "name": "Germany",
+      "shortName": "Germany",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_39",
+      "name": "Greece",
+      "shortName": "Greece",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_40",
+      "name": "Hungary",
+      "shortName": "Hungary",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_41",
+      "name": "Iceland",
+      "shortName": "Iceland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_42",
+      "name": "Ireland",
+      "shortName": "Ireland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_43",
+      "name": "Italy",
+      "shortName": "Italy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_44",
+      "name": "Kazakhstan",
+      "shortName": "Kazakhstan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_45",
+      "name": "Latvia",
+      "shortName": "Latvia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_46",
+      "name": "Liechtenstein",
+      "shortName": "Liechtenstein",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_47",
+      "name": "Lithuania",
+      "shortName": "Lithuania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_48",
+      "name": "Luxembourg",
+      "shortName": "Luxembourg",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_49",
+      "name": "Malta",
+      "shortName": "Malta",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_50",
+      "name": "Moldova",
+      "shortName": "Moldova",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_51",
+      "name": "Monaco",
+      "shortName": "Monaco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_52",
+      "name": "Montenegro",
+      "shortName": "Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_53",
+      "name": "Netherlands",
+      "shortName": "Netherlands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_54",
+      "name": "North Macedonia",
+      "shortName": "North Macedonia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_55",
+      "name": "Norway",
+      "shortName": "Norway",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_56",
+      "name": "Poland",
+      "shortName": "Poland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_57",
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_58",
+      "name": "Romania",
+      "shortName": "Romania",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_59",
+      "name": "Russia",
+      "shortName": "Russia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_60",
+      "name": "San Marino",
+      "shortName": "San Marino",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_61",
+      "name": "Serbia",
+      "shortName": "Serbia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_62",
+      "name": "Slovakia",
+      "shortName": "Slovakia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_63",
+      "name": "Slovenia",
+      "shortName": "Slovenia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_64",
+      "name": "Spain",
+      "shortName": "Spain",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_65",
+      "name": "Sweden",
+      "shortName": "Sweden",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_66",
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_67",
+      "name": "Turkey",
+      "shortName": "Turkey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_68",
+      "name": "Ukraine",
+      "shortName": "Ukraine",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_69",
+      "name": "United Kingdom",
+      "shortName": "United Kingdom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_70",
+      "name": "Abkhazia",
+      "shortName": "Abkhazia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_71",
+      "name": "Kosovo",
+      "shortName": "Kosovo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_72",
+      "name": "Northern Cyprus",
+      "shortName": "Northern Cyprus",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_73",
+      "name": "South Ossetia",
+      "shortName": "South Ossetia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_74",
+      "name": "Transnistria",
+      "shortName": "Transnistria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_75",
+      "name": "Åland",
+      "shortName": "Åland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_76",
+      "name": "Faroe Islands",
+      "shortName": "Faroe Islands",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_77",
+      "name": "Gibraltar",
+      "shortName": "Gibraltar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_78",
+      "name": "Guernsey",
+      "shortName": "Guernsey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_79",
+      "name": "Isle of Man",
+      "shortName": "Isle of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_80",
+      "name": "Jersey",
+      "shortName": "Jersey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_81",
+      "name": "Svalbard",
+      "shortName": "Svalbard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_82",
+      "name": "Banks of the United Kingdom",
+      "shortName": "Banks of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_83",
+      "name": "Companies of Jersey",
+      "shortName": "Companies of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_84",
+      "name": "Economy of Jersey",
+      "shortName": "Economy of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_85",
+      "name": "Lists of banks by dependent territory",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_86",
+      "name": "Lists of banks in Europe",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_87",
+      "name": "Lists of organisations based in Jersey",
+      "shortName": "Lists of",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_88",
+      "name": "Articles with short description",
+      "shortName": "Articles with",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_89",
+      "name": "Short description is different from Wikidata",
+      "shortName": "Short description",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_90",
+      "name": "Use dmy dates from April 2022",
+      "shortName": "Use dmy",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JE_91",
+      "name": "Commons category link is on Wikidata",
+      "shortName": "Commons category",
       "type": "bank",
       "aliases": ""
     }
