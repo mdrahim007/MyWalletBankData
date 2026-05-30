@@ -1,42 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "HM",
-  "institutions": [
-    {
-      "code": "HM_0",
-      "name": "Central Bank of HM",
-      "shortName": "Central Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HM_1",
-      "name": "National Bank of HM",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HM_2",
-      "name": "State Bank of HM",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HM_3",
-      "name": "Commercial Bank of HM",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "HM_4",
-      "name": "First HM Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
-    }
-  ]
+  "institutions": []
 }

@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "HT",
   "institutions": [
     {
       "code": "HT_0",
-      "name": "Central Bank of HT",
-      "shortName": "Central Bank",
+      "name": "Banque de l'Union Haïtienne",
+      "shortName": "Banque de l'Union Ha",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BUH"
     },
     {
       "code": "HT_1",
-      "name": "National Bank of HT",
-      "shortName": "National Bank",
+      "name": "Banque Nationale de Crédit",
+      "shortName": "Banque Nationale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNC"
     },
     {
       "code": "HT_2",
-      "name": "State Bank of HT",
-      "shortName": "State Bank",
+      "name": "Capital Bank",
+      "shortName": "Capital",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "HT_3",
-      "name": "Commercial Bank of HT",
-      "shortName": "Commercial Bank",
+      "name": "Citibank Haiti",
+      "shortName": "Citibank Haiti",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "HT_4",
-      "name": "First HT Bank",
-      "shortName": "First Bank",
+      "name": "SOGEBANK",
+      "shortName": "SOGEBANK",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HT_5",
+      "name": "Unibank",
+      "shortName": "Unibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "HT_6",
+      "name": "MonCash",
+      "shortName": "MonCash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "HT_7",
+      "name": "Natcash",
+      "shortName": "Natcash",
+      "type": "mfs",
       "aliases": ""
     }
   ]
