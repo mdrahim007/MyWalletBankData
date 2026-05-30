@@ -1,42 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "BV",
-  "institutions": [
-    {
-      "code": "BV_0",
-      "name": "Central Bank of BV",
-      "shortName": "Central Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BV_1",
-      "name": "National Bank of BV",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BV_2",
-      "name": "State Bank of BV",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BV_3",
-      "name": "Commercial Bank of BV",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BV_4",
-      "name": "First BV Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
-    }
-  ]
+  "institutions": []
 }

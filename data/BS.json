@@ -1,41 +1,104 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "BS",
   "institutions": [
     {
       "code": "BS_0",
-      "name": "Central Bank of BS",
-      "shortName": "Central Bank",
+      "name": "Bank of The Bahamas Limited",
+      "shortName": "Bank of The Bahamas",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BS_1",
-      "name": "National Bank of BS",
-      "shortName": "National Bank",
+      "name": "BankPro",
+      "shortName": "BankPro",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BS_2",
-      "name": "State Bank of BS",
-      "shortName": "State Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BS_3",
-      "name": "Commercial Bank of BS",
-      "shortName": "Commercial Bank",
+      "name": "Citibank N.A.",
+      "shortName": "Citibank N.A.",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BS_4",
-      "name": "First BS Bank",
-      "shortName": "First Bank",
+      "name": "Commonwealth Bank Limited",
+      "shortName": "Commonwealth",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BS_5",
+      "name": "Fidelity Bank (Bahamas) Limited",
+      "shortName": "Fidelity (Bahamas)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BS_6",
+      "name": "Finance Corporation of Bahamas",
+      "shortName": "Finance Corporation",
+      "type": "bank",
+      "aliases": "FINCO"
+    },
+    {
+      "code": "BS_7",
+      "name": "Royal Bank of Canada",
+      "shortName": "Royal of Canada",
+      "type": "bank",
+      "aliases": "RBC"
+    },
+    {
+      "code": "BS_8",
+      "name": "Scotiabank",
+      "shortName": "Scotiabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BS_9",
+      "name": "Island Pay",
+      "shortName": "Island Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BS_10",
+      "name": "Kanoo",
+      "shortName": "Kanoo",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BS_11",
+      "name": "MoneyMaxx",
+      "shortName": "MoneyMaxx",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BS_12",
+      "name": "Omni FlashCash",
+      "shortName": "Omni FlashCash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BS_13",
+      "name": "SunCash",
+      "shortName": "SunCash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

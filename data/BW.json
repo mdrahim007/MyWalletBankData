@@ -1,419 +1,90 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BW",
   "institutions": [
     {
       "code": "BW_0",
-      "name": "ABSA Bank Botswana Limited, part of Absa Group",
-      "shortName": "ABSA",
+      "name": "Absa Bank Botswana",
+      "shortName": "Absa Botswana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_1",
-      "name": "Bank Gaborone Limited",
-      "shortName": "Bank Gaborone",
+      "name": "Access Bank Botswana",
+      "shortName": "Access Botswana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_2",
-      "name": "BBS Bank Limited",
-      "shortName": "BBS",
+      "name": "Bank Gaborone",
+      "shortName": "Bank Gaborone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_3",
-      "name": "First National Bank of Botswana Limited",
-      "shortName": "First National",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of Baroda",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_4",
-      "name": "Stanbic Bank Botswana Limited, part of Standard Bank Group",
-      "shortName": "Stanbic",
+      "name": "BBS Bank",
+      "shortName": "BBS",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_5",
-      "name": "Economy of Botswana",
-      "shortName": "Economy of",
+      "name": "First Capital Bank",
+      "shortName": "First Capital",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_6",
-      "name": "Directory of Financial Institutions As At December 2020",
-      "shortName": "Directory of",
+      "name": "First National Bank of Botswana",
+      "shortName": "First National of Bo",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FNBB"
     },
     {
       "code": "BW_7",
-      "name": "Bantu expansion",
-      "shortName": "Bantu expansion",
+      "name": "Stanbic Bank Botswana",
+      "shortName": "Stanbic Botswana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_8",
-      "name": "Bechuanaland Protectorate",
-      "shortName": "Bechuanaland Protectorate",
+      "name": "Standard Chartered Bank Botswana",
+      "shortName": "Standard Chartered B",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BW_9",
-      "name": "Years",
-      "shortName": "Years",
-      "type": "bank",
+      "name": "MyZaka",
+      "shortName": "MyZaka",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BW_10",
-      "name": "Cities",
-      "shortName": "Cities",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BW_11",
-      "name": "Dams and reservoirs",
-      "shortName": "Dams and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_12",
-      "name": "Districts",
-      "shortName": "Districts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_13",
-      "name": "Ecoregions",
-      "shortName": "Ecoregions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_14",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_15",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_16",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_17",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_18",
-      "name": "Vice-President",
-      "shortName": "Vice-President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_19",
-      "name": "Department of Information Technology",
-      "shortName": "Department of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_20",
-      "name": "Unified Revenue Service",
-      "shortName": "Unified Revenue",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_21",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_22",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_23",
-      "name": "Manufacturing",
-      "shortName": "Manufacturing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_24",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_25",
-      "name": "Pula (currency)",
-      "shortName": "Pula (currency)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_26",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_27",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_28",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_29",
-      "name": "Art",
-      "shortName": "Art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_30",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_31",
-      "name": "Hospitals",
-      "shortName": "Hospitals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_32",
-      "name": "Internet",
-      "shortName": "Internet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_33",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_34",
-      "name": "Newspapers",
-      "shortName": "Newspapers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_35",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_36",
-      "name": "World Heritage Sites",
-      "shortName": "World Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_37",
-      "name": "Abortion",
-      "shortName": "Abortion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_38",
-      "name": "Child marriage",
-      "shortName": "Child marriage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_39",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_40",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_41",
-      "name": "Health",
-      "shortName": "Health",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_42",
-      "name": "International rankings",
-      "shortName": "International rankings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_43",
-      "name": "Polygamy",
-      "shortName": "Polygamy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_44",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_45",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_46",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_47",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_48",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_49",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_50",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_51",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_52",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_53",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_54",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_55",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_56",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_57",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BW_58",
-      "name": "Use dmy dates from April 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "Smega",
+      "shortName": "Smega",
+      "type": "mfs",
       "aliases": ""
     }
   ]

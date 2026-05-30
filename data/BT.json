@@ -1,153 +1,69 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BT",
   "institutions": [
     {
       "code": "BT_0",
-      "name": "Bank of Bhutan&#91;1&#93;",
-      "shortName": "Bank of",
+      "name": "Bank of Bhutan",
+      "shortName": "Bank of Bhutan",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BoB"
     },
     {
       "code": "BT_1",
-      "name": "Bhutan National Bank",
-      "shortName": "Bhutan National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_2",
-      "name": "Royal Monetary Authority of Bhutan",
-      "shortName": "Royal Monetary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_3",
-      "name": "Druk PNB Bank",
-      "shortName": "Druk PNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_4",
-      "name": "No Full form (T Bank)",
-      "shortName": "No Full",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_5",
       "name": "Bhutan Development Bank",
       "shortName": "Bhutan Development",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BT_6",
+      "code": "BT_2",
+      "name": "Bhutan National Bank",
+      "shortName": "Bhutan National",
+      "type": "bank",
+      "aliases": "BNB"
+    },
+    {
+      "code": "BT_3",
       "name": "Digital Kidu Bank",
       "shortName": "Digital Kidu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BT_7",
-      "name": "Brunei",
-      "shortName": "Brunei",
+      "code": "BT_4",
+      "name": "Druk PNB Bank",
+      "shortName": "Druk PNB",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BT_5",
+      "name": "T Bank",
+      "shortName": "T",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BT_6",
+      "name": "eTeeru",
+      "shortName": "eTeeru",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BT_7",
+      "name": "goBOB",
+      "shortName": "goBOB",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BT_8",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_9",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_10",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_11",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_12",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_13",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_14",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_15",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_16",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_17",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_18",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_19",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BT_20",
-      "name": "CS1 maint: location missing publisher",
-      "shortName": "CS1 maint:",
-      "type": "bank",
+      "name": "MyPay",
+      "shortName": "MyPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]
