@@ -1,188 +1,125 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "AF",
   "institutions": [
     {
       "code": "AF_0",
-      "name": "Da Afghanistan Bank&#91;2&#93;",
-      "shortName": "Da Afghanistan",
+      "name": "Afghan United Bank",
+      "shortName": "Afghan United",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AF_1",
-      "name": "Bank Millie Afghan&#91;3&#93;",
-      "shortName": "Bank Millie",
+      "name": "Afghanistan International Bank",
+      "shortName": "Afghanistan Internat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "AIB"
     },
     {
       "code": "AF_2",
-      "name": "Pashtany Bank&#91;4&#93;",
-      "shortName": "Pashtany&#91;4&#93;",
+      "name": "Azizi Bank",
+      "shortName": "Azizi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AF_3",
-      "name": "New Kabul Bank&#91;5&#93;",
-      "shortName": "New Kabul",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_4",
-      "name": "Islamic Bank of Afghanistan&#91;6&#93;",
-      "shortName": "Islamic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_5",
-      "name": "Afghanistan International Bank&#91;7&#93;",
-      "shortName": "Afghanistan International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_6",
-      "name": "Azizi Bank&#91;8&#93;",
-      "shortName": "Azizi&#91;8&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_7",
-      "name": "Maiwand Bank&#91;9&#93;",
-      "shortName": "Maiwand&#91;9&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_8",
       "name": "Bank-e-Millie Afghan",
       "shortName": "Bank-e-Millie Afghan",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "AF_4",
+      "name": "Bank Alfalah Limited",
+      "shortName": "Bank Alfalah",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AF_5",
+      "name": "First MicroFinance Bank-Afghanistan",
+      "shortName": "First MicroFinance-A",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AF_6",
+      "name": "Ghazanfar Bank",
+      "shortName": "Ghazanfar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AF_7",
+      "name": "Islamic Bank of Afghanistan",
+      "shortName": "Islamic of Afghanist",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AF_8",
+      "name": "Maiwand Bank",
+      "shortName": "Maiwand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "AF_9",
-      "name": "First MicroFinance Bank-Afghanistan&#91;10&#93;",
-      "shortName": "First MicroFinance",
+      "name": "New Kabul Bank",
+      "shortName": "New Kabul",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AF_10",
-      "name": "Ghazanfar bank&#91;11&#93;",
-      "shortName": "Ghazanfar bank&#91;11&#93;",
+      "name": "Pashtany Bank",
+      "shortName": "Pashtany",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AF_11",
-      "name": "Afghan United Bank&#91;12&#93;",
-      "shortName": "Afghan United",
-      "type": "bank",
+      "name": "AurumPay",
+      "shortName": "AurumPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AF_12",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
+      "name": "mHawala",
+      "shortName": "mHawala",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AF_13",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
+      "name": "M-Paisa",
+      "shortName": "M-Paisa",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AF_14",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
+      "name": "My Money",
+      "shortName": "My Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AF_15",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
+      "name": "ShahyPay",
+      "shortName": "ShahyPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AF_16",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_17",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_18",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_19",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_20",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_21",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_22",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_23",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_24",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AF_25",
-      "name": "Economy of Afghanistan-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Star Pay",
+      "shortName": "Star Pay",
+      "type": "mfs",
       "aliases": ""
     }
   ]
