@@ -1,41 +1,55 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "MP",
   "institutions": [
     {
       "code": "MP_0",
-      "name": "Central Bank of MP",
-      "shortName": "Central Bank",
+      "name": "Bank of Guam",
+      "shortName": "Bank of Guam",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Saipan Branch"
     },
     {
       "code": "MP_1",
-      "name": "National Bank of MP",
-      "shortName": "National Bank",
+      "name": "Bank of Hawaii",
+      "shortName": "Bank of Hawaii",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Saipan Branch"
     },
     {
       "code": "MP_2",
-      "name": "State Bank of MP",
-      "shortName": "State Bank",
+      "name": "Bank of Saipan",
+      "shortName": "Bank of Saipan",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MP_3",
-      "name": "Commercial Bank of MP",
-      "shortName": "Commercial Bank",
+      "name": "First Hawaiian Bank",
+      "shortName": "First Hawaiian",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Saipan Branch"
     },
     {
       "code": "MP_4",
-      "name": "First MP Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Cash App",
+      "shortName": "Cash App",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MP_5",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MP_6",
+      "name": "Venmo",
+      "shortName": "Venmo",
+      "type": "mfs",
       "aliases": ""
     }
   ]

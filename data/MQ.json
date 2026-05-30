@@ -1,41 +1,83 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "MQ",
   "institutions": [
     {
       "code": "MQ_0",
-      "name": "Central Bank of MQ",
-      "shortName": "Central Bank",
+      "name": "BNP Paribas Antilles-Guyane",
+      "shortName": "BNP Paribas Antilles",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MQ_1",
-      "name": "National Bank of MQ",
-      "shortName": "National Bank",
+      "name": "BRED Banque Populaire",
+      "shortName": "BRED Populaire",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MQ_2",
-      "name": "State Bank of MQ",
-      "shortName": "State Bank",
+      "name": "Caisse d'Épargne CEPAC",
+      "shortName": "Caisse d'Épargne CEP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MQ_3",
-      "name": "Commercial Bank of MQ",
-      "shortName": "Commercial Bank",
+      "name": "Crédit Agricole de la Martinique",
+      "shortName": "Crédit Agricole de l",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MQ_4",
-      "name": "First MQ Bank",
-      "shortName": "First Bank",
+      "name": "LCL",
+      "shortName": "LCL",
       "type": "bank",
+      "aliases": "Le Crédit Lyonnais"
+    },
+    {
+      "code": "MQ_5",
+      "name": "La Banque Postale",
+      "shortName": "La Postale",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MQ_6",
+      "name": "SG Antilles-Guyane",
+      "shortName": "SG Antilles-Guyane",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MQ_7",
+      "name": "Lyf Pay",
+      "shortName": "Lyf Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MQ_8",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MQ_9",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MQ_10",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,125 +1,69 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MT",
   "institutions": [
     {
       "code": "MT_0",
-      "name": "Bank of Valletta plc",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_1",
-      "name": "MDB Group Ltd",
-      "shortName": "MDB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_2",
-      "name": "APS Bank plc",
+      "name": "APS Bank",
       "shortName": "APS",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "MT_1",
+      "name": "Bank of Valletta",
+      "shortName": "Bank of Valletta",
+      "type": "bank",
+      "aliases": "BOV"
+    },
+    {
+      "code": "MT_2",
+      "name": "BNF Bank",
+      "shortName": "BNF",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "MT_3",
-      "name": "FIMBank plc",
-      "shortName": "FIMBank",
+      "name": "HSBC Bank Malta",
+      "shortName": "HSBC Malta",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MT_4",
-      "name": "Lombard Bank Malta plc",
-      "shortName": "Lombard",
+      "name": "Lombard Bank Malta",
+      "shortName": "Lombard Malta",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MT_5",
-      "name": "FCM Bank Ltd",
-      "shortName": "FCM",
+      "name": "MeDirect Bank",
+      "shortName": "MeDirect",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MT_6",
-      "name": "Izola Bank plc",
-      "shortName": "Izola",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MT_7",
-      "name": "Merkanti Bank Ltd",
-      "shortName": "Merkanti",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MT_8",
-      "name": "Multitude Bank plc",
-      "shortName": "Multitude",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_9",
-      "name": "Novum Bank Ltd",
-      "shortName": "Novum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_10",
-      "name": "IIG Bank (Malta) Ltd, subsidiary of IIG Capital",
-      "shortName": "IIG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_11",
-      "name": "Nemea Bank (2008-2017)",
-      "shortName": "Nemea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_12",
-      "name": "Pilatus Bank (2014-2018)",
-      "shortName": "Pilatus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_13",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_14",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_15",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MT_16",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

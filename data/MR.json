@@ -1,279 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MR",
   "institutions": [
     {
       "code": "MR_0",
-      "name": "International Bank of Mauritanie (IBM)",
-      "shortName": "International",
+      "name": "Attijari Bank Mauritanie",
+      "shortName": "Attijari Mauritanie",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MR_1",
-      "name": "Banque Mauritanienne de l’Investissement (BMI)",
-      "shortName": "Banque Mauritanienne",
+      "name": "Banque Al Wava Mauritanienne Islamique",
+      "shortName": "Banque Al Wava Mauri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAMIS"
     },
     {
       "code": "MR_2",
-      "name": "Banque des Financements Islamiques (BFI)",
-      "shortName": "Banque des",
+      "name": "Banque El Amana",
+      "shortName": "Banque El Amana",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BEA"
     },
     {
       "code": "MR_3",
-      "name": "Qatar National Bank Mauritanie (QNBM), part of QNB Group",
-      "shortName": "Qatar National",
+      "name": "Banque Islamique de Mauritanie",
+      "shortName": "Banque Islamique de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIM"
     },
     {
       "code": "MR_4",
-      "name": "Banque Islamique de Mauritanie (BIM)",
-      "shortName": "Banque Islamique",
+      "name": "Banque Mauritanienne de l'Investissement",
+      "shortName": "Banque Mauritanienne",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BMI"
     },
     {
       "code": "MR_5",
-      "name": "Nouvelle Banque de Mauritanie (NBM)",
-      "shortName": "Nouvelle Banque",
+      "name": "Banque Mauritanienne pour le Commerce International",
+      "shortName": "Banque Mauritanienne",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BMCI"
     },
     {
       "code": "MR_6",
-      "name": "Banque Muamelat As Sahiha (BMS)",
-      "shortName": "Banque Muamelat",
+      "name": "Banque Nationale de Mauritanie",
+      "shortName": "Banque Nationale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNM"
     },
     {
       "code": "MR_7",
-      "name": "Banque Populaire de Mauritanie (BPM)",
-      "shortName": "Banque Populaire",
+      "name": "Banque Populaire de Mauritanie",
+      "shortName": "Banque Populaire de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BPM"
     },
     {
       "code": "MR_8",
+      "name": "Banque pour le Commerce et l'Industrie",
+      "shortName": "Banque pour le Comme",
+      "type": "bank",
+      "aliases": "BCI"
+    },
+    {
+      "code": "MR_9",
       "name": "Chinguitty Bank",
       "shortName": "Chinguitty",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MR_9",
-      "name": "Ora Bank Mauritanie, part of Orabank Group",
-      "shortName": "Ora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "MR_10",
-      "name": "Banque El Amana (BEA)",
-      "shortName": "Banque El",
+      "name": "Générale de Banque de Mauritanie",
+      "shortName": "Générale de de Mauri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "GBM"
     },
     {
       "code": "MR_11",
-      "name": "Banque Al Wava Mauritanienne Islamique (BAMIS)",
-      "shortName": "Banque Al",
+      "name": "Société Générale Mauritanie",
+      "shortName": "Société Générale Mau",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SGM"
     },
     {
       "code": "MR_12",
-      "name": "Générale de Banque de Mauritanie (GBM)",
-      "shortName": "Générale de",
-      "type": "bank",
+      "name": "Bankily",
+      "shortName": "Bankily",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MR_13",
-      "name": "Banque Nationale de Mauritanie&#160;&#91;fr&#93; (BNM)",
-      "shortName": "Banque Nationale",
-      "type": "bank",
+      "name": "Masrvi",
+      "shortName": "Masrvi",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MR_14",
-      "name": "Banque Mauritanienne pour le Commerce International (BMCI)",
-      "shortName": "Banque Mauritanienne",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_15",
-      "name": "Economy of Mauritania",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_16",
-      "name": "Website of Central Bank of Mauritania (French)",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_17",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_18",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_19",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_20",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_21",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_22",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_23",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_24",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_25",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_26",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_27",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_28",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_29",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_30",
-      "name": "Banque Arabe Africaine en Mauritanie",
-      "shortName": "Banque Arabe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_31",
-      "name": "Banque Internationale pour la Mauritanie",
-      "shortName": "Banque Internationale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_32",
-      "name": "Banque Maurienienne Nationale",
-      "shortName": "Banque Maurienienne",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_33",
-      "name": "Banque Mauritanienne pour le Développement et le Commerce",
-      "shortName": "Banque Mauritanienne",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_34",
-      "name": "Banque Mondiale en Mauritanie",
-      "shortName": "Banque Mondiale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_35",
-      "name": "Caisse Centrale de Coopération Économique",
-      "shortName": "Caisse Centrale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_36",
-      "name": "Union de Banques de Développement",
-      "shortName": "Union de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_37",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MR_38",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Sadad",
+      "shortName": "Sadad",
+      "type": "mfs",
       "aliases": ""
     }
   ]

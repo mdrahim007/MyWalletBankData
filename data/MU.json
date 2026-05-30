@@ -1,209 +1,153 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MU",
   "institutions": [
     {
       "code": "MU_0",
-      "name": "ABC Banking Corporation Limited",
-      "shortName": "ABCing",
+      "name": "ABC Banking Corporation",
+      "shortName": "ABCing Corporation",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MU_1",
-      "name": "Absa Bank (Mauritius) Limited, part of Absa Group",
-      "shortName": "Absa",
+      "name": "Absa Bank Mauritius",
+      "shortName": "Absa Mauritius",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MU_2",
-      "name": "AfrAsia Bank Limited",
+      "name": "AfrAsia Bank",
       "shortName": "AfrAsia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MU_3",
-      "name": "Bank of Baroda Mauritius, part of Bank of Baroda Group",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_4",
-      "name": "Bank One Limited",
+      "name": "Bank One",
       "shortName": "Bank One",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "MU_4",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of Baroda",
+      "type": "bank",
+      "aliases": "Mauritius"
+    },
+    {
       "code": "MU_5",
-      "name": "Banque Patronus Limitée",
+      "name": "Bank of China",
+      "shortName": "Bank of China",
+      "type": "bank",
+      "aliases": "Mauritius"
+    },
+    {
+      "code": "MU_6",
+      "name": "Banque Patronus",
       "shortName": "Banque Patronus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MU_6",
-      "name": "Investec Bank (Mauritius) Limited, part of Investec Group",
-      "shortName": "Investec",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "MU_7",
-      "name": "MauBank Limited, state-owned",
-      "shortName": "MauBank,",
+      "name": "BCP Bank",
+      "shortName": "BCP",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mauritius"
     },
     {
       "code": "MU_8",
-      "name": "SBI (Mauritius) Limited, part of State Bank of India Group",
-      "shortName": "SBI (Mauritius)",
+      "name": "HSBC Bank",
+      "shortName": "HSBC",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mauritius"
     },
     {
       "code": "MU_9",
-      "name": "SBM Bank (Mauritius) Limited",
-      "shortName": "SBM",
+      "name": "MauBank",
+      "shortName": "MauBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MU_10",
-      "name": "Silver Bank Limited (acquired BanyanTree Bank Limited)",
+      "name": "Mauritius Commercial Bank",
+      "shortName": "Mauritius Commercial",
+      "type": "bank",
+      "aliases": "MCB"
+    },
+    {
+      "code": "MU_11",
+      "name": "SBI",
+      "shortName": "SBI",
+      "type": "bank",
+      "aliases": "Mauritius"
+    },
+    {
+      "code": "MU_12",
+      "name": "SBM Bank",
+      "shortName": "SBM",
+      "type": "bank",
+      "aliases": "Mauritius"
+    },
+    {
+      "code": "MU_13",
+      "name": "Silver Bank",
       "shortName": "Silver",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MU_11",
-      "name": "Mauritius Commercial Bank Limited",
-      "shortName": "Mauritius Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_12",
-      "name": "Warwyck Private Bank Limited",
-      "shortName": "Warwyck Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_13",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "MU_14",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "Standard Bank",
+      "shortName": "Standard",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mauritius"
     },
     {
       "code": "MU_15",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mauritius"
     },
     {
       "code": "MU_16",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
+      "name": "Blink",
+      "shortName": "Blink",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MU_17",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
+      "name": "Flash",
+      "shortName": "Flash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MU_18",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
+      "name": "Juice",
+      "shortName": "Juice",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MU_19",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
+      "name": "My.t Money",
+      "shortName": "My.t Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MU_20",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_21",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_22",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_23",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_24",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_25",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_26",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_27",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MU_28",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
+      "name": "Pop",
+      "shortName": "Pop",
+      "type": "mfs",
       "aliases": ""
     }
   ]
