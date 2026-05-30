@@ -1,125 +1,34 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "CX",
   "institutions": [
     {
       "code": "CX_0",
-      "name": "Brunei",
-      "shortName": "Brunei",
+      "name": "Commonwealth Bank of Australia",
+      "shortName": "Commonwealth of Aust",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CX_1",
-      "name": "Iran",
-      "shortName": "Iran",
+      "name": "Westpac Banking Corporation",
+      "shortName": "Westpacing",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CX_2",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
+      "name": "Beem",
+      "shortName": "Beem",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CX_3",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_4",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_5",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_6",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_7",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_8",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_9",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_10",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_11",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_12",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_13",
-      "name": "Economy of Christmas Island",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_14",
-      "name": "Christmas Island-related lists",
-      "shortName": "Christmas Island-related",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_15",
-      "name": "Use dmy dates from April 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CX_16",
-      "name": "Incomplete lists from July 2017",
-      "shortName": "Incomplete lists",
-      "type": "bank",
+      "name": "PayPal Australia",
+      "shortName": "PayPal Australia",
+      "type": "mfs",
       "aliases": ""
     }
   ]

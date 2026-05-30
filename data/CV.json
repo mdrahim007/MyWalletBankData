@@ -1,41 +1,69 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CV",
   "institutions": [
     {
       "code": "CV_0",
-      "name": "Central Bank of CV",
-      "shortName": "Central Bank",
+      "name": "Banco BAI Cabo Verde",
+      "shortName": "BAI Cabo Verde",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAICV"
     },
     {
       "code": "CV_1",
-      "name": "National Bank of CV",
-      "shortName": "National Bank",
+      "name": "Banco Cabo-Verdiano de Negócios",
+      "shortName": "Cabo-Verdiano de Neg",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCN"
     },
     {
       "code": "CV_2",
-      "name": "State Bank of CV",
-      "shortName": "State Bank",
+      "name": "Banco Comercial do Atlântico",
+      "shortName": "Comercial do Atlânti",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCA"
     },
     {
       "code": "CV_3",
-      "name": "Commercial Bank of CV",
-      "shortName": "Commercial Bank",
+      "name": "Banco de Fomento Internacional",
+      "shortName": "de Fomento Internaci",
+      "type": "bank",
+      "aliases": "BFI"
+    },
+    {
+      "code": "CV_4",
+      "name": "Banco Interatlântico",
+      "shortName": "Interatlântico",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CV_4",
-      "name": "First CV Bank",
-      "shortName": "First Bank",
+      "code": "CV_5",
+      "name": "Caixa Económica de Cabo Verde",
+      "shortName": "Caixa Económica de C",
       "type": "bank",
+      "aliases": "CECV"
+    },
+    {
+      "code": "CV_6",
+      "name": "Ecobank Cabo Verde",
+      "shortName": "Ecobank Cabo Verde",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CV_7",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CV_8",
+      "name": "vinti4",
+      "shortName": "vinti4",
+      "type": "mfs",
       "aliases": ""
     }
   ]
