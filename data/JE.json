@@ -1,188 +1,90 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "JE",
   "institutions": [
     {
       "code": "JE_0",
-      "name": "Barclays Bank plc, Jersey Branch",
+      "name": "Barclays Bank PLC",
       "shortName": "Barclays",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jersey Branch"
     },
     {
       "code": "JE_1",
-      "name": "BNP Paribas S.A. Jersey Branch",
-      "shortName": "BNP Paribas",
+      "name": "Butterfield Bank (Jersey) Limited",
+      "shortName": "Butterfield (Jersey)",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JE_2",
-      "name": "BNP Paribas Securities Services Custody Bank",
-      "shortName": "BNP Paribas",
+      "name": "HSBC Bank plc",
+      "shortName": "HSBC",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jersey Branch"
     },
     {
       "code": "JE_3",
-      "name": "Butterfield Bank (Jersey) Limited",
-      "shortName": "Butterfield",
+      "name": "Investec Bank (Channel Islands) Limited",
+      "shortName": "Investec (Channel Is",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JE_4",
-      "name": "Citibank N.A., Jersey Branch",
-      "shortName": "Citibank N.A.,",
+      "name": "Lloyds Bank Corporate Markets plc",
+      "shortName": "Lloyds Corporate Mar",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jersey Branch"
     },
     {
       "code": "JE_5",
-      "name": "Citicorp Banking Corporation",
-      "shortName": "Citicorping",
+      "name": "Nedbank Private Wealth",
+      "shortName": "Nedbank Private Weal",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jersey Branch"
     },
     {
       "code": "JE_6",
-      "name": "The Co-operative Bank",
-      "shortName": "The Co-operative",
+      "name": "Royal Bank of Scotland International",
+      "shortName": "Royal of Scotland In",
       "type": "bank",
-      "aliases": ""
+      "aliases": "RBSI"
     },
     {
       "code": "JE_7",
-      "name": "Deutsche Bank International",
-      "shortName": "Deutsche",
+      "name": "Santander International",
+      "shortName": "Santander Internatio",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JE_8",
-      "name": "EFG Private Bank (Channel Islands) Limited, Jersey Branch",
-      "shortName": "EFG Private",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jersey Branch"
     },
     {
       "code": "JE_9",
-      "name": "HSBC Bank Plc, Jersey Branch",
-      "shortName": "HSBC",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "JE_10",
-      "name": "JPMorgan Chase Bank N.A., Jersey Branch",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "JE_11",
-      "name": "Kleinwort Benson (Channel Islands)",
-      "shortName": "Kleinwort Benson",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_12",
-      "name": "Lloyds Bank Jersey Branch",
-      "shortName": "Lloyds",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_13",
-      "name": "Lloyds Bank International",
-      "shortName": "Lloyds",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_14",
-      "name": "Nedbank Private Wealth Limited, Jersey Branch",
-      "shortName": "Nedbank Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_15",
-      "name": "Standard Bank Jersey",
-      "shortName": "Standard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_16",
-      "name": "Standard Chartered Bank, Jersey Branch",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_17",
-      "name": "Santander",
-      "shortName": "Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_18",
-      "name": "UBS AG, Jersey Branch",
-      "shortName": "UBS AG,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_19",
-      "name": "Union Bancaire Privée, Jersey Branch",
-      "shortName": "Union Bancaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_20",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_21",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_22",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_23",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_24",
-      "name": "Economy of Jersey",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "JE_25",
-      "name": "Use dmy dates from April 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

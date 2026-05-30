@@ -1,41 +1,69 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "JM",
   "institutions": [
     {
       "code": "JM_0",
-      "name": "Central Bank of JM",
-      "shortName": "Central Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JM_1",
-      "name": "National Bank of JM",
-      "shortName": "National Bank",
+      "name": "First Global Bank",
+      "shortName": "First Global",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JM_2",
-      "name": "State Bank of JM",
-      "shortName": "State Bank",
+      "name": "JN Bank",
+      "shortName": "JN",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Jamaica National"
     },
     {
       "code": "JM_3",
-      "name": "Commercial Bank of JM",
-      "shortName": "Commercial Bank",
+      "name": "JMMB Bank",
+      "shortName": "JMMB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "JM_4",
-      "name": "First JM Bank",
-      "shortName": "First Bank",
+      "name": "National Commercial Bank Jamaica",
+      "shortName": "National Commercial",
       "type": "bank",
+      "aliases": "NCB"
+    },
+    {
+      "code": "JM_5",
+      "name": "Sagicor Bank Jamaica",
+      "shortName": "Sagicor Jamaica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JM_6",
+      "name": "Scotiabank Jamaica",
+      "shortName": "Scotiabank Jamaica",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "JM_7",
+      "name": "Lynk",
+      "shortName": "Lynk",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "JM_8",
+      "name": "MyCash",
+      "shortName": "MyCash",
+      "type": "mfs",
       "aliases": ""
     }
   ]
