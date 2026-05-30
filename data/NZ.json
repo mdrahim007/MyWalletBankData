@@ -1,601 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "NZ",
   "institutions": [
     {
       "code": "NZ_0",
-      "name": "ANZ",
-      "shortName": "ANZ",
+      "name": "ANZ Bank New Zealand",
+      "shortName": "ANZ New Zealand",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NZ_1",
-      "name": "ASB/BankDirect",
-      "shortName": "ASB/BankDirect",
+      "name": "ASB Bank",
+      "shortName": "ASB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NZ_2",
       "name": "Bank of New Zealand",
-      "shortName": "Bank of",
+      "shortName": "Bank of New Zealand",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNZ"
     },
     {
       "code": "NZ_3",
-      "name": "The Co-operative Bank",
-      "shortName": "The Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_4",
       "name": "Heartland Bank",
       "shortName": "Heartland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NZ_5",
-      "name": "HSBC",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_6",
+      "code": "NZ_4",
       "name": "Kiwibank",
       "shortName": "Kiwibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NZ_7",
-      "name": "Rabobank/RaboDirect",
-      "shortName": "Rabobank/RaboDirect",
+      "code": "NZ_5",
+      "name": "Rabobank New Zealand",
+      "shortName": "Rabobank New Zealand",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NZ_8",
+      "code": "NZ_6",
       "name": "SBS Bank",
       "shortName": "SBS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NZ_9",
-      "name": "TSB",
+      "code": "NZ_7",
+      "name": "TSB Bank",
       "shortName": "TSB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NZ_10",
-      "name": "Westpac",
-      "shortName": "Westpac",
+      "code": "NZ_8",
+      "name": "The Co-operative Bank",
+      "shortName": "The Co-operative",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NZ_9",
+      "name": "Westpac New Zealand",
+      "shortName": "Westpac New Zealand",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NZ_10",
+      "name": "Akahu",
+      "shortName": "Akahu",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NZ_11",
-      "name": "Bank of Otago",
-      "shortName": "Bank of",
-      "type": "bank",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NZ_12",
-      "name": "Colonial Bank of New Zealand",
-      "shortName": "Colonial",
-      "type": "bank",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NZ_13",
-      "name": "Countrywide Bank",
-      "shortName": "Countrywide",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_14",
-      "name": "National Bank",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_15",
-      "name": "Post Office Savings Bank",
-      "shortName": "Post Office",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_16",
-      "name": "Rural Bank",
-      "shortName": "Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_17",
-      "name": "Trust Bank",
-      "shortName": "Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_18",
-      "name": "Canterbury Savings Bank",
-      "shortName": "Canterbury Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_19",
-      "name": "Eastern &amp; Central Savings Bank",
-      "shortName": "Eastern &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_20",
-      "name": "Westland Savings Bank",
-      "shortName": "Westland Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_21",
-      "name": "Federated States of Micronesia",
-      "shortName": "Federated States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_22",
-      "name": "Easter Island",
-      "shortName": "Easter Island",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_23",
-      "name": "Hawaii",
-      "shortName": "Hawaii",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_24",
-      "name": "Pitcairn Islands",
-      "shortName": "Pitcairn Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_25",
-      "name": "Use New Zealand English from August 2019",
-      "shortName": "Use New",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_26",
-      "name": "Use dmy dates from May 2026",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_27",
-      "name": "ANZ Bank New Zealand",
-      "shortName": "ANZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_28",
-      "name": "Auckland",
-      "shortName": "Auckland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_29",
-      "name": "Bank of Baroda (New Zealand)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_30",
-      "name": "Bank of China (New Zealand)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_31",
-      "name": "China Construction Bank (New Zealand)",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_32",
-      "name": "Industrial and Commercial Bank of China (New Zealand)",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_33",
-      "name": "Wellington",
-      "shortName": "Wellington",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_34",
-      "name": "Rabobank New Zealand",
-      "shortName": "Rabobank New",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_35",
-      "name": "Hamilton",
-      "shortName": "Hamilton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_36",
-      "name": "Southland Building Society",
-      "shortName": "Southland Building",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_37",
-      "name": "Invercargill",
-      "shortName": "Invercargill",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_38",
-      "name": "New Plymouth",
-      "shortName": "New Plymouth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_39",
-      "name": "Westpac New Zealand",
-      "shortName": "Westpac New",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_40",
-      "name": "Australia and New Zealand Banking Group‡",
-      "shortName": "Australia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_41",
-      "name": "&#160;Australia",
-      "shortName": "&#160;Australia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_42",
-      "name": "Bank of China‡",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_43",
-      "name": "&#160;China",
-      "shortName": "&#160;China",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_44",
-      "name": "China Construction Bank Corporation‡",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_45",
-      "name": "Citibank, N.A.",
-      "shortName": "Citibank, N.A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_46",
-      "name": "&#160;United States",
-      "shortName": "&#160;United States",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_47",
-      "name": "Commonwealth Bank of Australia‡",
-      "shortName": "Commonwealth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_48",
-      "name": "Industrial and Commercial Bank of China‡",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_49",
-      "name": "JPMorgan Chase Bank, N.A.",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_50",
-      "name": "Kookmin Bank",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_51",
-      "name": "&#160;South Korea",
-      "shortName": "&#160;South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_52",
-      "name": "MUFG Bank",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_53",
-      "name": "&#160;Japan",
-      "shortName": "&#160;Japan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_54",
-      "name": "Cooperatieve Rabobank U.A.(trading as Rabobank Nederland)",
-      "shortName": "Cooperatieve Rabobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_55",
-      "name": "&#160;Netherlands",
-      "shortName": "&#160;Netherlands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_56",
-      "name": "The Hongkong and Shanghai Banking Corporation",
-      "shortName": "The Hongkong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_57",
-      "name": "&#160;Hong Kong",
-      "shortName": "&#160;Hong Kong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_58",
-      "name": "Westpac Banking Corporation‡",
-      "shortName": "Westpacing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_59",
-      "name": "Cooperatieve Rabobank U.A.‡",
-      "shortName": "Cooperatieve Rabobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_60",
-      "name": "JPMorgan Chase Bank, N.A. Auckland Branch",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_61",
-      "name": "MUFG Bank Auckland Branch",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_62",
-      "name": "HSBC Bank Auckland Branch",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_63",
-      "name": "Citibank, N.A. Auckland Branch",
-      "shortName": "Citibank, N.A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_64",
-      "name": "Kookmin Bank Auckland Branch",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_65",
-      "name": "Christian Savings",
-      "shortName": "Christian Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_66",
-      "name": "FE Investments (in receivership)",
-      "shortName": "FE Investments",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_67",
-      "name": "Finance Direct",
-      "shortName": "Finance Direct",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_68",
-      "name": "First Credit Union Incorporated",
-      "shortName": "First Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_69",
-      "name": "General Finance",
-      "shortName": "General Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_70",
-      "name": "Gold Band Finance",
-      "shortName": "Gold Band",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_71",
-      "name": "Christchurch",
-      "shortName": "Christchurch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_72",
-      "name": "Heretaunga Building Society",
-      "shortName": "Heretaunga Building",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_73",
-      "name": "Hastings",
-      "shortName": "Hastings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_74",
-      "name": "Liberty Financial",
-      "shortName": "Liberty Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_75",
-      "name": "Mutual Credit Finance",
-      "shortName": "Mutual Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_76",
-      "name": "Nelson Building Society",
-      "shortName": "Nelson Building",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_77",
-      "name": "Nelson",
-      "shortName": "Nelson",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_78",
-      "name": "Police and Families Credit Union",
-      "shortName": "Police and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_79",
-      "name": "Unity Credit Union",
-      "shortName": "Unity Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_80",
-      "name": "Wairarapa Building Society",
-      "shortName": "Wairarapa Building",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_81",
-      "name": "Masterton",
-      "shortName": "Masterton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_82",
-      "name": "Welcome",
-      "shortName": "Welcome",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_83",
-      "name": "Havelock North",
-      "shortName": "Havelock North",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NZ_84",
-      "name": "Xceda Finance",
-      "shortName": "Xceda Finance",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,40 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "NU",
   "institutions": [
     {
       "code": "NU_0",
-      "name": "Central Bank of NU",
-      "shortName": "Central Bank",
+      "name": "Development Bank of Niue",
+      "shortName": "Development of Niue",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NU_1",
-      "name": "National Bank of NU",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NU_2",
-      "name": "State Bank of NU",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NU_3",
-      "name": "Commercial Bank of NU",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NU_4",
-      "name": "First NU Bank",
-      "shortName": "First Bank",
+      "name": "Kiwibank",
+      "shortName": "Kiwibank",
       "type": "bank",
       "aliases": ""
     }

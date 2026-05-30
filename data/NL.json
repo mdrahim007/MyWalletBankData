@@ -1,41 +1,125 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "NL",
   "institutions": [
     {
       "code": "NL_0",
-      "name": "Central Bank of NL",
-      "shortName": "Central Bank",
+      "name": "ABN AMRO",
+      "shortName": "ABN AMRO",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NL_1",
-      "name": "National Bank of NL",
-      "shortName": "National Bank",
+      "name": "ASN Bank",
+      "shortName": "ASN",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NL_2",
-      "name": "State Bank of NL",
-      "shortName": "State Bank",
+      "name": "Bunq",
+      "shortName": "Bunq",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NL_3",
-      "name": "Commercial Bank of NL",
-      "shortName": "Commercial Bank",
+      "name": "ING Bank",
+      "shortName": "ING",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NL_4",
-      "name": "First NL Bank",
-      "shortName": "First Bank",
+      "name": "Knab",
+      "shortName": "Knab",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_5",
+      "name": "N26",
+      "shortName": "N26",
+      "type": "bank",
+      "aliases": "Netherlands Branch"
+    },
+    {
+      "code": "NL_6",
+      "name": "Rabobank",
+      "shortName": "Rabobank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_7",
+      "name": "RegioBank",
+      "shortName": "RegioBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_8",
+      "name": "Revolut Bank",
+      "shortName": "Revolut",
+      "type": "bank",
+      "aliases": "Netherlands Branch"
+    },
+    {
+      "code": "NL_9",
+      "name": "SNS Bank",
+      "shortName": "SNS",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_10",
+      "name": "Triodos Bank",
+      "shortName": "Triodos",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_11",
+      "name": "Van Lanschot Kempen",
+      "shortName": "Van Lanschot Kempen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NL_12",
+      "name": "iDEAL",
+      "shortName": "iDEAL",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NL_13",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NL_14",
+      "name": "Payconiq",
+      "shortName": "Payconiq",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NL_15",
+      "name": "Tikkie",
+      "shortName": "Tikkie",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NL_16",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]
