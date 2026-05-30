@@ -1,251 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SL",
   "institutions": [
     {
       "code": "SL_0",
-      "name": "Sierra Leone Commercial Bank Limited, state-owned",
-      "shortName": "Sierra Leone",
+      "name": "Access Bank Sierra Leone",
+      "shortName": "Access Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_1",
-      "name": "Rokel Commercial Bank (SL) Limited",
-      "shortName": "Rokel Commercial",
+      "name": "Bloom Bank Africa Sierra Leone",
+      "shortName": "Bloom Africa Sierra",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_2",
-      "name": "Union Trust Bank Limited",
-      "shortName": "Union Trust",
+      "name": "Commerce & Mortgage Bank",
+      "shortName": "Commerce & Mortgage",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CMB"
     },
     {
       "code": "SL_3",
-      "name": "Guaranty Trust Bank (SL) Limited, part of GTCO Group",
-      "shortName": "Guaranty Trust",
+      "name": "Ecobank Sierra Leone",
+      "shortName": "Ecobank Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_4",
-      "name": "Zenith Bank (SL) Limited, part of Zenith Bank Group",
-      "shortName": "Zenith",
+      "name": "First Bank Sierra Leone",
+      "shortName": "First Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_5",
-      "name": "Ecobank (SL) Limited, part of Ecobank Group",
-      "shortName": "Ecobank (SL)",
+      "name": "Guaranty Trust Bank Sierra Leone",
+      "shortName": "Guaranty Trust Sierr",
       "type": "bank",
-      "aliases": ""
+      "aliases": "GTBank"
     },
     {
       "code": "SL_6",
-      "name": "Access Bank (SL) Limited, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Rokel Commercial Bank",
+      "shortName": "Rokel Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_7",
-      "name": "United Bank for Africa (SL) Limited, part of UBA Group",
-      "shortName": "United",
+      "name": "Sierra Leone Commercial Bank",
+      "shortName": "Sierra Leone Commerc",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SLCB"
     },
     {
       "code": "SL_8",
-      "name": "Skye Bank (SL) Limited, part of Polaris Bank Group",
-      "shortName": "Skye",
+      "name": "Skye Bank Sierra Leone",
+      "shortName": "Skye Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_9",
-      "name": "Commerce &amp; Mortgage Bank (SL) Plc",
-      "shortName": "Commerce &amp;",
+      "name": "Union Trust Bank",
+      "shortName": "Union Trust",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_10",
-      "name": "Banking in Sierra Leone",
-      "shortName": "Banking in",
+      "name": "United Bank for Africa Sierra Leone",
+      "shortName": "United for Africa Si",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "SL_11",
-      "name": "Economy of Sierra Leone",
-      "shortName": "Economy of",
+      "name": "Vista Bank Sierra Leone",
+      "shortName": "Vista Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_12",
-      "name": "Website of Central Bank of Sierra Leone",
-      "shortName": "Website of",
+      "name": "Zenith Bank Sierra Leone",
+      "shortName": "Zenith Sierra Leone",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SL_13",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "AfriMoney",
+      "shortName": "AfriMoney",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SL_14",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_15",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_16",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_17",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_18",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_19",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_20",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_21",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_22",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_23",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_24",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_25",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_26",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_27",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_28",
-      "name": "Palm oil",
-      "shortName": "Palm oil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_29",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_30",
-      "name": "Citrus",
-      "shortName": "Citrus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_31",
-      "name": "Cocoa",
-      "shortName": "Cocoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_32",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_33",
-      "name": "Coconut",
-      "shortName": "Coconut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SL_34",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

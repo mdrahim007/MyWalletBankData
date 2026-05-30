@@ -1,97 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SI",
   "institutions": [
     {
       "code": "SI_0",
-      "name": "AikGroup (Cyprus) Ltd, holding entity of Gorenjska Banka",
-      "shortName": "AikGroup (Cyprus)",
+      "name": "Addiko Bank",
+      "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_1",
-      "name": "Nova Ljubljanska Banka dd, parent entity of NLB Group",
-      "shortName": "Nova Ljubljanska",
+      "name": "Banka Intesa Sanpaolo",
+      "shortName": "Banka Intesa Sanpaol",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_2",
-      "name": "Delavska Hranilnica dd Ljubljana&#160;&#91;sl&#93;",
-      "shortName": "Delavska Hranilnica",
+      "name": "Banka Sparkasse",
+      "shortName": "Banka Sparkasse",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_3",
-      "name": "Deželna Banka Slovenije dd",
-      "shortName": "Deželnaa",
+      "name": "BKS Bank",
+      "shortName": "BKS",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_4",
-      "name": "Hranilnica Lon dd Kranj",
-      "shortName": "Hranilnica Lon",
+      "name": "Delavska Hranilnica",
+      "shortName": "Delavska Hranilnica",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_5",
-      "name": "Primorska hranilnica Vipava dd",
-      "shortName": "Primorska hranilnica",
+      "name": "Deželna Banka Slovenije",
+      "shortName": "Deželna Slovenije",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DBS"
     },
     {
       "code": "SI_6",
-      "name": "Carniolan Savings Bank (1820-1945)",
-      "shortName": "Carniolan Savings",
+      "name": "Gorenjska Banka",
+      "shortName": "Gorenjska",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_7",
-      "name": "Murska Sobota Savings Bank&#160;&#91;sl&#93; (1873-1945)",
-      "shortName": "Murska Sobota",
+      "name": "Hranilnica LON",
+      "shortName": "Hranilnica LON",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_8",
-      "name": "Ljubljana Credit Bank (1900-1945)",
-      "shortName": "Ljubljana Credit",
+      "name": "Nova Ljubljanska Banka",
+      "shortName": "Nova Ljubljanska",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NLB"
     },
     {
       "code": "SI_9",
-      "name": "Carniolan Regional Bank&#160;&#91;sl&#93; (1909-1930)",
-      "shortName": "Carniolan Regional",
+      "name": "OTP Banka",
+      "shortName": "OTP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_10",
-      "name": "Ljubljanska Banka (1955-1994)",
-      "shortName": "Ljubljanskaa",
+      "name": "Primorska Hranilnica Vipava",
+      "shortName": "Primorska Hranilnica",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_11",
-      "name": "SKB Housing and Communal Bank&#160;&#91;sl&#93; (1965-2024)",
-      "shortName": "SKB Housing",
+      "name": "SID Banka",
+      "shortName": "SID",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SI_12",
-      "name": "Nova Kreditna Banka Maribor (1994-2024)",
-      "shortName": "Nova Kreditna",
+      "name": "UniCredit Banka Slovenija",
+      "shortName": "UniCredit Slovenija",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SI_13",
+      "name": "Flik",
+      "shortName": "Flik",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SI_14",
+      "name": "mBills",
+      "shortName": "mBills",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SI_15",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SI_16",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SI_17",
+      "name": "Valú",
+      "shortName": "Valú",
+      "type": "mfs",
       "aliases": ""
     }
   ]

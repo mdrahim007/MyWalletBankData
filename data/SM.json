@@ -1,125 +1,62 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SM",
   "institutions": [
     {
       "code": "SM_0",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
+      "name": "Banca Agricola Commerciale Istituto Bancario Sammarinese",
+      "shortName": "Banca Agricola Comme",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAC"
     },
     {
       "code": "SM_1",
-      "name": "Moldova",
-      "shortName": "Moldova",
+      "name": "Banca di San Marino",
+      "shortName": "Banca di San Marino",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSM"
     },
     {
       "code": "SM_2",
-      "name": "Russia",
-      "shortName": "Russia",
+      "name": "Banca Sammarinese di Investimento",
+      "shortName": "Banca Sammarinese di",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSI"
     },
     {
       "code": "SM_3",
-      "name": "Turkey",
-      "shortName": "Turkey",
+      "name": "Cassa di Risparmio della Repubblica di San Marino",
+      "shortName": "Cassa di Risparmio d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Carisp"
     },
     {
       "code": "SM_4",
-      "name": "CS1 Italian-language sources (it)",
-      "shortName": "CS1 Italian-language",
-      "type": "bank",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SM_5",
-      "name": "www.bcsm.sm/en/",
-      "shortName": "www.bcsm.sm/en/",
-      "type": "bank",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SM_6",
-      "name": "Banca Agricola Commerciale Istituto Bancario Sammarinese",
-      "shortName": "Banca Agricola",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SM_7",
-      "name": "www.bac.sm",
-      "shortName": "www.bac.sm",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_8",
-      "name": "BASMSMSM",
-      "shortName": "BASMSMSM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_9",
-      "name": "Banca di San Marino",
-      "shortName": "Banca di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_10",
-      "name": "www.bsm.sm",
-      "shortName": "www.bsm.sm",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_11",
-      "name": "MAOISMS1",
-      "shortName": "MAOISMS1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_12",
-      "name": "Banca Sammarinese di Investimento",
-      "shortName": "Banca Sammarinese",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_13",
-      "name": "BSDISMSD",
-      "shortName": "BSDISMSD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_14",
-      "name": "Cassa di Risparmio della Repubblica di San Marino",
-      "shortName": "Cassa di",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_15",
-      "name": "www.carisp.sm",
-      "shortName": "www.carisp.sm",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SM_16",
-      "name": "CSSMSMSM",
-      "shortName": "CSSMSMSM",
-      "type": "bank",
+      "name": "Satispay",
+      "shortName": "Satispay",
+      "type": "mfs",
       "aliases": ""
     }
   ]
