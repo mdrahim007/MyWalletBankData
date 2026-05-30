@@ -1,216 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KW",
   "institutions": [
     {
       "code": "KW_0",
-      "name": "Central Bank of Kuwait (CBK)&#91;2&#93;",
-      "shortName": "Central",
+      "name": "Al Ahli Bank of Kuwait",
+      "shortName": "Al Ahli of Kuwait",
       "type": "bank",
-      "aliases": ""
+      "aliases": "ABK"
     },
     {
       "code": "KW_1",
-      "name": "National Bank of Kuwait (K.S.C) (NBK)&#91;3&#93;",
-      "shortName": "National",
+      "name": "Ahli United Bank",
+      "shortName": "Ahli United",
       "type": "bank",
-      "aliases": ""
+      "aliases": "AUB"
     },
     {
       "code": "KW_2",
-      "name": "Commercial Bank of Kuwait (K.S.C)(Al-Tijari CBK)&#91;4&#93;",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_3",
-      "name": "Gulf Bank (K.S.C) (GBK)&#91;5&#93;",
-      "shortName": "Gulf",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_4",
-      "name": "Al Ahli Bank of Kuwait (K.S.C.P.) (ABK)&#91;6&#93;",
-      "shortName": "Al Ahli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_5",
-      "name": "Burgan Bank (K.S.C) (Burgan)&#91;7&#93;",
-      "shortName": "Burgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_6",
-      "name": "Kuwait Finance House (KFH)&#91;9&#93;",
-      "shortName": "Kuwait Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_7",
-      "name": "Boubyan Bank (K.S.C) (Boubyan)&#91;10&#93;",
+      "name": "Boubyan Bank",
       "shortName": "Boubyan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KW_8",
-      "name": "Kuwait International Bank (K.S.C) (KIB)&#91;13&#93;",
-      "shortName": "Kuwait International",
+      "code": "KW_3",
+      "name": "Burgan Bank",
+      "shortName": "Burgan",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "KW_4",
+      "name": "Commercial Bank of Kuwait",
+      "shortName": "Commercial of Kuwait",
+      "type": "bank",
+      "aliases": "CBK"
+    },
+    {
+      "code": "KW_5",
+      "name": "Gulf Bank",
+      "shortName": "Gulf",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KW_6",
+      "name": "Kuwait Finance House",
+      "shortName": "Kuwait Finance House",
+      "type": "bank",
+      "aliases": "KFH"
+    },
+    {
+      "code": "KW_7",
+      "name": "Kuwait International Bank",
+      "shortName": "Kuwait International",
+      "type": "bank",
+      "aliases": "KIB"
+    },
+    {
+      "code": "KW_8",
+      "name": "National Bank of Kuwait",
+      "shortName": "National of Kuwait",
+      "type": "bank",
+      "aliases": "NBK"
+    },
+    {
       "code": "KW_9",
-      "name": "The Industrial Bank of Kuwait (K.S.C) (IBK)&#91;14&#93;",
-      "shortName": "The Industrial",
+      "name": "Warba Bank",
+      "shortName": "Warba",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KW_10",
-      "name": "Bank of Bahrain and Kuwait (B.S.C) (BBK)&#91;15&#93;",
-      "shortName": "Bank of",
-      "type": "bank",
+      "name": "My Rateb",
+      "shortName": "My Rateb",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "KW_11",
-      "name": "Banque Nationale de Paris (BNP) and Paribas&#91;16&#93;",
-      "shortName": "Banque Nationale",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "KW_12",
-      "name": "First Abu Dhabi Bank (FAB Kuwait)&#91;18&#93;",
-      "shortName": "First Abu",
-      "type": "bank",
+      "name": "SiDi",
+      "shortName": "SiDi",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "KW_13",
-      "name": "Qatar National Bank (Q.P.S.C) (QNB)&#91;20&#93;",
-      "shortName": "Qatar National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_14",
-      "name": "Mashreq Bank P.S.C (Mashreq)&#91;21&#93;",
-      "shortName": "Mashreq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_15",
-      "name": "Bank Muscat&#91;23&#93;",
-      "shortName": "Bank Muscat&#91;23&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_16",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_17",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_18",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_19",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_20",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_21",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_22",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_23",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_24",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_25",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_26",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_27",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_28",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KW_29",
-      "name": "Use dmy dates from June 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "Weyay",
+      "shortName": "Weyay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

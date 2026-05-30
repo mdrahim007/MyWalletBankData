@@ -1,699 +1,83 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KZ",
   "institutions": [
     {
       "code": "KZ_0",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_1",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_2",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_3",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_4",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_5",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_6",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_7",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_8",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_9",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_10",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_11",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_12",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_13",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_14",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_15",
-      "name": "Economy of Kazakhstan-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_16",
-      "name": "1",
-      "shortName": "1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_17",
-      "name": "Halyk Savings Bank of Kazakhstan",
-      "shortName": "Halyk Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_18",
-      "name": "Holding Group ALMEX JSC",
-      "shortName": "Holding Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_19",
-      "name": "14943",
-      "shortName": "14943",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_20",
-      "name": "2",
-      "shortName": "2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_21",
-      "name": "Kaspi Bank",
-      "shortName": "Kaspi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_22",
-      "name": "Kaspi Group JSC",
-      "shortName": "Kaspi Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_23",
-      "name": "6689",
-      "shortName": "6689",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_24",
-      "name": "3",
-      "shortName": "3",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_25",
       "name": "Bank CenterCredit",
       "shortName": "Bank CenterCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_26",
-      "name": "Bakhytbek Rymbekovich Baiseitov",
-      "shortName": "Bakhytbek Rymbekovich",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_27",
-      "name": "5261",
-      "shortName": "5261",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_28",
-      "name": "4",
-      "shortName": "4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_29",
-      "name": "Otbasy bank",
-      "shortName": "Otbasy bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_30",
-      "name": "National Managing Holding «Baiterek» JSC",
-      "shortName": "National Managing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_31",
-      "name": "3996",
-      "shortName": "3996",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_32",
-      "name": "5",
-      "shortName": "5",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_33",
-      "name": "ForteBank",
-      "shortName": "ForteBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_34",
-      "name": "Bulat Zhamitovich Utemuratov",
-      "shortName": "Bulat Zhamitovich",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_35",
-      "name": "3444",
-      "shortName": "3444",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_36",
-      "name": "6",
-      "shortName": "6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_37",
-      "name": "Jusan Bank",
-      "shortName": "Jusan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_38",
-      "name": "First Heartland Securities JSC",
-      "shortName": "First Heartland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_39",
-      "name": "2869",
-      "shortName": "2869",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_40",
-      "name": "7",
-      "shortName": "7",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_41",
-      "name": "Eurasian Bank",
-      "shortName": "Eurasian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_42",
-      "name": "Eurasian Financial Company JSC",
-      "shortName": "Eurasian Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_43",
-      "name": "2759",
-      "shortName": "2759",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_44",
-      "name": "8",
-      "shortName": "8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_45",
-      "name": "Freedom Bank Kazakhstan",
-      "shortName": "Freedom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_46",
-      "name": "Freedom Finance JSC",
-      "shortName": "Freedom Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_47",
-      "name": "2211",
-      "shortName": "2211",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_48",
-      "name": "9",
-      "shortName": "9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_49",
+      "code": "KZ_1",
       "name": "Bereke Bank",
       "shortName": "Bereke",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_50",
-      "name": "2076",
-      "shortName": "2076",
+      "code": "KZ_2",
+      "name": "Eurasian Bank",
+      "shortName": "Eurasian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_51",
-      "name": "10",
-      "shortName": "10",
+      "code": "KZ_3",
+      "name": "ForteBank",
+      "shortName": "ForteBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_52",
-      "name": "Bank RBK",
-      "shortName": "Bank RBK",
+      "code": "KZ_4",
+      "name": "Freedom Bank",
+      "shortName": "Freedom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_53",
-      "name": "KCC Financ LLP",
-      "shortName": "KCC Financ",
+      "code": "KZ_5",
+      "name": "Halyk Bank",
+      "shortName": "Halyk",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_54",
-      "name": "2044",
-      "shortName": "2044",
+      "code": "KZ_6",
+      "name": "Jusan Bank",
+      "shortName": "Jusan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_55",
-      "name": "11",
-      "shortName": "11",
+      "code": "KZ_7",
+      "name": "Kaspi Bank",
+      "shortName": "Kaspi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_56",
-      "name": "Citibank Kazakhstan",
-      "shortName": "Citibank Kazakhstan",
+      "code": "KZ_8",
+      "name": "RBK Bank",
+      "shortName": "RBK",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KZ_57",
-      "name": "Citibank, N.A.",
-      "shortName": "Citibank, N.A.",
-      "type": "bank",
+      "code": "KZ_9",
+      "name": "Kaspi.kz",
+      "shortName": "Kaspi.kz",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KZ_58",
-      "name": "1087",
-      "shortName": "1087",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_59",
-      "name": "12",
-      "shortName": "12",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_60",
-      "name": "Altyn Bank",
-      "shortName": "Altyn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_61",
-      "name": "China CITIC Bank Corporation",
-      "shortName": "China CITIC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_62",
-      "name": "889",
-      "shortName": "889",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_63",
-      "name": "13",
-      "shortName": "13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_64",
-      "name": "Home Credit Bank Kazakhstan",
-      "shortName": "Home Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_65",
-      "name": "Home Credit and Finance Bank LLC",
-      "shortName": "Home Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_66",
-      "name": "803",
-      "shortName": "803",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_67",
-      "name": "14",
-      "shortName": "14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_68",
-      "name": "Shinhan Bank Kazakhstan",
-      "shortName": "Shinhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_69",
-      "name": "Shinhan Bank",
-      "shortName": "Shinhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_70",
-      "name": "475",
-      "shortName": "475",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_71",
-      "name": "15",
-      "shortName": "15",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_72",
-      "name": "Nurbank",
-      "shortName": "Nurbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_73",
-      "name": "JP Finance Group LLP",
-      "shortName": "JP Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_74",
-      "name": "466",
-      "shortName": "466",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_75",
-      "name": "16",
-      "shortName": "16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_76",
-      "name": "Bank of China in Kazakhstan",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_77",
-      "name": "Bank of China Limited",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_78",
-      "name": "417",
-      "shortName": "417",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_79",
-      "name": "17",
-      "shortName": "17",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_80",
-      "name": "Industrial &amp; Commercial Bank of China (Almaty)",
-      "shortName": "Industrial &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_81",
-      "name": "Industrial and Commercial Bank of China",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_82",
-      "name": "349",
-      "shortName": "349",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_83",
-      "name": "18",
-      "shortName": "18",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_84",
-      "name": "KZI Bank",
-      "shortName": "KZI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_85",
-      "name": "T.C. Ziraat Bankası A.Ş.",
-      "shortName": "T.C. Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_86",
-      "name": "233",
-      "shortName": "233",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_87",
-      "name": "19",
-      "shortName": "19",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_88",
-      "name": "VTB Bank Kazakhstan",
-      "shortName": "VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_89",
-      "name": "PJSC VTB Bank",
-      "shortName": "PJSC VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_90",
-      "name": "226",
-      "shortName": "226",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_91",
-      "name": "20",
-      "shortName": "20",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_92",
-      "name": "Al Hilal Islamic Bank",
-      "shortName": "Al Hilal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_93",
-      "name": "Al Hilal Bank PJSC",
-      "shortName": "Al Hilal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_94",
-      "name": "178",
-      "shortName": "178",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_95",
-      "name": "21",
-      "shortName": "21",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_96",
-      "name": "Zaman-Bank",
-      "shortName": "Zaman-Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_97",
-      "name": "Tasbulat Abguzhinov",
-      "shortName": "Tasbulat Abguzhinov",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KZ_98",
-      "name": "25",
-      "shortName": "25",
-      "type": "bank",
+      "code": "KZ_10",
+      "name": "Wooppay",
+      "shortName": "Wooppay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

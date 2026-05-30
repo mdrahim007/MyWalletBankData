@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "KY",
   "institutions": [
     {
       "code": "KY_0",
-      "name": "Central Bank of KY",
-      "shortName": "Central Bank",
+      "name": "Butterfield Bank",
+      "shortName": "Butterfield",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Cayman"
     },
     {
       "code": "KY_1",
-      "name": "National Bank of KY",
-      "shortName": "National Bank",
+      "name": "Cayman National Bank",
+      "shortName": "Cayman National",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KY_2",
-      "name": "State Bank of KY",
-      "shortName": "State Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KY_3",
-      "name": "Commercial Bank of KY",
-      "shortName": "Commercial Bank",
+      "name": "Fidelity Bank",
+      "shortName": "Fidelity",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Cayman"
     },
     {
       "code": "KY_4",
-      "name": "First KY Bank",
-      "shortName": "First Bank",
+      "name": "PROVEN Bank",
+      "shortName": "PROVEN",
       "type": "bank",
+      "aliases": "Cayman"
+    },
+    {
+      "code": "KY_5",
+      "name": "RBC Royal Bank",
+      "shortName": "RBC Royal",
+      "type": "bank",
+      "aliases": "Cayman"
+    },
+    {
+      "code": "KY_6",
+      "name": "Scotiabank & Trust",
+      "shortName": "Scotiabank & Trust",
+      "type": "bank",
+      "aliases": "Cayman"
+    },
+    {
+      "code": "KY_7",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
