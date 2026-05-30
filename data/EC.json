@@ -1,265 +1,125 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "EC",
   "institutions": [
     {
       "code": "EC_0",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
+      "name": "Banco Bolivariano",
+      "shortName": "Bolivariano",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_1",
-      "name": "Central Bank of Ecuador",
-      "shortName": "Central",
+      "name": "Banco Coopnacional",
+      "shortName": "Coopnacional",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_2",
-      "name": "Mining",
-      "shortName": "Mining",
+      "name": "Banco de Guayaquil",
+      "shortName": "de Guayaquil",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_3",
-      "name": "Currency",
-      "shortName": "Currency",
+      "name": "Banco de Machala",
+      "shortName": "de Machala",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_4",
-      "name": "Culture",
-      "shortName": "Culture",
+      "name": "Banco del Austro",
+      "shortName": "del Austro",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_5",
-      "name": "Education",
-      "shortName": "Education",
+      "name": "Banco del Pacífico",
+      "shortName": "del Pacífico",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_6",
-      "name": "Geography",
-      "shortName": "Geography",
+      "name": "Banco D-Miro",
+      "shortName": "D-Miro",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_7",
-      "name": "Banco Bolivariano",
-      "shortName": "Banco Bolivariano",
+      "name": "Banco General Rumiñahui",
+      "shortName": "General Rumiñahui",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_8",
-      "name": "Banco Cofiec",
-      "shortName": "Banco Cofiec",
+      "name": "Banco Internacional",
+      "shortName": "Internacional",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_9",
-      "name": "Banco de Guayaquil",
-      "shortName": "Banco de",
+      "name": "Banco Loja",
+      "shortName": "Loja",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_10",
-      "name": "Banco de Machala",
-      "shortName": "Banco de",
+      "name": "Banco Pichincha",
+      "shortName": "Pichincha",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_11",
-      "name": "Banco del Austro",
-      "shortName": "Banco del",
+      "name": "Banco Solidario",
+      "shortName": "Solidario",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EC_12",
-      "name": "Banco del Pacífico",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_13",
-      "name": "Banco Pichincha",
-      "shortName": "Banco Pichincha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_14",
-      "name": "Banco Delbank",
-      "shortName": "Banco Delbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_15",
-      "name": "Banco General Rumiñahui",
-      "shortName": "Banco General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_16",
-      "name": "Banco Internacional",
-      "shortName": "Banco Internacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_17",
-      "name": "Banco Finca",
-      "shortName": "Banco Finca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_18",
-      "name": "ProCredit Bank",
-      "shortName": "ProCredit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_19",
-      "name": "Produbanco",
-      "shortName": "Produbanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_20",
-      "name": "Banco Solidario",
-      "shortName": "Banco Solidario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_21",
-      "name": "Banco Sudamericano",
-      "shortName": "Banco Sudamericano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_22",
       "name": "Citibank Ecuador",
       "shortName": "Citibank Ecuador",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EC_23",
-      "name": "Banco Promérica",
-      "shortName": "Banco Promérica",
+      "code": "EC_13",
+      "name": "Produbanco",
+      "shortName": "Produbanco",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EC_24",
-      "name": "Banco Coopnacional",
-      "shortName": "Banco Coopnacional",
-      "type": "bank",
+      "code": "EC_14",
+      "name": "Deuna",
+      "shortName": "Deuna",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "EC_25",
-      "name": "Banco D-Miro",
-      "shortName": "Banco D-Miro",
-      "type": "bank",
+      "code": "EC_15",
+      "name": "Kushki",
+      "shortName": "Kushki",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "EC_26",
-      "name": "Banco Capital",
-      "shortName": "Banco Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_27",
-      "name": "Banco de la Previsora (closed in 1999)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_28",
-      "name": "Banco de Préstamos (closed in 1998)&#91;6&#93;",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_29",
-      "name": "Banco del Progreso (closed in 1999)&#91;7&#93;",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_30",
-      "name": "Banco Territorial (closed in 2013)&#91;8&#93;",
-      "shortName": "Banco Territorial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_31",
-      "name": "Unibanco (merged with Banco Solidario in 2013)&#91;9&#93;",
-      "shortName": "Unibanco (merged",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_32",
-      "name": "Banking in Ecuador",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_33",
-      "name": "Bolivia",
-      "shortName": "Bolivia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_34",
-      "name": "Venezuela",
-      "shortName": "Venezuela",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_35",
-      "name": "Falkland Islands",
-      "shortName": "Falkland Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EC_36",
-      "name": "Webarchive template wayback links",
-      "shortName": "Webarchive template",
-      "type": "bank",
+      "code": "EC_16",
+      "name": "PayPhone",
+      "shortName": "PayPhone",
+      "type": "mfs",
       "aliases": ""
     }
   ]

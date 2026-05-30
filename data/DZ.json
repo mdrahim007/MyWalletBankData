@@ -1,237 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "DZ",
   "institutions": [
     {
       "code": "DZ_0",
-      "name": "Banque Extérieure  d'Algérie (BEA)",
-      "shortName": "Banque Extérieure",
+      "name": "Al Salam Bank - Algeria",
+      "shortName": "Al Salam - Algeria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_1",
-      "name": "Banque Nationale d'Algérie (BNA)",
-      "shortName": "Banque Nationale",
+      "name": "Arab Bank PLC Algeria",
+      "shortName": "Arab Algeria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_2",
-      "name": "Banque de l'Agriculture et du Développement Rural (BADR)",
-      "shortName": "Banque de",
+      "name": "Bank ABC Algeria",
+      "shortName": "Bank ABC Algeria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_3",
-      "name": "Banque de développement local (BDL)",
-      "shortName": "Banque de",
+      "name": "Banque Al Baraka Algérie",
+      "shortName": "Banque Al Baraka Alg",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_4",
-      "name": "Crédit Populaire d'Algérie (CPA)",
-      "shortName": "Crédit Populaire",
+      "name": "Banque de l'Agriculture et du Développement Rural",
+      "shortName": "Banque de l'Agricult",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BADR"
     },
     {
       "code": "DZ_5",
-      "name": "Banque Nationale de l'Habitat",
-      "shortName": "Banque Nationale",
+      "name": "Banque de Développement Local",
+      "shortName": "Banque de Développem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDL"
     },
     {
       "code": "DZ_6",
-      "name": "Banque Al Baraka Algerie, part of Al Baraka Group",
-      "shortName": "Banque Al",
+      "name": "Banque Extérieure d'Algérie",
+      "shortName": "Banque Extérieure d'",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BEA"
     },
     {
       "code": "DZ_7",
-      "name": "Bank ABC",
-      "shortName": "Bank ABC",
+      "name": "Banque Nationale d'Algérie",
+      "shortName": "Banque Nationale d'A",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNA"
     },
     {
       "code": "DZ_8",
-      "name": "Natixis Algérie, part of BPCE Group (see also Banxy)",
-      "shortName": "Natixis Algérie,",
+      "name": "Banque Nationale de l'Habitat",
+      "shortName": "Banque Nationale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNH"
     },
     {
       "code": "DZ_9",
-      "name": "Société Générale Algérie, part of Société Générale Group",
-      "shortName": "Société Générale",
+      "name": "BNP Paribas El Djazair",
+      "shortName": "BNP Paribas El Djaza",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_10",
-      "name": "Citibank N.A. Algérie, branch of Citibank",
-      "shortName": "Citibank N.A.",
+      "name": "Citibank N.A. Algeria",
+      "shortName": "Citibank N.A. Algeri",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_11",
-      "name": "Arab Bank PLC Algérie, branch of Arab Bank",
-      "shortName": "Arab",
+      "name": "Crédit Populaire d'Algérie",
+      "shortName": "Crédit Populaire d'A",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CPA"
     },
     {
       "code": "DZ_12",
-      "name": "BNP Paribas El Djazair, part of BNP Paribas Group",
-      "shortName": "BNP Paribas",
+      "name": "Caisse Nationale d'Épargne et de Prévoyance",
+      "shortName": "Caisse Nationale d'É",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CNEP-Banque"
     },
     {
       "code": "DZ_13",
-      "name": "Fransabank El Djazair, part of Fransabank Group",
-      "shortName": "Fransabank El",
+      "name": "Natixis Algérie",
+      "shortName": "Natixis Algérie",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Banxy"
     },
     {
       "code": "DZ_14",
-      "name": "Al Salam Bank - Algeria (ASBA), part of Bank Muscat Group",
-      "shortName": "Al Salam",
+      "name": "Société Générale Algérie",
+      "shortName": "Société Générale Alg",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_15",
-      "name": "H.S.B.C. Algeria, branch of HSBC",
-      "shortName": "H.S.B.C. Algeria,",
+      "name": "Trust Bank Algeria",
+      "shortName": "Trust Algeria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DZ_16",
-      "name": "Website of the Bank of Algeria (French)",
-      "shortName": "Website of",
-      "type": "bank",
+      "name": "BaridiMob",
+      "shortName": "BaridiMob",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DZ_17",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_18",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_19",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_20",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_21",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_22",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_23",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_24",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_25",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_26",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_27",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_28",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_29",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_30",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_31",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DZ_32",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
+      "name": "Go",
+      "shortName": "Go",
+      "type": "mfs",
       "aliases": ""
     }
   ]

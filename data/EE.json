@@ -1,300 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "EE",
   "institutions": [
     {
       "code": "EE_0",
+      "name": "Bigbank",
+      "shortName": "Bigbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_1",
+      "name": "Citadele Banka",
+      "shortName": "Citadelea",
+      "type": "bank",
+      "aliases": "Eesti filiaal"
+    },
+    {
+      "code": "EE_2",
+      "name": "Coop Pank",
+      "shortName": "Coop Pank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_3",
+      "name": "Finora Bank",
+      "shortName": "Finora",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_4",
+      "name": "Holm Bank",
+      "shortName": "Holm",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_5",
+      "name": "Inbank",
+      "shortName": "Inbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EE_6",
       "name": "LHV Pank",
       "shortName": "LHV Pank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EE_1",
+      "code": "EE_7",
       "name": "Luminor Bank",
       "shortName": "Luminor",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EE_2",
-      "name": "SEB Pank, a subsidiary of SEB Group",
-      "shortName": "SEB Pank,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_3",
-      "name": "Bigbank AS",
-      "shortName": "Bigbank AS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_4",
-      "name": "AS Inbank",
-      "shortName": "AS Inbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_5",
-      "name": "Coop Pank AS",
-      "shortName": "Coop Pank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_6",
-      "name": "Estonian branch of TF Bank&#160;&#91;sv&#93;",
-      "shortName": "Estonian branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_7",
-      "name": "Estonian Rural Credit Society&#160;&#91;et&#93; (1802-1940)",
-      "shortName": "Estonian Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "EE_8",
-      "name": "Livonian Farmers' Rent Bank&#160;&#91;et&#93; (1850-1911?)",
-      "shortName": "Livonian Farmers'",
+      "name": "Nordea Bank",
+      "shortName": "Nordea",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Eesti filiaal"
     },
     {
       "code": "EE_9",
-      "name": "Bank of Tartu&#160;&#91;et&#93; (1868-1940)",
-      "shortName": "Bank of",
+      "name": "OP Corporate Bank",
+      "shortName": "OP Corporate",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Eesti filiaal"
     },
     {
       "code": "EE_10",
-      "name": "Estonian Mortgage Bank&#160;&#91;et&#93; (1884-1944)",
-      "shortName": "Estonian Mortgage",
+      "name": "SEB Pank",
+      "shortName": "SEB Pank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EE_11",
-      "name": "G. Scheel &amp; Co&#160;&#91;et&#93; (1884-1940)",
-      "shortName": "G. Scheel",
+      "name": "Swedbank",
+      "shortName": "Swedbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EE_12",
-      "name": "Tallinn Credit Bank&#160;&#91;et&#93; (1906-1920)",
-      "shortName": "Tallinn Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_13",
-      "name": "Bank of Pärnu&#160;&#91;et&#93; (1907-1920)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_14",
-      "name": "Kullamaa Cooperative Bank&#160;&#91;et&#93; (1910-1944)",
-      "shortName": "Kullamaa Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_15",
-      "name": "Bank of Põhja&#160;&#91;et&#93; (1919-1927)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_16",
-      "name": "Second Estonian Land Bank&#160;&#91;et&#93; (1990-1998)",
-      "shortName": "Second Estonian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_17",
-      "name": "Tartu Jewish Cooperative Bank&#160;&#91;et&#93; (1922-1941)",
-      "shortName": "Tartu Jewish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_18",
-      "name": "Tallinn Homeowners' Bank&#160;&#91;et&#93; (1924-1940)",
-      "shortName": "Tallinn Homeowners'",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_19",
-      "name": "Tartu Trade Bank&#160;&#91;et&#93; (1988-1994)",
-      "shortName": "Tartu Trade",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_20",
-      "name": "Farmers' Central Bank&#160;&#91;et&#93; (1928-1940)",
-      "shortName": "Farmers' Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_21",
-      "name": "Estonian Agricultural Bank&#160;&#91;et&#93; (1929-1940)",
-      "shortName": "Estonian Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_22",
-      "name": "Revalia Pank&#160;&#91;et&#93; (1991-1994)",
-      "shortName": "Revalia Pank&#160;&#91;et&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_23",
-      "name": "Baltic Cooperative Bank&#160;&#91;et&#93; (1991-1993)",
-      "shortName": "Baltic Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_24",
-      "name": "Estonian Social Bank&#160;&#91;et&#93; (1991-1995)",
-      "shortName": "Estonian Social",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_25",
-      "name": "TBB Pank (1991-2025)",
+      "name": "TBB Pank",
       "shortName": "TBB Pank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "EE_26",
-      "name": "American Baltic Bank&#160;&#91;et&#93; (1992-1996)",
-      "shortName": "American Baltic",
+      "code": "EE_13",
+      "name": "TF Bank",
+      "shortName": "TF",
       "type": "bank",
+      "aliases": "Eesti filiaal"
+    },
+    {
+      "code": "EE_14",
+      "name": "MobilePay",
+      "shortName": "MobilePay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "EE_27",
-      "name": "Estonian Savings Banks (1992-1998)",
-      "shortName": "Estonian Savings",
-      "type": "bank",
+      "code": "EE_15",
+      "name": "Monese",
+      "shortName": "Monese",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "EE_28",
-      "name": "Estonian Investment Bank&#160;&#91;et&#93; (1992-1998)",
-      "shortName": "Estonian Investment",
-      "type": "bank",
+      "code": "EE_16",
+      "name": "Smart-ID",
+      "shortName": "Smart-ID",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "EE_29",
-      "name": "Hansabank (1992-2008)",
-      "shortName": "Hansabank (1992-2008)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_30",
-      "name": "Nowe Pank&#160;&#91;et&#93; (1992-1995)",
-      "shortName": "Nowe Pank&#160;&#91;et&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_31",
-      "name": "Bank of Tallinn&#160;&#91;et&#93; (1992-1998)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_32",
-      "name": "North Estonian Bank&#160;&#91;et&#93; (1993-1997)",
-      "shortName": "North Estonian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_33",
-      "name": "INKO Balti Pank&#160;&#91;et&#93; (1994-1997)",
-      "shortName": "INKO Balti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_34",
-      "name": "Nordea Bank Estonia&#160;&#91;et&#93; (1995-2017)",
-      "shortName": "Nordea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_35",
-      "name": "Optiva Pank&#160;&#91;et&#93; (1999-2000)",
-      "shortName": "Optiva Pank&#160;&#91;et&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_36",
-      "name": "Versobank AS&#160;&#91;et&#93; (1999-2018)",
-      "shortName": "Versobank AS&#160;&#91;et&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_37",
-      "name": "DNB Bank Estonia&#160;&#91;et&#93; (2006-2017)",
-      "shortName": "DNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_38",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_39",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_40",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "EE_41",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
+      "code": "EE_17",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]
