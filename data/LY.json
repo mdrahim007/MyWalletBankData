@@ -1,209 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LY",
   "institutions": [
     {
       "code": "LY_0",
-      "name": "Agricultural Bank of Libya, state-owned",
-      "shortName": "Agricultural",
+      "name": "Al-Yaman Kuwait Bank",
+      "shortName": "Al-Yaman Kuwait",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_1",
-      "name": "Alejmaa Alarabi Bank&#160;&#91;ar&#93;",
-      "shortName": "Alejmaa Alarabi",
+      "name": "Aman Bank for Commerce and Investment",
+      "shortName": "Aman for Commerce an",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_2",
-      "name": "Aman Bank for Commerce and Investment (ABCI)",
-      "shortName": "Aman",
+      "name": "Commerce & Development Bank",
+      "shortName": "Commerce & Developme",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_3",
-      "name": "Bank of Valletta",
-      "shortName": "Bank of",
+      "name": "Jumhouria Bank",
+      "shortName": "Jumhouria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_4",
-      "name": "Gumhouria Bank&#160;&#91;ar&#93;, state-owned",
-      "shortName": "Gumhouria&#160;&#91;ar&#93;,",
+      "name": "Libyan Islamic Bank",
+      "shortName": "Libyan Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_5",
-      "name": "Libyan Foreign Bank, state-owned",
-      "shortName": "Libyan Foreign",
+      "name": "National Commercial Bank",
+      "shortName": "National Commercial",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NCB"
     },
     {
       "code": "LY_6",
-      "name": "Mediterranean Bank",
-      "shortName": "Mediterranean",
+      "name": "North Africa Bank",
+      "shortName": "North Africa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_7",
-      "name": "National Commercial Bank&#160;&#91;ar&#93;, state-owned",
-      "shortName": "National Commercial",
+      "name": "Sahary Bank",
+      "shortName": "Sahary",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_8",
-      "name": "Sahara Bank, state-owned",
-      "shortName": "Sahara,",
+      "name": "United Bank for Commerce and Investment",
+      "shortName": "United for Commerce",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_9",
-      "name": "Wafa Bank",
-      "shortName": "Wafa",
+      "name": "Wahda Bank",
+      "shortName": "Wahda",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LY_10",
-      "name": "Umma Bank",
-      "shortName": "Umma",
-      "type": "bank",
+      "name": "Edfali",
+      "shortName": "Edfali",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LY_11",
-      "name": "United Bank for Commerce &amp; Investment",
-      "shortName": "United",
-      "type": "bank",
+      "name": "MobiCash",
+      "shortName": "MobiCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LY_12",
-      "name": "Waha Bank (Oasis Bank)",
-      "shortName": "Waha",
-      "type": "bank",
+      "name": "Sadad",
+      "shortName": "Sadad",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LY_13",
-      "name": "Andalus Bank",
-      "shortName": "Andalus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_14",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_15",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_16",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_17",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_18",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_19",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_20",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_21",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_22",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_23",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_24",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_25",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_26",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_27",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LY_28",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Tadawul",
+      "shortName": "Tadawul",
+      "type": "mfs",
       "aliases": ""
     }
   ]

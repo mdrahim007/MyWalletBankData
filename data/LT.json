@@ -1,741 +1,167 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LT",
   "institutions": [
     {
       "code": "LT_0",
-      "name": "SEB bankas AB, subsidiary of SEB Group",
-      "shortName": "SEB bankas",
+      "name": "Artea Bankas",
+      "shortName": "Artea",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_1",
-      "name": "Artea Bankas AB, known until May 2025 as Šiaulių Bankas",
-      "shortName": "Arteaas",
+      "name": "Bigbank",
+      "shortName": "Bigbank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Lietuvos filialas"
     },
     {
       "code": "LT_2",
-      "name": "Urbo Bankas UAB, formerly known as Medicinos bankas",
-      "shortName": "Urboas",
+      "name": "Citadele Banka",
+      "shortName": "Citadele",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Lietuvos filialas"
     },
     {
       "code": "LT_3",
-      "name": "PayRay Bank UAB",
-      "shortName": "PayRay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_4",
-      "name": "Mano Bankas AB",
-      "shortName": "Manoas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_5",
-      "name": "SME Bank UAB",
-      "shortName": "SME",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_6",
-      "name": "Saldo bank UAB, (Finnish capital)",
-      "shortName": "Saldo bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_7",
-      "name": "Fjord Bank AB",
-      "shortName": "Fjord",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_8",
-      "name": "Finora Bank UAB, subsidiary of the Estonian bank&#91;7&#93;",
+      "name": "Finora Bank",
       "shortName": "Finora",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LT_9",
-      "name": "RATO bankas UAB, formerly RATO kredito unija&#91;8&#93;",
-      "shortName": "RATO bankas",
+      "code": "LT_4",
+      "name": "Fjord Bank",
+      "shortName": "Fjord",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LT_10",
-      "name": "Luminor Bank AS",
+      "code": "LT_5",
+      "name": "GF Bankas",
+      "shortName": "GF",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LT_6",
+      "name": "Inbank",
+      "shortName": "Inbank",
+      "type": "bank",
+      "aliases": "Lietuvos filialas"
+    },
+    {
+      "code": "LT_7",
+      "name": "Luminor Bank",
       "shortName": "Luminor",
+      "type": "bank",
+      "aliases": "Lietuvos filialas"
+    },
+    {
+      "code": "LT_8",
+      "name": "Mano Bankas",
+      "shortName": "Mano",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LT_9",
+      "name": "OP Corporate Bank",
+      "shortName": "OP Corporate",
+      "type": "bank",
+      "aliases": "Lietuvos filialas"
+    },
+    {
+      "code": "LT_10",
+      "name": "PayRay Bank",
+      "shortName": "PayRay",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_11",
-      "name": "OP Corporate Bank plc",
-      "shortName": "OP Corporate",
+      "name": "Revolut Bank",
+      "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_12",
-      "name": "Citadele Banka AS",
-      "shortName": "Citadelea",
+      "name": "Saldo Bank",
+      "shortName": "Saldo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_13",
-      "name": "Bigbank AS",
-      "shortName": "Bigbank AS",
+      "name": "SEB Bankas",
+      "shortName": "SEB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_14",
-      "name": "Inbank AS",
-      "shortName": "Inbank AS",
+      "name": "SME Bank",
+      "shortName": "SME",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_15",
-      "name": "TF Bank AB&#160;&#91;se&#93;",
-      "shortName": "TF",
+      "name": "Swedbank",
+      "shortName": "Swedbank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Lithuania"
     },
     {
       "code": "LT_16",
-      "name": "Lietuvos Centrinė Kredito Unija&#160;&#91;lt&#93;",
-      "shortName": "Lietuvos Centrinė",
+      "name": "TF Bank",
+      "shortName": "TF",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Lietuvos filialas"
     },
     {
       "code": "LT_17",
-      "name": "Jungtinė Centrinė Kredito Unija",
-      "shortName": "Jungtinė Centrinė",
+      "name": "Urbo Bankas",
+      "shortName": "Urbo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LT_18",
-      "name": "Vilnius Land Bank (1872-1939)",
-      "shortName": "Vilnius Land",
-      "type": "bank",
+      "name": "Foxpay",
+      "shortName": "Foxpay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LT_19",
-      "name": "Trade and Industry Bank (1918-1927)",
-      "shortName": "Trade and",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LT_20",
-      "name": "Central Jewish Bank&#160;&#91;lt&#93; (1920-1940)",
-      "shortName": "Central Jewish",
-      "type": "bank",
+      "name": "Paysera",
+      "shortName": "Paysera",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LT_21",
-      "name": "Lithuanian Cooperative Bank&#160;&#91;lt&#93; (1920-1940)",
-      "shortName": "Lithuanian Cooperative",
-      "type": "bank",
+      "name": "Perlas Go",
+      "shortName": "Perlas Go",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LT_22",
-      "name": "Lithuanian Innovation Bank&#160;&#91;lt&#93; (1988-1996)",
-      "shortName": "Lithuanian Innovation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_23",
-      "name": "Ūkio bankas (1989-2013)",
-      "shortName": "Ūkio bankas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_24",
-      "name": "Hermis Bank&#160;&#91;lt&#93; (1991-2000)",
-      "shortName": "Hermis&#160;&#91;lt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_25",
-      "name": "Litimpeks&#160;&#91;lt&#93; (1991-1999)",
-      "shortName": "Litimpeks&#160;&#91;lt&#93; (1991-1999)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_26",
-      "name": "Naujoji Vilnia Commercial Bank&#160;&#91;lt&#93; (1991-?)",
-      "shortName": "Naujoji Vilnia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_27",
-      "name": "Sekundės Bank&#160;&#91;lt&#93; (1991-1994)",
-      "shortName": "Sekundės&#160;&#91;lt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_28",
-      "name": "Tauro Bankas&#160;&#91;lt&#93; (1991-1997)",
-      "shortName": "Tauroas&#160;&#91;lt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_29",
-      "name": "Hansabank (1992-2008)",
-      "shortName": "Hansabank (1992-2008)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_30",
-      "name": "Snoras (1992-2011)",
-      "shortName": "Snoras (1992-2011)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_31",
-      "name": "Lithuanian Development Bank&#160;&#91;lt&#93; (1994-2000)",
-      "shortName": "Lithuanian Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_32",
-      "name": "Bankai Lietuvoje",
-      "shortName": "Bankai Lietuvoje",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_33",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_34",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_35",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_36",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_37",
-      "name": "Balts",
-      "shortName": "Balts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_38",
-      "name": "Lithuania proper",
-      "shortName": "Lithuania proper",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_39",
-      "name": "Lithuania Minor",
-      "shortName": "Lithuania Minor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_40",
-      "name": "Land Confederation",
-      "shortName": "Land Confederation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_41",
-      "name": "Duchy",
-      "shortName": "Duchy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_42",
-      "name": "Kingdom",
-      "shortName": "Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_43",
-      "name": "Crusade against Tatars",
-      "shortName": "Crusade against",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_44",
-      "name": "Press ban",
-      "shortName": "Press ban",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_45",
-      "name": "Amber Declaration",
-      "shortName": "Amber Declaration",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_46",
-      "name": "Act of Independence",
-      "shortName": "Act of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_47",
-      "name": "Polish–Lithuanian War",
-      "shortName": "Polish–Lithuanian War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_48",
-      "name": "1919 Polish coup d'état attempt",
-      "shortName": "1919 Polish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_49",
-      "name": "1926 coup d'état",
-      "shortName": "1926 coup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_50",
-      "name": "by Nazi Germany",
-      "shortName": "by Nazi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_51",
-      "name": "by the Soviet Union (1944)",
-      "shortName": "by the",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_52",
-      "name": "State continuity",
-      "shortName": "State continuity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_53",
-      "name": "Holocaust",
-      "shortName": "Holocaust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_54",
-      "name": "Resistance",
-      "shortName": "Resistance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_55",
-      "name": "Second Soviet republic",
-      "shortName": "Second Soviet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_56",
-      "name": "Baltic states under Soviet rule (1944–1991)",
-      "shortName": "Baltic states",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_57",
-      "name": "Government-in-exile",
-      "shortName": "Government-in-exile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_58",
-      "name": "Reform Movement (Sąjūdis)",
-      "shortName": "Reform Movement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_59",
-      "name": "Singing Revolution",
-      "shortName": "Singing Revolution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_60",
-      "name": "Baltic Way",
-      "shortName": "Baltic Way",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_61",
-      "name": "Act of Re-Establishment",
-      "shortName": "Act of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_62",
-      "name": "Soviet economic blockade of Lithuania",
-      "shortName": "Soviet economic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_63",
-      "name": "January Events",
-      "shortName": "January Events",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_64",
-      "name": "EU accession",
-      "shortName": "EU accession",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_65",
-      "name": "Towns",
-      "shortName": "Towns",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_66",
-      "name": "Climate",
-      "shortName": "Climate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_67",
-      "name": "Extreme points",
-      "shortName": "Extreme points",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_68",
-      "name": "Fauna",
-      "shortName": "Fauna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_69",
-      "name": "Flora",
-      "shortName": "Flora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_70",
-      "name": "Forests",
-      "shortName": "Forests",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_71",
-      "name": "Regional parks",
-      "shortName": "Regional parks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_72",
-      "name": "Suwałki Gap",
-      "shortName": "Suwałki Gap",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_73",
-      "name": "counties",
-      "shortName": "counties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_74",
-      "name": "municipalities",
-      "shortName": "municipalities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_75",
-      "name": "elderships",
-      "shortName": "elderships",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_76",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_77",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_78",
-      "name": "Land Force",
-      "shortName": "Land Force",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_79",
-      "name": "Navy",
-      "shortName": "Navy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_80",
-      "name": "Air Force",
-      "shortName": "Air Force",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_81",
-      "name": "Special Operations Force",
-      "shortName": "Special Operations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_82",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_83",
-      "name": "e-Residency",
-      "shortName": "e-Residency",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_84",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_85",
-      "name": "Regional GDP",
-      "shortName": "Regional GDP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_86",
-      "name": "Stock exchange",
-      "shortName": "Stock exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_87",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_88",
-      "name": "rail",
-      "shortName": "rail",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_89",
-      "name": "roads",
-      "shortName": "roads",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_90",
-      "name": "seaport",
-      "shortName": "seaport",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_91",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_92",
-      "name": "Ethnic minorities",
-      "shortName": "Ethnic minorities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_93",
-      "name": "Language",
-      "shortName": "Language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_94",
-      "name": "Names",
-      "shortName": "Names",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_95",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_96",
-      "name": "Calendar",
-      "shortName": "Calendar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_97",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_98",
-      "name": "Cultural regions",
-      "shortName": "Cultural regions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_99",
-      "name": "Design",
-      "shortName": "Design",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_100",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_101",
-      "name": "Monuments of Culture",
-      "shortName": "Monuments of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_102",
-      "name": "Mythology",
-      "shortName": "Mythology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_103",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LT_104",
-      "name": "coat of arms",
-      "shortName": "coat of",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

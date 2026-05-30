@@ -1,300 +1,76 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LU",
   "institutions": [
     {
       "code": "LU_0",
-      "name": "Banque Internationale à Luxembourg SA (BIL)",
-      "shortName": "Banque Internationale",
+      "name": "BCEE",
+      "shortName": "BCEE",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Spuerkeess"
     },
     {
       "code": "LU_1",
-      "name": "Atlantic Lux HoldCo Sàrl, parent of Aareal Bank in Germany",
-      "shortName": "Atlantic Lux",
+      "name": "BGL BNP Paribas",
+      "shortName": "BGL BNP Paribas",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LU_2",
-      "name": "LSF Nani Investments Sàrl, parent of Novo Banco in Portugal",
-      "shortName": "LSF Nani",
+      "name": "Banque de Luxembourg",
+      "shortName": "Banque de Luxembourg",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LU_3",
-      "name": "Banque Raiffeisen, a local cooperative entity",
-      "shortName": "Banque Raiffeisen,",
+      "name": "Banque Internationale à Luxembourg",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIL"
     },
     {
       "code": "LU_4",
-      "name": "PayPal 2 Sàrl, financial holding subsidiary of PayPal",
-      "shortName": "PayPal 2",
+      "name": "POST Luxembourg",
+      "shortName": "POST Luxembourg",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CCP"
     },
     {
       "code": "LU_5",
-      "name": "Clearstream Fund Centre SA",
-      "shortName": "Clearstream Fund",
+      "name": "Quintet Private Bank",
+      "shortName": "Quintet Private",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LU_6",
-      "name": "Andbank Luxembourg, subsidiary of Andbank",
-      "shortName": "Andbank Luxembourg,",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LU_7",
-      "name": "Bank GPB International SA, subsidiary of Gazprombank",
-      "shortName": "Bank GPB",
-      "type": "bank",
+      "name": "Payconiq",
+      "shortName": "Payconiq",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LU_8",
-      "name": "Banque de Patrimoines Privés, subsidiary of Creand",
-      "shortName": "Banque de",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LU_9",
-      "name": "DNB Luxembourg SA, subsidiary of DNB Bank",
-      "shortName": "DNB Luxembourg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_10",
-      "name": "John Deere Bank SA, subsidiary of John Deere",
-      "shortName": "John Deere",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_11",
-      "name": "Nomura Bank (Luxembourg) SA, subsidiary of Nomura Holdings",
-      "shortName": "Nomura",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_12",
-      "name": "Luxembourg branch of Skandinaviska Enskilda Banken AB",
-      "shortName": "Luxembourg branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_13",
-      "name": "SMBC Nikko Bank (Luxembourg) SA, subsidiary of SMBC Group",
-      "shortName": "SMBC Nikko",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_14",
-      "name": "Luxembourg branch of Svenska Handelsbanken AB",
-      "shortName": "Luxembourg branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_15",
-      "name": "VP Bank (Luxembourg) SA, subsidiary of VP Bank",
-      "shortName": "VP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_16",
-      "name": "Advanzia Bank SA, subsidiary of Norway-based Kistefos",
-      "shortName": "Advanzia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_17",
-      "name": "Agricultural Bank of China",
-      "shortName": "Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_18",
-      "name": "Banco do Brasil",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_19",
-      "name": "Banco Safra",
-      "shortName": "Banco Safra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_20",
-      "name": "Bank of China",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_21",
-      "name": "Bank of Communications",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_22",
-      "name": "Banque de Commerce et de Placements",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_23",
-      "name": "China Construction Bank",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_24",
-      "name": "China Everbright Bank",
-      "shortName": "China Everbright",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_25",
-      "name": "China Merchants Bank",
-      "shortName": "China Merchants",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_26",
-      "name": "HSBC Holdings",
-      "shortName": "HSBC Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_27",
-      "name": "Industrial and Commercial Bank of China",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_28",
-      "name": "NatWest Group",
-      "shortName": "NatWest Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_29",
-      "name": "Banco Votorantim",
-      "shortName": "Banco Votorantim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_30",
-      "name": "Banque Fortuna&#160;&#91;lb&#93; (1920-2022)",
-      "shortName": "Banque Fortuna&#160;&#91;lb&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_31",
-      "name": "Alfred Levy &amp; Company (1926-1940)",
-      "shortName": "Alfred Levy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_32",
-      "name": "Compagnie luxembourgeoise de banque (1967-2009)",
-      "shortName": "Compagnie luxembourgeoise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_33",
-      "name": "Bank of Credit and Commerce International (1972-1991)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_34",
-      "name": "East-West United Bank (1974-2024)",
-      "shortName": "East-West United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_35",
-      "name": "Institut Monétaire Luxembourgeois (1983-1998)",
-      "shortName": "Institut Monétaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_36",
-      "name": "Compagnie de Banque Privée&#160;&#91;lb&#93; (2007-2011)",
-      "shortName": "Compagnie de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_37",
-      "name": "Banque Havilland (2009-2024)",
-      "shortName": "Banque Havilland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_38",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_39",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_40",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LU_41",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

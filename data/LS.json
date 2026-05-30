@@ -1,153 +1,48 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LS",
   "institutions": [
     {
       "code": "LS_0",
-      "name": "Standard Lesotho Bank Ltd, part of Standard Bank Group",
-      "shortName": "Standard Lesotho",
+      "name": "FNB Lesotho",
+      "shortName": "FNB Lesotho",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LS_1",
-      "name": "Nedbank Lesotho Ltd, part of Nedbank Group",
-      "shortName": "Nedbank Lesotho",
+      "name": "Lesotho PostBank",
+      "shortName": "Lesotho PostBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LS_2",
-      "name": "First National Bank Lesotho Ltd, part of FirstRand Group",
-      "shortName": "First National",
+      "name": "Nedbank Lesotho",
+      "shortName": "Nedbank Lesotho",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LS_3",
-      "name": "Lesotho Post Bank Ltd",
-      "shortName": "Lesotho Post",
+      "name": "Standard Lesotho Bank",
+      "shortName": "Standard Lesotho",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LS_4",
-      "name": "Economy of Lesotho",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "EcoCash",
+      "shortName": "EcoCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LS_5",
-      "name": "Website of Central Bank of Lesotho",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_6",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_7",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_8",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_9",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_10",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_11",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_12",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_13",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_14",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_15",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_16",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_17",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_18",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_19",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LS_20",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "M-Pesa",
+      "shortName": "M-Pesa",
+      "type": "mfs",
       "aliases": ""
     }
   ]
