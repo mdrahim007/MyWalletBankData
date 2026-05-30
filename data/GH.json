@@ -1,496 +1,195 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GH",
   "institutions": [
     {
       "code": "GH_0",
-      "name": "Absa Bank Ghana Limited, part of Absa Group",
-      "shortName": "Absa",
+      "name": "Absa Bank Ghana",
+      "shortName": "Absa Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GH_1",
-      "name": "Access Bank (Ghana) PLC, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Access Bank Ghana",
+      "shortName": "Access Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GH_2",
-      "name": "Agricultural Development Bank PLC, state-owned",
-      "shortName": "Agricultural Development",
+      "name": "Agricultural Development Bank",
+      "shortName": "Agricultural Develop",
       "type": "bank",
-      "aliases": ""
+      "aliases": "ADB"
     },
     {
       "code": "GH_3",
-      "name": "Bank of Africa Ghana Limited, part of Bank of Africa Group",
-      "shortName": "Bank of",
+      "name": "Bank of Africa Ghana",
+      "shortName": "Bank of Africa Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GH_4",
-      "name": "CalBank PLC",
-      "shortName": "CalBank PLC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_5",
-      "name": "Consolidated Bank Ghana Limited, state-owned",
-      "shortName": "Consolidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_6",
-      "name": "Ecobank Ghana PLC, part of Ecobank Group",
-      "shortName": "Ecobank Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_7",
-      "name": "Fidelity Bank Ghana Limited",
-      "shortName": "Fidelity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_8",
-      "name": "First Atlantic Bank Limited",
-      "shortName": "First Atlantic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_9",
-      "name": "GCB Bank PLC, majority state-owned",
-      "shortName": "GCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_10",
-      "name": "Guaranty Trust Bank (Ghana) Limited, part of GTCO Group",
-      "shortName": "Guaranty Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_11",
-      "name": "National Investment Bank Limited, state-owned",
-      "shortName": "National Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_12",
-      "name": "OmniBSIC Bank Ghana Limited",
-      "shortName": "OmniBSIC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_13",
-      "name": "Prudential Bank Limited",
-      "shortName": "Prudential",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_14",
-      "name": "Republic Bank (Ghana) PLC, part of Republic Bank Group",
-      "shortName": "Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_15",
-      "name": "Societe Generale Ghana PLC, part of Société Générale",
-      "shortName": "Societe Generale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_16",
-      "name": "Stanbic Bank Ghana Limited, part of Standard Bank Group",
-      "shortName": "Stanbic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_17",
-      "name": "United Bank for Africa (Ghana) Limited, part of UBA Group",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_18",
-      "name": "Universal Merchant Bank Limited",
-      "shortName": "Universal Merchant",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_19",
-      "name": "Zenith Bank (Ghana) Limited, part of Zenith Bank Group",
-      "shortName": "Zenith",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_20",
-      "name": "Economy of Ghana",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_21",
-      "name": "Website of Bank of Ghana",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_22",
-      "name": "Access Bank Ghana Limited",
-      "shortName": "Access",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_23",
-      "name": "Agricultural Development Bank of Ghana",
-      "shortName": "Agricultural Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_24",
-      "name": "Bank of Africa Ghana Limited",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_25",
       "name": "CalBank",
       "shortName": "CalBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_26",
+      "code": "GH_5",
       "name": "Consolidated Bank Ghana",
-      "shortName": "Consolidated",
+      "shortName": "Consolidated Ghana",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CBG"
     },
     {
-      "code": "GH_27",
-      "name": "Databank Group",
-      "shortName": "Databank Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_28",
+      "code": "GH_6",
       "name": "Ecobank Ghana",
       "shortName": "Ecobank Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_29",
-      "name": "FBN Bank Ghana Limited",
-      "shortName": "FBN",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_30",
+      "code": "GH_7",
       "name": "Fidelity Bank Ghana",
-      "shortName": "Fidelity",
+      "shortName": "Fidelity Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_31",
+      "code": "GH_8",
       "name": "First Atlantic Bank",
       "shortName": "First Atlantic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_32",
+      "code": "GH_9",
       "name": "First National Bank Ghana",
-      "shortName": "First National",
+      "shortName": "First National Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_33",
-      "name": "GCB Bank Limited",
+      "code": "GH_10",
+      "name": "GCB Bank",
       "shortName": "GCB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_34",
+      "code": "GH_11",
       "name": "Guaranty Trust Bank Ghana",
-      "shortName": "Guaranty Trust",
+      "shortName": "Guaranty Trust Ghana",
       "type": "bank",
-      "aliases": ""
+      "aliases": "GTBank"
     },
     {
-      "code": "GH_35",
+      "code": "GH_12",
       "name": "National Investment Bank",
       "shortName": "National Investment",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NIB"
     },
     {
-      "code": "GH_36",
-      "name": "Republic Bank Ghana Limited",
-      "shortName": "Republic",
+      "code": "GH_13",
+      "name": "OmniBSIC Bank",
+      "shortName": "OmniBSIC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_37",
+      "code": "GH_14",
+      "name": "Prudential Bank",
+      "shortName": "Prudential",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GH_15",
+      "name": "Republic Bank Ghana",
+      "shortName": "Republic Ghana",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GH_16",
       "name": "Societe Generale Ghana",
-      "shortName": "Societe Generale",
+      "shortName": "Societe Generale Gha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_38",
-      "name": "Stanbic Bank Ghana Limited",
-      "shortName": "Stanbic",
+      "code": "GH_17",
+      "name": "Stanbic Bank Ghana",
+      "shortName": "Stanbic Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_39",
+      "code": "GH_18",
       "name": "Standard Chartered Bank Ghana",
-      "shortName": "Standard Chartered",
+      "shortName": "Standard Chartered G",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_40",
-      "name": "UBA Ghana Limited",
-      "shortName": "UBA Ghana",
+      "code": "GH_19",
+      "name": "United Bank for Africa Ghana",
+      "shortName": "United for Africa Gh",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
-      "code": "GH_41",
+      "code": "GH_20",
+      "name": "Universal Merchant Bank",
+      "shortName": "Universal Merchant",
+      "type": "bank",
+      "aliases": "UMB"
+    },
+    {
+      "code": "GH_21",
       "name": "Zenith Bank Ghana",
-      "shortName": "Zenith",
+      "shortName": "Zenith Ghana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GH_42",
-      "name": "ABii National",
-      "shortName": "ABii National",
-      "type": "bank",
+      "code": "GH_22",
+      "name": "AT Money",
+      "shortName": "AT Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GH_43",
-      "name": "Savings and Loans Company",
-      "shortName": "Savings and",
-      "type": "bank",
+      "code": "GH_23",
+      "name": "G-Money",
+      "shortName": "G-Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GH_44",
-      "name": "Enterprise Group",
-      "shortName": "Enterprise Group",
-      "type": "bank",
+      "code": "GH_24",
+      "name": "MoMo",
+      "shortName": "MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GH_45",
-      "name": "SIC Insurance Company",
-      "shortName": "SIC Insurance",
-      "type": "bank",
+      "code": "GH_25",
+      "name": "Telecel Cash",
+      "shortName": "Telecel Cash",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GH_46",
-      "name": "Electricity",
-      "shortName": "Electricity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_47",
-      "name": "Salt",
-      "shortName": "Salt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_48",
-      "name": "Healthcare",
-      "shortName": "Healthcare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_49",
-      "name": "Manufacturing",
-      "shortName": "Manufacturing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_50",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_51",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_52",
-      "name": "Ghana Federation of Labour",
-      "shortName": "Ghana Federation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_53",
-      "name": "Trades Union Congress of Ghana",
-      "shortName": "Trades Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_54",
-      "name": "Takoradi Harbour",
-      "shortName": "Takoradi Harbour",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_55",
-      "name": "Tema Harbour",
-      "shortName": "Tema Harbour",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_56",
-      "name": "&#160; Ghana templates",
-      "shortName": "&#160; Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_57",
-      "name": "&#160; Ghana topics",
-      "shortName": "&#160; Ghana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_58",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_59",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_60",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_61",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_62",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_63",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_64",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_65",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_66",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_67",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_68",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GH_69",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "code": "GH_26",
+      "name": "Zeepay",
+      "shortName": "Zeepay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

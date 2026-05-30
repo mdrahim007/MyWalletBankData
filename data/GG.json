@@ -1,727 +1,146 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GG",
   "institutions": [
     {
       "code": "GG_0",
-      "name": "ABN Amro (Guernsey) Limited",
-      "shortName": "ABN Amro",
+      "name": "Bank J. Safra Sarasin",
+      "shortName": "Bank J. Safra Sarasi",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_1",
-      "name": "Bank J. Safra Sarasin Limited, Guernsey Branch",
-      "shortName": "Bank J.",
+      "name": "Bank Julius Baer & Co.",
+      "shortName": "Bank Julius Baer & C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_2",
-      "name": "Bank Julius Baer &amp; Co. Ltd, Guernsey Branch",
-      "shortName": "Bank Julius",
+      "name": "Barclays Bank PLC",
+      "shortName": "Barclays",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_3",
-      "name": "Bank of Cyprus (Channel Islands)",
-      "shortName": "Bank of",
+      "name": "Butterfield Bank (Guernsey) Limited",
+      "shortName": "Butterfield (Guernse",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GG_4",
-      "name": "Banque cantonale vaudoise, Guernsey Branch",
-      "shortName": "Banque cantonale",
+      "name": "Cornèr Bank Limited",
+      "shortName": "Cornèr",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_5",
-      "name": "Barclays Bank PLC, Guernsey Branch",
-      "shortName": "Barclays",
+      "name": "EFG Bank AG",
+      "shortName": "EFG AG",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_6",
-      "name": "BNP Paribas (Suisse) SA, Guernsey Branch",
-      "shortName": "BNP Paribas",
+      "name": "FirstRand Bank Limited",
+      "shortName": "FirstRand",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_7",
-      "name": "Butterfield Bank (Guernsey) Limited",
-      "shortName": "Butterfield",
+      "name": "HSBC Bank plc",
+      "shortName": "HSBC",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_8",
-      "name": "Credit Suisse (Channel Islands) Limited",
-      "shortName": "Credit Suisse",
+      "name": "Investec Bank (Channel Islands) Limited",
+      "shortName": "Investec (Channel Is",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GG_9",
-      "name": "Credit Suisse A.G., Guernsey Branch",
-      "shortName": "Credit Suisse",
+      "name": "Lloyds Bank Corporate Markets plc",
+      "shortName": "Lloyds Corporate Mar",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_10",
-      "name": "Deutsche Bank International Limited – Guernsey Branch",
-      "shortName": "Deutsche",
+      "name": "Northern Trust (Guernsey) Limited",
+      "shortName": "Northern Trust (Guer",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GG_11",
-      "name": "EFG Private Bank (Channel Islands) Limited",
-      "shortName": "EFG Private",
+      "name": "Rothschild & Co Bank International Limited",
+      "shortName": "Rothschild & Co Inte",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GG_12",
-      "name": "HSBC Bank Plc, Guernsey Branch",
-      "shortName": "HSBC",
+      "name": "Royal Bank of Canada (Channel Islands) Limited",
+      "shortName": "Royal of Canada (Cha",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GG_13",
-      "name": "HSBC Private Bank (C.I.) Limited",
-      "shortName": "HSBC Private",
+      "name": "Royal Bank of Scotland International Limited",
+      "shortName": "Royal of Scotland In",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
       "code": "GG_14",
-      "name": "HSBC Private Bank (Suisse) S.A., Guernsey Branch",
-      "shortName": "HSBC Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_15",
-      "name": "Kleinwort Benson (Channel Islands) Limited",
-      "shortName": "Kleinwort Benson",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_16",
-      "name": "Northern Trust (Guernsey) Limited",
-      "shortName": "Northern Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_17",
-      "name": "Rothschild Bank (CI) Limited",
-      "shortName": "Rothschild",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_18",
-      "name": "Rothschild Bank International Limited",
-      "shortName": "Rothschild",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_19",
-      "name": "Royal Bank of Canada (Channel Islands) Limited",
-      "shortName": "Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_20",
       "name": "Schroders (C.I.) Limited",
       "shortName": "Schroders (C.I.)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GG_21",
-      "name": "SG Hambros Bank (Channel Islands) Limited – Guernsey Branch",
-      "shortName": "SG Hambros",
+      "code": "GG_15",
+      "name": "SG Kleinwort Hambros Bank Limited",
+      "shortName": "SG Kleinwort Hambros",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_22",
-      "name": "Skipton Guernsey",
-      "shortName": "Skipton Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_23",
-      "name": "Archaeology",
-      "shortName": "Archaeology",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_24",
-      "name": "Braye du Valle",
-      "shortName": "Braye du",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_25",
-      "name": "Jews in Guernsey",
-      "shortName": "Jews in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_26",
-      "name": "Royal Guernsey Light Infantry",
-      "shortName": "Royal Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_27",
-      "name": "Royal Guernsey Militia",
-      "shortName": "Royal Guernsey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_28",
-      "name": "Windmills",
-      "shortName": "Windmills",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_29",
-      "name": "Witch trials",
-      "shortName": "Witch trials",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_30",
-      "name": "Bréhon Tower",
-      "shortName": "Bréhon Tower",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_31",
-      "name": "Castle Cornet",
-      "shortName": "Castle Cornet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_32",
-      "name": "Chateau des Marais",
-      "shortName": "Chateau des",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_33",
-      "name": "Doyle Monument",
-      "shortName": "Doyle Monument",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_34",
-      "name": "Fort Grey",
-      "shortName": "Fort Grey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_35",
-      "name": "Fort Hommet",
-      "shortName": "Fort Hommet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_36",
-      "name": "Vale Castle",
-      "shortName": "Vale Castle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_37",
-      "name": "Evacuation",
-      "shortName": "Evacuation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_38",
-      "name": "Resistance",
-      "shortName": "Resistance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_39",
-      "name": "Collaboration",
-      "shortName": "Collaboration",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_40",
-      "name": "Civilian life",
-      "shortName": "Civilian life",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_41",
-      "name": "Deportations",
-      "shortName": "Deportations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_42",
-      "name": "German fortification of Guernsey",
-      "shortName": "German fortification",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_43",
-      "name": "Channel Islands Occupation Society",
-      "shortName": "Channel Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_44",
-      "name": "German Occupation Museum",
-      "shortName": "German Occupation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_45",
-      "name": "Alderney",
-      "shortName": "Alderney",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_46",
-      "name": "Brecqhou",
-      "shortName": "Brecqhou",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_47",
-      "name": "Herm",
-      "shortName": "Herm",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_48",
-      "name": "Jethou",
-      "shortName": "Jethou",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_49",
-      "name": "Lihou",
-      "shortName": "Lihou",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_50",
-      "name": "Sark",
-      "shortName": "Sark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_51",
-      "name": "Castel",
-      "shortName": "Castel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_52",
-      "name": "Forest",
-      "shortName": "Forest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_53",
-      "name": "St Andrew",
-      "shortName": "St Andrew",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_54",
-      "name": "St Martin",
-      "shortName": "St Martin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_55",
-      "name": "St Peter Port",
-      "shortName": "St Peter",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_56",
-      "name": "St Pierre du Bois",
-      "shortName": "St Pierre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_57",
-      "name": "St Sampson",
-      "shortName": "St Sampson",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_58",
-      "name": "St Saviour",
-      "shortName": "St Saviour",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_59",
-      "name": "Torteval",
-      "shortName": "Torteval",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_60",
-      "name": "Vale",
-      "shortName": "Vale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_61",
-      "name": "Guernsey Grammar School and Sixth Form Centre",
-      "shortName": "Guernsey Grammar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_62",
-      "name": "La Mare de Carteret",
-      "shortName": "La Mare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_63",
-      "name": "St Sampson's High",
-      "shortName": "St Sampson's",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_64",
-      "name": "Blanchelande College",
-      "shortName": "Blanchelande College",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_65",
-      "name": "Elizabeth College",
-      "shortName": "Elizabeth College",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_66",
-      "name": "The Ladies' College",
-      "shortName": "The Ladies'",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_67",
-      "name": "Courts of Guernsey",
-      "shortName": "Courts of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_68",
-      "name": "Duke of Normandy",
-      "shortName": "Duke of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_69",
-      "name": "Greffier",
-      "shortName": "Greffier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_70",
-      "name": "Laws",
-      "shortName": "Laws",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_71",
-      "name": "Lieutenant Governor",
-      "shortName": "Lieutenant Governor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_72",
-      "name": "Politics of Guernsey",
-      "shortName": "Politics of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_73",
-      "name": "States of Election",
-      "shortName": "States of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_74",
-      "name": "States Assembly",
-      "shortName": "States Assembly",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_75",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_76",
-      "name": "Guernsey Post",
-      "shortName": "Guernsey Post",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_77",
-      "name": "Stock Exchange",
-      "shortName": "Stock Exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_78",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_79",
-      "name": "Aurigny",
-      "shortName": "Aurigny",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_80",
-      "name": "Rail",
-      "shortName": "Rail",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_81",
-      "name": "Harbour",
-      "shortName": "Harbour",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_82",
-      "name": "Fire",
-      "shortName": "Fire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_83",
-      "name": "Lifeboat",
-      "shortName": "Lifeboat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_84",
-      "name": "Police",
-      "shortName": "Police",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_85",
-      "name": "Catholic Church",
-      "shortName": "Catholic Church",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_86",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_87",
-      "name": "St James",
-      "shortName": "St James",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_88",
-      "name": "Town Church",
-      "shortName": "Town Church",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_89",
-      "name": "St Martin's Church",
-      "shortName": "St Martin's",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "Guernsey Branch"
     },
     {
-      "code": "GG_90",
-      "name": "Vale Church",
-      "shortName": "Vale Church",
+      "code": "GG_16",
+      "name": "Skipton International Limited",
+      "shortName": "Skipton Internationa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GG_91",
-      "name": "Chapel of St Apolline",
-      "shortName": "Chapel of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_92",
-      "name": "Television",
-      "shortName": "Television",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_93",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_94",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_95",
-      "name": "Floral emblem",
-      "shortName": "Floral emblem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_96",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_97",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_98",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
+      "code": "GG_17",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GG_99",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_100",
-      "name": "Economy of Guernsey",
-      "shortName": "Economy of",
-      "type": "bank",
+      "code": "GG_18",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GG_101",
-      "name": "Guernsey-related lists",
-      "shortName": "Guernsey-related lists",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GG_102",
-      "name": "Use dmy dates from April 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "code": "GG_19",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]
