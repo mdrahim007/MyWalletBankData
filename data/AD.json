@@ -1,146 +1,62 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "AD",
   "institutions": [
     {
       "code": "AD_0",
-      "name": "Andbank",
-      "shortName": "Andbank",
+      "name": "Andbank *(Andorra Banc Agrícol Reig, SA)*",
+      "shortName": "Andbank *(Andorra Ba",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AD_1",
-      "name": "Banc Sabadell d'Andorra ('A)",
-      "shortName": "Banc Sabadell",
+      "name": "BancSabadell d'Andorra *(Fully integrated into MoraBanc but widely searched via legacy accounts)*",
+      "shortName": "BancSabadell d'Andor",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AD_2",
-      "name": "Banca Privada d'Andorra (BPA), under resolution.",
-      "shortName": "Banca Privada",
+      "name": "Creand *(Formerly operating as Crèdit Andorrà, SA)*",
+      "shortName": "Creand *(Formerly op",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AD_3",
-      "name": "Creand",
-      "shortName": "Creand",
+      "name": "MoraBanc *(Mora Banc Grup, SA)*",
+      "shortName": "MoraBanc *(Mora Banc",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AD_4",
-      "name": "MoraBanc&#160;&#91;fr&#93;",
-      "shortName": "MoraBanc&#160;&#91;fr&#93;",
+      "name": "Vall Banc *(Fully integrated into Creand but relevant for legacy user account tracking)*",
+      "shortName": "Vall Banc *(Fully in",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AD_5",
-      "name": "Mora Banc Grup",
-      "shortName": "Mora Banc",
-      "type": "bank",
+      "name": "Bizum",
+      "shortName": "Bizum",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AD_6",
-      "name": "Revolution",
-      "shortName": "Revolution",
-      "type": "bank",
+      "name": "Cartera Digital d'Andorra",
+      "shortName": "Cartera Digital d'An",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AD_7",
-      "name": "Iberian Peninsula",
-      "shortName": "Iberian Peninsula",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_8",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_9",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_10",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_11",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_12",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_13",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_14",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_15",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_16",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_17",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_18",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AD_19",
-      "name": "Use dmy dates from April 2025",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
