@@ -1,335 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "CM",
   "institutions": [
     {
       "code": "CM_0",
-      "name": "Access Bank, part of Access Bank Group",
-      "shortName": "Access,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_1",
-      "name": "Africa Golden Bank (AGB)",
-      "shortName": "Africa Golden",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_2",
-      "name": "Afriland First Bank (AFB)",
+      "name": "Afriland First Bank",
       "shortName": "Afriland First",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "CM_1",
+      "name": "Banque Atlantique Cameroun",
+      "shortName": "Banque Atlantique Ca",
+      "type": "bank",
+      "aliases": "BACM"
+    },
+    {
+      "code": "CM_2",
+      "name": "Banque Internationale du Cameroun pour l'Épargne et le Crédit",
+      "shortName": "Banque International",
+      "type": "bank",
+      "aliases": "BICEC"
+    },
+    {
       "code": "CM_3",
-      "name": "BANGE Bank Cameroun, part of BANGE Group&#160;&#91;es&#93;",
-      "shortName": "BANGE",
+      "name": "BGFIBank Cameroun",
+      "shortName": "BGFIBank Cameroun",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CM_4",
-      "name": "Banque Atlantique Cameroun (BACM), part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "CCA-Bank",
+      "shortName": "CCA-Bank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Crédit Communautaire d'Afrique"
     },
     {
       "code": "CM_5",
-      "name": "Citibank Cameroun, part of Citigroup",
-      "shortName": "Citibank Cameroun,",
+      "name": "Citibank Cameroon",
+      "shortName": "Citibank Cameroon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CM_6",
-      "name": "Commercial Bank Cameroon (CBC)",
-      "shortName": "Commercial",
+      "name": "Commercial Bank-Cameroon",
+      "shortName": "Commercial-Cameroon",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CBC"
     },
     {
       "code": "CM_7",
-      "name": "Crédit Communautaire d'Afrique – Bank (CCA-BANK)",
-      "shortName": "Crédit Communautaire",
+      "name": "Ecobank Cameroun",
+      "shortName": "Ecobank Cameroun",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CM_8",
-      "name": "Ecobank Cameroun, part of Ecobank Group",
-      "shortName": "Ecobank Cameroun,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_9",
       "name": "La Régionale Bank",
       "shortName": "La Régionale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CM_10",
-      "name": "National Financial Credit Bank (NFC-B)",
-      "shortName": "National Financial",
+      "code": "CM_9",
+      "name": "National Financial Credit Bank",
+      "shortName": "National Financial C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NFC Bank"
+    },
+    {
+      "code": "CM_10",
+      "name": "Société Générale Cameroun",
+      "shortName": "Société Générale Cam",
+      "type": "bank",
+      "aliases": "SG Cameroun"
     },
     {
       "code": "CM_11",
-      "name": "Union Bank of Cameroon (UBC), part of Oceanic Bank Group",
-      "shortName": "Union",
+      "name": "Standard Chartered Bank Cameroon",
+      "shortName": "Standard Chartered C",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CM_12",
-      "name": "United Bank for Africa (UBA), part of UBA Group",
-      "shortName": "United",
+      "name": "Union Bank of Cameroon",
+      "shortName": "Union of Cameroon",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBC"
     },
     {
       "code": "CM_13",
-      "name": "Central Bank of Central African States",
-      "shortName": "Central",
+      "name": "United Bank for Africa Cameroon",
+      "shortName": "United for Africa Ca",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "CM_14",
-      "name": "Website of Central Bank of Central African States (French)",
-      "shortName": "Website of",
-      "type": "bank",
+      "name": "Campost Money",
+      "shortName": "Campost Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CM_15",
-      "name": "Addresses of Some Commercial Banks In Cameroon",
-      "shortName": "Addresses of",
-      "type": "bank",
+      "name": "Express Union Mobile Money",
+      "shortName": "Express Union Mobile",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CM_16",
-      "name": "Many New Banks Entering Cameroon",
-      "shortName": "Many New",
-      "type": "bank",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CM_17",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_18",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_19",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_20",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_21",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_22",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_23",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_24",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_25",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_26",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_27",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_28",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_29",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_30",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_31",
-      "name": "Privatisation",
-      "shortName": "Privatisation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_32",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_33",
-      "name": "Cocoa",
-      "shortName": "Cocoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_34",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_35",
-      "name": "Cotton",
-      "shortName": "Cotton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_36",
-      "name": "Maize",
-      "shortName": "Maize",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_37",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_38",
-      "name": "Palm products",
-      "shortName": "Palm products",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_39",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_40",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_41",
-      "name": "Rubber",
-      "shortName": "Rubber",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_42",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_43",
-      "name": "Tea",
-      "shortName": "Tea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_44",
-      "name": "Timber",
-      "shortName": "Timber",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_45",
-      "name": "Tobacco",
-      "shortName": "Tobacco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CM_46",
-      "name": "Wheat",
-      "shortName": "Wheat",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

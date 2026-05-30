@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CK",
   "institutions": [
     {
       "code": "CK_0",
-      "name": "Central Bank of CK",
-      "shortName": "Central Bank",
+      "name": "ANZ Bank Cook Islands",
+      "shortName": "ANZ Cook Islands",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CK_1",
-      "name": "National Bank of CK",
-      "shortName": "National Bank",
+      "name": "Bank of the Cook Islands",
+      "shortName": "Bank of the Cook Isl",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
       "code": "CK_2",
-      "name": "State Bank of CK",
-      "shortName": "State Bank",
+      "name": "BSP (Bank of South Pacific) Cook Islands",
+      "shortName": "BSP (Bank of South P",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CK_3",
-      "name": "Commercial Bank of CK",
-      "shortName": "Commercial Bank",
+      "name": "Capital Security Bank",
+      "shortName": "Capital Security",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CSB"
     },
     {
       "code": "CK_4",
-      "name": "First CK Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "E-Moni",
+      "shortName": "E-Moni",
+      "type": "mfs",
       "aliases": ""
     }
   ]
