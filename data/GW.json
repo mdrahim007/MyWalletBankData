@@ -1,153 +1,62 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GW",
   "institutions": [
     {
       "code": "GW_0",
-      "name": "Banco Da União (BDU)",
-      "shortName": "Banco Da",
+      "name": "Banco da África Ocidental",
+      "shortName": "da África Ocidental",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAO"
     },
     {
       "code": "GW_1",
-      "name": "Ecobank Guinée-Bissau, part of Ecobank Group",
-      "shortName": "Ecobank Guinée-Bissau,",
+      "name": "Banco da União",
+      "shortName": "da União",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDU"
     },
     {
       "code": "GW_2",
-      "name": "Branch of Coris Bank Senegal, part of Coris Bank Group",
-      "shortName": "Branch of",
+      "name": "Banque Atlantique da Guinée-Bissau",
+      "shortName": "Banque Atlantique da",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GW_3",
-      "name": "Branch of Orabank Côte d'Ivoire, part of Orabank Group",
-      "shortName": "Branch of",
+      "name": "Coris Bank International Guinée Bissau",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GW_4",
-      "name": "Economy of Guinea-Bissau",
-      "shortName": "Economy of",
+      "name": "Ecobank Guinée-Bissau",
+      "shortName": "Ecobank Guinée-Bissa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GW_5",
-      "name": "Website of Central Bank of West African States",
-      "shortName": "Website of",
+      "name": "Orabank Guinée-Bissau",
+      "shortName": "Orabank Guinée-Bissa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GW_6",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GW_7",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_8",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_9",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_10",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_11",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_12",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_13",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_14",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_15",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_16",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_17",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_18",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_19",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GW_20",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

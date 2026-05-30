@@ -1,41 +1,146 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "GT",
   "institutions": [
     {
       "code": "GT_0",
-      "name": "Central Bank of GT",
-      "shortName": "Central Bank",
+      "name": "Banco Agromercantil de Guatemala",
+      "shortName": "Agromercantil de Gua",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAM"
     },
     {
       "code": "GT_1",
-      "name": "National Bank of GT",
-      "shortName": "National Bank",
+      "name": "Banco Azteca de Guatemala",
+      "shortName": "Azteca de Guatemala",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GT_2",
-      "name": "State Bank of GT",
-      "shortName": "State Bank",
+      "name": "Banco Cuscatlán de Guatemala",
+      "shortName": "Cuscatlán de Guatema",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GT_3",
-      "name": "Commercial Bank of GT",
-      "shortName": "Commercial Bank",
+      "name": "Banco de Antigua",
+      "shortName": "de Antigua",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GT_4",
-      "name": "First GT Bank",
-      "shortName": "First Bank",
+      "name": "Banco de los Trabajadores",
+      "shortName": "de los Trabajadores",
       "type": "bank",
+      "aliases": "Bantrab"
+    },
+    {
+      "code": "GT_5",
+      "name": "Banco del Quetzal",
+      "shortName": "del Quetzal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_6",
+      "name": "Banco Ficohsa Guatemala",
+      "shortName": "Ficohsa Guatemala",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_7",
+      "name": "Banco G&T Continental",
+      "shortName": "G&T Continental",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_8",
+      "name": "Banco Industrial",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_9",
+      "name": "Banco Inmobiliario",
+      "shortName": "Inmobiliario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_10",
+      "name": "Banco Internacional",
+      "shortName": "Internacional",
+      "type": "bank",
+      "aliases": "InterBanco"
+    },
+    {
+      "code": "GT_11",
+      "name": "Banco Promerica Guatemala",
+      "shortName": "Promerica Guatemala",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_12",
+      "name": "Banco Reformador",
+      "shortName": "Reformador",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_13",
+      "name": "Banrural",
+      "shortName": "Banrural",
+      "type": "bank",
+      "aliases": "Banco de Desarrollo Rural"
+    },
+    {
+      "code": "GT_14",
+      "name": "El Crédito Hipotecario Nacional de Guatemala",
+      "shortName": "El Crédito Hipotecar",
+      "type": "bank",
+      "aliases": "CHN"
+    },
+    {
+      "code": "GT_15",
+      "name": "Vivibanco",
+      "shortName": "Vivibanco",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GT_16",
+      "name": "Fri",
+      "shortName": "Fri",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GT_17",
+      "name": "Kash",
+      "shortName": "Kash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GT_18",
+      "name": "Tigo Money",
+      "shortName": "Tigo Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GT_19",
+      "name": "UffPay",
+      "shortName": "UffPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

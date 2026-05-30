@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "GU",
   "institutions": [
     {
       "code": "GU_0",
-      "name": "Central Bank of GU",
-      "shortName": "Central Bank",
+      "name": "Bank of Guam",
+      "shortName": "Bank of Guam",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GU_1",
-      "name": "National Bank of GU",
-      "shortName": "National Bank",
+      "name": "Bank of Hawaii",
+      "shortName": "Bank of Hawaii",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GU_2",
-      "name": "State Bank of GU",
-      "shortName": "State Bank",
+      "name": "Coast360 Federal Credit Union",
+      "shortName": "Coast360 Federal Cre",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GU_3",
-      "name": "Commercial Bank of GU",
-      "shortName": "Commercial Bank",
+      "name": "Community First Guam Federal Credit Union",
+      "shortName": "Community First Guam",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GU_4",
-      "name": "First GU Bank",
-      "shortName": "First Bank",
+      "name": "First Hawaiian Bank",
+      "shortName": "First Hawaiian",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GU_5",
+      "name": "Cash App",
+      "shortName": "Cash App",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GU_6",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GU_7",
+      "name": "Venmo",
+      "shortName": "Venmo",
+      "type": "mfs",
       "aliases": ""
     }
   ]
