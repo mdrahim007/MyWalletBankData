@@ -1,41 +1,55 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "AW",
   "institutions": [
     {
       "code": "AW_0",
-      "name": "Central Bank of AW",
-      "shortName": "Central Bank",
+      "name": "AIB Bank N.V.",
+      "shortName": "AIB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AW_1",
-      "name": "National Bank of AW",
-      "shortName": "National Bank",
+      "name": "Aruba Bank N.V.",
+      "shortName": "Aruba",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AW_2",
-      "name": "State Bank of AW",
-      "shortName": "State Bank",
+      "name": "Banco di Caribe N.V.",
+      "shortName": "Banco di Caribe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AW_3",
-      "name": "Commercial Bank of AW",
-      "shortName": "Commercial Bank",
+      "name": "Caribbean Mercantile Bank N.V.",
+      "shortName": "Caribbean Mercantile",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AW_4",
-      "name": "First AW Bank",
-      "shortName": "First Bank",
+      "name": "RBC Royal Bank N.V.",
+      "shortName": "RBC Royal",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AW_5",
+      "name": "Pay.aw",
+      "shortName": "Pay.aw",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "AW_6",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "AX",
   "institutions": [
     {
       "code": "AX_0",
-      "name": "Central Bank of AX",
-      "shortName": "Central Bank",
+      "name": "Andelsbanken",
+      "shortName": "Andelsbanken",
       "type": "bank",
-      "aliases": ""
+      "aliases": "OP Financial Group"
     },
     {
       "code": "AX_1",
-      "name": "National Bank of AX",
-      "shortName": "National Bank",
+      "name": "Nordea Bank",
+      "shortName": "Nordea",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AX_2",
-      "name": "State Bank of AX",
-      "shortName": "State Bank",
+      "name": "Ålandsbanken",
+      "shortName": "Ålandsbanken",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Bank of Åland"
     },
     {
       "code": "AX_3",
-      "name": "Commercial Bank of AX",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "MobilePay",
+      "shortName": "MobilePay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AX_4",
-      "name": "First AX Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
