@@ -1,1378 +1,216 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TR",
   "institutions": [
     {
       "code": "TR_0",
-      "name": "Anadolu Bank (1961)",
-      "shortName": "Anadolu",
+      "name": "Akbank",
+      "shortName": "Akbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TR_1",
-      "name": "Bank Ekspres",
-      "shortName": "Bank Ekspres",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_2",
-      "name": "Bank Kapital",
-      "shortName": "Bank Kapital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_3",
-      "name": "Bayındır Bank",
-      "shortName": "Bayındır",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_4",
-      "name": "Demirbank",
-      "shortName": "Demirbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_5",
-      "name": "Dışbank A.Ş.",
-      "shortName": "Dışbank A.Ş.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_6",
-      "name": "Egebank",
-      "shortName": "Egebank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_7",
-      "name": "EGS Bank",
-      "shortName": "EGS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_8",
-      "name": "Emlak Kredi Bank",
-      "shortName": "Emlak Kredi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_9",
-      "name": "Etibank",
-      "shortName": "Etibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_10",
-      "name": "İktisat Bankası",
-      "shortName": "İktisatası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_11",
-      "name": "İmar Bankası",
-      "shortName": "İmarası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_12",
-      "name": "Impexbank",
-      "shortName": "Impexbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_13",
-      "name": "İnterbank",
-      "shortName": "İnterbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_14",
-      "name": "İstanbul Bank",
-      "shortName": "İstanbul",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_15",
-      "name": "Kentbank",
-      "shortName": "Kentbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_16",
-      "name": "Koçbank",
-      "shortName": "Koçbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_17",
-      "name": "Marmara Bank",
-      "shortName": "Marmara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_18",
-      "name": "Osmanlı Bankası (Ottoman Bank)",
-      "shortName": "Osmanlıası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_19",
-      "name": "Oyak Bank",
-      "shortName": "Oyak",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_20",
-      "name": "Pamukbank",
-      "shortName": "Pamukbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_21",
-      "name": "Raybank",
-      "shortName": "Raybank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_22",
-      "name": "Sitebank",
-      "shortName": "Sitebank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_23",
-      "name": "Sümerbank",
-      "shortName": "Sümerbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_24",
-      "name": "Taib Yatırım Bank A.Ş.",
-      "shortName": "Taib Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_25",
-      "name": "Tarişbank",
-      "shortName": "Tarişbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_26",
-      "name": "Toprak Bank",
-      "shortName": "Toprak",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_27",
-      "name": "Töbank",
-      "shortName": "Töbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_28",
-      "name": "Türk Ticaret Bankası",
-      "shortName": "Türk Ticaret",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_29",
-      "name": "Tütünbank (Yaşarbank)",
-      "shortName": "Tütünbank (Yaşarbank)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_30",
-      "name": "TYT Bank",
-      "shortName": "TYT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_31",
-      "name": "Ulusal Bank",
-      "shortName": "Ulusal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_32",
-      "name": "Yurtbank",
-      "shortName": "Yurtbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_33",
-      "name": "Banking in Turkey",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_34",
-      "name": "The Banks Association of Türkiye",
-      "shortName": "Thes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_35",
-      "name": "Participation Banks Association of Türkiye",
-      "shortName": "Participations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_36",
-      "name": "Banking Regulation And Supervision Agency",
-      "shortName": "Banking Regulation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_37",
-      "name": "Halkbank",
-      "shortName": "Halkbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_38",
-      "name": "VakıfBank",
-      "shortName": "VakıfBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_39",
-      "name": "Ziraat Bankası",
-      "shortName": "Ziraatası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_40",
-      "name": "Birleşik Fon Bankası 1",
-      "shortName": "Birleşik Fon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_41",
-      "name": "Anadolubank",
-      "shortName": "Anadolubank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_42",
-      "name": "İşbank",
-      "shortName": "İşbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_43",
-      "name": "Fibabanka",
-      "shortName": "Fibabanka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_44",
-      "name": "Şekerbank",
-      "shortName": "Şekerbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_45",
-      "name": "Turkish Bank",
-      "shortName": "Turkish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_46",
-      "name": "Yapı Kredi",
-      "shortName": "Yapı Kredi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_47",
-      "name": "Alternatif Bank",
-      "shortName": "Alternatif",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_48",
-      "name": "Burgan Bank",
-      "shortName": "Burgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_49",
-      "name": "Citibank",
-      "shortName": "Citibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_50",
-      "name": "DenizBank",
-      "shortName": "DenizBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_51",
-      "name": "Deutsche Bank",
-      "shortName": "Deutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_52",
-      "name": "Garanti BBVA",
-      "shortName": "Garanti BBVA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_53",
-      "name": "HSBC",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_54",
-      "name": "ICBC",
-      "shortName": "ICBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_55",
-      "name": "ING",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_56",
-      "name": "MUFG Bank",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_57",
-      "name": "QNB Turkey",
-      "shortName": "QNB Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_58",
-      "name": "Rabobank",
-      "shortName": "Rabobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_59",
-      "name": "Turk Ekonomi Bankasi",
-      "shortName": "Turk Ekonomi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_60",
-      "name": "Industrial Development Bank of Turkey",
-      "shortName": "Industrial Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_61",
-      "name": "Vakıf Katılım",
-      "shortName": "Vakıf Katılım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_62",
-      "name": "Ziraat Katılım",
-      "shortName": "Ziraat Katılım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_63",
       "name": "Albaraka Türk",
       "shortName": "Albaraka Türk",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_64",
-      "name": "Kuveyt Türk",
-      "shortName": "Kuveyt Türk",
+      "code": "TR_2",
+      "name": "Anadolubank",
+      "shortName": "Anadolubank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_65",
-      "name": "Türkiye Finans",
-      "shortName": "Türkiye Finans",
+      "code": "TR_3",
+      "name": "Burgan Bank",
+      "shortName": "Burgan",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_66",
-      "name": "Dünya Katılım",
-      "shortName": "Dünya Katılım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_67",
-      "name": "Milli Aydın Bank (Tarişbank)",
-      "shortName": "Milli Aydın",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_68",
-      "name": "Ottoman Bank",
-      "shortName": "Ottoman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_69",
-      "name": "1&#160;Under TMSF",
-      "shortName": "1&#160;Under TMSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_70",
-      "name": "italic:&#160;Global branch page",
-      "shortName": "italic:&#160;Global branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_71",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_72",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_73",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_74",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_75",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_76",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_77",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_78",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_79",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_80",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_81",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_82",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_83",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_84",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_85",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_86",
-      "name": "CS1 maint: location",
-      "shortName": "CS1 maint:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_87",
-      "name": "Use dmy dates from May 2014",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_88",
-      "name": "Deposit bank",
-      "shortName": "Deposit bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_89",
-      "name": "State-owned",
-      "shortName": "State-owned",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_90",
-      "name": "1863",
-      "shortName": "1863",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_91",
-      "name": "State-owned&#91;6&#93;",
-      "shortName": "State-owned&#91;6&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_92",
-      "name": "1954",
-      "shortName": "1954",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_93",
-      "name": "Türkiye İş Bankası",
-      "shortName": "Türkiye İş",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_94",
-      "name": "Privately owned",
-      "shortName": "Privately owned",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_95",
-      "name": "1924",
-      "shortName": "1924",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_96",
-      "name": "Halk Bankası",
-      "shortName": "Halkası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_97",
-      "name": "1938",
-      "shortName": "1938",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_98",
-      "name": "Foreign",
-      "shortName": "Foreign",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_99",
-      "name": "1946",
-      "shortName": "1946",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_100",
-      "name": "1984",
-      "shortName": "1984",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_101",
-      "name": "Yapı ve Kredi Bankası",
-      "shortName": "Yapı ve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_102",
-      "name": "1944",
-      "shortName": "1944",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_103",
-      "name": "QNB",
-      "shortName": "QNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_104",
-      "name": "1987",
-      "shortName": "1987",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_105",
-      "name": "1997",
-      "shortName": "1997",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_106",
-      "name": "Türk Eximbank",
-      "shortName": "Türk Eximbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_107",
-      "name": "Development and investment bank",
-      "shortName": "Development and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_108",
-      "name": "TEB",
-      "shortName": "TEB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_109",
-      "name": "1927",
-      "shortName": "1927",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_110",
-      "name": "İller Bankası",
-      "shortName": "İllerası",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_111",
-      "name": "1933",
-      "shortName": "1933",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_112",
-      "name": "Türkiye Sınai Kalkınma Bankası",
-      "shortName": "Türkiye Sınai",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_113",
-      "name": "1950",
-      "shortName": "1950",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_114",
-      "name": "İstanbul Takasbank&#160;&#91;tr&#93;",
-      "shortName": "İstanbul Takasbank&#160;&#91;tr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_115",
-      "name": "1995",
-      "shortName": "1995",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_116",
-      "name": "1990",
-      "shortName": "1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_117",
-      "name": "1975",
-      "shortName": "1975",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_118",
-      "name": "1953",
-      "shortName": "1953",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_119",
-      "name": "1991",
-      "shortName": "1991",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_120",
-      "name": "Aktif Yatırım Bankası",
-      "shortName": "Aktif Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_121",
-      "name": "1998",
-      "shortName": "1998",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_122",
-      "name": "1981",
-      "shortName": "1981",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_123",
-      "name": "ICBC Turkey Bank (formerly Tekstilbank A.Ş.)",
-      "shortName": "ICBC Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_124",
-      "name": "1986",
-      "shortName": "1986",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_125",
-      "name": "Odeabank",
-      "shortName": "Odeabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_126",
-      "name": "2011",
-      "shortName": "2011",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_127",
-      "name": "Nurol Bank",
-      "shortName": "Nurol",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_128",
-      "name": "MUFG Bank Turkey",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_129",
-      "name": "2012",
-      "shortName": "2012",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_130",
-      "name": "1988",
-      "shortName": "1988",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_131",
-      "name": "2021",
-      "shortName": "2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_132",
-      "name": "Destek Yatırım Bankası",
-      "shortName": "Destek Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_133",
-      "name": "Arap Türk Bankası (A&amp;T Bank)",
-      "shortName": "Arap Türk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_134",
-      "name": "1977",
-      "shortName": "1977",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_135",
-      "name": "Turkland Bank",
-      "shortName": "Turkland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_136",
-      "name": "Golden Global Yatırım Bankası",
-      "shortName": "Golden Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_137",
-      "name": "2019",
-      "shortName": "2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_138",
-      "name": "Enpara Bank&#160;&#91;tr&#93;",
-      "shortName": "Enpara&#160;&#91;tr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_139",
-      "name": "2023",
-      "shortName": "2023",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_140",
-      "name": "PASHA Yatırım Bankası",
-      "shortName": "PASHA Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_141",
-      "name": "GSD Yatırım Bankası",
-      "shortName": "GSD Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_142",
-      "name": "2022",
-      "shortName": "2022",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_143",
-      "name": "Birleşik Fon Bankası (formerly Bayındırbank A.Ş.)",
-      "shortName": "Birleşik Fon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_144",
-      "name": "Under TMSF",
-      "shortName": "Under TMSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_145",
-      "name": "1958",
-      "shortName": "1958",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_146",
-      "name": "Intesa Sanpaolo S.p.A.",
-      "shortName": "Intesa Sanpaolo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_147",
-      "name": "2013",
-      "shortName": "2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_148",
-      "name": "Bank of China Turkey",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_149",
-      "name": "2017",
-      "shortName": "2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_150",
-      "name": "JPMorgan Chase",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_151",
-      "name": "2020",
-      "shortName": "2020",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_152",
-      "name": "Ziraat Dinamik Banka A.Ş.",
-      "shortName": "Ziraat Dinamik",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_153",
-      "name": "Bank of America Yatırım Bank",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_154",
-      "name": "1992",
-      "shortName": "1992",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_155",
-      "name": "Misyon Yatırım Bankası",
-      "shortName": "Misyon Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_156",
-      "name": "Colendi Bank A.Ş.",
-      "shortName": "Colendi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_157",
-      "name": "Bank Mellat",
-      "shortName": "Bank Mellat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_158",
-      "name": "Hedef Yatırım Bank",
-      "shortName": "Hedef Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_159",
-      "name": "BankPozitif",
-      "shortName": "BankPozitif",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_160",
-      "name": "Standard Chartered Yatırım Bankası Türk",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_161",
-      "name": "Habib Bank Limited",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_162",
-      "name": "1982",
-      "shortName": "1982",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_163",
-      "name": "Diler Yatırım Bankası",
-      "shortName": "Diler Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_164",
-      "name": "Société Générale",
-      "shortName": "Société Générale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_165",
-      "name": "1989",
-      "shortName": "1989",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_166",
-      "name": "FUPS Bank A.Ş.",
-      "shortName": "FUPS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_167",
-      "name": "Aytemiz Yatırım Bankası A.Ş.",
-      "shortName": "Aytemiz Yatırım",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_168",
-      "name": "2024",
-      "shortName": "2024",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_169",
-      "name": "Kuveyt Türk Katılım Bankası",
-      "shortName": "Kuveyt Türk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_170",
-      "name": "452",
-      "shortName": "452",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_171",
-      "name": "1,047,971",
-      "shortName": "1,047,971",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_172",
-      "name": "2015",
-      "shortName": "2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_173",
-      "name": "220",
-      "shortName": "220",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_174",
-      "name": "638,282",
-      "shortName": "638,282",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_175",
-      "name": "2016",
-      "shortName": "2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_176",
-      "name": "561,830",
-      "shortName": "561,830",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_177",
-      "name": "Albaraka Türk Katılım Bankası",
-      "shortName": "Albaraka Türk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_178",
-      "name": "225",
-      "shortName": "225",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_179",
-      "name": "388,749",
-      "shortName": "388,749",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_180",
-      "name": "Türkiye Finans Katılım Bankası",
-      "shortName": "Türkiye Finans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_181",
-      "name": "2005",
-      "shortName": "2005",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_182",
-      "name": "260",
-      "shortName": "260",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_183",
-      "name": "356,651",
-      "shortName": "356,651",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_184",
-      "name": "Türkiye Emlak Katılım Bankası",
-      "shortName": "Türkiye Emlak",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_185",
-      "name": "2018 (1926)",
-      "shortName": "2018 (1926)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TR_186",
-      "name": "122",
-      "shortName": "122",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "Turkey"
     },
     {
-      "code": "TR_187",
-      "name": "298,369",
-      "shortName": "298,369",
+      "code": "TR_4",
+      "name": "DenizBank",
+      "shortName": "DenizBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_188",
-      "name": "Dünya Katılım (formerly Adabank)",
-      "shortName": "Dünya Katılım",
+      "code": "TR_5",
+      "name": "Enpara",
+      "shortName": "Enpara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_189",
-      "name": "2023 (1984)",
-      "shortName": "2023 (1984)",
+      "code": "TR_6",
+      "name": "Fibabanka",
+      "shortName": "Fibabanka",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_190",
-      "name": "22",
-      "shortName": "22",
+      "code": "TR_7",
+      "name": "Garanti BBVA",
+      "shortName": "Garanti BBVA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_191",
-      "name": "54,048",
-      "shortName": "54,048",
+      "code": "TR_8",
+      "name": "Halkbank",
+      "shortName": "Halkbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_192",
+      "code": "TR_9",
       "name": "Hayat Finans",
       "shortName": "Hayat Finans",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_193",
-      "name": "17,444",
-      "shortName": "17,444",
+      "code": "TR_10",
+      "name": "ICBC Turkey",
+      "shortName": "ICBC Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_194",
-      "name": "TOM Bank",
-      "shortName": "TOM",
+      "code": "TR_11",
+      "name": "ING Turkey",
+      "shortName": "ING Turkey",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TR_195",
-      "name": "14,281",
-      "shortName": "14,281",
+      "code": "TR_12",
+      "name": "Kuveyt Türk",
+      "shortName": "Kuveyt Türk",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_13",
+      "name": "Odeabank",
+      "shortName": "Odeabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_14",
+      "name": "QNB Finansbank",
+      "shortName": "QNB Finansbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_15",
+      "name": "Şekerbank",
+      "shortName": "Şekerbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_16",
+      "name": "TEB",
+      "shortName": "TEB",
+      "type": "bank",
+      "aliases": "Türk Ekonomi Bankası"
+    },
+    {
+      "code": "TR_17",
+      "name": "Tom Bank",
+      "shortName": "Tom",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_18",
+      "name": "Türkiye Finans",
+      "shortName": "Türkiye Finans",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_19",
+      "name": "VakıfBank",
+      "shortName": "VakıfBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_20",
+      "name": "Yapı Kredi",
+      "shortName": "Yapı Kredi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_21",
+      "name": "Ziraat Bankası",
+      "shortName": "Ziraatı",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TR_22",
+      "name": "FastPay",
+      "shortName": "FastPay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_23",
+      "name": "Hadi",
+      "shortName": "Hadi",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_24",
+      "name": "Oldubil",
+      "shortName": "Oldubil",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_25",
+      "name": "Papara",
+      "shortName": "Papara",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_26",
+      "name": "Paycell",
+      "shortName": "Paycell",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_27",
+      "name": "PeP",
+      "shortName": "PeP",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_28",
+      "name": "Pokus",
+      "shortName": "Pokus",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TR_29",
+      "name": "Tosla",
+      "shortName": "Tosla",
+      "type": "mfs",
       "aliases": ""
     }
   ]

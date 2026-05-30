@@ -1,636 +1,279 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TZ",
   "institutions": [
     {
       "code": "TZ_0",
-      "name": "Absa Bank Tanzania Ltd, part of Absa Group",
-      "shortName": "Absa",
+      "name": "Absa Bank Tanzania",
+      "shortName": "Absa Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_1",
-      "name": "Access Bank Tanzania Ltd, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Access Bank Tanzania",
+      "shortName": "Access Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_2",
-      "name": "Akiba Commercial Bank Plc",
+      "name": "Akiba Commercial Bank",
       "shortName": "Akiba Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_3",
-      "name": "Amana Bank Ltd",
+      "name": "Amana Bank",
       "shortName": "Amana",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_4",
-      "name": "Azania Bank Plc, state-owned",
+      "name": "Azania Bank",
       "shortName": "Azania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_5",
-      "name": "Bank of Africa Tanzania Ltd, part of Bank of Africa Group",
-      "shortName": "Bank of",
+      "name": "Bank of Africa Tanzania",
+      "shortName": "Bank of Africa Tanza",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "TZ_6",
-      "name": "Canara Bank Tanzania Ltd",
-      "shortName": "Canara",
+      "name": "Bank of Baroda Tanzania",
+      "shortName": "Bank of Baroda Tanza",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_7",
-      "name": "China Dasheng Bank Ltd",
-      "shortName": "China Dasheng",
+      "name": "Bank of India Tanzania",
+      "shortName": "Bank of India Tanzan",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_8",
-      "name": "Citibank Tanzania Ltd, part of Citigroup",
-      "shortName": "Citibank Tanzania",
+      "name": "Canara Bank Tanzania",
+      "shortName": "Canara Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_9",
-      "name": "CRDB Bank Plc",
-      "shortName": "CRDB",
+      "name": "China Dasheng Bank",
+      "shortName": "China Dasheng",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_10",
-      "name": "Ecobank Tanzania Ltd, part of Ecobank Group",
-      "shortName": "Ecobank Tanzania",
+      "name": "Citibank Tanzania",
+      "shortName": "Citibank Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_11",
-      "name": "Equity Bank Tanzania Ltd, part of Equity Group",
-      "shortName": "Equity",
+      "name": "CRDB Bank",
+      "shortName": "CRDB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_12",
-      "name": "Exim Bank Tanzania Ltd",
-      "shortName": "Exim",
+      "name": "DCB Commercial Bank",
+      "shortName": "DCB Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_13",
-      "name": "Guaranty Trust Bank Tanzania Ltd, part of GTCO Group",
-      "shortName": "Guaranty Trust",
+      "name": "Diamond Trust Bank Tanzania",
+      "shortName": "Diamond Trust Tanzan",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DTB"
     },
     {
       "code": "TZ_14",
-      "name": "Habib African Bank Ltd, part of Habib Bank Group",
-      "shortName": "Habib African",
+      "name": "Ecobank Tanzania",
+      "shortName": "Ecobank Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_15",
-      "name": "I&amp;M Bank Tanzania Ltd, part of I&amp;M Bank Group",
-      "shortName": "I&amp;M",
+      "name": "Equity Bank Tanzania",
+      "shortName": "Equity Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_16",
-      "name": "Letshego Faidika Bank Tanzania Ltd, part of Letshego Group",
-      "shortName": "Letshego Faidika",
+      "name": "Exim Bank Tanzania",
+      "shortName": "Exim Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_17",
-      "name": "Mkombozi Commercial Bank Plc",
-      "shortName": "Mkombozi Commercial",
+      "name": "Guaranty Trust Bank Tanzania",
+      "shortName": "Guaranty Trust Tanza",
       "type": "bank",
-      "aliases": ""
+      "aliases": "GTBank"
     },
     {
       "code": "TZ_18",
-      "name": "Mwalimu Commercial Bank Plc",
-      "shortName": "Mwalimu Commercial",
+      "name": "Habib African Bank",
+      "shortName": "Habib African",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_19",
-      "name": "Mwanga Hakika Bank Ltd",
-      "shortName": "Mwanga Hakika",
+      "name": "I&M Bank Tanzania",
+      "shortName": "I&M Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_20",
-      "name": "National Bank of Commerce Ltd",
-      "shortName": "National",
+      "name": "International Commercial Bank Tanzania",
+      "shortName": "International Commer",
       "type": "bank",
-      "aliases": ""
+      "aliases": "ICB"
     },
     {
       "code": "TZ_21",
-      "name": "NMB Bank Plc",
-      "shortName": "NMB",
+      "name": "KCB Bank Tanzania",
+      "shortName": "KCB Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_22",
-      "name": "Stanbic Bank Tanzania Ltd, part of Standard Bank Group",
-      "shortName": "Stanbic",
+      "name": "Letshego Faidika Bank",
+      "shortName": "Letshego Faidika",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_23",
-      "name": "Tanzania Commercial Bank Plc, state-owned",
-      "shortName": "Tanzania Commercial",
+      "name": "Mkombozi Commercial Bank",
+      "shortName": "Mkombozi Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_24",
-      "name": "United Bank for Africa Tanzania Ltd, part of UBA Group",
-      "shortName": "United",
+      "name": "Mwalimu Commercial Bank",
+      "shortName": "Mwalimu Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_25",
-      "name": "Tanzania Agricultural Development Bank",
-      "shortName": "Tanzania Agricultural",
+      "name": "Mwanga Hakika Bank",
+      "shortName": "Mwanga Hakika",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_26",
-      "name": "TIB Development Bank",
-      "shortName": "TIB Development",
+      "name": "National Bank of Commerce",
+      "shortName": "National of Commerce",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NBC"
     },
     {
       "code": "TZ_27",
-      "name": "Cooperative Bank of Tanzania Ltd",
-      "shortName": "Cooperative",
+      "name": "NCBA Bank Tanzania",
+      "shortName": "NCBA Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_28",
-      "name": "Mucoba Bank Plc",
-      "shortName": "Mucoba",
+      "name": "NMB Bank",
+      "shortName": "NMB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_29",
-      "name": "Uchumi Commercial Bank Ltd",
-      "shortName": "Uchumi Commercial",
+      "name": "People's Bank of Zanzibar",
+      "shortName": "People's of Zanzibar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_30",
-      "name": "Selcom Microfinance Bank Tanzania Ltd",
-      "shortName": "Selcom Microfinance",
+      "name": "Stanbic Bank Tanzania",
+      "shortName": "Stanbic Tanzania",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_31",
-      "name": "VisionFund Tanzania Microfinance Bank Ltd",
-      "shortName": "VisionFund Tanzania",
+      "name": "Standard Chartered Bank Tanzania",
+      "shortName": "Standard Chartered T",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TZ_32",
-      "name": "Yetu Microfinance",
-      "shortName": "Yetu Microfinance",
+      "name": "Tanzania Commercial Bank",
+      "shortName": "Tanzania Commercial",
       "type": "bank",
-      "aliases": ""
+      "aliases": "TCB"
     },
     {
       "code": "TZ_33",
-      "name": "Maendeleo Bank Plc",
-      "shortName": "Maendeleo",
+      "name": "United Bank for Africa Tanzania",
+      "shortName": "United for Africa Ta",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "TZ_34",
-      "name": "First Housing Company Tanzania Limited",
-      "shortName": "First Housing",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TZ_35",
-      "name": "Tandahimba Community Bank Ltd",
-      "shortName": "Tandahimba Community",
-      "type": "bank",
+      "name": "Halopesa",
+      "shortName": "Halopesa",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TZ_36",
-      "name": "Economy of Tanzania",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "M-Pesa",
+      "shortName": "M-Pesa",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TZ_37",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "T-Pesa",
+      "shortName": "T-Pesa",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TZ_38",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_39",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_40",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_41",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_42",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_43",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_44",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_45",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_46",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_47",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_48",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_49",
-      "name": "Tanzanian shilling",
-      "shortName": "Tanzanian shilling",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_50",
-      "name": "Bank of Tanzania",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_51",
-      "name": "Ujamaa",
-      "shortName": "Ujamaa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_52",
-      "name": "Zanzibar Economy",
-      "shortName": "Zanzibar Economy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_53",
-      "name": "Poverty",
-      "shortName": "Poverty",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_54",
-      "name": "Tanzania Mercantile Exchange (TMX)",
-      "shortName": "Tanzania Mercantile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_55",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_56",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_57",
-      "name": "Cashew",
-      "shortName": "Cashew",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_58",
-      "name": "Sisal",
-      "shortName": "Sisal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_59",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_60",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_61",
-      "name": "Chamber of Commerce",
-      "shortName": "Chamber of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_62",
-      "name": "Tanzania Ports Authority",
-      "shortName": "Tanzania Ports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_63",
-      "name": "Airports",
-      "shortName": "Airports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_64",
-      "name": "Roads",
-      "shortName": "Roads",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_65",
-      "name": "Rail",
-      "shortName": "Rail",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_66",
-      "name": "TAZARA Railway",
-      "shortName": "TAZARA Railway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_67",
-      "name": "DART",
-      "shortName": "DART",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_68",
-      "name": "Julius Nyerere International Airport",
-      "shortName": "Julius Nyerere",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_69",
-      "name": "TTCL",
-      "shortName": "TTCL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_70",
-      "name": "Vodacom",
-      "shortName": "Vodacom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_71",
-      "name": "tiGO",
-      "shortName": "tiGO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_72",
-      "name": "Airtel",
-      "shortName": "Airtel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_73",
-      "name": "Halotel",
-      "shortName": "Halotel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_74",
-      "name": "Sasatel",
-      "shortName": "Sasatel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_75",
-      "name": "SEACOM",
-      "shortName": "SEACOM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_76",
-      "name": "EASSy",
-      "shortName": "EASSy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_77",
-      "name": "Dar es Salaam Stock Exchange (DSE)",
-      "shortName": "Dar es",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_78",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_79",
-      "name": "Microfinance",
-      "shortName": "Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_80",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_81",
-      "name": "East African Community",
-      "shortName": "East African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_82",
-      "name": "Southern African Development Community",
-      "shortName": "Southern African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_83",
-      "name": "TANESCO",
-      "shortName": "TANESCO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_84",
-      "name": "Power Plants",
-      "shortName": "Power Plants",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_85",
-      "name": "Petroleum Development",
-      "shortName": "Petroleum Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_86",
-      "name": "Tanzania Atomic Energy Commission",
-      "shortName": "Tanzania Atomic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_87",
-      "name": "East African Railway Master Plan",
-      "shortName": "East African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_88",
-      "name": "Mtwara Development Corridor",
-      "shortName": "Mtwara Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TZ_89",
-      "name": "Use dmy dates from January 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "Tigo Pesa",
+      "shortName": "Tigo Pesa",
+      "type": "mfs",
       "aliases": ""
     }
   ]

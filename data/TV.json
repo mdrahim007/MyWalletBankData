@@ -1,40 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "TV",
   "institutions": [
     {
       "code": "TV_0",
-      "name": "Central Bank of TV",
-      "shortName": "Central Bank",
+      "name": "National Bank of Tuvalu",
+      "shortName": "National of Tuvalu",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TV_1",
-      "name": "National Bank of TV",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TV_2",
-      "name": "State Bank of TV",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TV_3",
-      "name": "Commercial Bank of TV",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TV_4",
-      "name": "First TV Bank",
-      "shortName": "First Bank",
+      "name": "Tuvalu Development Bank",
+      "shortName": "Tuvalu Development",
       "type": "bank",
       "aliases": ""
     }
