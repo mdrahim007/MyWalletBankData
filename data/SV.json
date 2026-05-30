@@ -1,41 +1,104 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "SV",
   "institutions": [
     {
       "code": "SV_0",
-      "name": "Central Bank of SV",
-      "shortName": "Central Bank",
+      "name": "BAC Credomatic El Salvador",
+      "shortName": "BAC Credomatic El Sa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SV_1",
-      "name": "National Bank of SV",
-      "shortName": "National Bank",
+      "name": "Banco Agrícola",
+      "shortName": "Agrícola",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SV_2",
-      "name": "State Bank of SV",
-      "shortName": "State Bank",
+      "name": "Banco Azul",
+      "shortName": "Azul",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SV_3",
-      "name": "Commercial Bank of SV",
-      "shortName": "Commercial Bank",
+      "name": "Banco Cuscatlán",
+      "shortName": "Cuscatlán",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SV_4",
-      "name": "First SV Bank",
-      "shortName": "First Bank",
+      "name": "Banco Davivienda El Salvador",
+      "shortName": "Davivienda El Salvad",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SV_5",
+      "name": "Banco de Fomento Agropecuario",
+      "shortName": "de Fomento Agropecua",
+      "type": "bank",
+      "aliases": "BFA"
+    },
+    {
+      "code": "SV_6",
+      "name": "Banco Hipotecario",
+      "shortName": "Hipotecario",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SV_7",
+      "name": "Banco Industrial El Salvador",
+      "shortName": "Industrial El Salvad",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SV_8",
+      "name": "Banco Promerica El Salvador",
+      "shortName": "Promerica El Salvado",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SV_9",
+      "name": "Chivo",
+      "shortName": "Chivo",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SV_10",
+      "name": "Ditto",
+      "shortName": "Ditto",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SV_11",
+      "name": "Kash",
+      "shortName": "Kash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SV_12",
+      "name": "MoMo",
+      "shortName": "MoMo",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SV_13",
+      "name": "Strike",
+      "shortName": "Strike",
+      "type": "mfs",
       "aliases": ""
     }
   ]

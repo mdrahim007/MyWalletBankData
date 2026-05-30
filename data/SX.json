@@ -1,42 +1,42 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "SX",
   "institutions": [
     {
       "code": "SX_0",
-      "name": "Central Bank of SX",
-      "shortName": "Central Bank",
+      "name": "Banco di Caribe",
+      "shortName": "di Caribe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SX_1",
-      "name": "National Bank of SX",
-      "shortName": "National Bank",
+      "name": "Orco Bank",
+      "shortName": "Orco",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SX_2",
-      "name": "State Bank of SX",
-      "shortName": "State Bank",
+      "name": "RBC Royal Bank",
+      "shortName": "RBC Royal",
       "type": "bank",
-      "aliases": ""
+      "aliases": "St. Maarten"
     },
     {
       "code": "SX_3",
-      "name": "Commercial Bank of SX",
-      "shortName": "Commercial Bank",
+      "name": "Republic Bank",
+      "shortName": "Republic",
       "type": "bank",
-      "aliases": ""
+      "aliases": "St. Maarten"
     },
     {
       "code": "SX_4",
-      "name": "First SX Bank",
-      "shortName": "First Bank",
+      "name": "Windward Islands Bank",
+      "shortName": "Windward Islands",
       "type": "bank",
-      "aliases": ""
+      "aliases": "WIB"
     }
   ]
 }

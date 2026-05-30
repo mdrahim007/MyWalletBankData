@@ -1,96 +1,96 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SY",
   "institutions": [
     {
       "code": "SY_0",
-      "name": "Central Bank of Syria",
-      "shortName": "Central",
+      "name": "Al Baraka Bank Syria",
+      "shortName": "Al Baraka Syria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SY_1",
-      "name": "Commercial Bank of Syria",
-      "shortName": "Commercial",
+      "name": "Agricultural Cooperative Bank",
+      "shortName": "Agricultural Coopera",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SY_2",
-      "name": "Arab Bank (Syria)",
-      "shortName": "Arab",
+      "name": "Arab Bank Syria",
+      "shortName": "Arab Syria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SY_3",
-      "name": "Bank Audi",
-      "shortName": "Bank Audi",
+      "name": "Banque Bemo Saudi Fransi",
+      "shortName": "Banque Bemo Saudi Fr",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SY_4",
-      "name": "Bank of Jordan",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_5",
-      "name": "Bank of Syria and Overseas",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_6",
-      "name": "Banque Bemo Saudi Fransi",
-      "shortName": "Banque Bemo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_7",
-      "name": "Byblos Bank",
-      "shortName": "Byblos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_8",
-      "name": "Fransabank (ceased in 2017)&#91;1&#93;",
-      "shortName": "Fransabank (ceased",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_9",
-      "name": "QNB (Syria)",
-      "shortName": "QNB (Syria)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_10",
-      "name": "Al Baraka Bank",
-      "shortName": "Al Baraka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_11",
       "name": "Cham Bank",
       "shortName": "Cham",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "SY_5",
+      "name": "Commercial Bank of Syria",
+      "shortName": "Commercial of Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SY_6",
+      "name": "Fransabank Syria",
+      "shortName": "Fransabank Syria",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SY_7",
+      "name": "Industrial Bank",
+      "shortName": "Industrial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SY_8",
+      "name": "International Bank for Trade and Finance",
+      "shortName": "International for Tr",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SY_9",
+      "name": "Popular Credit Bank",
+      "shortName": "Popular Credit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "SY_10",
+      "name": "Qatar National Bank Syria",
+      "shortName": "Qatar National Syria",
+      "type": "bank",
+      "aliases": "QNB Syria"
+    },
+    {
+      "code": "SY_11",
+      "name": "Real Estate Bank",
+      "shortName": "Real Estate",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "SY_12",
-      "name": "National Islamic Bank&#91;2&#93;",
-      "shortName": "National Islamic",
+      "name": "Sharq Bank",
+      "shortName": "Sharq",
       "type": "bank",
       "aliases": ""
     },
@@ -103,100 +103,23 @@
     },
     {
       "code": "SY_14",
-      "name": "Banking in Syria",
-      "shortName": "Banking in",
-      "type": "bank",
+      "name": "Bemo Wallet",
+      "shortName": "Bemo Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SY_15",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
+      "name": "Cash",
+      "shortName": "Cash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SY_16",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_17",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_18",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_19",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_20",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_21",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_22",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_23",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_24",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_25",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_26",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SY_27",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
+      "name": "Fatora",
+      "shortName": "Fatora",
+      "type": "mfs",
       "aliases": ""
     }
   ]

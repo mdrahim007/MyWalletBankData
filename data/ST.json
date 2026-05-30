@@ -1,327 +1,40 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ST",
   "institutions": [
     {
       "code": "ST_0",
-      "name": "BGFIBank Sao Tome e Principe SA, part of BGFIBank Group",
-      "shortName": "BGFIBank Sao",
+      "name": "Afriland First Bank STP",
+      "shortName": "Afriland First STP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ST_1",
-      "name": "Ecobank Sao Tome e Principe, part of Ecobank Group",
-      "shortName": "Ecobank Sao",
+      "name": "Banco Internacional de São Tomé e Príncipe",
+      "shortName": "Internacional de São",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BISTP"
     },
     {
       "code": "ST_2",
-      "name": "Central Bank of São Tomé and Príncipe",
-      "shortName": "Central",
+      "name": "BGFIBank São Tomé et Príncipe",
+      "shortName": "BGFIBank São Tomé et",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ST_3",
-      "name": "Economy of São Tomé and Príncipe",
-      "shortName": "Economy of",
+      "name": "Ecobank São Tomé e Príncipe",
+      "shortName": "Ecobank São Tomé e P",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ST_4",
-      "name": "Batepá massacre",
-      "shortName": "Batepá massacre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_5",
-      "name": "MLSTP",
-      "shortName": "MLSTP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_6",
-      "name": "1995",
-      "shortName": "1995",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_7",
-      "name": "2003",
-      "shortName": "2003",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_8",
-      "name": "2022",
-      "shortName": "2022",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_9",
-      "name": "COVID-19 pandemic",
-      "shortName": "COVID-19 pandemic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_10",
-      "name": "Cities and towns",
-      "shortName": "Cities and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_11",
-      "name": "Districts",
-      "shortName": "Districts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_12",
-      "name": "Gulf of Guinea",
-      "shortName": "Gulf of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_13",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_14",
-      "name": "Forests",
-      "shortName": "Forests",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_15",
-      "name": "Pico de São Tomé (mountain)",
-      "shortName": "Pico de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_16",
-      "name": "São Tomé (city)",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_17",
-      "name": "mammals",
-      "shortName": "mammals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_18",
-      "name": "Law",
-      "shortName": "Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_19",
-      "name": "Ministers",
-      "shortName": "Ministers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_20",
-      "name": "National Assembly",
-      "shortName": "National Assembly",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_21",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_22",
-      "name": "Presidents",
-      "shortName": "Presidents",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_23",
-      "name": "Prime Ministers",
-      "shortName": "Prime Ministers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_24",
-      "name": "Cocoa",
-      "shortName": "Cocoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_25",
-      "name": "Currency",
-      "shortName": "Currency",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_26",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_27",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_28",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_29",
-      "name": "Culture",
-      "shortName": "Culture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_30",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_31",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_32",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_33",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_34",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_35",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_36",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_37",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_38",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_39",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_40",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_41",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_42",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_43",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_44",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ST_45",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
+      "name": "Energy Bank São Tomé and Príncipe",
+      "shortName": "Energy São Tomé and",
       "type": "bank",
       "aliases": ""
     }

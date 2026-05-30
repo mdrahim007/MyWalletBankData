@@ -1,167 +1,55 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SZ",
   "institutions": [
     {
       "code": "SZ_0",
-      "name": "First National Bank of Eswatini, part of FirstRand Group",
-      "shortName": "First National",
+      "name": "Eswatini Bank",
+      "shortName": "Eswatini",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SZ_1",
-      "name": "Standard Bank Eswatini Limited, part of Standard Bank Group",
-      "shortName": "Standard",
+      "name": "Eswatini Building Society",
+      "shortName": "Eswatini Building So",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SZ_2",
-      "name": "Nedbank Eswatini Limited, part of Nedbank Group",
+      "name": "First National Bank Eswatini",
+      "shortName": "First National Eswat",
+      "type": "bank",
+      "aliases": "FNB"
+    },
+    {
+      "code": "SZ_3",
+      "name": "Nedbank Eswatini",
       "shortName": "Nedbank Eswatini",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SZ_3",
-      "name": "Eswatini Bank, state-owned",
-      "shortName": "Eswatini,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "SZ_4",
-      "name": "Swaziland Building Society",
-      "shortName": "Swaziland Building",
+      "name": "Standard Bank Eswatini",
+      "shortName": "Standard Eswatini",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SZ_5",
-      "name": "Central Bank of Eswatini",
-      "shortName": "Central",
-      "type": "bank",
+      "name": "e-Moolah",
+      "shortName": "e-Moolah",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SZ_6",
-      "name": "Economy of Eswatini",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_7",
-      "name": "Website of Central Bank of Eswatini",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_8",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_9",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_10",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_11",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_12",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_13",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_14",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_15",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_16",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_17",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_18",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_19",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_20",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_21",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SZ_22",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "name": "MoMo",
+      "shortName": "MoMo",
+      "type": "mfs",
       "aliases": ""
     }
   ]

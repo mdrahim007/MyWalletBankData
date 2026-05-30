@@ -1,300 +1,83 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SS",
   "institutions": [
     {
       "code": "SS_0",
-      "name": "African National Bank",
-      "shortName": "African National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_1",
-      "name": "Agricultural Bank\tof South Sudan",
-      "shortName": "Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_2",
       "name": "Buffalo Commercial Bank",
       "shortName": "Buffalo Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_3",
-      "name": "Charter One Bank South Sudan",
+      "code": "SS_1",
+      "name": "Charter One Bank",
       "shortName": "Charter One",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_4",
+      "code": "SS_2",
       "name": "Cooperative Bank of South Sudan",
-      "shortName": "Cooperative",
+      "shortName": "Cooperative of South",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_5",
-      "name": "Ecobank South Sudan, part of Ecobank Group",
-      "shortName": "Ecobank South",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_6",
+      "code": "SS_3",
       "name": "Eden Commercial Bank",
       "shortName": "Eden Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_7",
-      "name": "Equity Bank South Sudan Limited, part of Equity Group",
-      "shortName": "Equity",
+      "code": "SS_4",
+      "name": "Ecobank South Sudan",
+      "shortName": "Ecobank South Sudan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_8",
-      "name": "International Commercial Bank",
-      "shortName": "International Commercial",
+      "code": "SS_5",
+      "name": "Equity Bank South Sudan",
+      "shortName": "Equity South Sudan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_9",
+      "code": "SS_6",
       "name": "Ivory Bank",
       "shortName": "Ivory",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_10",
-      "name": "KCB Bank South Sudan Limited, part of KCB Group",
-      "shortName": "KCB",
+      "code": "SS_7",
+      "name": "KCB Bank South Sudan",
+      "shortName": "KCB South Sudan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_11",
-      "name": "Kush Bank Plc",
-      "shortName": "Kush",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_12",
-      "name": "Liberty Commercial Bank&#91;2&#93;",
-      "shortName": "Liberty Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_13",
-      "name": "Mountain Trade and Development Bank&#91;3&#93;",
-      "shortName": "Mountain Trade",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_14",
-      "name": "National Credit Bank",
-      "shortName": "National Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_15",
+      "code": "SS_8",
       "name": "Nile Commercial Bank",
       "shortName": "Nile Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_16",
-      "name": "National Investment and Development Bank South Sudan",
-      "shortName": "National Investment",
+      "code": "SS_9",
+      "name": "Stanbic Bank South Sudan",
+      "shortName": "Stanbic South Sudan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "SS_17",
-      "name": "Phoenix Commercial Bank",
-      "shortName": "Phoenix Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_18",
-      "name": "Qatar National Bank, part of QNB Group",
-      "shortName": "Qatar National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_19",
-      "name": "Regent African Bank",
-      "shortName": "Regent African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_20",
-      "name": "Royal Express Bank",
-      "shortName": "Royal Express",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_21",
-      "name": "South Sudan Commercial Bank",
-      "shortName": "South Sudan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_22",
-      "name": "Branch of Stanbic Bank Kenya Limited",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_23",
-      "name": "Alpha Commercial Bank",
-      "shortName": "Alpha Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_24",
-      "name": "Ebony National Bank",
-      "shortName": "Ebony National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_25",
-      "name": "Horizon Bank South Sudan",
-      "shortName": "Horizon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_26",
-      "name": "Banking in South Sudan",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_27",
-      "name": "Economy of South Sudan",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_28",
-      "name": "Website of Buffalo Commercial Bank",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_29",
-      "name": "President Kiir Inaugurates CFC Stanbic Bank Branch In Juba",
-      "shortName": "President Kiir",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_30",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_31",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_32",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_33",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_34",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_35",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_36",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_37",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_38",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_39",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_40",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SS_41",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "code": "SS_10",
+      "name": "m-GURUSH",
+      "shortName": "m-GURUSH",
+      "type": "mfs",
       "aliases": ""
     }
   ]
