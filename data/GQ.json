@@ -1,139 +1,48 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GQ",
   "institutions": [
     {
       "code": "GQ_0",
-      "name": "BGFIBank Equatorial Guinea, part of BGFIBank Group",
+      "name": "Banco Nacional de Guinea Ecuatorial",
+      "shortName": "Nacional de Guinea E",
+      "type": "bank",
+      "aliases": "BANGE"
+    },
+    {
+      "code": "GQ_1",
+      "name": "BGFIBank Equatorial Guinea",
       "shortName": "BGFIBank Equatorial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GQ_1",
-      "name": "CCEI Bank, part of Afriland First Bank Group",
-      "shortName": "CCEI,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "GQ_2",
-      "name": "Bank of Central African States",
-      "shortName": "Bank of",
+      "name": "CCEI Bank Equatorial Guinea",
+      "shortName": "CCEI Equatorial Guin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GQ_3",
-      "name": "Website of Central Bank of Central African States",
-      "shortName": "Website of",
+      "name": "Commercial Bank Guinée Equatoriale",
+      "shortName": "Commercial Guinée Eq",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CBGE"
     },
     {
       "code": "GQ_4",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Ecobank Equatorial Guinea",
+      "shortName": "Ecobank Equatorial G",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GQ_5",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_6",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_7",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_8",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_9",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_10",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_11",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_12",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_13",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_14",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_15",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_16",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_17",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GQ_18",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

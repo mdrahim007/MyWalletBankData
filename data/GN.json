@@ -1,202 +1,160 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GN",
   "institutions": [
     {
       "code": "GN_0",
-      "name": "Access Bank Guinea, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Access Bank Guinea",
+      "shortName": "Access Guinea",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_1",
-      "name": "Banque Nationale de Guinée (BNG)",
-      "shortName": "Banque Nationale",
+      "name": "Afriland First Bank Guinea",
+      "shortName": "Afriland First Guine",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_2",
-      "name": "Banque Populaire Maroco-Guinéenne (BPMG), part of BCP Group",
-      "shortName": "Banque Populaire",
+      "name": "Banque Islamique de Guinée",
+      "shortName": "Banque Islamique de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIG"
     },
     {
       "code": "GN_3",
-      "name": "Skye Bank Guinée, part of Polaris Bank Group",
-      "shortName": "Skye",
+      "name": "Banque Nationale de Guinée",
+      "shortName": "Banque Nationale de",
+      "type": "bank",
+      "aliases": "BNG"
+    },
+    {
+      "code": "GN_4",
+      "name": "Banque Populaire Maroco-Guinéenne",
+      "shortName": "Banque Populaire Mar",
+      "type": "bank",
+      "aliases": "BPMG"
+    },
+    {
+      "code": "GN_5",
+      "name": "BCI Guinée",
+      "shortName": "BCI Guinée",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GN_4",
+      "code": "GN_6",
+      "name": "Coris Bank Guinea",
+      "shortName": "Coris Guinea",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GN_7",
       "name": "Diama Bank",
       "shortName": "Diama",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GN_5",
-      "name": "Ecobank Guinée, part of Ecobank Group",
-      "shortName": "Ecobank Guinée,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_6",
-      "name": "FBNBank, part of First Bank of Nigeria Group",
-      "shortName": "FBNBank, part",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_7",
-      "name": "NSIA Kaloum",
-      "shortName": "NSIA Kaloum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "GN_8",
-      "name": "SPCI Bank",
-      "shortName": "SPCI",
+      "name": "Ecobank Guinée",
+      "shortName": "Ecobank Guinée",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_9",
-      "name": "United Bank for Africa Guinea, part of UBA Group",
-      "shortName": "United",
+      "name": "FBNBank Guinea",
+      "shortName": "FBNBank Guinea",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_10",
-      "name": "Vista Bank Guinée, part of Vista Bank Group",
-      "shortName": "Vista",
+      "name": "NSIA Banque Guinée",
+      "shortName": "NSIA Guinée",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_11",
-      "name": "Economy of Guinea",
-      "shortName": "Economy of",
+      "name": "Orabank Guinea",
+      "shortName": "Orabank Guinea",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_12",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Société Générale Guinée",
+      "shortName": "Société Générale Gui",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_13",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "United Bank for Africa Guinea",
+      "shortName": "United for Africa Gu",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "GN_14",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "Vista Bank Guinée",
+      "shortName": "Vista Guinée",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_15",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Vista Gui",
+      "shortName": "Vista Gui",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GN_16",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
+      "name": "InTouch",
+      "shortName": "InTouch",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GN_17",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
+      "name": "JumiaPay",
+      "shortName": "JumiaPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GN_18",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GN_19",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GN_20",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
+      "name": "PayDunya",
+      "shortName": "PayDunya",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GN_21",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_22",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_23",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_24",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_25",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_26",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GN_27",
-      "name": "Pineapples",
-      "shortName": "Pineapples",
-      "type": "bank",
+      "name": "Wave",
+      "shortName": "Wave",
+      "type": "mfs",
       "aliases": ""
     }
   ]

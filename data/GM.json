@@ -1,41 +1,97 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "GM",
   "institutions": [
     {
       "code": "GM_0",
-      "name": "Central Bank of GM",
-      "shortName": "Central Bank",
+      "name": "Access Bank",
+      "shortName": "Access",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Gambia"
     },
     {
       "code": "GM_1",
-      "name": "National Bank of GM",
-      "shortName": "National Bank",
+      "name": "Agib Bank",
+      "shortName": "Agib",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GM_2",
-      "name": "State Bank of GM",
-      "shortName": "State Bank",
+      "name": "Bloom Bank Africa",
+      "shortName": "Bloom Africa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GM_3",
-      "name": "Commercial Bank of GM",
-      "shortName": "Commercial Bank",
+      "name": "BSIC Gambia",
+      "shortName": "BSIC Gambia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GM_4",
-      "name": "First GM Bank",
-      "shortName": "First Bank",
+      "name": "Ecobank Gambia",
+      "shortName": "Ecobank Gambia",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GM_5",
+      "name": "First Bank Gambia",
+      "shortName": "First Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GM_6",
+      "name": "Guaranty Trust Bank",
+      "shortName": "Guaranty Trust",
+      "type": "bank",
+      "aliases": "Gambia"
+    },
+    {
+      "code": "GM_7",
+      "name": "Mega Bank",
+      "shortName": "Mega",
+      "type": "bank",
+      "aliases": "Gambia"
+    },
+    {
+      "code": "GM_8",
+      "name": "Trust Bank",
+      "shortName": "Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GM_9",
+      "name": "Vista Bank",
+      "shortName": "Vista",
+      "type": "bank",
+      "aliases": "Gambia"
+    },
+    {
+      "code": "GM_10",
+      "name": "Zenith Bank Gambia",
+      "shortName": "Zenith Gambia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GM_11",
+      "name": "Afrimobile Money",
+      "shortName": "Afrimobile Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GM_12",
+      "name": "QMoney",
+      "shortName": "QMoney",
+      "type": "mfs",
       "aliases": ""
     }
   ]
