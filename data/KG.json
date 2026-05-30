@@ -1,944 +1,181 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KG",
   "institutions": [
     {
       "code": "KG_0",
-      "name": "National Bank of the Kyrgyz Republic",
-      "shortName": "National",
+      "name": "ABank",
+      "shortName": "ABank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KG_1",
-      "name": "Brunei",
-      "shortName": "Brunei",
+      "name": "Amanbank",
+      "shortName": "Amanbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KG_2",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_3",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_4",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_5",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_6",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_7",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_8",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_9",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_10",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_11",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_12",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_13",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_14",
-      "name": "Aiyl Bank",
-      "shortName": "Aiyl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_15",
-      "name": "Айыл Банк",
-      "shortName": "Айыл Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_16",
-      "name": "OJSC",
-      "shortName": "OJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_17",
-      "name": "720040, Bishkek,   #14, Logvinenko str.",
-      "shortName": "720040, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_18",
-      "name": "37",
-      "shortName": "37",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_19",
-      "name": "https://www.dcb.kg/en/",
-      "shortName": "https://www.dcb.kg/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_20",
-      "name": "BAKAI BANK",
-      "shortName": "BAKAI BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_21",
-      "name": "Бакай Банк",
-      "shortName": "Бакай Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_22",
-      "name": "720001, Bishkek, #77, Isanov str.",
-      "shortName": "720001, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_23",
-      "name": "23",
-      "shortName": "23",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_24",
-      "name": "https://www.bankasia.kg/en/",
-      "shortName": "https://www.bankasia.kg/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_25",
-      "name": "Bank of Asia",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_26",
-      "name": "Азия Банкы",
-      "shortName": "Азия Банкы",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_27",
-      "name": "CJSC",
-      "shortName": "CJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_28",
-      "name": "720016, Bishkek FEZ, #303 Aitmatov Avenue",
-      "shortName": "720016, Bishkek",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_29",
-      "name": "9",
-      "shortName": "9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_30",
-      "name": "Capital Bank",
-      "shortName": "Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_31",
-      "name": "Капитал Банк",
-      "shortName": "Капитал Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_32",
-      "name": "720017, Bishkek, #161, Moskovskaya str.",
-      "shortName": "720017, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_33",
-      "name": "5",
-      "shortName": "5",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_34",
-      "name": "https://www.capitalbank.kg/",
-      "shortName": "https://www.capitalbank.kg/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_35",
-      "name": "Commercial bank KYRGYZSTAN",
-      "shortName": "Commercial bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_36",
-      "name": "Коммерциялык Банк КЫРГЫЗСТАН",
-      "shortName": "Коммерциялык Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_37",
-      "name": "720033, Bishkek, #54a, Togolok Moldo str.",
-      "shortName": "720033, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_38",
-      "name": "20",
-      "shortName": "20",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_39",
-      "name": "DKIB",
-      "shortName": "DKIB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_40",
-      "name": "Демир Кыргыз Эл Аралык Банкы",
-      "shortName": "Демир Кыргыз",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_41",
-      "name": "720001, Bishkek, #245, 2,3 floors, Chui Avenue",
-      "shortName": "720001, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_42",
-      "name": "14",
-      "shortName": "14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_43",
-      "name": "https://demirbank.kg/en-gb/",
-      "shortName": "https://demirbank.kg/en-gb/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_44",
-      "name": "Dos-Credobank",
-      "shortName": "Dos-Credobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_45",
-      "name": "Дос-Кредобанк",
-      "shortName": "Дос-Кредобанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_46",
-      "name": "EcoIslamicBank",
-      "shortName": "EcoIslamicBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_47",
-      "name": "ЭкоИсламикБанк",
-      "shortName": "ЭкоИсламикБанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_48",
-      "name": "720031, Bishkek, #17, Geologicheski lane",
-      "shortName": "720031, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_49",
-      "name": "8",
-      "shortName": "8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_50",
-      "name": "https://eib.kg/",
-      "shortName": "https://eib.kg/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_51",
-      "name": "Eurasian Savings Bank",
-      "shortName": "Eurasian Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_52",
-      "name": "Евразиялык Сактык Банкы",
-      "shortName": "Евразиялык Сактык",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_53",
-      "name": "3",
-      "shortName": "3",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_54",
-      "name": "FinanceCreditBank",
-      "shortName": "FinanceCreditBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_55",
-      "name": "ФинансКредитБанк",
-      "shortName": "ФинансКредитБанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_56",
-      "name": "720021, Bishkek, #105, Abdrahmanov str.",
-      "shortName": "720021, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_57",
-      "name": "6",
-      "shortName": "6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_58",
-      "name": "http://www.fkb.kg/",
-      "shortName": "http://www.fkb.kg/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_59",
-      "name": "Kyrgyzkommertsbank",
-      "shortName": "Kyrgyzkommertsbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_60",
-      "name": "Кыргызкоммерцбанк",
-      "shortName": "Кыргызкоммерцбанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_61",
-      "name": "720021, Bishkek, #93/2, Shopokov str.",
-      "shortName": "720021, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_62",
-      "name": "Kyrgyz Investment and Credit Bank",
-      "shortName": "Kyrgyz Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_63",
-      "name": "Кыргыз Инвестициялык Кредит Банкы",
-      "shortName": "Кыргыз Инвестициялык",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_64",
-      "name": "720040 Bishkek, #21, Erkindik boulevard",
-      "shortName": "720040 Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_65",
-      "name": "17",
-      "shortName": "17",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_66",
-      "name": "https://www.kicb.net/welcome/",
-      "shortName": "https://www.kicb.net/welcome/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_67",
-      "name": "Rosinbank",
-      "shortName": "Rosinbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_68",
-      "name": "Росинбанк",
-      "shortName": "Росинбанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_69",
-      "name": "720040, Bishkek, #40/4 floor 2-10, Togolok Moldo str.",
-      "shortName": "720040, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_70",
-      "name": "13",
-      "shortName": "13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_71",
-      "name": "(defunct)",
-      "shortName": "(defunct)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_72",
-      "name": "Keremetbank",
-      "shortName": "Keremetbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_73",
-      "name": "Керемет Банк",
-      "shortName": "Керемет Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_74",
-      "name": "31",
-      "shortName": "31",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_75",
-      "name": "https://keremetbank.kg/",
-      "shortName": "https://keremetbank.kg/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_76",
-      "name": "Eldik Bank",
-      "shortName": "Eldik",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_77",
-      "name": "Элдик Банк",
-      "shortName": "Элдик Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_78",
-      "name": "720040, Bishkek, #38a, Molodaya Gvardia boulevard",
-      "shortName": "720040, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_79",
-      "name": "51",
-      "shortName": "51",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_80",
-      "name": "https://www.rsk.kg/en?for_who=individual",
-      "shortName": "https://www.rsk.kg/en?for_who=individual",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_81",
-      "name": "Tolubay Bank",
-      "shortName": "Tolubay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_82",
-      "name": "Толубай Банк",
-      "shortName": "Толубай Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_83",
-      "name": "CJSB JSCB",
-      "shortName": "CJSB JSCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_84",
-      "name": "720010, Bishkek, #105, Umetaliev str.",
-      "shortName": "720010, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_85",
-      "name": "2",
-      "shortName": "2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_86",
       "name": "Bai-Tushum Bank",
       "shortName": "Bai-Tushum",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_87",
-      "name": "Бай-Түшүм Банкы",
-      "shortName": "Бай-Түшүм Банкы",
+      "code": "KG_3",
+      "name": "Bakai Bank",
+      "shortName": "Bakai",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_88",
-      "name": "7",
-      "shortName": "7",
+      "code": "KG_4",
+      "name": "Bank of Asia",
+      "shortName": "Bank of Asia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_89",
-      "name": "Bishkek branch of the National Bank of Pakistan",
-      "shortName": "Bishkek branch",
+      "code": "KG_5",
+      "name": "Capital Bank",
+      "shortName": "Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_90",
-      "name": "Пакистан улуттук банкынын Бишкек филиалы",
-      "shortName": "Пакистан улуттук",
+      "code": "KG_6",
+      "name": "Chang An Investment Bank",
+      "shortName": "Chang An Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_91",
-      "name": "-",
-      "shortName": "-",
+      "code": "KG_7",
+      "name": "Demir Kyrgyz International Bank",
+      "shortName": "Demir Kyrgyz Interna",
+      "type": "bank",
+      "aliases": "Demir Bank"
+    },
+    {
+      "code": "KG_8",
+      "name": "Dos-Credobank",
+      "shortName": "Dos-Credobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_92",
-      "name": "BTA Bank",
-      "shortName": "BTA",
+      "code": "KG_9",
+      "name": "EcoIslamicBank",
+      "shortName": "EcoIslamicBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_93",
-      "name": "БТА Банкы",
-      "shortName": "БТА Банкы",
+      "code": "KG_10",
+      "name": "Eldik Bank",
+      "shortName": "Eldik",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_94",
-      "name": "Chang An Bank",
-      "shortName": "Chang An",
+      "code": "KG_11",
+      "name": "EGrad Savings Bank",
+      "shortName": "EGrad Savings",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_95",
-      "name": "Чанг Ан Банк",
-      "shortName": "Чанг Ан",
+      "code": "KG_12",
+      "name": "FinanceCreditBank",
+      "shortName": "FinanceCreditBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_96",
-      "name": "Bishkek, #48/1, Ahunbaeva str.",
-      "shortName": "Bishkek, #48/1,",
+      "code": "KG_13",
+      "name": "Finca Bank Kyrgyzstan",
+      "shortName": "Finca Kyrgyzstan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_97",
-      "name": "FINCA Bank",
-      "shortName": "FINCA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_98",
-      "name": "ФИНКА Банкы",
-      "shortName": "ФИНКА Банкы",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_99",
-      "name": "24",
-      "shortName": "24",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_100",
+      "code": "KG_14",
       "name": "Halyk Bank Kyrgyzstan",
-      "shortName": "Halyk",
+      "shortName": "Halyk Kyrgyzstan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_101",
-      "name": "Халык Банк Кыргызстан",
-      "shortName": "Халык Банк",
+      "code": "KG_15",
+      "name": "Keremet Bank",
+      "shortName": "Keremet",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_102",
-      "name": "720033, Bishkek,  #390, Frunze str.",
-      "shortName": "720033, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_103",
+      "code": "KG_16",
       "name": "Kompanion Bank",
       "shortName": "Kompanion",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_104",
-      "name": "Компаньон Банкы",
-      "shortName": "Компаньон Банкы",
+      "code": "KG_17",
+      "name": "KSB Commercial Bank",
+      "shortName": "KSB Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_105",
-      "name": "Bishkek, 62, Shota Rustaveli str.",
-      "shortName": "Bishkek, 62,",
+      "code": "KG_18",
+      "name": "Kyrgyz Investment and Credit Bank",
+      "shortName": "Kyrgyz Investment an",
       "type": "bank",
-      "aliases": ""
+      "aliases": "KICB"
     },
     {
-      "code": "KG_106",
-      "name": "Mercy Corps, United States",
-      "shortName": "Mercy Corps,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_107",
+      "code": "KG_19",
       "name": "Kyrgyz-Swiss Bank",
       "shortName": "Kyrgyz-Swiss",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_108",
-      "name": "Кыргыз-Швейцариялык Банк",
-      "shortName": "Кыргыз-Швейцариялык Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_109",
-      "name": "720001, Bishkek, #68, Baytik Baatyr str.",
-      "shortName": "720001, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_110",
+      "code": "KG_20",
       "name": "Optima Bank",
       "shortName": "Optima",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KG_111",
-      "name": "Оптима Банк",
-      "shortName": "Оптима Банк",
-      "type": "bank",
+      "code": "KG_21",
+      "name": "Balance",
+      "shortName": "Balance",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KG_112",
-      "name": "720070, Bishkek, #493, Jibek Jolu str.",
-      "shortName": "720070, Bishkek,",
-      "type": "bank",
+      "code": "KG_22",
+      "name": "Elcart Mobile",
+      "shortName": "Elcart Mobile",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KG_113",
-      "name": "18",
-      "shortName": "18",
-      "type": "bank",
+      "code": "KG_23",
+      "name": "MegaPay",
+      "shortName": "MegaPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KG_114",
-      "name": "ATF Bank, Kazakhstan",
-      "shortName": "ATF,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_115",
-      "name": "720040, Bishkek, 189a Moskovskaya street",
-      "shortName": "720040, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_116",
-      "name": "CIS",
-      "shortName": "CIS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_117",
-      "name": "RK AMANBANK",
-      "shortName": "RK AMANBANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_118",
-      "name": "РК АМАНБАНК",
-      "shortName": "РК АМАНБАНК",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_119",
-      "name": "720040, Bishkek, #249 Tynystanov str.",
-      "shortName": "720040, Bishkek,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_120",
-      "name": "Ak Bank",
-      "shortName": "Ak",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_121",
-      "name": "Ак Банк",
-      "shortName": "Ак Банк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_122",
-      "name": "Bishkek, 203 Chumabek str.",
-      "shortName": "Bishkek, 203",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_123",
-      "name": "Licence withdrawn",
-      "shortName": "Licence withdrawn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_124",
-      "name": "Asia Universal Bank",
-      "shortName": "Asia Universal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_125",
-      "name": "АзияУниверсалБанк",
-      "shortName": "АзияУниверсалБанк",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_126",
-      "name": "Bishkek, 114 Chui Avenue",
-      "shortName": "Bishkek, 114",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_127",
-      "name": "Liquidated",
-      "shortName": "Liquidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_128",
-      "name": "ЦАБСиРдин Бишкектеги филиалы",
-      "shortName": "ЦАБСиРдин Бишкектеги",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_129",
-      "name": "Bishkek, # 7, Umetaliev str.",
-      "shortName": "Bishkek, #",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_130",
-      "name": "Investbank “Issyk-Kul”",
-      "shortName": "Investbank “Issyk-Kul”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_131",
-      "name": "Инвестбанк \"Ысык-Көл\"",
-      "shortName": "Инвестбанк \"Ысык-Көл\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_132",
-      "name": "Manas Bank",
-      "shortName": "Manas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KG_133",
-      "name": "Манас Банкы",
-      "shortName": "Манас Банкы",
-      "type": "bank",
+      "code": "KG_24",
+      "name": "O!Money",
+      "shortName": "O!Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

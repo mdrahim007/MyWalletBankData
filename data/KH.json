@@ -1,1742 +1,335 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KH",
   "institutions": [
     {
       "code": "KH_0",
-      "name": "Cambodia and the World Bank",
-      "shortName": "Cambodia and",
+      "name": "ABA Bank",
+      "shortName": "ABA",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Advanced Bank of Asia"
     },
     {
       "code": "KH_1",
-      "name": "Cambodia and the International Monetary Fund",
-      "shortName": "Cambodia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_2",
-      "name": "Economy of Cambodia",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_3",
-      "name": "Cambodia - U.S. Banks and Local Correspondent Banks",
-      "shortName": "Cambodia -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_4",
-      "name": "Timeline",
-      "shortName": "Timeline",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_5",
-      "name": "Nokor Phnom",
-      "shortName": "Nokor Phnom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_6",
-      "name": "Chenla",
-      "shortName": "Chenla",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_7",
-      "name": "Khmer Empire",
-      "shortName": "Khmer Empire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_8",
-      "name": "Post-Angkor period",
-      "shortName": "Post-Angkor period",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_9",
-      "name": "French protectorate of Cambodia",
-      "shortName": "French protectorate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_10",
-      "name": "Sihanouk era (1953–70)",
-      "shortName": "Sihanouk era",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_11",
-      "name": "Khmer Republic",
-      "shortName": "Khmer Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_12",
-      "name": "Civil War",
-      "shortName": "Civil War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_13",
-      "name": "Cambodian–Vietnamese War",
-      "shortName": "Cambodian–Vietnamese War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_14",
-      "name": "Cambodian Conflict (1979–1998)",
-      "shortName": "Cambodian Conflict",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_15",
-      "name": "State of Cambodia",
-      "shortName": "State of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_16",
-      "name": "Kingdom of Cambodia",
-      "shortName": "Kingdom of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_17",
-      "name": "Administrative divisions",
-      "shortName": "Administrative divisions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_18",
-      "name": "Borders",
-      "shortName": "Borders",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_19",
-      "name": "Cities",
-      "shortName": "Cities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_20",
-      "name": "Climate change",
-      "shortName": "Climate change",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_21",
-      "name": "Deforestation",
-      "shortName": "Deforestation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_22",
-      "name": "Ecoregions",
-      "shortName": "Ecoregions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_23",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_24",
-      "name": "Protected areas",
-      "shortName": "Protected areas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_25",
-      "name": "World Heritage Sites",
-      "shortName": "World Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_26",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_27",
-      "name": "Government",
-      "shortName": "Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_28",
-      "name": "Judiciary",
-      "shortName": "Judiciary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_29",
-      "name": "Law",
-      "shortName": "Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_30",
-      "name": "Monarchy",
-      "shortName": "Monarchy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_31",
-      "name": "Motto",
-      "shortName": "Motto",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_32",
-      "name": "Parliament",
-      "shortName": "Parliament",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_33",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_34",
-      "name": "Prime Minister",
-      "shortName": "Prime Minister",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_35",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_36",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_37",
-      "name": "Child labour",
-      "shortName": "Child labour",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_38",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_39",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_40",
-      "name": "Natural resources",
-      "shortName": "Natural resources",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_41",
-      "name": "Riel (currency)",
-      "shortName": "Riel (currency)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_42",
-      "name": "Science and technology",
-      "shortName": "Science and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_43",
-      "name": "Special Economic Zones",
-      "shortName": "Special Economic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_44",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_45",
-      "name": "Crime",
-      "shortName": "Crime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_46",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_47",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_48",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_49",
-      "name": "Gambling",
-      "shortName": "Gambling",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_50",
-      "name": "Hunting",
-      "shortName": "Hunting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_51",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_52",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_53",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_54",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_55",
-      "name": "Sex trafficking",
-      "shortName": "Sex trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_56",
-      "name": "Social class",
-      "shortName": "Social class",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_57",
-      "name": "Social organization",
-      "shortName": "Social organization",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_58",
-      "name": "Squatting",
-      "shortName": "Squatting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_59",
-      "name": "Youth",
-      "shortName": "Youth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_60",
-      "name": "Architecture",
-      "shortName": "Architecture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_61",
-      "name": "Art",
-      "shortName": "Art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_62",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_63",
-      "name": "Clothing",
-      "shortName": "Clothing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_64",
-      "name": "Courtship, marriage, and divorce",
-      "shortName": "Courtship, marriage,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_65",
-      "name": "Dance",
-      "shortName": "Dance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_66",
-      "name": "Epigraphy",
-      "shortName": "Epigraphy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_67",
-      "name": "Jewellery",
-      "shortName": "Jewellery",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_68",
-      "name": "Keyboard",
-      "shortName": "Keyboard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_69",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_70",
-      "name": "Manuscripts",
-      "shortName": "Manuscripts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_71",
-      "name": "Mat weaving",
-      "shortName": "Mat weaving",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_72",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_73",
-      "name": "Ornamentation",
-      "shortName": "Ornamentation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_74",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_75",
-      "name": "Theatre",
-      "shortName": "Theatre",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_76",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_77",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_78",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_79",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_80",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_81",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_82",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_83",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_84",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_85",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_86",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_87",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_88",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_89",
-      "name": "SBI LY HOUR Bank Plc",
-      "shortName": "SBI LY",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_90",
-      "name": "ធនាគារ អេស ប៊ី អាយ លី ហួរ ម.ក",
-      "shortName": "ធនាគារ អេស",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_91",
-      "name": "https://www.orientalbank.com.kh/",
-      "shortName": "https://www.orientalbank.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_92",
       "name": "ACLEDA Bank",
       "shortName": "ACLEDA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_93",
-      "name": "ធនាគារ អេស៊ីលីដា",
-      "shortName": "ធនាគារ អេស៊ីលីដា",
+      "code": "KH_2",
+      "name": "Agricultural and Rural Development Bank",
+      "shortName": "Agricultural and Rur",
+      "type": "bank",
+      "aliases": "ARDB"
+    },
+    {
+      "code": "KH_3",
+      "name": "Alpha Commercial Bank",
+      "shortName": "Alpha Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_94",
-      "name": "https://www.acledabank.com.kh/kh/eng/",
-      "shortName": "https://www.acledabank.com.kh/kh/eng/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_95",
-      "name": "Agricultural and Rural Development Bank (ARDB)",
-      "shortName": "Agricultural and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_96",
-      "name": "ធនាគារ អភិវឌ្ឍន៍ជនបទ",
-      "shortName": "ធនាគារ អភិវឌ្ឍន៍ជនបទ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_97",
-      "name": "https://www.ardb.com.kh/",
-      "shortName": "https://www.ardb.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_98",
-      "name": "#9-13, St 7, Sangkat Chaktomuk, Phnom Penh",
-      "shortName": "#9-13, St",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_99",
+      "code": "KH_4",
       "name": "Asia-Pacific Development Bank",
-      "shortName": "Asia-Pacific Development",
+      "shortName": "Asia-Pacific Develop",
+      "type": "bank",
+      "aliases": "APD Bank"
+    },
+    {
+      "code": "KH_5",
+      "name": "Bangkok Bank",
+      "shortName": "Bangkok",
+      "type": "bank",
+      "aliases": "Cambodia"
+    },
+    {
+      "code": "KH_6",
+      "name": "Bank for Investment and Development of Cambodia",
+      "shortName": "Bank for Investment",
+      "type": "bank",
+      "aliases": "BIDC"
+    },
+    {
+      "code": "KH_7",
+      "name": "Bank of China Phnom Penh Branch",
+      "shortName": "Bank of China Phnom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_100",
-      "name": "ធនាគារ អេស៊ា-ប៉ាស៊ីហ្វិក ឌីវេឡុបមេន",
-      "shortName": "ធនាគារ អេស៊ា-ប៉ាស៊ីហ្វិក",
+      "code": "KH_8",
+      "name": "B.I.C. (Cambodia) Bank",
+      "shortName": "B.I.C. (Cambodia)",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_101",
-      "name": "https://apdbank.com.kh/en",
-      "shortName": "https://apdbank.com.kh/en",
+      "code": "KH_9",
+      "name": "Bred Bank Cambodia",
+      "shortName": "Bred Cambodia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_102",
-      "name": "Bridge Bank PLC",
+      "code": "KH_10",
+      "name": "Bridge Bank",
       "shortName": "Bridge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_103",
-      "name": "ធនាគារ ឯកទេស ប្រ៊ីដ",
-      "shortName": "ធនាគារ ឯកទេស",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_104",
+      "code": "KH_11",
       "name": "Cambodia Asia Bank",
       "shortName": "Cambodia Asia",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CAB"
     },
     {
-      "code": "KH_105",
-      "name": "ធនាគារ កម្ពុជា អាស៊ី",
-      "shortName": "ធនាគារ កម្ពុជា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_106",
-      "name": "#274, Preah Sihanouk Blvd (274), Phnom Penh",
-      "shortName": "#274, Preah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_107",
-      "name": "Cambodia Post Bank (CPB)",
+      "code": "KH_12",
+      "name": "Cambodia Post Bank",
       "shortName": "Cambodia Post",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CPBank"
     },
     {
-      "code": "KH_108",
-      "name": "ធនាគារ ប្រៃសណីយ៍កម្ពុជា",
-      "shortName": "ធនាគារ ប្រៃសណីយ៍កម្ពុជា",
+      "code": "KH_13",
+      "name": "Cambodian Commercial Bank",
+      "shortName": "Cambodian Commercial",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CCB"
     },
     {
-      "code": "KH_109",
-      "name": "https://www.cambodiapostbank.com/",
-      "shortName": "https://www.cambodiapostbank.com/",
+      "code": "KH_14",
+      "name": "Cambodian Public Bank",
+      "shortName": "Cambodian Public",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Campu Bank"
     },
     {
-      "code": "KH_110",
+      "code": "KH_15",
       "name": "Canadia Bank",
       "shortName": "Canadia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_111",
-      "name": "ធនាគារ កាណាឌីយ៉ា",
-      "shortName": "ធនាគារ កាណាឌីយ៉ា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_112",
-      "name": "https://www.canadiabank.com.kh/",
-      "shortName": "https://www.canadiabank.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_113",
-      "name": "#315, Ang Doung St. Corner Monivong Blvd, Phnom Penh",
-      "shortName": "#315, Ang",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_114",
-      "name": "Chip Mong Commercial Bank",
-      "shortName": "Chip Mong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_115",
-      "name": "ធនាគារ ជីប ម៉ុង",
-      "shortName": "ធនាគារ ជីប",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_116",
-      "name": "https://www.chipmongbank.com/en",
-      "shortName": "https://www.chipmongbank.com/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_117",
-      "name": "Foreign Trade Bank of Cambodia (FTB)",
-      "shortName": "Foreign Trade",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_118",
-      "name": "ធនាគារ ពាណិជ្ជកម្មក្រៅប្រទេស នៃកម្ពុជា",
-      "shortName": "ធនាគារ ពាណិជ្ជកម្មក្រៅប្រទេស",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_119",
-      "name": "https://ftbbank.com/en/",
-      "shortName": "https://ftbbank.com/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_120",
-      "name": "Czech Republic Blvd (169), Khan 7 Makara, Phnom Penh",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_121",
-      "name": "Oriental Bank PLC",
-      "shortName": "Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_122",
-      "name": "ធនាគារ អូរៀនថល",
-      "shortName": "ធនាគារ អូរៀនថល",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_123",
-      "name": "Prince Bank",
-      "shortName": "Prince",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_124",
-      "name": "ធនាគារ ព្រីនស៍",
-      "shortName": "ធនាគារ ព្រីនស៍",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_125",
-      "name": "Union Commercial Bank (UCB)",
-      "shortName": "Union Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_126",
-      "name": "ធនាគារ សហពាណិជ្ជកម្ម",
-      "shortName": "ធនាគារ សហពាណិជ្ជកម្ម",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_127",
-      "name": "Vattanac Bank",
-      "shortName": "Vattanac",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_128",
-      "name": "ធនាគារ វឌ្ឍនៈ",
-      "shortName": "ធនាគារ វឌ្ឍនៈ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_129",
-      "name": "https://www.vattanacbank.com/",
-      "shortName": "https://www.vattanacbank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_130",
-      "name": "Wing Bank",
-      "shortName": "Wing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_131",
-      "name": "ធនាគារ វីង",
-      "shortName": "ធនាគារ វីង",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_132",
-      "name": "https://www.wingmoney.com/en/",
-      "shortName": "https://www.wingmoney.com/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_133",
-      "name": "#721, Preah Monivong Blvd (93), Phnom Penh",
-      "shortName": "#721, Preah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_134",
-      "name": "LOLC Cambodia&#91;16&#93;",
-      "shortName": "LOLC Cambodia&#91;16&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_135",
-      "name": "អិលអូអិលស៊ី (ខេមបូឌា) ភីអិលស៊ី",
-      "shortName": "អិលអូអិលស៊ី (ខេមបូឌា)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_136",
-      "name": "https://www.lolc.com.kh/",
-      "shortName": "https://www.lolc.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_137",
-      "name": "Panda Commercial Bank PLC",
-      "shortName": "Panda Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_138",
-      "name": "ធនាគារផេនដា",
-      "shortName": "ធនាគារផេនដា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_139",
-      "name": "Advanced Bank of Asia (ABA)",
-      "shortName": "Advanced",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_140",
-      "name": "ធនាគារ វឌ្ឍនៈ អាស៊ី ចំកាត់​",
-      "shortName": "ធនាគារ វឌ្ឍនៈ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_141",
-      "name": "https://www.ababank.com/en/",
-      "shortName": "https://www.ababank.com/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_142",
-      "name": "National Bank of Canada",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_143",
-      "name": "AEON Specialized Bank",
-      "shortName": "AEON Specialized",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_144",
-      "name": "ធនាគារ ឯកទេស អ៊ីអន",
-      "shortName": "ធនាគារ ឯកទេស",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_145",
-      "name": "https://aeon.com.kh/",
-      "shortName": "https://aeon.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_146",
-      "name": "ÆON Co., Ltd.",
-      "shortName": "ÆON Co.,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_147",
-      "name": "Agribank Cambodia Branch",
-      "shortName": "Agribank Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_148",
-      "name": "ធនាគារ អាហ្រ្គីប៊ែង សាខាកម្ពុជា",
-      "shortName": "ធនាគារ អាហ្រ្គីប៊ែង",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_149",
-      "name": "Agribank Vietnam",
-      "shortName": "Agribank Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_150",
-      "name": "#364, Preah Monivong, Street 93, Phnom Penh 12302, Cambodia",
-      "shortName": "#364, Preah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_151",
-      "name": "Bank of China (Cambodia)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_152",
-      "name": "ធនាគារ ចិន (កម្ពុជា)",
-      "shortName": "ធនាគារ ចិន",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_153",
-      "name": "https://www.bankofchina.com.kh/en-kh/home.html",
-      "shortName": "https://www.bankofchina.com.kh/en-kh/home.html",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_154",
-      "name": "Bank of China (Hong Kong)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_155",
-      "name": "Bank for Investment and Development of Cambodia (BIDC)",
-      "shortName": "Bank for",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_156",
-      "name": "ធនាគារ ប៊ីអាយឌីស៊ី",
-      "shortName": "ធនាគារ ប៊ីអាយឌីស៊ី",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_157",
-      "name": "https://www.bidc.com.kh/en/individual",
-      "shortName": "https://www.bidc.com.kh/en/individual",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_158",
-      "name": "Bank for Investment and Development of Vietnam",
-      "shortName": "Bank for",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_159",
-      "name": "Bangkok Bank (Cambodia)",
-      "shortName": "Bangkok",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_160",
-      "name": "ធនាគារ បាងកក",
-      "shortName": "ធនាគារ បាងកក",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_161",
-      "name": "Bangkok Bank",
-      "shortName": "Bangkok",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_162",
-      "name": "#5-6B/294, Mao Tse Toung Blvd (245), Phnom Penh",
-      "shortName": "#5-6B/294, Mao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_163",
-      "name": "B.I.C (Cambodia) Bank",
-      "shortName": "B.I.C (Cambodia)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_164",
-      "name": "ធនាគារ ប៊ីធនាគារ ប្រេដ ប៊ែង ខេមបូឌាអាយស៊ី",
-      "shortName": "ធនាគារ ប៊ីធនាគារ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_165",
-      "name": "Bred Bank (Cambodia)",
-      "shortName": "Bred",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_166",
-      "name": "ធនាគារ ប្រេដ ប៊ែង ខេមបូឌា",
-      "shortName": "ធនាគារ ប្រេដ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_167",
-      "name": "https://www.bredcambodia.com/",
-      "shortName": "https://www.bredcambodia.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_168",
-      "name": "BRED Banque populaire",
-      "shortName": "BRED Banque",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_169",
-      "name": "Cambodian Commercial Bank",
-      "shortName": "Cambodian Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_170",
-      "name": "ធនាគារ កម្ពុជា ពាណិជ្ជកម្ម",
-      "shortName": "ធនាគារ កម្ពុជា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_171",
-      "name": "https://www.scb.co.th/ccb/corporate-banking.html",
-      "shortName": "https://www.scb.co.th/ccb/corporate-banking.html",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_172",
-      "name": "Siam Commercial Bank",
-      "shortName": "Siam Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_173",
-      "name": "Cambodian Public Bank",
-      "shortName": "Cambodian Public",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_174",
-      "name": "ធនាគារ កម្ពុជា សាធារណៈ",
-      "shortName": "ធនាគារ កម្ពុជា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_175",
-      "name": "https://www.cpbebank.com/Home",
-      "shortName": "https://www.cpbebank.com/Home",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_176",
-      "name": "Public Bank Berhad",
-      "shortName": "Public",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_177",
-      "name": "CIMB Bank",
-      "shortName": "CIMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_178",
-      "name": "ធនាគារ ស៊ីអាយអេមប៊ី ភីអិលស៊ី",
-      "shortName": "ធនាគារ ស៊ីអាយអេមប៊ី",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_179",
-      "name": "CIMB",
-      "shortName": "CIMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_180",
-      "name": "Cathay United Bank (Cambodia)",
-      "shortName": "Cathay United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_181",
-      "name": "ធនាគារ កាថេ យូណាយធីត",
-      "shortName": "ធនាគារ កាថេ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_182",
-      "name": "https://www.cathaybk.com.kh/#&amp;panel1-1",
-      "shortName": "https://www.cathaybk.com.kh/#&amp;panel1-1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_183",
+      "code": "KH_16",
       "name": "Cathay United Bank",
       "shortName": "Cathay United",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Cambodia"
     },
     {
-      "code": "KH_184",
-      "name": "CHIEF (Cambodia) Commercial Bank",
-      "shortName": "CHIEF (Cambodia)",
+      "code": "KH_17",
+      "name": "Chief (Cambodia) Commercial Bank",
+      "shortName": "Chief (Cambodia) Com",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_185",
-      "name": "ធនាគារ ឈិហ្វ (ខេមបូឌា)",
-      "shortName": "ធនាគារ ឈិហ្វ",
+      "code": "KH_18",
+      "name": "Chip Mong Commercial Bank",
+      "shortName": "Chip Mong Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_186",
-      "name": "Chief Group",
-      "shortName": "Chief Group",
+      "code": "KH_19",
+      "name": "CIMB Bank Plc",
+      "shortName": "CIMB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_187",
+      "code": "KH_20",
       "name": "DGB Bank",
       "shortName": "DGB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_188",
-      "name": "ធនាគារ ឌីជីប៊ី",
-      "shortName": "ធនាគារ ឌីជីប៊ី",
+      "code": "KH_21",
+      "name": "First Commercial Bank Phnom Penh Branch",
+      "shortName": "First Commercial Phn",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_189",
-      "name": "DGB Financial Group",
-      "shortName": "DGB Financial",
+      "code": "KH_22",
+      "name": "Foreign Trade Bank of Cambodia",
+      "shortName": "Foreign Trade of Cam",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FTB"
     },
     {
-      "code": "KH_190",
+      "code": "KH_23",
       "name": "Hattha Bank",
       "shortName": "Hattha",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_191",
-      "name": "ធនាគារ ហត្ថា",
-      "shortName": "ធនាគារ ហត្ថា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_192",
-      "name": "Bank of Ayudhya (Krungsri Bank)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_193",
-      "name": "Hong Leong Bank (Cambodia)",
-      "shortName": "Hong Leong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_194",
-      "name": "ធនាគារ ហុង លីអុង",
-      "shortName": "ធនាគារ ហុង",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_195",
-      "name": "https://www.hlb.com.kh/en/personal-banking/home.html",
-      "shortName": "https://www.hlb.com.kh/en/personal-banking/home.html",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_196",
-      "name": "Hong Leong Bank",
-      "shortName": "Hong Leong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_197",
+      "code": "KH_24",
       "name": "J Trust Royal Bank",
-      "shortName": "J Trust",
+      "shortName": "J Trust Royal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_198",
-      "name": "ធនាគារ ជេ ត្រាស់ រ៉ូយ៉ាល់",
-      "shortName": "ធនាគារ ជេ",
+      "code": "KH_25",
+      "name": "KB Prasac Bank",
+      "shortName": "KB Prasac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_199",
-      "name": "https://jtrustroyal.com/en/personal/",
-      "shortName": "https://jtrustroyal.com/en/personal/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_200",
-      "name": "Kookmin Bank Cambodia",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_201",
-      "name": "ធនាគារ គូកមីន កម្ពុជា",
-      "shortName": "ធនាគារ គូកមីន",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_202",
-      "name": "https://online-kbcambodia.com/",
-      "shortName": "https://online-kbcambodia.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_203",
-      "name": "Kookmin Bank",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_204",
-      "name": "Kasikorn Bank (Cambodia)",
-      "shortName": "Kasikorn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_205",
-      "name": "ធនាគារ កសិកន",
-      "shortName": "ធនាគារ កសិកន",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_206",
-      "name": "https://www.kasikornbank.com.kh/KH/Pages/Landing.aspx",
-      "shortName": "https://www.kasikornbank.com.kh/KH/Pages/Landing.aspx",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_207",
-      "name": "Kasikorn Bank",
-      "shortName": "Kasikorn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_208",
-      "name": "Krung Thai Bank Public",
-      "shortName": "Krung Thai",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_209",
-      "name": "ធនាគារ ក្រុងថៃ ចំកាត់ (មហាជន)",
-      "shortName": "ធនាគារ ក្រុងថៃ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_210",
-      "name": "https://krungthai.com/en/contact-us/foreign-branch",
-      "shortName": "https://krungthai.com/en/contact-us/foreign-branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_211",
-      "name": "Krung Thai Bank",
-      "shortName": "Krung Thai",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_212",
-      "name": "Maybank (Cambodia)",
-      "shortName": "Maybank (Cambodia)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_213",
-      "name": "ធនាគារ មេឃប៊ែង (ខេមបូឌា)",
-      "shortName": "ធនាគារ មេឃប៊ែង",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_214",
+      "code": "KH_26",
       "name": "Maybank",
       "shortName": "Maybank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Cambodia"
     },
     {
-      "code": "KH_215",
-      "name": "#43, Maybank Tower, Preah Norodom Blvd (41), Phnom Penh",
-      "shortName": "#43, Maybank",
+      "code": "KH_27",
+      "name": "MB Bank",
+      "shortName": "MB",
+      "type": "bank",
+      "aliases": "Cambodia"
+    },
+    {
+      "code": "KH_28",
+      "name": "Oriental Bank",
+      "shortName": "Oriental",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_216",
-      "name": "Phnom Penh Commercial Bank",
-      "shortName": "Phnom Penh",
+      "code": "KH_29",
+      "name": "Panda Commercial Bank",
+      "shortName": "Panda Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_217",
-      "name": "ធនាគារ ភ្នំពេញ ពាណិជ្ជ",
-      "shortName": "ធនាគារ ភ្នំពេញ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_218",
-      "name": "JEONBUK BANK",
-      "shortName": "JEONBUK BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_219",
+      "code": "KH_30",
       "name": "Phillip Bank",
       "shortName": "Phillip",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_220",
-      "name": "ធនាគារ ហ្វីលីព",
-      "shortName": "ធនាគារ ហ្វីលីព",
+      "code": "KH_31",
+      "name": "PPCBank",
+      "shortName": "PPCBank",
+      "type": "bank",
+      "aliases": "Phnom Penh Commercial Bank"
+    },
+    {
+      "code": "KH_32",
+      "name": "Prince Bank",
+      "shortName": "Prince",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_221",
-      "name": "https://www.phillipbank.com.kh/en",
-      "shortName": "https://www.phillipbank.com.kh/en",
+      "code": "KH_33",
+      "name": "RHB Bank Cambodia",
+      "shortName": "RHB Cambodia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_222",
-      "name": "Phillip Capital",
-      "shortName": "Phillip Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_223",
-      "name": "ធនាគារ អ អេច ប៊ី ប៊ែង(ខេមបូឌា)",
-      "shortName": "ធនាគារ អ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_224",
-      "name": "https://www.rhbgroup.com.kh/",
-      "shortName": "https://www.rhbgroup.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_225",
-      "name": "RHB Bank",
-      "shortName": "RHB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_226",
-      "name": "Street 108 Corner Street 110, Phnom Penh",
-      "shortName": "Street 108",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_227",
-      "name": "Sathapana Bank",
-      "shortName": "Sathapana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_228",
-      "name": "ធនាគារ ស្ថាបនា",
-      "shortName": "ធនាគារ ស្ថាបនា",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_229",
-      "name": "https://www.sathapana.com.kh/",
-      "shortName": "https://www.sathapana.com.kh/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_230",
-      "name": "MARUHAN Corporation",
-      "shortName": "MARUHAN Corporation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_231",
-      "name": "#63, Sathapana Tower, Preah Norodom Blvd (41), Penh 12210",
-      "shortName": "#63, Sathapana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_232",
-      "name": "https://sbilhbank.com.kh/en/",
-      "shortName": "https://sbilhbank.com.kh/en/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_233",
-      "name": "SBI Holdings, Inc",
-      "shortName": "SBI Holdings,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_234",
-      "name": "Standard Chartered Bank",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_235",
-      "name": "ធនាគារ ស្តាន់ដារឆាទើរែត",
-      "shortName": "ធនាគារ ស្តាន់ដារឆាទើរែត",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_236",
+      "code": "KH_34",
       "name": "Sacombank Cambodia",
       "shortName": "Sacombank Cambodia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_237",
-      "name": "https://www.sacombank.com.kh/",
-      "shortName": "https://www.sacombank.com.kh/",
+      "code": "KH_35",
+      "name": "Sathapana Bank",
+      "shortName": "Sathapana",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_238",
-      "name": "Saigon Thuong Tin Commercial Joint Stock Bank",
-      "shortName": "Saigon Thuong",
+      "code": "KH_36",
+      "name": "SBI Ly Hour Bank",
+      "shortName": "SBI Ly Hour",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_239",
-      "name": "#60, Preah Norodom Blvd (41), Phnom Penh",
-      "shortName": "#60, Preah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_240",
-      "name": "Shinhan Cambodia Bank",
-      "shortName": "Shinhan Cambodia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_241",
-      "name": "ធនាគារ ស៊ិនហាន ខ្មែរ",
-      "shortName": "ធនាគារ ស៊ិនហាន",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_242",
-      "name": "https://www.shinhan.com.kh/en",
-      "shortName": "https://www.shinhan.com.kh/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KH_243",
+      "code": "KH_37",
       "name": "Shinhan Bank",
       "shortName": "Shinhan",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Cambodia"
     },
     {
-      "code": "KH_244",
-      "name": "#79, Street Kampuchea Krom Blvd (128), Phnom Penh 12251",
-      "shortName": "#79, Street",
+      "code": "KH_38",
+      "name": "SME Bank of Cambodia",
+      "shortName": "SME of Cambodia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_245",
-      "name": "Woori Bank (Cambodia)",
-      "shortName": "Woori",
+      "code": "KH_39",
+      "name": "Union Commercial Bank",
+      "shortName": "Union Commercial",
+      "type": "bank",
+      "aliases": "UCB"
+    },
+    {
+      "code": "KH_40",
+      "name": "Vattanac Bank",
+      "shortName": "Vattanac",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_246",
-      "name": "ធនាគារ អ៊ូរី",
-      "shortName": "ធនាគារ អ៊ូរី",
+      "code": "KH_41",
+      "name": "Wing Bank",
+      "shortName": "Wing",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KH_247",
+      "code": "KH_42",
       "name": "Woori Bank",
       "shortName": "Woori",
       "type": "bank",
+      "aliases": "Cambodia"
+    },
+    {
+      "code": "KH_43",
+      "name": "Bakong",
+      "shortName": "Bakong",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "KH_44",
+      "name": "eMoney",
+      "shortName": "eMoney",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "KH_45",
+      "name": "Pi Pay",
+      "shortName": "Pi Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "KH_46",
+      "name": "TrueMoney",
+      "shortName": "TrueMoney",
+      "type": "mfs",
       "aliases": ""
     }
   ]

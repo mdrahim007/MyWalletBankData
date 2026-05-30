@@ -1,153 +1,48 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KM",
   "institutions": [
     {
       "code": "KM_0",
-      "name": "Exim Bank Comoros, part of Exim Bank Group",
-      "shortName": "Exim",
+      "name": "Banque de Développement des Comores",
+      "shortName": "Banque de Développem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDC"
     },
     {
       "code": "KM_1",
-      "name": "Banque Féderale de Commerce (BFC)",
-      "shortName": "Banque Féderale",
+      "name": "Banque Fédérale de Commerce",
+      "shortName": "Banque Fédérale de C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BFC"
     },
     {
       "code": "KM_2",
-      "name": "Mutuelles d'Epargnes et de Crédit ya Komor (MECK)",
-      "shortName": "Mutuelles d'Epargnes",
+      "name": "Banque pour l'Industrie et le Commerce",
+      "shortName": "Banque pour l'Indust",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIC Comores"
     },
     {
       "code": "KM_3",
-      "name": "Union des Sanduk d'Anjouan, on Anjouan",
-      "shortName": "Union des",
+      "name": "Exim Bank Comores",
+      "shortName": "Exim Comores",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KM_4",
-      "name": "Union des Sanduk de Mohéli, on Mohéli",
-      "shortName": "Union des",
-      "type": "bank",
+      "name": "Huri Money",
+      "shortName": "Huri Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "KM_5",
-      "name": "Website of Central Bank of the Comoros",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_6",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_7",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_8",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_9",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_10",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_11",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_12",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_13",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_14",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_15",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_16",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_17",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_18",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_19",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KM_20",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Mvola",
+      "shortName": "Mvola",
+      "type": "mfs",
       "aliases": ""
     }
   ]

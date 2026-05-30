@@ -1,41 +1,111 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "KN",
   "institutions": [
     {
       "code": "KN_0",
-      "name": "Central Bank of KN",
-      "shortName": "Central Bank",
+      "name": "Bank of New Innovation",
+      "shortName": "Bank of New Innovati",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BONI"
     },
     {
       "code": "KN_1",
-      "name": "National Bank of KN",
-      "shortName": "National Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KN_2",
-      "name": "State Bank of KN",
-      "shortName": "State Bank",
+      "name": "Development Bank of St. Kitts & Nevis",
+      "shortName": "Development of St. K",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KN_3",
-      "name": "Commercial Bank of KN",
-      "shortName": "Commercial Bank",
+      "name": "First Federal Co-operative Credit Union",
+      "shortName": "First Federal Co-ope",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KN_4",
-      "name": "First KN Bank",
-      "shortName": "First Bank",
+      "name": "Hamilton Reserve Bank",
+      "shortName": "Hamilton Reserve",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_5",
+      "name": "International Merchant Bank",
+      "shortName": "International Mercha",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_6",
+      "name": "Nevis Co-operative Credit Union",
+      "shortName": "Nevis Co-operative C",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_7",
+      "name": "Republic Bank (EC) Limited",
+      "shortName": "Republic (EC)",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_8",
+      "name": "Sovereign Bank International",
+      "shortName": "Sovereign Internatio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_9",
+      "name": "St. Kitts Co-operative Credit Union",
+      "shortName": "St. Kitts Co-operati",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_10",
+      "name": "St. Kitts-Nevis-Anguilla National Bank",
+      "shortName": "St. Kitts-Nevis-Angu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_11",
+      "name": "The Bank of Nevis",
+      "shortName": "The of Nevis",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KN_12",
+      "name": "DCash",
+      "shortName": "DCash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "KN_13",
+      "name": "Jeton Wallet",
+      "shortName": "Jeton Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "KN_14",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

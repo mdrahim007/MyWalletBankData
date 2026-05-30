@@ -1,1462 +1,181 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "KE",
   "institutions": [
     {
       "code": "KE_0",
-      "name": "Absa Bank Kenya PLC, part of Absa Group",
-      "shortName": "Absa",
+      "name": "Absa Bank Kenya",
+      "shortName": "Absa Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KE_1",
-      "name": "Access Bank (Kenya) PLC, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Access Bank Kenya",
+      "shortName": "Access Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KE_2",
-      "name": "African Banking Corporation Ltd (ABC Bank)",
-      "shortName": "Africaning",
+      "name": "Bank of Africa Kenya",
+      "shortName": "Bank of Africa Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "KE_3",
-      "name": "Bank of Baroda (Kenya) Ltd, part of Bank of Baroda Group",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_4",
-      "name": "Bank of India, part of Bank of India Group",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_5",
-      "name": "Citibank N.A. Kenya, part of Citigroup",
-      "shortName": "Citibank N.A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_6",
-      "name": "Consolidated Bank of Kenya Ltd, state-owned",
-      "shortName": "Consolidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_7",
-      "name": "Co-operative Bank of Kenya Ltd",
-      "shortName": "Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_8",
-      "name": "Credit Bank PLC",
-      "shortName": "Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_9",
-      "name": "Development Bank of Kenya Ltd, state-owned",
-      "shortName": "Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_10",
-      "name": "DIB Bank Kenya Ltd",
-      "shortName": "DIB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_11",
-      "name": "Ecobank Kenya Ltd, part of Ecobank Group",
-      "shortName": "Ecobank Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_12",
-      "name": "Equity Bank Kenya Limited, part of Equity Group",
-      "shortName": "Equity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_13",
-      "name": "Family Bank Ltd",
-      "shortName": "Family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_14",
-      "name": "Guaranty Trust Bank (Kenya) Ltd, part of GTCO Group",
-      "shortName": "Guaranty Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_15",
-      "name": "Guardian Bank Ltd",
-      "shortName": "Guardian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_16",
-      "name": "Gulf African Bank Ltd",
-      "shortName": "Gulf African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_17",
-      "name": "Habib Bank AG Zurich, part of Habib Bank Group",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_18",
-      "name": "I&amp;M Bank Ltd, part of I&amp;M Bank Group",
-      "shortName": "I&amp;M",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_19",
-      "name": "KCB Bank Kenya Limited, part of KCB Group",
-      "shortName": "KCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_20",
-      "name": "Kingdom Bank Limited",
-      "shortName": "Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_21",
-      "name": "Middle East Bank (Kenya) Ltd",
-      "shortName": "Middle East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_22",
-      "name": "M Oriental Bank Ltd",
-      "shortName": "M Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_23",
-      "name": "National Bank of Kenya Ltd, owned by Access Bank Group",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_24",
-      "name": "Paramount Bank Ltd",
-      "shortName": "Paramount",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_25",
-      "name": "Premier Bank Kenya Ltd",
-      "shortName": "Premier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_26",
-      "name": "Prime Bank Ltd",
-      "shortName": "Prime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_27",
-      "name": "SBM Bank Kenya Ltd, part of State Bank of Mauritius Group",
-      "shortName": "SBM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_28",
-      "name": "Sidian Bank Ltd, part of the Centum Group",
-      "shortName": "Sidian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_29",
-      "name": "Stanbic Bank Kenya Ltd, part of Standard Bank Group",
-      "shortName": "Stanbic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_30",
-      "name": "United Bank for Africa Kenya Ltd, part of UBA Group",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_31",
-      "name": "Victoria Commercial Bank PLC",
-      "shortName": "Victoria Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_32",
-      "name": "ABC Capital",
-      "shortName": "ABC Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_33",
-      "name": "African Alliance Kenya Investment Bank",
-      "shortName": "African Alliance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_34",
-      "name": "Afrika Investment Bank",
-      "shortName": "Afrika Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_35",
-      "name": "ApexAfrica Capital",
-      "shortName": "ApexAfrica Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_36",
-      "name": "CBA Capital",
-      "shortName": "CBA Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_37",
-      "name": "Discount Securities   (Under Statutory management)",
-      "shortName": "Discount Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_38",
-      "name": "Dyer &amp; Blair Investment Bank",
-      "shortName": "Dyer &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_39",
-      "name": "Equity Investment Bank",
-      "shortName": "Equity Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_40",
-      "name": "Hakuna Ventures",
-      "shortName": "Hakuna Ventures",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_41",
-      "name": "Francis Drummond &amp; Company",
-      "shortName": "Francis Drummond",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_42",
-      "name": "Genghis Capital",
-      "shortName": "Genghis Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_43",
-      "name": "Kestrel Capital",
-      "shortName": "Kestrel Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_44",
-      "name": "Kingdom Securities",
-      "shortName": "Kingdom Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_45",
-      "name": "Ngenye Kariuki &amp; Co   (Under Statutory management)",
-      "shortName": "Ngenye Kariuki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_46",
-      "name": "NIC Securities",
-      "shortName": "NIC Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_47",
-      "name": "Old Mutual Securities",
-      "shortName": "Old Mutual",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_48",
-      "name": "Renaissance Capital (Kenya)",
-      "shortName": "Renaissance Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_49",
-      "name": "SBG Securities",
-      "shortName": "SBG Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_50",
-      "name": "Standard Investment Bank",
-      "shortName": "Standard Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_51",
-      "name": "Sterling Capital Limited",
-      "shortName": "Sterling Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_52",
-      "name": "Suntra Investment Bank",
-      "shortName": "Suntra Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_53",
-      "name": "Housing Finance Company of Kenya Ltd (HFC)",
-      "shortName": "Housing Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_54",
-      "name": "Equity Group Holdings Limited, parent of Equity Group",
-      "shortName": "Equity Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_55",
-      "name": "HF Group Limited, parent of HFC",
-      "shortName": "HF Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_56",
-      "name": "I&amp;M Group PLC, parent of I&amp;M Bank Group",
-      "shortName": "I&amp;M Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_57",
-      "name": "NCBA Group PLC, parent of NCBA Group",
-      "shortName": "NCBA Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_58",
-      "name": "M Holdings Limited, parent of M Oriental Group",
-      "shortName": "M Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_59",
-      "name": "Caritas Microfinance Bank Ltd",
+      "name": "Caritas Microfinance Bank",
       "shortName": "Caritas Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_60",
-      "name": "Branch Microfinance Bank Ltd",
-      "shortName": "Branch Microfinance",
+      "code": "KE_4",
+      "name": "Commercial International Bank",
+      "shortName": "Commercial Internati",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CIB Kenya"
     },
     {
-      "code": "KE_61",
-      "name": "Salaam Microfinance Bank Ltd",
-      "shortName": "Salaam Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_62",
-      "name": "Kenya Women Microfinance Bank PLC",
-      "shortName": "Kenya Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_63",
-      "name": "Lolc Kenya Microfinance Bank PLC",
-      "shortName": "Lolc Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_64",
-      "name": "SMEP Microfinance Bank Ltd",
-      "shortName": "SMEP Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_65",
-      "name": "U &amp; I Microfinance Bank Ltd",
-      "shortName": "U &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_66",
-      "name": "Muungano Microfinance Bank PLC",
-      "shortName": "Muungano Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_67",
-      "name": "Capital Markets Authority",
-      "shortName": "Capital Markets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_68",
-      "name": "Central Bank of Kenya",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_69",
-      "name": "Mwalimu Cooperative Savings and Credit Society Limited",
-      "shortName": "Mwalimu Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_70",
-      "name": "Nairobi Securities Exchange",
-      "shortName": "Nairobi Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_71",
-      "name": "Kenya Post Office Savings Bank",
-      "shortName": "Kenya Post",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_72",
-      "name": "Economy of Kenya",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_73",
-      "name": "Kenya: CBK Cancels Licence for Indian Bank's Kenya Office",
-      "shortName": "Kenya: CBK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_74",
-      "name": "Website of Central Bank of Kenya",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_75",
-      "name": "Commercial Banks in Kenya",
-      "shortName": "Commercials",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_76",
-      "name": "Absa Bank",
-      "shortName": "Absa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_77",
-      "name": "Access Bank Kenya",
-      "shortName": "Access",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_78",
-      "name": "African Banking Corporation",
-      "shortName": "Africaning",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_79",
-      "name": "Bank of Africa",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_80",
-      "name": "Bank of Baroda",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_81",
-      "name": "Bank of India",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_82",
-      "name": "CIB Kenya",
-      "shortName": "CIB Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_83",
-      "name": "Citibank NA Kenya",
-      "shortName": "Citibank NA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_84",
+      "code": "KE_5",
       "name": "Consolidated Bank of Kenya",
-      "shortName": "Consolidated",
+      "shortName": "Consolidated of Keny",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_85",
+      "code": "KE_6",
+      "name": "Co-operative Bank of Kenya",
+      "shortName": "Co-operative of Keny",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "KE_7",
       "name": "Credit Bank",
       "shortName": "Credit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_86",
-      "name": "Development Bank of Kenya",
-      "shortName": "Development",
+      "code": "KE_8",
+      "name": "Diamond Trust Bank Kenya",
+      "shortName": "Diamond Trust Kenya",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DTB"
     },
     {
-      "code": "KE_87",
-      "name": "Diamond Trust Bank",
-      "shortName": "Diamond Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_88",
-      "name": "East African Development Bank",
-      "shortName": "East African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_89",
+      "code": "KE_9",
       "name": "Ecobank Kenya",
       "shortName": "Ecobank Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_90",
-      "name": "Equity Bank",
-      "shortName": "Equity",
+      "code": "KE_10",
+      "name": "Equity Bank Kenya",
+      "shortName": "Equity Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_91",
+      "code": "KE_11",
       "name": "Family Bank",
       "shortName": "Family",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_92",
-      "name": "Guaranty Trust Bank",
-      "shortName": "Guaranty Trust",
+      "code": "KE_12",
+      "name": "Guaranty Trust Bank Kenya",
+      "shortName": "Guaranty Trust Kenya",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_93",
-      "name": "Habib Bank AG Zurich",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_94",
-      "name": "I&amp;M Bank",
-      "shortName": "I&amp;M",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_95",
-      "name": "Kenya Commercial Bank",
-      "shortName": "Kenya Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_96",
-      "name": "M-Oriental Bank",
-      "shortName": "M-Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_97",
-      "name": "National Bank of Kenya",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_98",
-      "name": "NCBA Bank",
-      "shortName": "NCBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_99",
-      "name": "Paramount Universal Bank",
-      "shortName": "Paramount Universal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_100",
-      "name": "Post Bank",
-      "shortName": "Post",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_101",
-      "name": "Premier Bank",
-      "shortName": "Premier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_102",
-      "name": "Prime bank",
-      "shortName": "Prime bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_103",
-      "name": "SBM Bank Kenya",
-      "shortName": "SBM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_104",
-      "name": "Sidian Bank",
-      "shortName": "Sidian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_105",
-      "name": "Stanbic Bank",
-      "shortName": "Stanbic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_106",
-      "name": "Standard Chartered Kenya",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_107",
-      "name": "United Bank for Africa",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_108",
-      "name": "DTB Group",
-      "shortName": "DTB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_109",
-      "name": "Equity Group Holdings",
-      "shortName": "Equity Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_110",
-      "name": "HF Group",
-      "shortName": "HF Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_111",
-      "name": "I&amp;M Holdings",
-      "shortName": "I&amp;M Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_112",
-      "name": "KCB Group",
-      "shortName": "KCB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_113",
-      "name": "Kenya Mortgage Refinance Company",
-      "shortName": "Kenya Mortgage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_114",
-      "name": "NCBA Group",
-      "shortName": "NCBA Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_115",
-      "name": "Bank of China",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_116",
-      "name": "Bank of Kigali",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_117",
-      "name": "FirstRand",
-      "shortName": "FirstRand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_118",
-      "name": "HDFC Bank",
-      "shortName": "HDFC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_119",
-      "name": "HSBC",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_120",
-      "name": "Nedbank",
-      "shortName": "Nedbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_121",
-      "name": "Chase Bank",
-      "shortName": "Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_122",
-      "name": "Commercial Bank of Africa (Formerly part of CBA Group)",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_123",
-      "name": "Dubai Bank Kenya",
-      "shortName": "Dubai",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_124",
-      "name": "Fina Bank",
-      "shortName": "Fina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_125",
-      "name": "Giro Commercial Bank",
-      "shortName": "Giro Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_126",
-      "name": "Habib Bank",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_127",
-      "name": "Imperial Bank Limited",
-      "shortName": "Imperial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_128",
-      "name": "Spire Bank",
-      "shortName": "Spire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_129",
-      "name": "Choice Microfinance Bank",
-      "shortName": "Choice Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_130",
-      "name": "Faulu Kenya",
-      "shortName": "Faulu Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_131",
-      "name": "Imarisha Sacco",
-      "shortName": "Imarisha Sacco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_132",
-      "name": "Mwalimu Sacco",
-      "shortName": "Mwalimu Sacco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_133",
-      "name": "United Nations Sacco Society",
-      "shortName": "United Nations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_134",
-      "name": "Unaitas",
-      "shortName": "Unaitas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_135",
-      "name": "Automated Teller Machine (ATM)",
-      "shortName": "Automated Teller",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_136",
-      "name": "ATM usage fees",
-      "shortName": "ATM usage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_137",
-      "name": "De-Materialisation (DEMAT)",
-      "shortName": "De-Materialisation (DEMAT)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_138",
-      "name": "Financial services",
-      "shortName": "Financial services",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_139",
-      "name": "Foreign Exchange (FOREX)",
-      "shortName": "Foreign Exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_140",
-      "name": "National Electronic Fund Transfer (NEFT)",
-      "shortName": "National Electronic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_141",
-      "name": "Real Time Gross Settlement (RTGS)",
-      "shortName": "Real Time",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_142",
-      "name": "Structured Financial Messaging System (SFMS)",
-      "shortName": "Structured Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_143",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_144",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_145",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_146",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_147",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_148",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_149",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_150",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_151",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_152",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_153",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_154",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_155",
-      "name": "Kenyan shilling (KES)",
-      "shortName": "Kenyan shilling",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_156",
-      "name": "Kenya Economic Stimulus Programme",
-      "shortName": "Kenya Economic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_157",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_158",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_159",
-      "name": "Automotive industry",
-      "shortName": "Automotive industry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_160",
-      "name": "Beer",
-      "shortName": "Beer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_161",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_162",
-      "name": "Poultry",
-      "shortName": "Poultry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_163",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_164",
-      "name": "Tea",
-      "shortName": "Tea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_165",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_166",
-      "name": "Real estate",
-      "shortName": "Real estate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_167",
-      "name": "The Treasury",
-      "shortName": "The Treasury",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_168",
-      "name": "Kenya Revenue Authority",
-      "shortName": "Kenya Revenue",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_169",
-      "name": "NOCK",
-      "shortName": "NOCK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_170",
-      "name": "KenGen",
-      "shortName": "KenGen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_171",
-      "name": "Kenya Ports Authority",
-      "shortName": "Kenya Ports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_172",
-      "name": "KPC",
-      "shortName": "KPC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_173",
-      "name": "Kenya Railways Corporation",
-      "shortName": "Kenya Railways",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_174",
-      "name": "Bamburi Cement",
-      "shortName": "Bamburi Cement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_175",
-      "name": "Kenya Airways",
-      "shortName": "Kenya Airways",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_176",
-      "name": "East African Breweries",
-      "shortName": "East African",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_177",
-      "name": "Counties",
-      "shortName": "Counties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_178",
-      "name": "Airports",
-      "shortName": "Airports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_179",
-      "name": "Roads",
-      "shortName": "Roads",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_180",
-      "name": "Railway",
-      "shortName": "Railway",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_181",
-      "name": "Thika Road",
-      "shortName": "Thika Road",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_182",
-      "name": "Mombasa Port",
-      "shortName": "Mombasa Port",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_183",
-      "name": "Jomo Kenyatta International Airport",
-      "shortName": "Jomo Kenyatta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_184",
-      "name": "Mobile networks",
-      "shortName": "Mobile networks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_185",
-      "name": "Safaricom",
-      "shortName": "Safaricom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_186",
-      "name": "Airtel Kenya",
-      "shortName": "Airtel Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_187",
-      "name": "Telkom Kenya",
-      "shortName": "Telkom Kenya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_188",
-      "name": "Submarine cables",
-      "shortName": "Submarine cables",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_189",
-      "name": "SEACOM",
-      "shortName": "SEACOM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_190",
-      "name": "EASSy",
-      "shortName": "EASSy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_191",
-      "name": "TEAMS",
-      "shortName": "TEAMS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_192",
-      "name": "Accounting",
-      "shortName": "Accounting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_193",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_194",
-      "name": "Insurance",
-      "shortName": "Insurance",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "GTBank"
     },
     {
-      "code": "KE_195",
-      "name": "East African Community",
-      "shortName": "East African",
+      "code": "KE_13",
+      "name": "I&M Bank",
+      "shortName": "I&M",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_196",
-      "name": "COMESA",
-      "shortName": "COMESA",
+      "code": "KE_14",
+      "name": "KCB Bank Kenya",
+      "shortName": "KCB Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_197",
-      "name": "CEN-SAD",
-      "shortName": "CEN-SAD",
+      "code": "KE_15",
+      "name": "Kingdom Bank Kenya",
+      "shortName": "Kingdom Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_198",
-      "name": "AGOA",
-      "shortName": "AGOA",
+      "code": "KE_16",
+      "name": "NCBA Bank Kenya",
+      "shortName": "NCBA Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_199",
-      "name": "Geothermal power",
-      "shortName": "Geothermal power",
+      "code": "KE_17",
+      "name": "Prime Bank",
+      "shortName": "Prime",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_200",
-      "name": "Hydro power",
-      "shortName": "Hydro power",
+      "code": "KE_18",
+      "name": "Stanbic Bank Kenya",
+      "shortName": "Stanbic Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_201",
-      "name": "Nuclear",
-      "shortName": "Nuclear",
+      "code": "KE_19",
+      "name": "Standard Chartered Bank Kenya",
+      "shortName": "Standard Chartered K",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_202",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
+      "code": "KE_20",
+      "name": "Victoria Commercial Bank",
+      "shortName": "Victoria Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_203",
-      "name": "Renewable energy",
-      "shortName": "Renewable energy",
+      "code": "KE_21",
+      "name": "Zenith Bank Kenya",
+      "shortName": "Zenith Kenya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "KE_204",
-      "name": "Solar power",
-      "shortName": "Solar power",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "KE_205",
-      "name": "Wind power",
-      "shortName": "Wind power",
-      "type": "bank",
+      "code": "KE_22",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KE_206",
-      "name": "Kenya Vision 2030",
-      "shortName": "Kenya Vision",
-      "type": "bank",
+      "code": "KE_23",
+      "name": "M-Pesa",
+      "shortName": "M-Pesa",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "KE_207",
-      "name": "Konza Technopolis",
-      "shortName": "Konza Technopolis",
-      "type": "bank",
+      "code": "KE_24",
+      "name": "T-Kash",
+      "shortName": "T-Kash",
+      "type": "mfs",
       "aliases": ""
     }
   ]
