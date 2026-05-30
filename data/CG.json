@@ -1,41 +1,97 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CG",
   "institutions": [
     {
       "code": "CG_0",
-      "name": "Central Bank of CG",
-      "shortName": "Central Bank",
+      "name": "Banque Commerciale Internationale",
+      "shortName": "Banque Commerciale I",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
       "code": "CG_1",
-      "name": "National Bank of CG",
-      "shortName": "National Bank",
+      "name": "Banque Congolaise de l'Habitat",
+      "shortName": "Banque Congolaise de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCH"
     },
     {
       "code": "CG_2",
-      "name": "State Bank of CG",
-      "shortName": "State Bank",
+      "name": "Banque de Développement des États de l'Afrique Centrale",
+      "shortName": "Banque de Développem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDEAC"
     },
     {
       "code": "CG_3",
-      "name": "Commercial Bank of CG",
-      "shortName": "Commercial Bank",
+      "name": "Banque Sahélo-Saharienne pour l'Investissement et le Commerce",
+      "shortName": "Banque Sahélo-Sahari",
+      "type": "bank",
+      "aliases": "BSIC Congo"
+    },
+    {
+      "code": "CG_4",
+      "name": "BGFIBank Congo",
+      "shortName": "BGFIBank Congo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CG_4",
-      "name": "First CG Bank",
-      "shortName": "First Bank",
+      "code": "CG_5",
+      "name": "Crédit du Congo",
+      "shortName": "Crédit du Congo",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CG_6",
+      "name": "Ecobank Congo",
+      "shortName": "Ecobank Congo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CG_7",
+      "name": "La Banque Postale du Congo",
+      "shortName": "La Postale du Congo",
+      "type": "bank",
+      "aliases": "BPC"
+    },
+    {
+      "code": "CG_8",
+      "name": "LCB Bank",
+      "shortName": "LCB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CG_9",
+      "name": "Sino-Congolaise de Banque",
+      "shortName": "Sino-Congolaise de",
+      "type": "bank",
+      "aliases": "BSCA"
+    },
+    {
+      "code": "CG_10",
+      "name": "United Bank for Africa Congo",
+      "shortName": "United for Africa Co",
+      "type": "bank",
+      "aliases": "UBA"
+    },
+    {
+      "code": "CG_11",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CG_12",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     }
   ]

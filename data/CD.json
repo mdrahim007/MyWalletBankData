@@ -1,41 +1,160 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CD",
   "institutions": [
     {
       "code": "CD_0",
-      "name": "Central Bank of CD",
-      "shortName": "Central Bank",
+      "name": "Access Bank Congo",
+      "shortName": "Access Congo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CD_1",
-      "name": "National Bank of CD",
-      "shortName": "National Bank",
+      "name": "Advans Banque Congo",
+      "shortName": "Advans Congo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CD_2",
-      "name": "State Bank of CD",
-      "shortName": "State Bank",
+      "name": "Afriland First Bank CD",
+      "shortName": "Afriland First CD",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CD_3",
-      "name": "Commercial Bank of CD",
-      "shortName": "Commercial Bank",
+      "name": "Bank of Africa RDC",
+      "shortName": "Bank of Africa RDC",
+      "type": "bank",
+      "aliases": "BOA"
+    },
+    {
+      "code": "CD_4",
+      "name": "Banque Commerciale du Congo",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CD_4",
-      "name": "First CD Bank",
-      "shortName": "First Bank",
+      "code": "CD_5",
+      "name": "BGFIBank RDC",
+      "shortName": "BGFIBank RDC",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_6",
+      "name": "Byblos Bank RDC",
+      "shortName": "Byblos RDC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_7",
+      "name": "Citibank Congo",
+      "shortName": "Citibank Congo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_8",
+      "name": "CRDB Bank DR Congo",
+      "shortName": "CRDB DR Congo",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_9",
+      "name": "Ecobank RDC",
+      "shortName": "Ecobank RDC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_10",
+      "name": "Equity Banque Commerciale du Congo",
+      "shortName": "Equity Commerciale d",
+      "type": "bank",
+      "aliases": "Equity BCDC"
+    },
+    {
+      "code": "CD_11",
+      "name": "FBNBank DRC",
+      "shortName": "FBNBank DRC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_12",
+      "name": "FINCA République Démocratique du Congo",
+      "shortName": "FINCA République Dém",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_13",
+      "name": "Rawbank",
+      "shortName": "Rawbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_14",
+      "name": "Sofibanque",
+      "shortName": "Sofibanque",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_15",
+      "name": "Standard Bank RDC",
+      "shortName": "Standard RDC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CD_16",
+      "name": "Trust Merchant Bank",
+      "shortName": "Trust Merchant",
+      "type": "bank",
+      "aliases": "TMB"
+    },
+    {
+      "code": "CD_17",
+      "name": "United Bank for Africa DRC",
+      "shortName": "United for Africa DR",
+      "type": "bank",
+      "aliases": "UBA"
+    },
+    {
+      "code": "CD_18",
+      "name": "Africell Money",
+      "shortName": "Africell Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CD_19",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CD_20",
+      "name": "M-Pesa",
+      "shortName": "M-Pesa",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CD_21",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CF",
   "institutions": [
     {
       "code": "CF_0",
-      "name": "Central Bank of CF",
-      "shortName": "Central Bank",
+      "name": "Banque Internationale pour la Centrafrique",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BICA"
     },
     {
       "code": "CF_1",
-      "name": "National Bank of CF",
-      "shortName": "National Bank",
+      "name": "Banque Populaire Maroco-Centrafricaine",
+      "shortName": "Banque Populaire Mar",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BPMC"
     },
     {
       "code": "CF_2",
-      "name": "State Bank of CF",
-      "shortName": "State Bank",
+      "name": "Banque Sahélo-Saharienne pour l'Investissement et le Commerce",
+      "shortName": "Banque Sahélo-Sahari",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSIC Centrafrique"
     },
     {
       "code": "CF_3",
-      "name": "Commercial Bank of CF",
-      "shortName": "Commercial Bank",
+      "name": "Commercial Bank Centrafrique",
+      "shortName": "Commercial Centrafri",
+      "type": "bank",
+      "aliases": "CBCA"
+    },
+    {
+      "code": "CF_4",
+      "name": "Ecobank Centrafrique",
+      "shortName": "Ecobank Centrafrique",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CF_4",
-      "name": "First CF Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "code": "CF_5",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CF_6",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CF_7",
+      "name": "Telecel Cash",
+      "shortName": "Telecel Cash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

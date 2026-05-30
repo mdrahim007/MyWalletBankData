@@ -1,335 +1,174 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "CI",
   "institutions": [
     {
       "code": "CI_0",
-      "name": "AFG Bank Côte d'Ivoire, part of Atlantic Financial Group",
-      "shortName": "AFG",
+      "name": "Afriland First Bank Côte d'Ivoire",
+      "shortName": "Afriland First Côte",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_1",
-      "name": "Banque Atlantique Côte d'Ivoire (BACI), part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "Bank of Africa Côte d'Ivoire",
+      "shortName": "Bank of Africa Côte",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "CI_2",
-      "name": "Banque d'Abidjan",
-      "shortName": "Banque d'Abidjan",
+      "name": "Banque Atlantique Côte d'Ivoire",
+      "shortName": "Banque Atlantique Cô",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BACI"
     },
     {
       "code": "CI_3",
-      "name": "Banque de l'Habitat de Côte d'Ivoire (BHCI)",
-      "shortName": "Banque de",
+      "name": "Banque de l'Habitat de Côte d'Ivoire",
+      "shortName": "Banque de l'Habitat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BHCI"
     },
     {
       "code": "CI_4",
-      "name": "Banque De l'Union - Côte d'Ivoire (BDU-CI)",
-      "shortName": "Banque De",
+      "name": "Banque Internationale pour le Commerce et l'Industrie de la Côte d'Ivoire",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BICICI"
     },
     {
       "code": "CI_5",
       "name": "Banque Nationale d'Investissement",
-      "shortName": "Banque Nationale",
+      "shortName": "Banque Nationale d'I",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNI"
     },
     {
       "code": "CI_6",
-      "name": "Banque Populaire de Côte d'Ivoire",
-      "shortName": "Banque Populaire",
+      "name": "Banque Régionale de Marchés",
+      "shortName": "Banque Régionale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BRM"
     },
     {
       "code": "CI_7",
-      "name": "BGFIBank Côte d'Ivoire, part of BGFIBank Group",
-      "shortName": "BGFIBank Côte",
+      "name": "Bridge Bank Group Côte d'Ivoire",
+      "shortName": "Bridge Group Côte d'",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_8",
-      "name": "Bridge Bank Group Côte d'Ivoire (BBG-CI)",
-      "shortName": "Bridge",
+      "name": "Coris Bank International Côte d'Ivoire",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_9",
-      "name": "Citibank Côte d'Ivoire, part of Citigroup",
-      "shortName": "Citibank Côte",
+      "name": "Ecobank Côte d'Ivoire",
+      "shortName": "Ecobank Côte d'Ivoir",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_10",
-      "name": "Ecobank Côte d'Ivoire, part of Ecobank Group",
-      "shortName": "Ecobank Côte",
+      "name": "Guaranty Trust Bank Côte d'Ivoire",
+      "shortName": "Guaranty Trust Côte",
       "type": "bank",
-      "aliases": ""
+      "aliases": "GTBank"
     },
     {
       "code": "CI_11",
-      "name": "Mansa Bank",
-      "shortName": "Mansa",
+      "name": "NSIA Banque Côte d'Ivoire",
+      "shortName": "NSIA Côte d'Ivoire",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_12",
-      "name": "Orange Bank Côte d'Ivoire, part of Orange Group",
-      "shortName": "Orange",
+      "name": "Orabank Côte d'Ivoire",
+      "shortName": "Orabank Côte d'Ivoir",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CI_13",
-      "name": "Stanbic Bank, part of Standard Bank Group",
-      "shortName": "Stanbic,",
+      "name": "Société Générale Côte d'Ivoire",
+      "shortName": "Société Générale Côt",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SGCI"
     },
     {
       "code": "CI_14",
-      "name": "United Bank for Africa (UBA), part of UBA Group",
-      "shortName": "United",
+      "name": "Société Ivoirienne de Banque",
+      "shortName": "Société Ivoirienne d",
+      "type": "bank",
+      "aliases": "SIB"
+    },
+    {
+      "code": "CI_15",
+      "name": "Stanbic Bank Côte d'Ivoire",
+      "shortName": "Stanbic Côte d'Ivoir",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CI_15",
+      "code": "CI_16",
+      "name": "Standard Chartered Bank Côte d'Ivoire",
+      "shortName": "Standard Chartered C",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CI_17",
+      "name": "United Bank for Africa Côte d'Ivoire",
+      "shortName": "United for Africa Cô",
+      "type": "bank",
+      "aliases": "UBA"
+    },
+    {
+      "code": "CI_18",
       "name": "Versus Bank",
       "shortName": "Versus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CI_16",
-      "name": "Branch of Banque Malienne de Solidarité (BMS)",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_17",
-      "name": "Branch of Banque Régionale de Marchés (BRM)",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_18",
-      "name": "Economy of Ivory Coast",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "CI_19",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "Djamo",
+      "shortName": "Djamo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CI_20",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CI_21",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CI_22",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CI_23",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_24",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_25",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_26",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_27",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_28",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_29",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_30",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_31",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_32",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_33",
-      "name": "Banana",
-      "shortName": "Banana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_34",
-      "name": "Cocoa",
-      "shortName": "Cocoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_35",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_36",
-      "name": "Cotton",
-      "shortName": "Cotton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_37",
-      "name": "Fishing",
-      "shortName": "Fishing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_38",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_39",
-      "name": "Palm oil",
-      "shortName": "Palm oil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_40",
-      "name": "Pineapple",
-      "shortName": "Pineapple",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_41",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_42",
-      "name": "Timber",
-      "shortName": "Timber",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_43",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_44",
-      "name": "Banque de l'Afrique Occidentale",
-      "shortName": "Banque de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_45",
-      "name": "Central Bank of West African States",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CI_46",
-      "name": "BRVM Composite",
-      "shortName": "BRVM Composite",
-      "type": "bank",
+      "name": "Wave",
+      "shortName": "Wave",
+      "type": "mfs",
       "aliases": ""
     }
   ]
