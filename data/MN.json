@@ -1,454 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MN",
   "institutions": [
     {
       "code": "MN_0",
-      "name": "Bank of Mongolia (Mongolbank)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_1",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_2",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_3",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_4",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_5",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_6",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_7",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_8",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_9",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_10",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_11",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_12",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_13",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_14",
-      "name": "State Bank",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_15",
-      "name": "23 November 2009",
-      "shortName": "23 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_16",
-      "name": "statebank.mn",
-      "shortName": "statebank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_17",
-      "name": "Development Bank of Mongolia",
-      "shortName": "Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_18",
-      "name": "DBM",
-      "shortName": "DBM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_19",
-      "name": "2011",
-      "shortName": "2011",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_20",
-      "name": "tdbm.mn",
-      "shortName": "tdbm.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_21",
-      "name": "Trade and Development Bank",
-      "shortName": "Trade and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_22",
-      "name": "TDB",
-      "shortName": "TDB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_23",
-      "name": "October 1990",
-      "shortName": "October 1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_24",
-      "name": "Globull Investment &amp; Development",
-      "shortName": "Globull Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_25",
-      "name": "Golomt Bank",
-      "shortName": "Golomt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_26",
-      "name": "6 March 1995",
-      "shortName": "6 March",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_27",
-      "name": "Golomt Financial Group",
-      "shortName": "Golomt Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_28",
-      "name": "golomtbank.com",
-      "shortName": "golomtbank.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_29",
-      "name": "XacBank",
-      "shortName": "XacBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_30",
-      "name": "2001",
-      "shortName": "2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_31",
-      "name": "TenGer Financial Group",
-      "shortName": "TenGer Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_32",
-      "name": "xacbank.mn",
-      "shortName": "xacbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_33",
-      "name": "Khan Bank",
-      "shortName": "Khan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_34",
-      "name": "1991",
-      "shortName": "1991",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_35",
-      "name": "Sawada Holdings",
-      "shortName": "Sawada Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_36",
-      "name": "khanbank.com",
-      "shortName": "khanbank.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_37",
-      "name": "capitronbank.mn",
-      "shortName": "capitronbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_38",
-      "name": "Ajnai Corporation",
-      "shortName": "Ajnai Corporation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_39",
-      "name": "National Investment Bank of Mongolia",
-      "shortName": "National Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_40",
-      "name": "NIBank",
-      "shortName": "NIBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_41",
-      "name": "2006",
-      "shortName": "2006",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_42",
-      "name": "Dolgorsürengiin Dagvadorj",
-      "shortName": "Dolgorsürengiin Dagvadorj",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_43",
-      "name": "nibank.mn",
-      "shortName": "nibank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_44",
-      "name": "Chinggis Khaan Bank",
-      "shortName": "Chinggis Khaan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_45",
-      "name": "CKBank",
-      "shortName": "CKBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_46",
-      "name": "New Standard Finance",
-      "shortName": "New Standard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_47",
-      "name": "ckbank.mn",
-      "shortName": "ckbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_48",
-      "name": "Credit Bank",
-      "shortName": "Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_49",
-      "name": "creditbank.mn",
-      "shortName": "creditbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_50",
-      "name": "Trans Bank",
-      "shortName": "Trans",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_51",
-      "name": "27 October 2016",
-      "shortName": "27 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_52",
-      "name": "P. Radnaabazar",
-      "shortName": "P. Radnaabazar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_53",
-      "name": "transbank.mn",
-      "shortName": "transbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_54",
       "name": "Arig Bank",
       "shortName": "Arig",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_55",
-      "name": "1997",
-      "shortName": "1997",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_56",
-      "name": "Nomin Holding",
-      "shortName": "Nomin Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_57",
-      "name": "arigbank.mn",
-      "shortName": "arigbank.mn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MN_58",
+      "code": "MN_1",
       "name": "Bogd Bank",
       "shortName": "Bogd",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_59",
-      "name": "2014",
-      "shortName": "2014",
+      "code": "MN_2",
+      "name": "Capitron Bank",
+      "shortName": "Capitron",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_60",
-      "name": "Bodi Capital",
-      "shortName": "Bodi Capital",
+      "code": "MN_3",
+      "name": "Development Bank of Mongolia",
+      "shortName": "Development of Mongo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_61",
-      "name": "bogdbank.com",
-      "shortName": "bogdbank.com",
+      "code": "MN_4",
+      "name": "Golomt Bank",
+      "shortName": "Golomt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_62",
-      "name": "M bank",
-      "shortName": "M bank",
+      "code": "MN_5",
+      "name": "Khan Bank",
+      "shortName": "Khan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MN_63",
-      "name": "https://m-bank.mn/",
-      "shortName": "https://m-bank.mn/",
+      "code": "MN_6",
+      "name": "M Bank",
+      "shortName": "M",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MN_7",
+      "name": "National Investment Bank",
+      "shortName": "National Investment",
+      "type": "bank",
+      "aliases": "NIBank"
+    },
+    {
+      "code": "MN_8",
+      "name": "State Bank",
+      "shortName": "State",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MN_9",
+      "name": "Trade and Development Bank",
+      "shortName": "Trade and Developmen",
+      "type": "bank",
+      "aliases": "TDB"
+    },
+    {
+      "code": "MN_10",
+      "name": "TransBank",
+      "shortName": "TransBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MN_11",
+      "name": "Transport Development Bank",
+      "shortName": "Transport Developmen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MN_12",
+      "name": "ArdApp",
+      "shortName": "ArdApp",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MN_13",
+      "name": "MonPay",
+      "shortName": "MonPay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MN_14",
+      "name": "Most Money",
+      "shortName": "Most Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MN_15",
+      "name": "Pocket",
+      "shortName": "Pocket",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MN_16",
+      "name": "QPay",
+      "shortName": "QPay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MN_17",
+      "name": "SocialPay",
+      "shortName": "SocialPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

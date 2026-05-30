@@ -1,188 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ML",
   "institutions": [
     {
       "code": "ML_0",
-      "name": "Banque Atlantique Mali, part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "AFG Bank Mali",
+      "shortName": "AFG Mali",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_1",
-      "name": "Banque Commerciale du Sahel (BCS)",
-      "shortName": "Banque Commerciale",
+      "name": "Bank of Africa Mali",
+      "shortName": "Bank of Africa Mali",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "ML_2",
-      "name": "Banque Malienne de Solidarité (BMS)",
-      "shortName": "Banque Malienne",
+      "name": "Banque Atlantique Mali",
+      "shortName": "Banque Atlantique Ma",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_3",
-      "name": "Banque Nationale de Développement Agricole (BNDA)",
-      "shortName": "Banque Nationale",
+      "name": "Banque Commerciale du Sahel",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCS"
     },
     {
       "code": "ML_4",
-      "name": "Coris Bank International Mali, part of Coris Bank Group",
-      "shortName": "Coris",
+      "name": "Banque de Développement du Mali",
+      "shortName": "Banque de Développem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDM"
     },
     {
       "code": "ML_5",
-      "name": "Ecobank - Mali, part of Ecobank Group",
-      "shortName": "Ecobank -",
+      "name": "Banque Internationale pour le Mali",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIM"
     },
     {
       "code": "ML_6",
-      "name": "United Bank for Africa - Mali (UBA-Mali), part of UBA Group",
-      "shortName": "United",
+      "name": "Banque Malienne de Solidarité",
+      "shortName": "Banque Malienne de S",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BMS"
     },
     {
       "code": "ML_7",
-      "name": "Branch of Orabank",
-      "shortName": "Branch of",
+      "name": "Banque Nationale de Développement Agricole",
+      "shortName": "Banque Nationale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNDA"
     },
     {
       "code": "ML_8",
-      "name": "Economy of Mali",
-      "shortName": "Economy of",
+      "name": "Banque pour le Commerce et l'Industrie",
+      "shortName": "Banque pour le Comme",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
       "code": "ML_9",
-      "name": "Website of Central Bank of West African States (English)",
-      "shortName": "Website of",
+      "name": "BSIC Mali",
+      "shortName": "BSIC Mali",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_10",
-      "name": "Challenges in Agricultural Financing in Mali",
-      "shortName": "Challenges in",
+      "name": "Coris Bank International Mali",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_11",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Ecobank Mali",
+      "shortName": "Ecobank Mali",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_12",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "Orabank Mali",
+      "shortName": "Orabank Mali",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ML_13",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "United Bank for Africa Mali",
+      "shortName": "United for Africa Ma",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "ML_14",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ML_15",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ML_16",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
+      "name": "Telecel Cash",
+      "shortName": "Telecel Cash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ML_17",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_18",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_19",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_20",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_21",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_22",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_23",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_24",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ML_25",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Wave",
+      "shortName": "Wave",
+      "type": "mfs",
       "aliases": ""
     }
   ]

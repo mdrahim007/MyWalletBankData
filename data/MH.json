@@ -1,42 +1,28 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "MH",
   "institutions": [
     {
       "code": "MH_0",
-      "name": "Central Bank of MH",
-      "shortName": "Central Bank",
+      "name": "Bank of Guam",
+      "shortName": "Bank of Guam",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Majuro Branch"
     },
     {
       "code": "MH_1",
-      "name": "National Bank of MH",
-      "shortName": "National Bank",
+      "name": "Bank of Marshall Islands",
+      "shortName": "Bank of Marshall Isl",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOMI"
     },
     {
       "code": "MH_2",
-      "name": "State Bank of MH",
-      "shortName": "State Bank",
+      "name": "Marshall Islands Development Bank",
+      "shortName": "Marshall Islands Dev",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MH_3",
-      "name": "Commercial Bank of MH",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MH_4",
-      "name": "First MH Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "MIDB"
     }
   ]
 }
