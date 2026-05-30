@@ -1,756 +1,546 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 3,
+  "lastUpdated": "2026-05-30",
   "country": "BD",
   "institutions": [
     {
       "code": "BD_0",
-      "name": "Agrani Bank PLC",
-      "shortName": "Agrani Bank",
+      "name": "AB Bank PLC",
+      "shortName": "AB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BD_1",
-      "name": "Bangladesh Development Bank PLC",
-      "shortName": "BDBL",
+      "name": "Agrani Bank PLC",
+      "shortName": "Agrani",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BD_2",
-      "name": "BASIC Bank PLC",
-      "shortName": "BASIC Bank",
+      "name": "Al-Arafah Islami Bank PLC",
+      "shortName": "Al-Arafah Islami",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BD_3",
-      "name": "Janata Bank PLC",
-      "shortName": "Janata Bank",
+      "name": "Ansar VDP Unnayan Bank",
+      "shortName": "Ansar VDP Unnayan",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BD_4",
-      "name": "Rupali Bank PLC",
-      "shortName": "Rupali Bank",
+      "name": "Bangladesh Commerce Bank Limited",
+      "shortName": "Bangladesh Commerce",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BD_5",
-      "name": "Sonali Bank PLC",
-      "shortName": "Sonali Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_6",
-      "name": "Sammilito Islami Bank PLC",
-      "shortName": "Sammilito Islami",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_7",
-      "name": "Bangladesh Krishi Bank",
-      "shortName": "Krishi Bank",
+      "name": "Bangladesh Krishi Bank (BKB)",
+      "shortName": "Bangladesh Krishi",
       "type": "bank",
       "aliases": "BKB"
     },
     {
-      "code": "BD_8",
-      "name": "Rajshahi Krishi Unnayan Bank",
-      "shortName": "RAKUB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_9",
-      "name": "Probashi Kallyan Bank",
-      "shortName": "PKB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_10",
-      "name": "NRBC Bank PLC",
-      "shortName": "NRBC Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_11",
-      "name": "Bangladesh Commerce Bank Limited",
-      "shortName": "BCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_12",
-      "name": "Bank Asia PLC",
-      "shortName": "Bank Asia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_13",
-      "name": "Bengal Commercial Bank PLC",
-      "shortName": "Bengal Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_14",
-      "name": "Citizens Bank PLC",
-      "shortName": "Citizens Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_15",
-      "name": "City Bank PLC",
-      "shortName": "City Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_16",
-      "name": "Community Bank Bangladesh PLC",
-      "shortName": "Community Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_17",
-      "name": "Dhaka Bank PLC",
-      "shortName": "Dhaka Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_18",
-      "name": "Dutch-Bangla Bank PLC",
-      "shortName": "DBBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_19",
-      "name": "Eastern Bank PLC",
-      "shortName": "EBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_20",
-      "name": "IFIC Bank PLC",
-      "shortName": "IFIC Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_21",
-      "name": "Meghna Bank PLC",
-      "shortName": "Meghna Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_22",
-      "name": "Mercantile Bank PLC",
-      "shortName": "Mercantile Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_23",
-      "name": "Midland Bank PLC",
-      "shortName": "Midland Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_24",
-      "name": "Modhumoti Bank PLC",
-      "shortName": "Modhumoti Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_25",
-      "name": "Mutual Trust Bank PLC",
-      "shortName": "MTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_26",
-      "name": "National Bank PLC",
-      "shortName": "NBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_27",
-      "name": "National Credit &amp; Commerce Bank PLC",
-      "shortName": "National Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_28",
-      "name": "ONE Bank PLC",
-      "shortName": "ONE Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_29",
-      "name": "Padma Bank PLC",
-      "shortName": "Padma Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_30",
-      "name": "Prime Bank PLC",
-      "shortName": "Prime Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_31",
-      "name": "Shimanto Bank PLC",
-      "shortName": "Shimanto Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_32",
-      "name": "Southeast Bank PLC",
-      "shortName": "Southeast Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_33",
-      "name": "The Premier Bank PLC",
-      "shortName": "Premier Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_34",
-      "name": "Trust Bank PLC",
-      "shortName": "Trust Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_35",
-      "name": "United Commercial Bank PLC",
-      "shortName": "UCB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_36",
-      "name": "Uttara Bank PLC",
-      "shortName": "Uttara Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_37",
-      "name": "Al-Arafah Islami Bank PLC",
-      "shortName": "AIBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_38",
-      "name": "ICB Islamic Bank PLC",
-      "shortName": "ICB Islamic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_39",
-      "name": "Islami Bank Bangladesh PLC",
-      "shortName": "IBBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_40",
-      "name": "Shahjalal Islami Bank PLC",
-      "shortName": "SJIBL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_41",
-      "name": "Standard Bank PLC",
-      "shortName": "Standard Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_42",
+      "code": "BD_6",
       "name": "Bank Al-Falah Limited",
       "shortName": "Bank Al-Falah",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_43",
-      "name": "Citibank, N.A",
-      "shortName": "Citibank",
+      "code": "BD_7",
+      "name": "Bank Asia PLC",
+      "shortName": "Bank Asia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_44",
+      "code": "BD_8",
+      "name": "BASIC Bank PLC",
+      "shortName": "BASIC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_9",
+      "name": "Bengal Commercial Bank PLC",
+      "shortName": "Bengal Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_10",
+      "name": "BRAC Bank PLC",
+      "shortName": "BRAC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_11",
+      "name": "Citibank, N.A.",
+      "shortName": "Citibank, N.A.",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_12",
+      "name": "Citizens Bank PLC",
+      "shortName": "Citizens",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_13",
+      "name": "City Bank PLC",
+      "shortName": "City",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_14",
       "name": "Commercial Bank of Ceylon PLC",
-      "shortName": "CBC",
+      "shortName": "Commercial of Ceylon",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_45",
-      "name": "Habib Bank Limited",
-      "shortName": "HBL",
+      "code": "BD_15",
+      "name": "Community Bank Bangladesh PLC",
+      "shortName": "Community Bangladesh",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_46",
+      "code": "BD_16",
+      "name": "Dhaka Bank PLC",
+      "shortName": "Dhaka",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_17",
+      "name": "Dutch-Bangla Bank PLC",
+      "shortName": "Dutch-Bangla",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_18",
+      "name": "Eastern Bank PLC (EBL)",
+      "shortName": "Eastern",
+      "type": "bank",
+      "aliases": "EBL"
+    },
+    {
+      "code": "BD_19",
+      "name": "EXIM Bank PLC",
+      "shortName": "EXIM",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_20",
+      "name": "First Security Islami Bank PLC",
+      "shortName": "First Security Islam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_21",
+      "name": "Global Islami Bank PLC",
+      "shortName": "Global Islami",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_22",
+      "name": "Grameen Bank",
+      "shortName": "Grameen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_23",
+      "name": "Habib Bank Limited (HBL)",
+      "shortName": "Habib",
+      "type": "bank",
+      "aliases": "HBL"
+    },
+    {
+      "code": "BD_24",
       "name": "HSBC",
       "shortName": "HSBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_47",
-      "name": "National Bank of Pakistan",
-      "shortName": "NBP",
+      "code": "BD_25",
+      "name": "ICB Islamic Bank PLC",
+      "shortName": "ICB Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_48",
-      "name": "Standard Chartered Bank",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": "SCB"
-    },
-    {
-      "code": "BD_49",
-      "name": "State Bank of India",
-      "shortName": "SBI",
+      "code": "BD_26",
+      "name": "IFIC Bank PLC",
+      "shortName": "IFIC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_50",
-      "name": "Woori Bank",
-      "shortName": "Woori Bank",
+      "code": "BD_27",
+      "name": "Islami Bank Bangladesh PLC (IBBPLC)",
+      "shortName": "Islami Bangladesh",
+      "type": "bank",
+      "aliases": "IBBPLC"
+    },
+    {
+      "code": "BD_28",
+      "name": "Jamuna Bank PLC",
+      "shortName": "Jamuna",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_51",
-      "name": "Ansar VDP Unnayan Bank",
-      "shortName": "Ansar VDP",
+      "code": "BD_29",
+      "name": "Janata Bank PLC",
+      "shortName": "Janata",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_52",
-      "name": "Grameen Bank",
-      "shortName": "Grameen Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_53",
+      "code": "BD_30",
       "name": "Jubilee Bank",
-      "shortName": "Jubilee Bank",
+      "shortName": "Jubilee",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_54",
-      "name": "Karmashangosthan Bank",
-      "shortName": "Karmashangosthan",
+      "code": "BD_31",
+      "name": "Karmasangsthan Bank",
+      "shortName": "Karmasangsthan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_55",
+      "code": "BD_32",
+      "name": "LankaBangla Finance PLC",
+      "shortName": "LankaBangla Finance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_33",
+      "name": "Meghna Bank PLC",
+      "shortName": "Meghna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_34",
+      "name": "Mercantile Bank PLC",
+      "shortName": "Mercantile",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_35",
+      "name": "Midland Bank PLC",
+      "shortName": "Midland",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_36",
+      "name": "Modhumoti Bank PLC",
+      "shortName": "Modhumoti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_37",
+      "name": "Mutual Trust Bank PLC (MTB)",
+      "shortName": "Mutual Trust",
+      "type": "bank",
+      "aliases": "MTB"
+    },
+    {
+      "code": "BD_38",
+      "name": "National Bank PLC",
+      "shortName": "National",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_39",
+      "name": "National Bank of Pakistan",
+      "shortName": "National of Pakistan",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_40",
+      "name": "National Credit & Commerce (NCC) Bank PLC",
+      "shortName": "National Credit & Co",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_41",
+      "name": "NRB Bank PLC",
+      "shortName": "NRB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_42",
+      "name": "NRBC Bank PLC",
+      "shortName": "NRBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_43",
+      "name": "ONE Bank PLC",
+      "shortName": "ONE",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_44",
+      "name": "Padma Bank PLC",
+      "shortName": "Padma",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_45",
       "name": "Palli Sanchay Bank",
       "shortName": "Palli Sanchay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_56",
-      "name": "bKash",
-      "shortName": "bKash",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_57",
-      "name": "Nagad",
-      "shortName": "Nagad",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_58",
-      "name": "Rocket",
-      "shortName": "Rocket",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_59",
-      "name": "Upay",
-      "shortName": "Upay",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_60",
-      "name": "CellFin",
-      "shortName": "CellFin",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_61",
-      "name": "TAP",
-      "shortName": "TAP",
-      "type": "mfs",
-      "aliases": "Trust Axiata Pay"
-    },
-    {
-      "code": "BD_62",
-      "name": "OK Wallet",
-      "shortName": "OK Wallet",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_63",
-      "name": "NexusPay",
-      "shortName": "NexusPay",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_64",
-      "name": "mCash",
-      "shortName": "mCash",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_65",
-      "name": "TeleCash",
-      "shortName": "TeleCash",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_66",
-      "name": "Islamic Wallet",
-      "shortName": "Islamic Wallet",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_67",
-      "name": "MeghnaPay",
-      "shortName": "MeghnaPay",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_68",
-      "name": "Payzy",
-      "shortName": "Payzy",
-      "type": "mfs",
-      "aliases": ""
-    },
-    {
-      "code": "BD_69",
-      "name": "Agrani Bank",
-      "shortName": "Agrani",
+      "code": "BD_46",
+      "name": "Prime Bank PLC",
+      "shortName": "Prime",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_70",
-      "name": "BASIC Bank",
-      "shortName": "BASIC",
+      "code": "BD_47",
+      "name": "Probashi Kallyan Bank",
+      "shortName": "Probashi Kallyan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_71",
-      "name": "Janata Bank",
-      "shortName": "Janata",
+      "code": "BD_48",
+      "name": "Pubali Bank PLC",
+      "shortName": "Pubali",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_72",
-      "name": "Rupali Bank",
+      "code": "BD_49",
+      "name": "Rajshahi Krishi Unnayan Bank (RAKUB)",
+      "shortName": "Rajshahi Krishi Unna",
+      "type": "bank",
+      "aliases": "RAKUB"
+    },
+    {
+      "code": "BD_50",
+      "name": "Rupali Bank PLC",
       "shortName": "Rupali",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_73",
-      "name": "Sonali Bank",
+      "code": "BD_51",
+      "name": "Sammilito Islami Bank PLC",
+      "shortName": "Sammilito Islami",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_52",
+      "name": "Shahjalal Islami Bank PLC",
+      "shortName": "Shahjalal Islami",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_53",
+      "name": "Shimanto Bank PLC",
+      "shortName": "Shimanto",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_54",
+      "name": "Social Islami Bank PLC (SIBL)",
+      "shortName": "Social Islami",
+      "type": "bank",
+      "aliases": "SIBL"
+    },
+    {
+      "code": "BD_55",
+      "name": "Sonali Bank PLC",
       "shortName": "Sonali",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_74",
-      "name": "Padma Bank Limited merged with EXIM Bank PLC",
-      "shortName": "Padma",
+      "code": "BD_56",
+      "name": "South Bangla Agriculture & Commerce (SBAC) Bank PLC",
+      "shortName": "South Bangla Agricul",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_75",
-      "name": "Bangladesh Development Bank PLC merged with Sonali Bank PLC",
-      "shortName": "Bangladesh Development",
+      "code": "BD_57",
+      "name": "Southeast Bank PLC",
+      "shortName": "Southeast",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_76",
-      "name": "Citibank, N.A (United States of America)",
-      "shortName": "Citibank, N.A",
+      "code": "BD_58",
+      "name": "Standard Bank PLC",
+      "shortName": "Standard",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_77",
-      "name": "Commercial Bank of Ceylon PLC (Sri Lanka)",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_78",
-      "name": "Habib Bank Limited (Pakistan)",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_79",
-      "name": "HSBC (United Kingdom) (exited retail banking business)",
-      "shortName": "HSBC (United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_80",
-      "name": "National Bank of Pakistan (Pakistan)",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_81",
-      "name": "Standard Chartered Bank (United Kingdom)",
+      "code": "BD_59",
+      "name": "Standard Chartered Bank (SCB)",
       "shortName": "Standard Chartered",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SCB"
     },
     {
-      "code": "BD_82",
-      "name": "State Bank of India (India)",
-      "shortName": "State",
+      "code": "BD_60",
+      "name": "State Bank of India (SBI)",
+      "shortName": "State of India",
+      "type": "bank",
+      "aliases": "SBI"
+    },
+    {
+      "code": "BD_61",
+      "name": "The Premier Bank PLC",
+      "shortName": "The Premier",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_83",
-      "name": "Woori Bank (South Korea)",
+      "code": "BD_62",
+      "name": "Trust Bank PLC",
+      "shortName": "Trust",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_63",
+      "name": "Union Bank PLC",
+      "shortName": "Union",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_64",
+      "name": "United Commercial Bank PLC (UCB)",
+      "shortName": "United Commercial",
+      "type": "bank",
+      "aliases": "UCB"
+    },
+    {
+      "code": "BD_65",
+      "name": "Uttara Bank PLC",
+      "shortName": "Uttara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "BD_66",
+      "name": "Woori Bank",
       "shortName": "Woori",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BD_84",
-      "name": "Bangladesh Industrial Finance Company Limited (BIFC)",
-      "shortName": "Bangladesh Industrial",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_67",
+      "name": "bKash (BRAC Bank PLC)",
+      "shortName": "bKash",
+      "type": "mfs",
+      "aliases": "BRAC Bank PLC"
     },
     {
-      "code": "BD_85",
-      "name": "Bangladesh Infrastructure Finance Fund Limited (BIFFL)",
-      "shortName": "Bangladesh Infrastructure",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_68",
+      "name": "Islamic Wallet (Al-Arafah Islami Bank PLC)",
+      "shortName": "Islamic Wallet",
+      "type": "mfs",
+      "aliases": "Al-Arafah Islami Bank PLC"
     },
     {
-      "code": "BD_86",
-      "name": "DBH Finance PLC (DBH)",
-      "shortName": "DBH Finance",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_69",
+      "name": "mCash (Islami Bank Bangladesh PLC)",
+      "shortName": "mCash",
+      "type": "mfs",
+      "aliases": "Islami Bank Bangladesh PLC"
     },
     {
-      "code": "BD_87",
-      "name": "GSP Finance Company (Bangladesh) Limited (GSPB)",
-      "shortName": "GSP Finance",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_70",
+      "name": "MyCash (Mercantile Bank PLC)",
+      "shortName": "MyCash",
+      "type": "mfs",
+      "aliases": "Mercantile Bank PLC"
     },
     {
-      "code": "BD_88",
-      "name": "Infrastructure Development Company Limited (IDCOL)",
-      "shortName": "Infrastructure Development",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_71",
+      "name": "Nagad (Nagad Ltd. / Bangladesh Post Office)",
+      "shortName": "Nagad",
+      "type": "mfs",
+      "aliases": "Nagad Ltd. / Bangladesh Post Office"
     },
     {
-      "code": "BD_89",
-      "name": "Meridian Finance and Investment Limited.",
-      "shortName": "Meridian Finance",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_72",
+      "name": "OK Wallet (ONE Bank PLC)",
+      "shortName": "OK Wallet",
+      "type": "mfs",
+      "aliases": "ONE Bank PLC"
     },
     {
-      "code": "BD_90",
-      "name": "MIDAS Financing Limited. (MFL)",
-      "shortName": "MIDAS Financing",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_73",
+      "name": "Rocket (Dutch-Bangla Bank PLC)",
+      "shortName": "Rocket",
+      "type": "mfs",
+      "aliases": "Dutch-Bangla Bank PLC"
     },
     {
-      "code": "BD_91",
-      "name": "The UAE-Bangladesh Investment Company Limited",
-      "shortName": "The UAE-Bangladesh",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_74",
+      "name": "tap (Trust Bank PLC)",
+      "shortName": "tap",
+      "type": "mfs",
+      "aliases": "Trust Bank PLC"
     },
     {
-      "code": "BD_92",
-      "name": "Bangladesh House Building Finance Corporation (BHBFC)",
-      "shortName": "Bangladesh House",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_75",
+      "name": "TeleCash (Southeast Bank PLC)",
+      "shortName": "TeleCash",
+      "type": "mfs",
+      "aliases": "Southeast Bank PLC"
     },
     {
-      "code": "BD_93",
-      "name": "Palli Karma Sahayak Foundation (PKSF)",
-      "shortName": "Palli Karma",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_94",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_95",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_96",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_97",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_98",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_99",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_100",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_101",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_102",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_103",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_104",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_105",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BD_106",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
+      "code": "BD_76",
+      "name": "upay (United Commercial Bank PLC)",
+      "shortName": "upay",
+      "type": "mfs",
+      "aliases": "United Commercial Bank PLC"
     }
   ]
 }
