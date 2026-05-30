@@ -1,41 +1,76 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "MV",
   "institutions": [
     {
       "code": "MV_0",
-      "name": "Central Bank of MV",
-      "shortName": "Central Bank",
+      "name": "Bank of Ceylon",
+      "shortName": "Bank of Ceylon",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Malé Branch"
     },
     {
       "code": "MV_1",
-      "name": "National Bank of MV",
-      "shortName": "National Bank",
+      "name": "Bank of Maldives",
+      "shortName": "Bank of Maldives",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BML"
     },
     {
       "code": "MV_2",
-      "name": "State Bank of MV",
-      "shortName": "State Bank",
+      "name": "Commercial Bank of Maldives",
+      "shortName": "Commercial of Maldiv",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CBM"
     },
     {
       "code": "MV_3",
-      "name": "Commercial Bank of MV",
-      "shortName": "Commercial Bank",
+      "name": "Habib Bank Limited",
+      "shortName": "Habib",
       "type": "bank",
-      "aliases": ""
+      "aliases": "HBL"
     },
     {
       "code": "MV_4",
-      "name": "First MV Bank",
-      "shortName": "First Bank",
+      "name": "HSBC",
+      "shortName": "HSBC",
       "type": "bank",
+      "aliases": "Maldives"
+    },
+    {
+      "code": "MV_5",
+      "name": "Maldives Islamic Bank",
+      "shortName": "Maldives Islamic",
+      "type": "bank",
+      "aliases": "MIB"
+    },
+    {
+      "code": "MV_6",
+      "name": "State Bank of India",
+      "shortName": "State of India",
+      "type": "bank",
+      "aliases": "SBI"
+    },
+    {
+      "code": "MV_7",
+      "name": "The Mauritius Commercial Bank",
+      "shortName": "The Mauritius Commer",
+      "type": "bank",
+      "aliases": "Maldives"
+    },
+    {
+      "code": "MV_8",
+      "name": "Dhiraagu Pay",
+      "shortName": "Dhiraagu Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "MV_9",
+      "name": "m-Faisaa",
+      "shortName": "m-Faisaa",
+      "type": "mfs",
       "aliases": ""
     }
   ]

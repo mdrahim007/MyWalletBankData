@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MW",
   "institutions": [
     {
@@ -12,163 +12,65 @@
     },
     {
       "code": "MW_1",
-      "name": "Ecobank Malawi, part of Ecobank Group",
-      "shortName": "Ecobank Malawi,",
+      "name": "Centenary Bank Malawi",
+      "shortName": "Centenary Malawi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MW_2",
+      "name": "Ecobank Malawi",
+      "shortName": "Ecobank Malawi",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "MW_3",
       "name": "FDH Bank",
       "shortName": "FDH",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MW_3",
-      "name": "National Bank of Malawi",
-      "shortName": "National",
+      "code": "MW_4",
+      "name": "First Capital Bank Malawi",
+      "shortName": "First Capital Malawi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MW_4",
+      "code": "MW_5",
+      "name": "National Bank of Malawi",
+      "shortName": "National of Malawi",
+      "type": "bank",
+      "aliases": "NBM"
+    },
+    {
+      "code": "MW_6",
       "name": "NBS Bank",
       "shortName": "NBS",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MW_5",
-      "name": "Standard Bank Malawi, part of Standard Bank Group",
-      "shortName": "Standard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_6",
-      "name": "Centenary Bank Malawi, part of Centenary Group",
-      "shortName": "Centenary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "MW_7",
-      "name": "Economy of Malawi",
-      "shortName": "Economy of",
+      "name": "Standard Bank Malawi",
+      "shortName": "Standard Malawi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MW_8",
-      "name": "Website of Reserve Bank of Malawi",
-      "shortName": "Website of",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MW_9",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_10",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_11",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_12",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_13",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_14",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_15",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_16",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_17",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_18",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_19",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_20",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_21",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_22",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MW_23",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Mpamba",
+      "shortName": "Mpamba",
+      "type": "mfs",
       "aliases": ""
     }
   ]

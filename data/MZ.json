@@ -1,188 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MZ",
   "institutions": [
     {
       "code": "MZ_0",
-      "name": "Standard Bank, S.A. (SB), part of Standard Bank Group",
-      "shortName": "Standard,",
+      "name": "Absa Bank Mozambique",
+      "shortName": "Absa Mozambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_1",
-      "name": "African Banking Corporation (Moçambique), S.A. (ABC)",
-      "shortName": "Africaning",
+      "name": "Access Bank Mozambique",
+      "shortName": "Access Mozambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_2",
-      "name": "FNB Moçambique, S.A., part of FirstRand Group",
-      "shortName": "FNB Moçambique,",
+      "name": "Banco BIG Moçambique",
+      "shortName": "BIG Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_3",
-      "name": "Ecobank Moçambique, S.A., part of Ecobank Group",
-      "shortName": "Ecobank Moçambique,",
+      "name": "Banco Comercial e de Investimentos",
+      "shortName": "Comercial e de Inves",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
       "code": "MZ_4",
-      "name": "Moza Banco, S.A.",
-      "shortName": "Moza Banco,",
+      "name": "Banco Letshego",
+      "shortName": "Letshego",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_5",
-      "name": "Nedbank Moçambique, S.A., part of Nedbank Group&#91;3&#93;",
-      "shortName": "Nedbank Moçambique,",
+      "name": "Banco Nacional de Investimento",
+      "shortName": "Nacional de Investim",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNI"
     },
     {
       "code": "MZ_6",
-      "name": "Banco Nacional de Investimento, S.A. (BNI), state-owned",
-      "shortName": "Banco Nacional",
+      "name": "Ecobank Moçambique",
+      "shortName": "Ecobank Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_7",
-      "name": "Banco Letshego, S.A., part of Letshego Group",
-      "shortName": "Banco Letshego,",
+      "name": "First Capital Bank Mozambique",
+      "shortName": "First Capital Mozamb",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_8",
-      "name": "Access Bank Mozambique, S.A., part of Access Bank Group",
-      "shortName": "Access",
+      "name": "FNB Moçambique",
+      "shortName": "FNB Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_9",
-      "name": "Economy of Mozambique",
-      "shortName": "Economy of",
+      "name": "Millennium bim",
+      "shortName": "Millennium bim",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_10",
-      "name": "Website of Bank of Mozambique (Portuguese)",
-      "shortName": "Website of",
+      "name": "Moza Banco",
+      "shortName": "Moza",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_11",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Nedbank Moçambique",
+      "shortName": "Nedbank Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_12",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "Standard Bank Moçambique",
+      "shortName": "Standard Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_13",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "United Bank for Africa Moçambique",
+      "shortName": "United for Africa Mo",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "MZ_14",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Vista Bank Moçambique",
+      "shortName": "Vista Moçambique",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MZ_15",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
+      "name": "e-Mola",
+      "shortName": "e-Mola",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MZ_16",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
+      "name": "mKesh",
+      "shortName": "mKesh",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MZ_17",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_18",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_19",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_20",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_21",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_22",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_23",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_24",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MZ_25",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "M-Pesa",
+      "shortName": "M-Pesa",
+      "type": "mfs",
       "aliases": ""
     }
   ]
