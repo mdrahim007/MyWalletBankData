@@ -1,19 +1,19 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "OM",
   "institutions": [
     {
       "code": "OM_0",
-      "name": "Central Bank of Oman",
-      "shortName": "Central",
+      "name": "Ahli Bank",
+      "shortName": "Ahli",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "OM_1",
-      "name": "National Bank of Oman",
-      "shortName": "National",
+      "name": "Bank Dhofar",
+      "shortName": "Bank Dhofar",
       "type": "bank",
       "aliases": ""
     },
@@ -26,184 +26,51 @@
     },
     {
       "code": "OM_3",
-      "name": "Bank Dhofar",
-      "shortName": "Bank Dhofar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_4",
-      "name": "Sohar International",
-      "shortName": "Sohar International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_5",
-      "name": "Oman Arab Bank",
-      "shortName": "Oman Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_6",
-      "name": "Ahli Bank",
-      "shortName": "Ahli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_7",
       "name": "Bank Nizwa",
       "shortName": "Bank Nizwa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "OM_8",
-      "name": "Alizz Islamic Bank",
-      "shortName": "Alizz Islamic",
+      "code": "OM_4",
+      "name": "Oman Arab Bank",
+      "shortName": "Oman Arab",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "OM_5",
+      "name": "Qatar National Bank",
+      "shortName": "Qatar National",
+      "type": "bank",
+      "aliases": "Oman Branch"
+    },
+    {
+      "code": "OM_6",
+      "name": "Sohar International Bank",
+      "shortName": "Sohar International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "OM_7",
+      "name": "Paymob",
+      "shortName": "Paymob",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "OM_8",
+      "name": "Tap Payments",
+      "shortName": "Tap Payments",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "OM_9",
-      "name": "First Abu Dhabi Bank Oman",
-      "shortName": "First Abu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_10",
-      "name": "Qatar National Bank Oman",
-      "shortName": "Qatar National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_11",
-      "name": "Standard Chartered Bank Oman",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_12",
-      "name": "State Bank of India Oman",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_13",
-      "name": "Habib Bank Limited Oman",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_14",
-      "name": "Beirut Oman Bank",
-      "shortName": "Beirut Oman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_15",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_16",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_17",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_18",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_19",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_20",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_21",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_22",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_23",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_24",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_25",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_26",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_27",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "OM_28",
-      "name": "Economy of Oman-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Thawani",
+      "shortName": "Thawani",
+      "type": "mfs",
       "aliases": ""
     }
   ]

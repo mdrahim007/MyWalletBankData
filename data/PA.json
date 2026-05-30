@@ -1,1609 +1,265 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "PA",
   "institutions": [
     {
       "code": "PA_0",
-      "name": "Economy of Panama",
-      "shortName": "Economy of",
+      "name": "BAC International Bank",
+      "shortName": "BAC International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAC Credomatic"
     },
     {
       "code": "PA_1",
-      "name": "Asociación Bancaria",
-      "shortName": "Asociación Bancaria",
+      "name": "Banco Aliado",
+      "shortName": "Aliado",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_2",
-      "name": "Lista de bancos de Panamá",
-      "shortName": "Lista de",
+      "name": "Banco Azteca",
+      "shortName": "Azteca",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
       "code": "PA_3",
-      "name": "CS1 Spanish-language sources (es)",
-      "shortName": "CS1 Spanish-language",
+      "name": "Banco Davivienda",
+      "shortName": "Davivienda",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
       "code": "PA_4",
-      "name": "AllBank",
-      "shortName": "AllBank",
+      "name": "Banco de Bogotá",
+      "shortName": "de Bogotá",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
       "code": "PA_5",
-      "name": "General license",
-      "shortName": "General license",
+      "name": "Banco Delta",
+      "shortName": "Delta",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_6",
-      "name": "Venezuela",
-      "shortName": "Venezuela",
+      "name": "Banco Ficohsa",
+      "shortName": "Ficohsa",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
       "code": "PA_7",
-      "name": "2011",
-      "shortName": "2011",
+      "name": "Banco General",
+      "shortName": "General",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_8",
-      "name": "Bank in forced liquidation.&#91;2&#93;",
-      "shortName": "Bank in",
+      "name": "Banco LAFISE Panamá",
+      "shortName": "LAFISE Panamá",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_9",
-      "name": "Atlas Bank",
-      "shortName": "Atlas",
+      "name": "Banco Latinoamericano de Comercio Exterior",
+      "shortName": "Latinoamericano de C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Bladex"
     },
     {
       "code": "PA_10",
-      "name": "2016",
-      "shortName": "2016",
+      "name": "Banco Nacional de Panamá",
+      "shortName": "Nacional de Panamá",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_11",
-      "name": "BAC Credomatic",
-      "shortName": "BAC Credomatic",
+      "name": "Banco Pichincha Panamá",
+      "shortName": "Pichincha Panamá",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_12",
-      "name": "1995",
-      "shortName": "1995",
+      "name": "Banco Prival",
+      "shortName": "Prival",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PA_13",
-      "name": "Banco Aliado",
-      "shortName": "Banco Aliado",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_14",
-      "name": "1992",
-      "shortName": "1992",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_15",
-      "name": "Banco Azteca",
-      "shortName": "Banco Azteca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_16",
-      "name": "2005",
-      "shortName": "2005",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_17",
-      "name": "Banco Davivienda",
-      "shortName": "Banco Davivienda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_18",
-      "name": "1966",
-      "shortName": "1966",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_19",
-      "name": "Banco de Bogotá",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_20",
-      "name": "2013",
-      "shortName": "2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_21",
-      "name": "Banco Delta",
-      "shortName": "Banco Delta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_22",
-      "name": "2006",
-      "shortName": "2006",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_23",
-      "name": "Banco Ficohsa",
-      "shortName": "Banco Ficohsa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_24",
-      "name": "Banco General",
-      "shortName": "Banco General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_25",
-      "name": "1955",
-      "shortName": "1955",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_26",
-      "name": "Banco Nacional de Costa Rica",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_27",
-      "name": "1976",
-      "shortName": "1976",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_28",
-      "name": "Banco La Hipotecaria",
-      "shortName": "Banco La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_29",
-      "name": "2010",
-      "shortName": "2010",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_30",
-      "name": "Banco LAFISE Panamá",
-      "shortName": "Banco LAFISE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_31",
-      "name": "Banco Latinoamericano de Comercio Exterior (Bladex)",
-      "shortName": "Banco Latinoamericano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_32",
-      "name": "Multinational",
-      "shortName": "Multinational",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_33",
-      "name": "1979",
-      "shortName": "1979",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_34",
-      "name": "Banco Nacional de Panamá",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_35",
-      "name": "1904",
-      "shortName": "1904",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_36",
-      "name": "Official Bank",
-      "shortName": "Official",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_37",
-      "name": "Banco Pichincha",
-      "shortName": "Banco Pichincha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_38",
-      "name": "Banco Prival",
-      "shortName": "Banco Prival",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_39",
       "name": "Bancolombia",
       "shortName": "Bancolombia",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
-      "code": "PA_40",
-      "name": "2012",
-      "shortName": "2012",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_41",
+      "code": "PA_14",
       "name": "Banesco Panamá",
       "shortName": "Banesco Panamá",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_42",
-      "name": "2007",
-      "shortName": "2007",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_43",
+      "code": "PA_15",
       "name": "BANISI",
       "shortName": "BANISI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_44",
-      "name": "2008",
-      "shortName": "2008",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_45",
+      "code": "PA_16",
       "name": "Banistmo",
       "shortName": "Banistmo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_46",
+      "code": "PA_17",
       "name": "Bank of China",
-      "shortName": "Bank of",
+      "shortName": "Bank of China",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama Branch"
     },
     {
-      "code": "PA_47",
-      "name": "1994",
-      "shortName": "1994",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_48",
+      "code": "PA_18",
       "name": "BBP Bank",
       "shortName": "BBP",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_49",
-      "name": "2009",
-      "shortName": "2009",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_50",
+      "code": "PA_19",
       "name": "BCT Bank International",
-      "shortName": "BCT",
+      "shortName": "BCT International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_51",
+      "code": "PA_20",
       "name": "Bi-Bank",
       "shortName": "Bi-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_52",
+      "code": "PA_21",
       "name": "Caja de Ahorros",
-      "shortName": "Caja de",
+      "shortName": "Caja de Ahorros",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_53",
-      "name": "1934",
-      "shortName": "1934",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_54",
+      "code": "PA_22",
       "name": "Canal Bank",
       "shortName": "Canal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_55",
-      "name": "2014",
-      "shortName": "2014",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_56",
+      "code": "PA_23",
       "name": "Citibank",
       "shortName": "Citibank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama Branch"
     },
     {
-      "code": "PA_57",
+      "code": "PA_24",
       "name": "Credicorp Bank",
       "shortName": "Credicorp",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_58",
-      "name": "1993",
-      "shortName": "1993",
+      "code": "PA_25",
+      "name": "Global Bank Corporation",
+      "shortName": "Global Corporation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_59",
-      "name": "Global Bank",
-      "shortName": "Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_60",
-      "name": "Industrial and Commercial Bank of China",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_61",
-      "name": "2021",
-      "shortName": "2021",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_62",
-      "name": "Keb Hana Bank",
-      "shortName": "Keb Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_63",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_64",
-      "name": "1980",
-      "shortName": "1980",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_65",
-      "name": "Mega International Commercial Bank",
-      "shortName": "Mega International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_66",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_67",
-      "name": "1974",
-      "shortName": "1974",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_68",
-      "name": "Mercantil Banco",
-      "shortName": "Mercantil Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_69",
-      "name": "1978",
-      "shortName": "1978",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_70",
+      "code": "PA_26",
       "name": "Metrobank",
       "shortName": "Metrobank",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Panama"
     },
     {
-      "code": "PA_71",
-      "name": "1991",
-      "shortName": "1991",
+      "code": "PA_27",
+      "name": "MMG Bank Corporation",
+      "shortName": "MMG Corporation",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_72",
-      "name": "MMG Bank",
-      "shortName": "MMG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_73",
-      "name": "2003",
-      "shortName": "2003",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_74",
+      "code": "PA_28",
       "name": "Multibank",
       "shortName": "Multibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_75",
-      "name": "1987",
-      "shortName": "1987",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_76",
-      "name": "Pacific Bank",
-      "shortName": "Pacific",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_77",
+      "code": "PA_29",
       "name": "St. Georges Bank",
       "shortName": "St. Georges",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_78",
-      "name": "2004",
-      "shortName": "2004",
+      "code": "PA_30",
+      "name": "Towerbank International",
+      "shortName": "Towerbank Internatio",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_79",
-      "name": "Scotiabank",
-      "shortName": "Scotiabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_80",
-      "name": "Towerbank",
-      "shortName": "Towerbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_81",
-      "name": "1971",
-      "shortName": "1971",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_82",
+      "code": "PA_31",
       "name": "Unibank",
       "shortName": "Unibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PA_83",
-      "name": "Atlantic Security Bank",
-      "shortName": "Atlantic Security",
-      "type": "bank",
+      "code": "PA_32",
+      "name": "Kash",
+      "shortName": "Kash",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PA_84",
-      "name": "International license",
-      "shortName": "International license",
-      "type": "bank",
+      "code": "PA_33",
+      "name": "Nequi",
+      "shortName": "Nequi",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PA_85",
-      "name": "1984",
-      "shortName": "1984",
-      "type": "bank",
+      "code": "PA_34",
+      "name": "PagueloFacil",
+      "shortName": "PagueloFacil",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PA_86",
-      "name": "Austrobank Overseas",
-      "shortName": "Austrobank Overseas",
-      "type": "bank",
+      "code": "PA_35",
+      "name": "Yappy",
+      "shortName": "Yappy",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PA_87",
-      "name": "Banco Davivienda Internacional",
-      "shortName": "Banco Davivienda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_88",
-      "name": "2015",
-      "shortName": "2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_89",
-      "name": "1988",
-      "shortName": "1988",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_90",
-      "name": "Banco de Crédito del Perú",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_91",
-      "name": "2002",
-      "shortName": "2002",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_92",
-      "name": "Banco de Occidente",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_93",
-      "name": "1973",
-      "shortName": "1973",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_94",
-      "name": "Banco Popular Dominicano",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_95",
-      "name": "1983",
-      "shortName": "1983",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_96",
-      "name": "BBVA",
-      "shortName": "BBVA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_97",
-      "name": "2025",
-      "shortName": "2025",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_98",
-      "name": "Cathay International Bank",
-      "shortName": "Cathay International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_99",
-      "name": "ES Bank",
-      "shortName": "ES",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_100",
-      "name": "2001",
-      "shortName": "2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_101",
-      "name": "GNB Sudameris Bank",
-      "shortName": "GNB Sudameris",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_102",
-      "name": "1970",
-      "shortName": "1970",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_103",
-      "name": "Inteligo Bank",
-      "shortName": "Inteligo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_104",
-      "name": "1997",
-      "shortName": "1997",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_105",
-      "name": "Itaú",
-      "shortName": "Itaú",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_106",
-      "name": "1998",
-      "shortName": "1998",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_107",
-      "name": "Abanca",
-      "shortName": "Abanca",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_108",
-      "name": "Representative office",
-      "shortName": "Representative office",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_109",
-      "name": "Banco General Overseas",
-      "shortName": "Banco General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_110",
-      "name": "1986",
-      "shortName": "1986",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_111",
-      "name": "Commerzbank",
-      "shortName": "Commerzbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_112",
-      "name": "EFG International",
-      "shortName": "EFG International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_113",
-      "name": "&#160;Switzerland",
-      "shortName": "&#160;Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_114",
-      "name": "2023",
-      "shortName": "2023",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_115",
-      "name": "JP Morgan Chase",
-      "shortName": "JP Morgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_116",
-      "name": "Mercantil Bank Schweiz",
-      "shortName": "Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_117",
-      "name": "Proven Bank",
-      "shortName": "Proven",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_118",
-      "name": "Safra National Bank of New York",
-      "shortName": "Safra National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_119",
-      "name": "UBS AG",
-      "shortName": "UBS AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_120",
-      "name": "UBS Switzerland AG",
-      "shortName": "UBS Switzerland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_121",
-      "name": "ABN AMRO",
-      "shortName": "ABN AMRO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_122",
-      "name": "1971-2001",
-      "shortName": "1971-2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_123",
-      "name": "Balboa Bank &amp; Trust",
-      "shortName": "Balboa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_124",
-      "name": "2005-2017",
-      "shortName": "2005-2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_125",
-      "name": "Bancafé Panamá",
-      "shortName": "Bancafé Panamá",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_126",
-      "name": "1976-2012",
-      "shortName": "1976-2012",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_127",
-      "name": "Banco Agro Industrial y Comercial de Panamá",
-      "shortName": "Banco Agro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_128",
-      "name": "1977-1996",
-      "shortName": "1977-1996",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_129",
-      "name": "Banco Continental",
-      "shortName": "Banco Continental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_130",
-      "name": "1972-2007",
-      "shortName": "1972-2007",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_131",
-      "name": "Acquired by Banco General.&#91;10&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_132",
-      "name": "Banco Comercial de Panamá (Bancomer)",
-      "shortName": "Banco Comercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_133",
-      "name": "1979-2000",
-      "shortName": "1979-2000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_134",
-      "name": "Banco Cuscatlán",
-      "shortName": "Banco Cuscatlán",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_135",
-      "name": "1994-2008",
-      "shortName": "1994-2008",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_136",
-      "name": "Banco del Pacífico",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_137",
-      "name": "1980-2019",
-      "shortName": "1980-2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_138",
-      "name": "Banco de Ultramar",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_139",
-      "name": "1978-1993",
-      "shortName": "1978-1993",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_140",
-      "name": "Banco de Desarrollo Industrial (Banco DISA)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_141",
-      "name": "1985-2002",
-      "shortName": "1985-2002",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_142",
-      "name": "Banco do Brasil",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_143",
-      "name": "1973-2019",
-      "shortName": "1973-2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_144",
-      "name": "Ceased operations in Panama.",
-      "shortName": "Ceased operations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_145",
-      "name": "Banco Exterior",
-      "shortName": "Banco Exterior",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_146",
-      "name": "1966-2000",
-      "shortName": "1966-2000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_147",
-      "name": "Acquired by BBVA.",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_148",
-      "name": "Banco Ganadero",
-      "shortName": "Banco Ganadero",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_149",
-      "name": "1980-1999",
-      "shortName": "1980-1999",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_150",
-      "name": "Banco G&amp;T Continental",
-      "shortName": "Banco G&amp;T",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_151",
-      "name": "2008-2019",
-      "shortName": "2008-2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_152",
-      "name": "Merged with GTC Bank.",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_153",
-      "name": "Banco Institucional Patria de Ahorro y Préstamo",
-      "shortName": "Banco Institucional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_154",
-      "name": "1989-1990",
-      "shortName": "1989-1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_155",
-      "name": "Banco Rio Internacional",
-      "shortName": "Banco Rio",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_156",
-      "name": "1973-2002",
-      "shortName": "1973-2002",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_157",
-      "name": "Acquired by Banco Continental.&#91;18&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_158",
-      "name": "Banco Interoceánico",
-      "shortName": "Banco Interoceánico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_159",
-      "name": "1970-1994",
-      "shortName": "1970-1994",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_160",
-      "name": "Banco de Latinoamérica (Bancolat)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_161",
-      "name": "1982-2001",
-      "shortName": "1982-2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_162",
-      "name": "Acquired by Banistmo.&#91;19&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_163",
-      "name": "Banco Mercantil del Istmo",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_164",
-      "name": "Merged with parent company Banistmo.",
-      "shortName": "Merged with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_165",
-      "name": "Banco Trasatlántico",
-      "shortName": "Banco Trasatlántico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_166",
-      "name": "Acquired by Balboa Bank &amp; Trust.&#91;20&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_167",
-      "name": "2008-2020",
-      "shortName": "2008-2020",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_168",
-      "name": "Banco Panameño de la Vivienda (Banvivienda)",
-      "shortName": "Banco Panameño",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_169",
-      "name": "1981-2018",
-      "shortName": "1981-2018",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_170",
-      "name": "Acquired by Global Bank.&#91;22&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_171",
-      "name": "Banca Privada d'Andorra",
-      "shortName": "Banca Privada",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_172",
-      "name": "2011-2015",
-      "shortName": "2011-2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_173",
-      "name": "Banco Universal",
-      "shortName": "Banco Universal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_174",
-      "name": "1994-2016",
-      "shortName": "1994-2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_175",
-      "name": "Banco Uno",
-      "shortName": "Banco Uno",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_176",
-      "name": "1983-2013",
-      "shortName": "1983-2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_177",
-      "name": "Bank Hapoalim",
-      "shortName": "Bank Hapoalim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_178",
-      "name": "Bank Leumi",
-      "shortName": "Bank Leumi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_179",
-      "name": "Bank Mizrahi-Tefahot",
-      "shortName": "Bank Mizrahi-Tefahot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_180",
-      "name": "Ceased operations in Panama.&#91;28&#93;",
-      "shortName": "Ceased operations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_181",
-      "name": "Bank of America",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_182",
-      "name": "1963-1985",
-      "shortName": "1963-1985",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_183",
-      "name": "Operations in Panama acquired by Banco General.",
-      "shortName": "Operations in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_184",
-      "name": "BNP Paribas",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_185",
-      "name": "2006-2010",
-      "shortName": "2006-2010",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_186",
-      "name": "Operations in Panama acquired by Scotiabank.&#91;29&#93;",
-      "shortName": "Operations in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_187",
-      "name": "Capital Bank",
-      "shortName": "Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_188",
-      "name": "Acquired by Mercantil Banco.&#91;30&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_189",
-      "name": "2000-2004",
-      "shortName": "2000-2004",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_190",
-      "name": "Chase Manhattan Bank",
-      "shortName": "Chase Manhattan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_191",
-      "name": "1955-2000",
-      "shortName": "1955-2000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_192",
-      "name": "Chohung Bank",
-      "shortName": "Chohung",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_193",
-      "name": "1983-1998",
-      "shortName": "1983-1998",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_194",
-      "name": "Crèdit Andorrà",
-      "shortName": "Crèdit Andorrà",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_195",
-      "name": "Citibank Panamá",
-      "shortName": "Citibank Panamá",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_196",
-      "name": "Acquired by Scotiabank.&#91;35&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_197",
-      "name": "Dai-Ichi Kangyo Bank",
-      "shortName": "Dai-Ichi Kangyo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_198",
-      "name": "Daiwa Bank",
-      "shortName": "Daiwa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_199",
-      "name": "Dresdner Bank",
-      "shortName": "Dresdner",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_200",
-      "name": "HSBC Bank Panama",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_201",
-      "name": "Acquired by Bancolombia, renamed to Banistmo.&#91;36&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_202",
-      "name": "Interbank",
-      "shortName": "Interbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_203",
-      "name": "Julius Baer",
-      "shortName": "Julius Baer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_204",
-      "name": "Lloyds TSB Bank",
-      "shortName": "Lloyds TSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_205",
-      "name": "1990-2004",
-      "shortName": "1990-2004",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_206",
-      "name": "Long-Term Credit Bank of Japan",
-      "shortName": "Long-Term Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_207",
-      "name": "MiBanco",
-      "shortName": "MiBanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_208",
-      "name": "1997-2014",
-      "shortName": "1997-2014",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_209",
-      "name": "Mitsubishi Trust and Banking Corporation",
-      "shortName": "Mitsubishi Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_210",
-      "name": "1981-2005",
-      "shortName": "1981-2005",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_211",
-      "name": "Mizuho Corporate Bank",
-      "shortName": "Mizuho Corporate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_212",
-      "name": "2002-2013",
-      "shortName": "2002-2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_213",
-      "name": "Panabank",
-      "shortName": "Panabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_214",
-      "name": "1984-2004",
-      "shortName": "1984-2004",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_215",
-      "name": "Pribanco",
-      "shortName": "Pribanco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_216",
-      "name": "Primer Banco del Istmo (Banistmo)",
-      "shortName": "Primer Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_217",
-      "name": "Acquired by HSBC, renamed to HSBC Bank Panama.&#91;41&#93;",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_218",
-      "name": "Produbank",
-      "shortName": "Produbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_219",
-      "name": "Acquired by St. Georges Bank.",
-      "shortName": "Acquired by",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_220",
-      "name": "Republic National Bank",
-      "shortName": "Republic National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_221",
-      "name": "1971-1999",
-      "shortName": "1971-1999",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_222",
-      "name": "Royal Bank of Canada",
-      "shortName": "Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_223",
-      "name": "1975-1987",
-      "shortName": "1975-1987",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_224",
-      "name": "Sakura Bank",
-      "shortName": "Sakura",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_225",
-      "name": "Sanwa Bank",
-      "shortName": "Sanwa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_226",
-      "name": "State Bank of India",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_227",
-      "name": "1979-1997",
-      "shortName": "1979-1997",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PA_228",
-      "name": "Sumitomo Bank",
-      "shortName": "Sumitomo",
-      "type": "bank",
+      "code": "PA_36",
+      "name": "Zinli",
+      "shortName": "Zinli",
+      "type": "mfs",
       "aliases": ""
     }
   ]

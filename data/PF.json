@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "PF",
   "institutions": [
     {
       "code": "PF_0",
-      "name": "Central Bank of PF",
-      "shortName": "Central Bank",
+      "name": "Banque de Polynésie",
+      "shortName": "Banque de Polynésie",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PF_1",
-      "name": "National Bank of PF",
-      "shortName": "National Bank",
+      "name": "Banque de Tahiti",
+      "shortName": "Banque de Tahiti",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PF_2",
-      "name": "State Bank of PF",
-      "shortName": "State Bank",
+      "name": "Banque Socredo",
+      "shortName": "Banque Socredo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PF_3",
-      "name": "Commercial Bank of PF",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PF_4",
-      "name": "First PF Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "PF_5",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
