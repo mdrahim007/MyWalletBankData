@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "AS",
   "institutions": [
     {
       "code": "AS_0",
-      "name": "Central Bank of AS",
-      "shortName": "Central Bank",
+      "name": "Development Bank of American Samoa",
+      "shortName": "Development of Ameri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DBAS"
     },
     {
       "code": "AS_1",
-      "name": "National Bank of AS",
-      "shortName": "National Bank",
+      "name": "Territorial Bank of American Samoa",
+      "shortName": "Territorial of Ameri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "TBAS"
     },
     {
       "code": "AS_2",
-      "name": "State Bank of AS",
-      "shortName": "State Bank",
-      "type": "bank",
+      "name": "Cash App",
+      "shortName": "Cash App",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AS_3",
-      "name": "Commercial Bank of AS",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AS_4",
-      "name": "First AS Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Venmo",
+      "shortName": "Venmo",
+      "type": "mfs",
       "aliases": ""
     }
   ]
