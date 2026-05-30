@@ -1,804 +1,188 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BA",
   "institutions": [
     {
       "code": "BA_0",
-      "name": "Banka Srpske - Banja Luka",
-      "shortName": "Banka Srpske",
+      "name": "Addiko Bank a.d. Banja Luka",
+      "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_1",
-      "name": "Balkan Investment Bank - Banja Luka",
-      "shortName": "Balkan Investment",
+      "name": "Addiko Bank d.d. Sarajevo",
+      "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_2",
-      "name": "Bobar Banka - Bijeljina",
-      "shortName": "Bobara",
+      "name": "ASA Banka d.d. Sarajevo",
+      "shortName": "ASAa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_3",
-      "name": "IEFK Bank - Banja Luka",
-      "shortName": "IEFK",
+      "name": "ATOS BANK a.d. Banja Luka",
+      "shortName": "ATOS BANK",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_4",
-      "name": "Postbank BH - Sarajevo",
-      "shortName": "Postbank BH",
+      "name": "Banka Poštanska štedionica a.d. Banja Luka",
+      "shortName": "Banka Poštanska šted",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_5",
-      "name": "Hercegovačka Banka - Mostar",
-      "shortName": "Hercegovačkaa",
+      "name": "Bosna Bank International d.d. Sarajevo",
+      "shortName": "Bosna International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_6",
-      "name": "Camelija banka - Bihać",
-      "shortName": "Camelija banka",
+      "name": "Intesa Sanpaolo Banka d.d. Bosna i Hercegovina",
+      "shortName": "Intesa Sanpaoloa Bos",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_7",
-      "name": "International Commercial Bank - Sarajevo",
-      "shortName": "International Commercial",
+      "name": "Komercijalno-investiciona banka d.d. Velika Kladuša",
+      "shortName": "Komercijalno-investi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_8",
-      "name": "VB banka - Banja Luka",
-      "shortName": "VB banka",
+      "name": "MF banka a.d. Banja Luka",
+      "shortName": "MF",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BA_9",
-      "name": "Zepter Komerc bank - Banja Luka",
-      "shortName": "Zepter Komerc",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_10",
-      "name": "Privredna banka a.d. Istočno Sarajevo - East Sarajevo",
-      "shortName": "Privredna banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_11",
-      "name": "Moja Banka - Sarajevo",
-      "shortName": "Mojaa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_12",
-      "name": "Volksbank a.d. - Banja Luka",
-      "shortName": "Volksbank a.d.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_13",
-      "name": "Volksbank d.d. - Sarajevo",
-      "shortName": "Volksbank d.d.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_14",
-      "name": "NLB Tuzlanska Banka - Tuzla",
-      "shortName": "NLB Tuzlanska",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_15",
-      "name": "Depozitna banka - Sarajevo",
-      "shortName": "Depozitna banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_16",
-      "name": "Šeh-in banka - Zenica",
-      "shortName": "Šeh-in banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_17",
-      "name": "Investicijska Banka Federacije BiH - Sarajevo",
-      "shortName": "Investicijskaa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_18",
-      "name": "LT Gospodarska banka - Sarajevo",
-      "shortName": "LT Gospodarska",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_19",
-      "name": "Ljubljanska banka - Sarajevo",
-      "shortName": "Ljubljanska banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_20",
-      "name": "Central Profit Banka - Sarajevo",
-      "shortName": "Central Profit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_21",
-      "name": "Universal banka - Sarajevo",
-      "shortName": "Universal banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_22",
-      "name": "HVB CPB Banka - Sarajevo",
-      "shortName": "HVB CPB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_23",
-      "name": "HVB Banka Bosna i Herzegovina - Sarajevo",
-      "shortName": "HVBa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_24",
-      "name": "Nova Banjalučka banka - Banja Luka",
-      "shortName": "Nova Banjalučka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_25",
-      "name": "UPI banka - Sarajevo",
-      "shortName": "UPI banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_26",
-      "name": "CBS Bank - Sarajevo",
-      "shortName": "CBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_27",
-      "name": "Commercebank - Sarajevo",
-      "shortName": "Commercebank -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_28",
-      "name": "Una banka - Bihać",
-      "shortName": "Una banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_29",
-      "name": "Auro Banka - Mostar",
-      "shortName": "Auroa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_30",
-      "name": "Gospodarska banka - Mostar",
-      "shortName": "Gospodarska banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_31",
-      "name": "Vakufska banka - Sarajevo",
-      "shortName": "Vakufska banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_32",
-      "name": "ASA Naša i snažna - Sarajevo",
-      "shortName": "ASA Naša",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_33",
-      "name": "Western Union services in Bosnia and Herzegovina&#91;4&#93;",
-      "shortName": "Western Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_34",
-      "name": "MoneyGram - in Bosnia and Herzegovina&#91;5&#93;",
-      "shortName": "MoneyGram -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_35",
-      "name": "Ria Money Transfer&#91;6&#93;",
-      "shortName": "Ria Money",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_36",
-      "name": "KfW - Njemačka razvojna banka - KFW u BiH",
-      "shortName": "KfW -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_37",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_38",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_39",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_40",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_41",
-      "name": "Economy of Bosnia and Herzegovina",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_42",
-      "name": "CS1 Bosnian-language sources (bs)",
-      "shortName": "CS1 Bosnian-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_43",
-      "name": "CS1 Serbian (Latin script)-language sources (sr-latn)",
-      "shortName": "CS1 Serbian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_44",
-      "name": "Banja Luka",
-      "shortName": "Banja Luka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_45",
-      "name": "ABRS",
-      "shortName": "ABRS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_46",
-      "name": "HAABBA2BXXX",
-      "shortName": "HAABBA2BXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_47",
-      "name": "Addiko Bank",
-      "shortName": "Addiko",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_48",
-      "name": "Addiko Bank BiH",
-      "shortName": "Addiko",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_49",
-      "name": "Sarajevo",
-      "shortName": "Sarajevo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_50",
-      "name": "FBA",
-      "shortName": "FBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_51",
-      "name": "www.asabanka.ba",
-      "shortName": "www.asabanka.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_52",
-      "name": "IKBZBA2XXXX",
-      "shortName": "IKBZBA2XXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_53",
-      "name": "ASA Group",
-      "shortName": "ASA Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_54",
-      "name": "ATM Network BH mreža",
-      "shortName": "ATM Network",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_55",
-      "name": "SABRBA2BXXX",
-      "shortName": "SABRBA2BXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_56",
-      "name": "Atos Bank",
-      "shortName": "Atos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_57",
-      "name": "ATM Network with Nova Banka",
-      "shortName": "ATM Network",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_58",
-      "name": "www.bpsbl.com",
-      "shortName": "www.bpsbl.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_59",
-      "name": "KOBBBA22XXX",
-      "shortName": "KOBBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_60",
-      "name": "Banka Poštanska štedionica Serbia",
-      "shortName": "Banka Poštanska",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_61",
-      "name": "No",
-      "shortName": "No",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_62",
-      "name": "www.rbfbih.ba",
-      "shortName": "www.rbfbih.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_63",
-      "name": "BBIBBA22XXX",
-      "shortName": "BBIBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_64",
-      "name": "www.intesasanpaolobanka.ba",
-      "shortName": "www.intesasanpaolobanka.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_65",
-      "name": "UPBKBA22XXX",
-      "shortName": "UPBKBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_66",
-      "name": "Banca Intesa via PBZ",
-      "shortName": "Banca Intesa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_67",
-      "name": "Velika Kladuša",
-      "shortName": "Velika Kladuša",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_68",
-      "name": "www.kib-banka.com.ba",
-      "shortName": "www.kib-banka.com.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_69",
-      "name": "KINBBA22XXX",
-      "shortName": "KINBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_70",
-      "name": "KIB banka",
-      "shortName": "KIB banka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_71",
-      "name": "www.mfbanka.com",
-      "shortName": "www.mfbanka.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_72",
-      "name": "MFBLBA22XXX",
-      "shortName": "MFBLBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_73",
-      "name": "MF Grupa d.o.o. (94,87%), GLS investicioni fond (5,13%)",
-      "shortName": "MF Grupa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_74",
-      "name": "www.nlb-fbih.ba",
-      "shortName": "www.nlb-fbih.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_75",
-      "name": "TBTUBA22XXX",
-      "shortName": "TBTUBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_76",
-      "name": "NLB Group",
-      "shortName": "NLB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_77",
-      "name": "NLB Bank BiH",
-      "shortName": "NLB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_78",
-      "name": "www.nlb-rs.ba",
-      "shortName": "www.nlb-rs.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_79",
-      "name": "RAZBBA22XXX",
-      "shortName": "RAZBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_80",
-      "name": "www.nasa-banka.com",
-      "shortName": "www.nasa-banka.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_81",
-      "name": "NOBIBA22XXX",
-      "shortName": "NOBIBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_82",
-      "name": "MG-MIND Group",
-      "shortName": "MG-MIND Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_83",
-      "name": "PAVLBA22XXX",
-      "shortName": "PAVLBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_84",
-      "name": "Naša Banka",
+      "name": "Naša Banka a.d. Banja Luka",
       "shortName": "Našaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_85",
-      "name": "www.pbs.ba",
-      "shortName": "www.pbs.ba",
+      "code": "BA_10",
+      "name": "NLB Banka a.d. Banja Luka",
+      "shortName": "NLBa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_86",
-      "name": "PBSCBA22XXX",
-      "shortName": "PBSCBA22XXX",
+      "code": "BA_11",
+      "name": "NLB Banka d.d. Sarajevo",
+      "shortName": "NLBa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_87",
-      "name": "Privredna Banka Sarajevo",
-      "shortName": "Privrednaa",
+      "code": "BA_12",
+      "name": "Nova Banka a.d. Banja Luka",
+      "shortName": "Novaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_88",
-      "name": "www.procreditbank.ba",
-      "shortName": "www.procreditbank.ba",
+      "code": "BA_13",
+      "name": "Privredna banka Sarajevo d.d. Sarajevo",
+      "shortName": "Privredna Sarajevo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_89",
-      "name": "MEBBBA22XXX",
-      "shortName": "MEBBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_90",
-      "name": "ProCredit Holding",
-      "shortName": "ProCredit Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_91",
-      "name": "ProCredit Bank",
+      "code": "BA_14",
+      "name": "ProCredit Bank d.d. Sarajevo",
       "shortName": "ProCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_92",
-      "name": "www.raiffeisenbank.ba",
-      "shortName": "www.raiffeisenbank.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_93",
-      "name": "RZBABA2SXXX",
-      "shortName": "RZBABA2SXXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_94",
-      "name": "Raiffeisen Bank International",
+      "code": "BA_15",
+      "name": "Raiffeisen Bank d.d. BiH",
       "shortName": "Raiffeisen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_95",
-      "name": "Raiffeisen Banking Group",
-      "shortName": "Raiffeisening",
+      "code": "BA_16",
+      "name": "Razvojna banka Federacije BiH",
+      "shortName": "Razvojna Federacije",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_96",
-      "name": "IBBHBA22XXX",
-      "shortName": "IBBHBA22XXX",
+      "code": "BA_17",
+      "name": "Sparkasse Bank d.d. BiH",
+      "shortName": "Sparkasse",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_97",
-      "name": "Government of the Federation of Bosnia and Herzegovina",
-      "shortName": "Government of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_98",
-      "name": "www.sparkasse.ba/",
-      "shortName": "www.sparkasse.ba/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_99",
-      "name": "ABSBBA22XXX",
-      "shortName": "ABSBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_100",
-      "name": "Steiermärkische Sparkasse",
-      "shortName": "Steiermärkische Sparkasse",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_101",
-      "name": "Erste Group",
-      "shortName": "Erste Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_102",
-      "name": "www.unicreditbank-bl.ba",
-      "shortName": "www.unicreditbank-bl.ba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_103",
-      "name": "BLBABA22XXX",
-      "shortName": "BLBABA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_104",
-      "name": "UniCredit Bank",
+      "code": "BA_18",
+      "name": "UniCredit Bank a.d. Banja Luka",
       "shortName": "UniCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_105",
-      "name": "UniCredit Group BiH",
-      "shortName": "UniCredit Group",
+      "code": "BA_19",
+      "name": "UniCredit Bank d.d. Mostar",
+      "shortName": "UniCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_106",
-      "name": "Mostar",
-      "shortName": "Mostar",
+      "code": "BA_20",
+      "name": "Union banka d.d. Sarajevo",
+      "shortName": "Union",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_107",
-      "name": "www.unicredit.ba",
-      "shortName": "www.unicredit.ba",
+      "code": "BA_21",
+      "name": "ZiraatBank BH d.d.",
+      "shortName": "ZiraatBank BH",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BA_108",
-      "name": "UNCRBA22XXX",
-      "shortName": "UNCRBA22XXX",
-      "type": "bank",
+      "code": "BA_22",
+      "name": "Lova",
+      "shortName": "Lova",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BA_109",
-      "name": "www.unionbank.ba",
-      "shortName": "www.unionbank.ba",
-      "type": "bank",
+      "code": "BA_23",
+      "name": "mPay",
+      "shortName": "mPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BA_110",
-      "name": "www.ziraatbank.ba",
-      "shortName": "www.ziraatbank.ba",
-      "type": "bank",
+      "code": "BA_24",
+      "name": "OPA Wallet",
+      "shortName": "OPA Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BA_111",
-      "name": "TZBBBA22XXX",
-      "shortName": "TZBBBA22XXX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_112",
-      "name": "Ziraat Finance Group",
-      "shortName": "Ziraat Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BA_113",
-      "name": "Ziraat Bank",
-      "shortName": "Ziraat",
-      "type": "bank",
+      "code": "BA_25",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
