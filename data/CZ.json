@@ -1,41 +1,153 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CZ",
   "institutions": [
     {
       "code": "CZ_0",
-      "name": "Central Bank of CZ",
-      "shortName": "Central Bank",
+      "name": "Air Bank",
+      "shortName": "Air",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CZ_1",
-      "name": "National Bank of CZ",
-      "shortName": "National Bank",
+      "name": "Banka Creditas",
+      "shortName": "Banka Creditas",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CZ_2",
-      "name": "State Bank of CZ",
-      "shortName": "State Bank",
+      "name": "Česká spořitelna",
+      "shortName": "Česká spořitelna",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CZ_3",
-      "name": "Commercial Bank of CZ",
-      "shortName": "Commercial Bank",
+      "name": "Československá obchodní banka",
+      "shortName": "Československá obcho",
+      "type": "bank",
+      "aliases": "ČSOB"
+    },
+    {
+      "code": "CZ_4",
+      "name": "Fio banka",
+      "shortName": "Fio",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CZ_4",
-      "name": "First CZ Bank",
-      "shortName": "First Bank",
+      "code": "CZ_5",
+      "name": "J&T Banka",
+      "shortName": "J&Ta",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_6",
+      "name": "Komerční banka",
+      "shortName": "Komerční",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_7",
+      "name": "mBank",
+      "shortName": "mBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_8",
+      "name": "Moneta Money Bank",
+      "shortName": "Moneta Money",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_9",
+      "name": "Partners Banka",
+      "shortName": "Partnersa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_10",
+      "name": "PPF Banka",
+      "shortName": "PPFa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_11",
+      "name": "Raiffeisenbank",
+      "shortName": "Raiffeisenbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_12",
+      "name": "Trinity Bank",
+      "shortName": "Trinity",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_13",
+      "name": "UniCredit Bank Czech Republic and Slovakia",
+      "shortName": "UniCredit Czech Repu",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_14",
+      "name": "Curve",
+      "shortName": "Curve",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_15",
+      "name": "Edenred",
+      "shortName": "Edenred",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_16",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_17",
+      "name": "Pluxee",
+      "shortName": "Pluxee",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_18",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_19",
+      "name": "Spendee",
+      "shortName": "Spendee",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CZ_20",
+      "name": "Twisto",
+      "shortName": "Twisto",
+      "type": "mfs",
       "aliases": ""
     }
   ]

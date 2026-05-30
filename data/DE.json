@@ -1,1525 +1,181 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "DE",
   "institutions": [
     {
       "code": "DE_0",
-      "name": "Bayerische Landesbank (also known as BayernLB, SFG IPS)",
-      "shortName": "Bayerische Landesbank",
+      "name": "BayernLB",
+      "shortName": "BayernLB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_1",
-      "name": "Commerzbank AG",
-      "shortName": "Commerzbank AG",
+      "name": "Bunq",
+      "shortName": "Bunq",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_2",
-      "name": "DekaBank Deutsche Girozentrale (SFG IPS)",
-      "shortName": "DekaBank Deutsche",
+      "name": "C24 Bank",
+      "shortName": "C24",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_3",
-      "name": "Deutsche Pfandbriefbank AG also known as PBB",
-      "shortName": "Deutsche Pfandbriefbank",
+      "name": "Commerzbank",
+      "shortName": "Commerzbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_4",
-      "name": "Deutsche Bank AG",
+      "name": "Deutsche Bank",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_5",
-      "name": "DZ BANK AG (cooperative IPS)",
-      "shortName": "DZ BANK",
+      "name": "DKB",
+      "shortName": "DKB",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Deutsche Kreditbank"
     },
     {
       "code": "DE_6",
-      "name": "Hamburg Commercial Bank AG",
-      "shortName": "Hamburg Commercial",
+      "name": "DZ Bank",
+      "shortName": "DZ",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_7",
-      "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba, SFG IPS)",
-      "shortName": "Landesbank Hessen-Thüringen",
+      "name": "Helaba",
+      "shortName": "Helaba",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_8",
-      "name": "Haspa Finanzholding (SFG IPS)",
-      "shortName": "Haspa Finanzholding",
+      "name": "ING-DiBa",
+      "shortName": "ING-DiBa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_9",
-      "name": "KfW Beteiligungsholding GmbH, subsidiary of KfW",
-      "shortName": "KfW Beteiligungsholding",
+      "name": "KfW",
+      "shortName": "KfW",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_10",
-      "name": "Landesbank Baden-Württemberg (LBBW, SFG IPS)",
-      "shortName": "Landesbank Baden-Württemberg",
+      "name": "LBBW",
+      "shortName": "LBBW",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Landesbank Baden-Württemberg"
     },
     {
       "code": "DE_11",
-      "name": "LBS Landesbausparkasse NordWest (SFG IPS)",
-      "shortName": "LBS Landesbausparkasse",
+      "name": "N26",
+      "shortName": "N26",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_12",
-      "name": "Münchener Hypothekenbank eG (cooperative IPS)",
-      "shortName": "Münchener Hypothekenbank",
+      "name": "NordLB",
+      "shortName": "NordLB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_13",
-      "name": "Norddeutsche Landesbank Girozentrale (NORD/LB, SFG IPS)",
-      "shortName": "Norddeutsche Landesbank",
+      "name": "Postbank",
+      "shortName": "Postbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_14",
-      "name": "Volkswagen Financial Services AG, subsidiary of Volkswagen",
-      "shortName": "Volkswagen Financial",
+      "name": "Revolut Bank",
+      "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_15",
-      "name": "Berliner Volksbank eG&#160;&#91;de&#93; (cooperative IPS)",
-      "shortName": "Berliner Volksbank",
+      "name": "Santander Consumer Bank",
+      "shortName": "Santander Consumer",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_16",
-      "name": "BMW Bank GmbH, subsidiary of BMW",
-      "shortName": "BMW",
+      "name": "Solaris",
+      "shortName": "Solaris",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_17",
-      "name": "Clearstream Holding AG, subsidiary of Deutsche Börse",
-      "shortName": "Clearstream Holding",
+      "name": "Targobank",
+      "shortName": "Targobank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_18",
-      "name": "Eurex Clearing AG, another subsidiary of Deutsche Börse",
-      "shortName": "Eurex Clearing",
+      "name": "Tomorrow",
+      "shortName": "Tomorrow",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DE_19",
-      "name": "Frankfurter Volksbank Rhein/Main eG (cooperative IPS)",
-      "shortName": "Frankfurter Volksbank",
-      "type": "bank",
+      "name": "Bluecode",
+      "shortName": "Bluecode",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DE_20",
-      "name": "IKB Deutsche Industriebank AG, owned by Lone Star Funds",
-      "shortName": "IKB Deutsche",
-      "type": "bank",
+      "name": "Curve",
+      "shortName": "Curve",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DE_21",
-      "name": "Kreissparkasse Köln&#160;&#91;de&#93; (SFG IPS)",
-      "shortName": "Kreissparkasse Köln&#160;&#91;de&#93;",
-      "type": "bank",
+      "name": "Payback Pay",
+      "shortName": "Payback Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DE_22",
-      "name": "Landesbank Saar (SFG IPS)",
-      "shortName": "Landesbank Saar",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DE_23",
-      "name": "Lloyds Bank GmbH, subsidiary of Lloyds Bank",
-      "shortName": "Lloyds",
-      "type": "bank",
+      "name": "Vivid Money",
+      "shortName": "Vivid Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DE_24",
-      "name": "Mercedes-Benz Bank AG, subsidiary of Mercedes-Benz Group",
-      "shortName": "Mercedes-Benz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_25",
-      "name": "Nassauische Sparkasse&#160;&#91;de&#93; (SFG IPS)",
-      "shortName": "Nassauische Sparkasse&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_26",
-      "name": "Sparkasse Hannover&#160;&#91;de&#93; (SFG IPS)",
-      "shortName": "Sparkasse Hannover&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_27",
-      "name": "Sparkasse Pforzheim Calw&#160;&#91;de&#93; (SFG IPS)",
-      "shortName": "Sparkasse Pforzheim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_28",
-      "name": "Stadtsparkasse Düsseldorf&#160;&#91;de&#93; (SFG IPS)",
-      "shortName": "Stadtsparkasse Düsseldorf&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_29",
-      "name": "Stadtsparkasse München (SFG IPS)",
-      "shortName": "Stadtsparkasse München",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_30",
-      "name": "Kreissparkasse Ludwigsburg",
-      "shortName": "Kreissparkasse Ludwigsburg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_31",
-      "name": "Ostsächsische Sparkasse Dresden",
-      "shortName": "Ostsächsische Sparkasse",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_32",
-      "name": "Sparkasse an Volme und Ruhr",
-      "shortName": "Sparkasse an",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_33",
-      "name": "Sparkasse Mittelholstein AG",
-      "shortName": "Sparkasse Mittelholstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_34",
-      "name": "Stadt- und Kreissparkasse Leipzig",
-      "shortName": "Stadt- und",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_35",
-      "name": "Bank im Bistum Essen eG",
-      "shortName": "Bank im",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_36",
-      "name": "Edekabank AG",
-      "shortName": "Edekabank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_37",
-      "name": "GLS Gemeinschaftsbank eG",
-      "shortName": "GLS Gemeinschaftsbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_38",
-      "name": "Bank für Kirche und Diakonie eG - KD-Bank",
-      "shortName": "Bank für",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_39",
-      "name": "Pax-Bank für Kirche und Caritas eG",
-      "shortName": "Pax-Bank für",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_40",
-      "name": "PSD group of banks",
-      "shortName": "PSD group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_41",
-      "name": "VBU Volksbank im Unterland eG",
-      "shortName": "VBU Volksbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_42",
-      "name": "Volksbank in Ostwestfalen eG",
-      "shortName": "Volksbank in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_43",
-      "name": "Volksbank Neckartal eG",
-      "shortName": "Volksbank Neckartal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_44",
-      "name": "Volksbank Stuttgart eG",
-      "shortName": "Volksbank Stuttgart",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_45",
-      "name": "Airbus Bank GmbH, subsidiary of Airbus",
-      "shortName": "Airbus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_46",
-      "name": "AKA Ausfuhrkredit-GmbH&#160;&#91;de&#93;",
-      "shortName": "AKA Ausfuhrkredit-GmbH&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_47",
-      "name": "akf bank GmbH &amp; Co KG&#160;&#91;de&#93;",
-      "shortName": "akf bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_48",
-      "name": "B. Metzler seel. Sohn &amp; Co. AG",
-      "shortName": "B. Metzler",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_49",
-      "name": "Baader Bank AG",
-      "shortName": "Baader",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_50",
-      "name": "Bankhaus Anton Hafner KG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Anton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_51",
-      "name": "Bankhaus C. L. Seeliger&#160;&#91;de&#93;",
-      "shortName": "Bankhaus C.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_52",
-      "name": "Bankhaus Gebr. Martin AG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Gebr.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_53",
-      "name": "Bankhaus Ellwanger &amp; Geiger AG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Ellwanger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_54",
-      "name": "Bankhaus Herzogpark AG",
-      "shortName": "Bankhaus Herzogpark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_55",
-      "name": "Bankhaus Ludwig Sperrer KG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Ludwig",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_56",
-      "name": "Bankhaus Max Flessa KG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Max",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_57",
-      "name": "Bankhaus Obotritia GmbH",
-      "shortName": "Bankhaus Obotritia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_58",
-      "name": "Bankhaus Rautenschlein AG&#160;&#91;de&#93;",
-      "shortName": "Bankhaus Rautenschlein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_59",
-      "name": "Bankhaus Werhahn GmbH",
-      "shortName": "Bankhaus Werhahn",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_60",
-      "name": "Bausparkasse Mainz AG&#160;&#91;de&#93;",
-      "shortName": "Bausparkasse Mainz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_61",
-      "name": "BfW - Bank für Wohnungswirtschaft AG",
-      "shortName": "BfW -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_62",
-      "name": "C24 Bank GmbH, subsidiary of Check24&#160;&#91;de&#93;",
-      "shortName": "C24",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_63",
-      "name": "CB Bank GmbH&#160;&#91;de&#93;",
-      "shortName": "CB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_64",
-      "name": "Raisin Bank AG&#160;&#91;de&#93;",
-      "shortName": "Raisin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_65",
-      "name": "CVW-Privatbank AG&#160;&#91;de&#93;",
-      "shortName": "CVW-Privatbank AG&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_66",
-      "name": "Deutsche Haftungsdach GmbH",
-      "shortName": "Deutsche Haftungsdach",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_67",
-      "name": "Donner &amp; Reuschel AG",
-      "shortName": "Donner &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_68",
-      "name": "ETRIS Bank GmbH, subsidiary of E/D/E&#160;&#91;de&#93;",
-      "shortName": "ETRIS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_69",
-      "name": "flatexDEGIRO Bank AG&#160;&#91;de&#93;",
-      "shortName": "flatexDEGIRO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_70",
-      "name": "FNZ Bank SE&#160;&#91;de&#93;",
-      "shortName": "FNZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_71",
-      "name": "Fürst Fugger Privatbank AG",
-      "shortName": "Fürst Fugger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_72",
-      "name": "Fürstlich Castell'sche Bank Credit-Casse AG",
-      "shortName": "Fürstlich Castell'sche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_73",
-      "name": "Gabler-Saliter Bankgeschäft AG&#160;&#91;de&#93;",
-      "shortName": "Gabler-Salitergeschäft",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_74",
-      "name": "Goyer &amp; Göppel KG",
-      "shortName": "Goyer &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_75",
-      "name": "GSCF Working Capital Bank GmbH",
-      "shortName": "GSCF Working",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_76",
-      "name": "Hoerner-Bank AG",
-      "shortName": "Hoerner-Bank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_77",
-      "name": "Marcard, Stein &amp; Co AG&#160;&#91;de&#93;",
-      "shortName": "Marcard, Stein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_78",
-      "name": "Max Heinr. Sutor oHG&#160;&#91;de&#93;",
-      "shortName": "Max Heinr.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_79",
-      "name": "mediserv Bank GmbH&#160;&#91;de&#93;",
-      "shortName": "mediserv",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_80",
-      "name": "Merkur Bank KGaA",
-      "shortName": "Merkur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_81",
-      "name": "MKB Mittelstandskreditbank AG&#160;&#91;de&#93;",
-      "shortName": "MKB Mittelstandskreditbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_82",
-      "name": "National-Bank AG",
-      "shortName": "National-Bank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_83",
-      "name": "Otto M. Schröder Bank AG&#160;&#91;de&#93;",
-      "shortName": "Otto M.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_84",
-      "name": "ProCredit Bank AG, subsidiary of ProCredit Holding",
-      "shortName": "ProCredit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_85",
-      "name": "RSB Retail + Service Bank GmbH",
-      "shortName": "RSB Retail",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_86",
-      "name": "Siemens Bank GmbH, subsidiary of Siemens Financial Services",
-      "shortName": "Siemens",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_87",
-      "name": "Signal Iduna Bauspar AG, subsidiary of Signal Iduna Group",
-      "shortName": "Signal Iduna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_88",
-      "name": "Solaris SE",
-      "shortName": "Solaris SE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_89",
-      "name": "Sparkasse zu Lübeck AG",
-      "shortName": "Sparkasse zu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_90",
-      "name": "Steyler Bank GmbH",
-      "shortName": "Steyler",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_91",
-      "name": "Trade Republic Bank GmbH",
-      "shortName": "Trade Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_92",
-      "name": "Tradegate AG, owner of Tradegate Exchange&#160;&#91;de&#93;",
-      "shortName": "Tradegate AG,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_93",
-      "name": "Trumpf Financial Services GmbH, subsidiary of Trumpf",
-      "shortName": "Trumpf Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_94",
-      "name": "Umweltbank AG",
-      "shortName": "Umweltbank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_95",
-      "name": "Union-Bank AG&#160;&#91;de&#93;",
-      "shortName": "Union-Bank AG&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_96",
-      "name": "Varengold Bank AG",
-      "shortName": "Varengold",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_97",
-      "name": "Akbank AG&#160;&#91;de&#93;, subsidiary of Akbank",
-      "shortName": "Akbank AG&#160;&#91;de&#93;,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_98",
-      "name": "German branch of DNB Bank ASA",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_99",
-      "name": "German branch of Hoist Finance AB",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_100",
-      "name": "Oyak Anker Bank GmbH&#160;&#91;de&#93;, subsidiary of OYAK",
-      "shortName": "Oyak Anker",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_101",
-      "name": "German branch of Klarna Bank AB",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_102",
-      "name": "German branch of J&amp;T Banka as",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_103",
-      "name": "German branch of Jyske Bank A/S",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_104",
-      "name": "German branch of LGT Bank AG",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_105",
-      "name": "German branch of Liechtensteinische Landesbank AG",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_106",
-      "name": "German branch of OTP Bank Nyrt",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_107",
-      "name": "German branch of PKO Bank Polski SA",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_108",
-      "name": "German branch of Skandinaviska Enskilda Banken AB",
-      "shortName": "German branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_109",
-      "name": "VZ VermögensZentrum Bank AG, subsidiary of VZ Holding",
-      "shortName": "VZ VermögensZentrum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_110",
-      "name": "Agricultural Bank of China",
-      "shortName": "Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_111",
-      "name": "ANZ Bank Holding",
-      "shortName": "ANZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_112",
-      "name": "Banco do Brasil",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_113",
-      "name": "Bank Melli Iran",
-      "shortName": "Bank Melli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_114",
-      "name": "Bank of China",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_115",
-      "name": "Bank of Communications",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_116",
-      "name": "Bank Saderat Iran",
-      "shortName": "Bank Saderat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_117",
-      "name": "Bank Sepah",
-      "shortName": "Bank Sepah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_118",
-      "name": "Bank of New York",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_119",
-      "name": "China Construction Bank",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_120",
-      "name": "First Commercial Holding&#160;&#91;zh&#93;",
-      "shortName": "First Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_121",
-      "name": "Goldman Sachs",
-      "shortName": "Goldman Sachs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_122",
-      "name": "ICICI Bank",
-      "shortName": "ICICI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_123",
-      "name": "Industrial and Commercial Bank of China",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_124",
-      "name": "Korea Development Bank",
-      "shortName": "Korea Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_125",
-      "name": "Khavarmianeh (Middle East) Bank",
-      "shortName": "Khavarmianeh (Middle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_126",
-      "name": "Lloyds Banking Group",
-      "shortName": "Lloydsing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_127",
-      "name": "Mizuho Financial Group",
-      "shortName": "Mizuho Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_128",
-      "name": "National Bank of Pakistan",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_129",
-      "name": "NatWest Markets",
-      "shortName": "NatWest Markets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_130",
-      "name": "National Westminster Bank",
-      "shortName": "National Westminster",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_131",
-      "name": "Saman Bank",
-      "shortName": "Saman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_132",
-      "name": "State Bank of India",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_133",
-      "name": "State Bank of Vietnam",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_134",
-      "name": "Sumitomo Mitsui Financial Group",
-      "shortName": "Sumitomo Mitsui",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_135",
-      "name": "Kreditanstalt für Wiederaufbau in Frankfurt",
-      "shortName": "Kreditanstalt für",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_136",
-      "name": "Landwirtschaftliche Rentenbank in Frankfurt",
-      "shortName": "Landwirtschaftliche Rentenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_137",
-      "name": "Investitionsbank Schleswig-Holstein (IB.SH) in Kiel",
-      "shortName": "Investitionsbank Schleswig-Holstein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_138",
-      "name": "Hamburgische Investitions- und Förderbank (IFB Hamburg)",
-      "shortName": "Hamburgische Investitions-",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_139",
-      "name": "Bremer Aufbau-Bank (BAB) in Bremen",
-      "shortName": "Bremer Aufbau-Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_140",
-      "name": "Investitionsbank Berlin (IBB) in Berlin",
-      "shortName": "Investitionsbank Berlin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_141",
-      "name": "Investitionsbank des Landes Brandenburg (ILB) in Berlin",
-      "shortName": "Investitionsbank des",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_142",
-      "name": "Investitionsbank Sachsen-Anhalt (IB) in Magdeburg",
-      "shortName": "Investitionsbank Sachsen-Anhalt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_143",
-      "name": "Sächsische Aufbaubank (SAB) in Leipzig",
-      "shortName": "Sächsische Aufbaubank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_144",
-      "name": "NRW.Bank in Düsseldorf and Münster",
-      "shortName": "NRW.Bank in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_145",
-      "name": "Thüringer Aufbaubank in Erfurt",
-      "shortName": "Thüringer Aufbaubank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_146",
-      "name": "Saarländische Investitionskreditbank (SIKB) in Saarbrücken",
-      "shortName": "Saarländische Investitionskreditbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_147",
-      "name": "LfA Förderbank Bayern in Munich",
-      "shortName": "LfA Förderbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_148",
-      "name": "Hamburger Bank (1619-1875)",
-      "shortName": "Hamburger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_149",
-      "name": "Preußische Bank (1766-1876)",
-      "shortName": "Preußische",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_150",
-      "name": "Bank für Süddeutschland (1846-1902)",
-      "shortName": "Bank für",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_151",
-      "name": "Frankfurter Bank (1854-1970), bank of issue until 1901",
-      "shortName": "Frankfurter",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_152",
-      "name": "Sächsische Bank (1865-1945), bank of issue until 1935",
-      "shortName": "Sächsische",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_153",
-      "name": "Badische Bank (1870-1978), bank of issue until 1935",
-      "shortName": "Badische",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_154",
-      "name": "Bayerische Notenbank (1875-1935)",
-      "shortName": "Bayerische Notenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_155",
-      "name": "Reichsbank (1876-1945)",
-      "shortName": "Reichsbank (1876-1945)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_156",
-      "name": "Deutsche Rentenbank (1923-1945), bank of issue until 1924",
-      "shortName": "Deutsche Rentenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_157",
-      "name": "Reichskreditkasse&#160;&#91;de&#93; (1939-1945)",
-      "shortName": "Reichskreditkasse&#160;&#91;de&#93; (1939-1945)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_158",
-      "name": "Bank deutscher Länder (1948-1957)",
-      "shortName": "Bank deutscher",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_159",
-      "name": "Deutsche Notenbank (1948-1968)",
-      "shortName": "Deutsche Notenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_160",
-      "name": "Staatsbank der DDR (1968-1990)",
-      "shortName": "Staatsbank der",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_161",
-      "name": "Fugger Bank (16C-17C)",
-      "shortName": "Fugger",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_162",
-      "name": "Welser Bank (16C)",
-      "shortName": "Welser",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_163",
-      "name": "Seyler &amp; Tillemann (1750s-1763)",
-      "shortName": "Seyler &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_164",
-      "name": "M. A. Rothschild &amp; Söhne (1766-1901)",
-      "shortName": "M. A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_165",
-      "name": "Prussian State Bank (1772-1945)",
-      "shortName": "Prussian State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_166",
-      "name": "Bavarian State Bank (1780-1971)",
-      "shortName": "Bavarian State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_167",
-      "name": "C.G. Trinkaus (1785-2023)",
-      "shortName": "C.G. Trinkaus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_168",
-      "name": "Sal. Oppenheim (1789-2018)",
-      "shortName": "Sal. Oppenheim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_169",
-      "name": "A. Schaaffhausen'scher Bankverein (1791-1929)",
-      "shortName": "A. Schaaffhausen'scher",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_170",
-      "name": "Mendelssohn &amp; Co. (1795-1938)",
-      "shortName": "Mendelssohn &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_171",
-      "name": "H. J. Merck &amp; Co. (1799-1983)",
-      "shortName": "H. J.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_172",
-      "name": "S. Bleichröder (1803-1931)",
-      "shortName": "S. Bleichröder",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_173",
-      "name": "Jacquier and Securius Bank (1817-1945)",
-      "shortName": "Jacquier and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_174",
-      "name": "Simon Hirschland Bank (1841-1938)",
-      "shortName": "Simon Hirschland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_175",
-      "name": "Disconto-Gesellschaft (1851-1929)",
-      "shortName": "Disconto-Gesellschaft (1851-1929)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_176",
-      "name": "Darmstädter Bank (1853-1922)",
-      "shortName": "Darmstädter",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_177",
-      "name": "Bankhaus Veit L. Homburger (1854-1939)",
-      "shortName": "Bankhaus Veit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_178",
-      "name": "Landesbank der Rheinprovinz (1854-1931)",
-      "shortName": "Landesbank der",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_179",
-      "name": "Berliner Handels-Gesellschaft (1856-1970)",
-      "shortName": "Berliner Handels-Gesellschaft",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_180",
-      "name": "Norddeutsche Bank (1856-1929)",
-      "shortName": "Norddeutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_181",
-      "name": "Bayerische Vereinsbank (1869-1998)",
-      "shortName": "Bayerische Vereinsbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_182",
-      "name": "Dresdner Bank (1872-2009)",
-      "shortName": "Dresdner",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_183",
-      "name": "Nationalbank für Deutschland (1881-1922)",
-      "shortName": "Nationalbank für",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_184",
-      "name": "Banco Transatlántico (1886-1994)",
-      "shortName": "Banco Transatlántico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_185",
-      "name": "Deutsche Orientbank (1905-1932)",
-      "shortName": "Deutsche Orientbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_186",
-      "name": "Reichs-Kredit-Gesellschaft (1917-1945)",
-      "shortName": "Reichs-Kredit-Gesellschaft (1917-1945)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_187",
-      "name": "Danat-Bank (1922-1931)",
-      "shortName": "Danat-Bank (1922-1931)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_188",
-      "name": "Südwestbank (1922-2017)",
-      "shortName": "Südwestbank (1922-2017)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_189",
-      "name": "Bank der Deutschen Arbeit (1924-1945)",
-      "shortName": "Bank der",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_190",
-      "name": "Badische Kommunale Landesbank&#160;&#91;de&#93; (1929-1988)",
-      "shortName": "Badische Kommunale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_191",
-      "name": "Westdeutsche Landesbank (1935-2009)",
-      "shortName": "Westdeutsche Landesbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_192",
-      "name": "Bankhaus Reuschel &amp; Co. (1947-2010)",
-      "shortName": "Bankhaus Reuschel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_193",
-      "name": "GEFA Bank (1949-2019)",
-      "shortName": "GEFA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_194",
-      "name": "Herstatt Bank (1955-1974)",
-      "shortName": "Herstatt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_195",
-      "name": "Landesbank Rheinland-Pfalz&#160;&#91;de&#93; (1958-2008)",
-      "shortName": "Landesbank Rheinland-Pfalz&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_196",
-      "name": "WGZ Bank (1966-2016)",
-      "shortName": "WGZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_197",
-      "name": "Wüstenrot Bank (1968-2018)",
-      "shortName": "Wüstenrot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_198",
-      "name": "Schröder, Münchmeyer, Hengst &amp; Co. (1969-2001)",
-      "shortName": "Schröder, Münchmeyer,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_199",
-      "name": "BHF Bank (1970-2017)",
-      "shortName": "BHF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_200",
-      "name": "Ost-West Handelsbank (1971-2006)",
-      "shortName": "Ost-West Handelsbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_201",
-      "name": "Düsseldorfer Hypothekenbank (1990-2019)",
-      "shortName": "Düsseldorfer Hypothekenbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_202",
-      "name": "Landesbank Sachsen&#160;&#91;de&#93; (1992-2007)",
-      "shortName": "Landesbank Sachsen&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_203",
-      "name": "Comdirect Bank (1994-2020)",
-      "shortName": "Comdirect",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_204",
-      "name": "Wirecard (1999-2020)",
-      "shortName": "Wirecard (1999-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_205",
-      "name": "Depfa Bank (2002-2022)",
-      "shortName": "Depfa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_206",
-      "name": "Hypo Real Estate (2003-2008)",
-      "shortName": "Hypo Real",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_207",
-      "name": "Fidor Bank (2009-2023)",
-      "shortName": "Fidor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_208",
-      "name": "Schlesische Landschaft&#160;&#91;de&#93; (1770-1945)",
-      "shortName": "Schlesische Landschaft&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_209",
-      "name": "Wm. Schlutow&#160;&#91;de&#93; (1832-1934)",
-      "shortName": "Wm. Schlutow&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_210",
-      "name": "Schlesischer Bankverein&#160;&#91;de&#93; (1856-1917)",
-      "shortName": "Schlesischerverein&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_211",
-      "name": "Bank of Issue in Poland (1940-1945)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_212",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_213",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_214",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_215",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DE_216",
-      "name": "Economy of Germany-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

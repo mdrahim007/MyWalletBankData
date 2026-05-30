@@ -1,188 +1,90 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "DJ",
   "institutions": [
     {
       "code": "DJ_0",
-      "name": "Banque de Dépôt et de Crédit Djibouti (BDCD)",
-      "shortName": "Banque de",
+      "name": "Bank of Africa Djibouti",
+      "shortName": "Bank of Africa Djibo",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "DJ_1",
-      "name": "CAC International Bank (CAC)",
+      "name": "Banque pour le Commerce et l'Industrie – Mer Rouge",
+      "shortName": "Banque pour le Comme",
+      "type": "bank",
+      "aliases": "BCIMR"
+    },
+    {
+      "code": "DJ_2",
+      "name": "CAC International Bank",
       "shortName": "CAC International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DJ_2",
-      "name": "Exim Bank Djibouti (EXIM), part of Exim Bank Group",
-      "shortName": "Exim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "DJ_3",
-      "name": "Silkroad International Bank Djibouti (SIB)",
-      "shortName": "Silkroad International",
+      "name": "Commercial Bank of Djibouti",
+      "shortName": "Commercial of Djibou",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DJ_4",
-      "name": "Bank Of China Djibouti (BOC), part of Bank of China Group",
-      "shortName": "Bank Of",
+      "name": "Dahabshil Bank International",
+      "shortName": "Dahabshil Internatio",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "DJ_5",
+      "name": "East Africa Bank",
+      "shortName": "East Africa",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DJ_6",
+      "name": "Exim Bank Djibouti",
+      "shortName": "Exim Djibouti",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DJ_7",
+      "name": "Saba African Bank",
+      "shortName": "Saba African",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "DJ_8",
       "name": "Salaam African Bank",
       "shortName": "Salaam African",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "DJ_6",
-      "name": "East Africa Bank&#91;2&#93;",
-      "shortName": "East Africa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_7",
-      "name": "Caisse Populaire d’Epargne et de Crédit de Djibouti (CPECD)",
-      "shortName": "Caisse Populaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_8",
-      "name": "Unité Pilote de Microfinance Islamique (UPMFI)",
-      "shortName": "Unité Pilote",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "DJ_9",
-      "name": "Website of Central Bank of Djibouti (French)",
-      "shortName": "Website of",
-      "type": "bank",
+      "name": "CAC Wallet",
+      "shortName": "CAC Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DJ_10",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "D-Money",
+      "shortName": "D-Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "DJ_11",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_12",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_13",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_14",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_15",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_16",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_17",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_18",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_19",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_20",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_21",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_22",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_23",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_24",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "DJ_25",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
+      "name": "Salaam Cash",
+      "shortName": "Salaam Cash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,650 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "CY",
   "institutions": [
     {
       "code": "CY_0",
-      "name": "Ancoria Investments, a financial holding company",
-      "shortName": "Ancoria Investments,",
+      "name": "Alpha Bank Cyprus",
+      "shortName": "Alpha Cyprus",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_1",
-      "name": "Astrobank, subsequently acquired by Greece's Alpha Bank",
-      "shortName": "Astrobank, subsequently",
+      "name": "Ancoria Bank",
+      "shortName": "Ancoria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_2",
-      "name": "Housing Finance Corporation, a state-owned bank",
-      "shortName": "Housing Finance",
+      "name": "AstroBank",
+      "shortName": "AstroBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_3",
-      "name": "Ancoria Bank, subsidiary of Ancoria Investments",
-      "shortName": "Ancoria,",
+      "name": "Bank of Cyprus",
+      "shortName": "Bank of Cyprus",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_4",
-      "name": "Cyprus Development Bank, a public development bank",
-      "shortName": "Cyprus Development",
+      "name": "Central Cooperative Bank",
+      "shortName": "Central Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_5",
-      "name": "Arab Jordan Investment Bank",
-      "shortName": "Arab Jordan",
+      "name": "Eurobank Cyprus",
+      "shortName": "Eurobank Cyprus",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CY_6",
-      "name": "Jordan Ahli Bank",
-      "shortName": "Jordan Ahli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_7",
-      "name": "Jordan Kuwait Bank",
-      "shortName": "Jordan Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_8",
-      "name": "PrivatBank",
-      "shortName": "PrivatBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_9",
-      "name": "Cyprus Popular Bank (1901-2013)",
-      "shortName": "Cyprus Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_10",
-      "name": "Cyprus Cooperative Central Bank (1937-2018)",
-      "shortName": "Cyprus Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_11",
-      "name": "Hellenic Bank (1976-2025)",
+      "name": "Hellenic Bank",
       "shortName": "Hellenic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "CY_12",
-      "name": "RCB Bank (1995-2022)",
-      "shortName": "RCB",
+      "code": "CY_7",
+      "name": "National Bank of Greece",
+      "shortName": "National of Greece",
       "type": "bank",
+      "aliases": "Cyprus"
+    },
+    {
+      "code": "CY_8",
+      "name": "Société Générale Bank - Cyprus",
+      "shortName": "Société Générale - C",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CY_9",
+      "name": "The Cyprus Development Bank",
+      "shortName": "The Cyprus Developme",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "CY_10",
+      "name": "JCCsmart",
+      "shortName": "JCCsmart",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CY_11",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "CY_12",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CY_13",
-      "name": "Alasiya",
-      "shortName": "Alasiya",
-      "type": "bank",
+      "name": "sKash",
+      "shortName": "sKash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CY_14",
-      "name": "Cypriot syllabary",
-      "shortName": "Cypriot syllabary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_15",
-      "name": "Neo-Assyrian Empire",
-      "shortName": "Neo-Assyrian Empire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_16",
-      "name": "Ten city-kingdoms",
-      "shortName": "Ten city-kingdoms",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_17",
-      "name": "Achaemenid Persian Empire",
-      "shortName": "Achaemenid Persian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_18",
-      "name": "Ionian Revolt",
-      "shortName": "Ionian Revolt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_19",
-      "name": "Ptolemaic dynasty",
-      "shortName": "Ptolemaic dynasty",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_20",
-      "name": "Roman Cyprus",
-      "shortName": "Roman Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_21",
-      "name": "Diaspora Revolt",
-      "shortName": "Diaspora Revolt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_22",
-      "name": "Byzantine Cyprus",
-      "shortName": "Byzantine Cyprus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_23",
-      "name": "Arab Empire",
-      "shortName": "Arab Empire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_24",
-      "name": "Crusades",
-      "shortName": "Crusades",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_25",
-      "name": "Kingdom",
-      "shortName": "Kingdom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_26",
-      "name": "Venetian rule",
-      "shortName": "Venetian rule",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_27",
-      "name": "Ottoman rule",
-      "shortName": "Ottoman rule",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_28",
-      "name": "Cyprus Convention",
-      "shortName": "Cyprus Convention",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_29",
-      "name": "Post-1878 overview",
-      "shortName": "Post-1878 overview",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_30",
-      "name": "Enosis",
-      "shortName": "Enosis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_31",
-      "name": "Taksim",
-      "shortName": "Taksim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_32",
-      "name": "Intercommunal violence",
-      "shortName": "Intercommunal violence",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_33",
-      "name": "Akrotiri and Dhekelia",
-      "shortName": "Akrotiri and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_34",
-      "name": "Turkish invasion",
-      "shortName": "Turkish invasion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_35",
-      "name": "Refugees",
-      "shortName": "Refugees",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_36",
-      "name": "Cyprus problem",
-      "shortName": "Cyprus problem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_37",
-      "name": "Cypriot S-300 crisis",
-      "shortName": "Cypriot S-300",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_38",
-      "name": "Annan Plan",
-      "shortName": "Annan Plan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_39",
-      "name": "EU accession",
-      "shortName": "EU accession",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_40",
-      "name": "Cities, towns and villages",
-      "shortName": "Cities, towns",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_41",
-      "name": "Climate",
-      "shortName": "Climate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_42",
-      "name": "Districts",
-      "shortName": "Districts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_43",
-      "name": "Earthquakes",
-      "shortName": "Earthquakes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_44",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_45",
-      "name": "Chief Justice",
-      "shortName": "Chief Justice",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_46",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_47",
-      "name": "UN resolutions",
-      "shortName": "UN resolutions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_48",
-      "name": "Police",
-      "shortName": "Police",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_49",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_50",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_51",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_52",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_53",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_54",
-      "name": "Stock Exchange",
-      "shortName": "Stock Exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_55",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_56",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_57",
-      "name": "2012–2013 Cypriot financial crisis",
-      "shortName": "2012–2013 Cypriot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_58",
-      "name": "Cypriot nationality law",
-      "shortName": "Cypriot nationality",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_59",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_60",
-      "name": "Name",
-      "shortName": "Name",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_61",
-      "name": "Poverty",
-      "shortName": "Poverty",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_62",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_63",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_64",
-      "name": "Art",
-      "shortName": "Art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_65",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_66",
-      "name": "Culture of Greece",
-      "shortName": "Culture of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_67",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_68",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_69",
-      "name": "World Heritage Sites",
-      "shortName": "World Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_70",
-      "name": "Greek Cypriots in Northern Cyprus",
-      "shortName": "Greek Cypriots",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_71",
-      "name": "diaspora",
-      "shortName": "diaspora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_72",
-      "name": "Settlers from Turkey",
-      "shortName": "Settlers from",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_73",
-      "name": "Armenian Cypriots",
-      "shortName": "Armenian Cypriots",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_74",
-      "name": "Maronite Cypriots",
-      "shortName": "Maronite Cypriots",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_75",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_76",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_77",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_78",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_79",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_80",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_81",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_82",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_83",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_84",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_85",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_86",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_87",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_88",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_89",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_90",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CY_91",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]
