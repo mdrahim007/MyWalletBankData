@@ -1,657 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TJ",
   "institutions": [
     {
       "code": "TJ_0",
-      "name": "National Bank of Tajikistan",
-      "shortName": "National",
+      "name": "Alif Bank",
+      "shortName": "Alif",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TJ_1",
-      "name": "Agroinvestbank",
-      "shortName": "Agroinvestbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_2",
-      "name": "Tojiksodirotbank",
-      "shortName": "Tojiksodirotbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_3",
-      "name": "Tajprombank",
-      "shortName": "Tajprombank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_4",
-      "name": "Fononbank",
-      "shortName": "Fononbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_5",
-      "name": "Bank Asia (formerly Kont Investment Bank)",
-      "shortName": "Bank Asia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_6",
-      "name": "NBP Pakistan Subsidiary Bank in Tajikistan",
-      "shortName": "NBP Pakistan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_7",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_8",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_9",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_10",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_11",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_12",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_13",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_14",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_15",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_16",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_17",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_18",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_19",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_20",
-      "name": "Use dmy dates from February 2024",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_21",
-      "name": "OJSC \"Orienbank\"",
-      "shortName": "OJSC \"Orienbank\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_22",
-      "name": "orienbank.tj",
-      "shortName": "orienbank.tj",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_23",
-      "name": "1921",
-      "shortName": "1921",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_24",
-      "name": "SSB of RT \"Amonatbank\"",
-      "shortName": "SSB of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_25",
       "name": "Amonatbank",
       "shortName": "Amonatbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_26",
-      "name": "1885",
-      "shortName": "1885",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_27",
-      "name": "Ministry of Finance",
-      "shortName": "Ministry of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_28",
-      "name": "new.amonatbonk.tj/en",
-      "shortName": "new.amonatbonk.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_29",
-      "name": "OJSC \"Eskhata bank\"",
-      "shortName": "OJSC \"Eskhata",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_30",
-      "name": "Bank Eskhata",
-      "shortName": "Bank Eskhata",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_31",
-      "name": "29 November 1994",
-      "shortName": "29 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_32",
-      "name": "Nosirov family",
-      "shortName": "Nosirov family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_33",
-      "name": "eskhata.com/en",
-      "shortName": "eskhata.com/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_34",
-      "name": "OJSC \"Tawhidbank\"",
-      "shortName": "OJSC \"Tawhidbank\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_35",
-      "name": "Tawhidbank",
-      "shortName": "Tawhidbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_36",
-      "name": "24 August 1999",
-      "shortName": "24 August",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_37",
-      "name": "tawhidbank.tj/en",
-      "shortName": "tawhidbank.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_38",
-      "name": "CJSC \"The First MicroFinanceBank\"",
-      "shortName": "CJSC \"The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_39",
-      "name": "ICB",
-      "shortName": "ICB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_40",
-      "name": "August 2003",
-      "shortName": "August 2003",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_41",
-      "name": "Aga Khan Development Network",
-      "shortName": "Aga Khan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_42",
-      "name": "fmfb.tj/en",
-      "shortName": "fmfb.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_43",
-      "name": "CJSC \"Bonki Rushdi Tojikiston\"",
-      "shortName": "CJSC \"Bonki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_44",
-      "name": "BRT",
-      "shortName": "BRT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_45",
-      "name": "2006",
-      "shortName": "2006",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_46",
-      "name": "brt.tj/en",
-      "shortName": "brt.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_47",
-      "name": "CJSC \"Halyk Bank Tajikistan\"",
-      "shortName": "CJSC \"Halyk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_48",
-      "name": "Halyk Bank",
-      "shortName": "Halyk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_49",
-      "name": "2017",
-      "shortName": "2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_50",
-      "name": "halykbank.tj/en",
-      "shortName": "halykbank.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_51",
-      "name": "CJSC “Kafolatbank”",
-      "shortName": "CJSC “Kafolatbank”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_52",
-      "name": "Kafolat Bank",
-      "shortName": "Kafolat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_53",
-      "name": "2005",
-      "shortName": "2005",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_54",
-      "name": "Sarmayeh Bank",
-      "shortName": "Sarmayeh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_55",
-      "name": "kafolatbank.tj/en",
-      "shortName": "kafolatbank.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_56",
-      "name": "CJSC Bank “Arvand”",
-      "shortName": "CJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_57",
+      "code": "TJ_2",
       "name": "Bank Arvand",
       "shortName": "Bank Arvand",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_58",
-      "name": "2002",
-      "shortName": "2002",
+      "code": "TJ_3",
+      "name": "Bonki Rushdi Tojikiston",
+      "shortName": "Bonki Rushdi Tojikis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_59",
-      "name": "MLC Frontiers, LLC",
-      "shortName": "MLC Frontiers,",
+      "code": "TJ_4",
+      "name": "Commerce Bank of Tajikistan",
+      "shortName": "Commerce of Tajikist",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_60",
-      "name": "arvand.tj/en",
-      "shortName": "arvand.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_61",
-      "name": "CJSC \"Spitamen Bank\"",
-      "shortName": "CJSC \"Spitamen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_62",
-      "name": "Spitamen Bank",
-      "shortName": "Spitamen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_63",
-      "name": "2008",
-      "shortName": "2008",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_64",
-      "name": "Spitamen Insurance",
-      "shortName": "Spitamen Insurance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_65",
-      "name": "spitamenbank.tj/en",
-      "shortName": "spitamenbank.tj/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_66",
-      "name": "CJSC \"International Bank of Tajikistan\"",
-      "shortName": "CJSC \"International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_67",
-      "name": "IBT",
-      "shortName": "IBT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_68",
-      "name": "April 2014",
-      "shortName": "April 2014",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_69",
-      "name": "Tajik Catering Service",
-      "shortName": "Tajik Catering",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_70",
-      "name": "OJSC \"Commerce Bank of Tajikistan\"",
-      "shortName": "OJSC \"Commerce",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_71",
-      "name": "CBT",
-      "shortName": "CBT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_72",
-      "name": "2000",
-      "shortName": "2000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_73",
-      "name": "Sughurtai Avvalini Milli",
-      "shortName": "Sughurtai Avvalini",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_74",
-      "name": "cbt.tj",
-      "shortName": "cbt.tj",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_75",
-      "name": "Alif Bank OJSC",
-      "shortName": "Alif",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_76",
-      "name": "Alif",
-      "shortName": "Alif",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_77",
-      "name": "2014",
-      "shortName": "2014",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_78",
-      "name": "Alif Capital Holdings Limited",
-      "shortName": "Alif Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_79",
-      "name": "alif.tj",
-      "shortName": "alif.tj",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_80",
-      "name": "CJSC \"Dushanbe city bank\"",
-      "shortName": "CJSC \"Dushanbe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TJ_81",
+      "code": "TJ_5",
       "name": "Dushanbe City Bank",
       "shortName": "Dushanbe City",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_82",
-      "name": "no data",
-      "shortName": "no data",
+      "code": "TJ_6",
+      "name": "Eskhata Bank",
+      "shortName": "Eskhata",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_83",
-      "name": "private",
-      "shortName": "private",
+      "code": "TJ_7",
+      "name": "International Bank of Tajikistan",
+      "shortName": "International of Taj",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_84",
-      "name": "dc.tj",
-      "shortName": "dc.tj",
+      "code": "TJ_8",
+      "name": "Kafolatbank",
+      "shortName": "Kafolatbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_85",
-      "name": "SUEIEBT \"Sanoatsodirotbonk\"",
-      "shortName": "SUEIEBT \"Sanoatsodirotbonk\"",
+      "code": "TJ_9",
+      "name": "Orienbank",
+      "shortName": "Orienbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_86",
-      "name": "SSB",
-      "shortName": "SSB",
+      "code": "TJ_10",
+      "name": "Sanoatsodirotbonk",
+      "shortName": "Sanoatsodirotbonk",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_87",
-      "name": "ssb.tj",
-      "shortName": "ssb.tj",
+      "code": "TJ_11",
+      "name": "Spitamen Bank",
+      "shortName": "Spitamen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_88",
-      "name": "\"Tijorat\" Bank Branch IRI in Dushanbe",
-      "shortName": "\"Tijorat\"",
+      "code": "TJ_12",
+      "name": "Tawhidbank",
+      "shortName": "Tawhidbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_89",
-      "name": "Tejarat Bank Dushanbe",
-      "shortName": "Tejarat",
+      "code": "TJ_13",
+      "name": "The First MicroFinanceBank",
+      "shortName": "The First MicroFinan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TJ_90",
-      "name": "10 August 1995",
-      "shortName": "10 August",
-      "type": "bank",
+      "code": "TJ_14",
+      "name": "DC Next",
+      "shortName": "DC Next",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "TJ_91",
-      "name": "Tejarat Bank",
-      "shortName": "Tejarat",
-      "type": "bank",
+      "code": "TJ_15",
+      "name": "DC Wallet",
+      "shortName": "DC Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "TJ_92",
-      "name": "tejaratbank.tj/en",
-      "shortName": "tejaratbank.tj/en",
-      "type": "bank",
+      "code": "TJ_16",
+      "name": "Mobi",
+      "shortName": "Mobi",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "TJ_17",
+      "name": "Zudamal Online",
+      "shortName": "Zudamal Online",
+      "type": "mfs",
       "aliases": ""
     }
   ]

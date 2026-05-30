@@ -1,279 +1,195 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TN",
   "institutions": [
     {
       "code": "TN_0",
-      "name": "Tunis International Bank&#160;&#91;fr&#93;",
-      "shortName": "Tunis International",
+      "name": "Al Baraka Bank Tunisia",
+      "shortName": "Al Baraka Tunisia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_1",
-      "name": "Tunisian Foreign Bank",
-      "shortName": "Tunisian Foreign",
+      "name": "Amen Bank",
+      "shortName": "Amen",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_2",
-      "name": "North Africa International Bank",
-      "shortName": "North Africa",
+      "name": "Arab Tunisian Bank",
+      "shortName": "Arab Tunisian",
       "type": "bank",
-      "aliases": ""
+      "aliases": "ATB"
     },
     {
       "code": "TN_3",
-      "name": "Wifak International Bank (WIB)",
-      "shortName": "Wifak International",
+      "name": "Attijari Bank",
+      "shortName": "Attijari",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_4",
-      "name": "Al Baraka Bank Tunisia, part of Al Baraka Group",
-      "shortName": "Al Baraka",
+      "name": "Bank ABC",
+      "shortName": "Bank ABC",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Tunisia"
     },
     {
       "code": "TN_5",
-      "name": "Banque Zitouna (BZ)",
-      "shortName": "Banque Zitouna",
+      "name": "Banque de Financement des PME",
+      "shortName": "Banque de Financemen",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BFPME"
     },
     {
       "code": "TN_6",
-      "name": "Banque Tuniso-Koweitienne&#160;&#91;fr&#93; (BTK)",
-      "shortName": "Banque Tuniso-Koweitienne&#160;&#91;fr&#93;",
+      "name": "Banque de Tunisie",
+      "shortName": "Banque de Tunisie",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_7",
-      "name": "Banque de Tunisie et des Emirats (BTE)",
-      "shortName": "Banque de",
+      "name": "Banque de Tunisie et des Émirats",
+      "shortName": "Banque de Tunisie et",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BTE"
     },
     {
       "code": "TN_8",
-      "name": "Tunisian Saudi Bank (TSB)",
-      "shortName": "Tunisian Saudi",
+      "name": "Banque Internationale Arabe de Tunisie",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIAT"
     },
     {
       "code": "TN_9",
-      "name": "Bank ABC",
-      "shortName": "Bank ABC",
+      "name": "Banque Nationale Agricole",
+      "shortName": "Banque Nationale Agr",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNA"
     },
     {
       "code": "TN_10",
-      "name": "Citibank Tunisie",
-      "shortName": "Citibank Tunisie",
+      "name": "Banque Tunisienne de Solidarité",
+      "shortName": "Banque Tunisienne de",
+      "type": "bank",
+      "aliases": "BTS"
+    },
+    {
+      "code": "TN_11",
+      "name": "Banque Tuniso-Koweitienne",
+      "shortName": "Banque Tuniso-Koweit",
+      "type": "bank",
+      "aliases": "BTK"
+    },
+    {
+      "code": "TN_12",
+      "name": "Banque Tuniso-Libyenne",
+      "shortName": "Banque Tuniso-Libyen",
+      "type": "bank",
+      "aliases": "BTL"
+    },
+    {
+      "code": "TN_13",
+      "name": "Banque Zitouna",
+      "shortName": "Banque Zitouna",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TN_11",
+      "code": "TN_14",
       "name": "BH Bank",
       "shortName": "BH",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TN_12",
-      "name": "Union Internationale de Banques&#160;&#91;fr&#93; (UIB)",
-      "shortName": "Union Internationale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_13",
-      "name": "Union Bancaire pour le Commerce et l'Industrie (UBCI)",
-      "shortName": "Union Bancaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_14",
-      "name": "Société Tunisienne de Banque (STB)",
-      "shortName": "Société Tunisienne",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "TN_15",
-      "name": "Banque Internationale Arabe de Tunisie (BIAT)",
-      "shortName": "Banque Internationale",
+      "name": "Citibank Tunisie",
+      "shortName": "Citibank Tunisie",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_16",
-      "name": "Amen Bank (AB)",
-      "shortName": "Amen",
+      "name": "Qatar National Bank Tunisia",
+      "shortName": "Qatar National Tunis",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_17",
-      "name": "Banque Tunisienne de Solidarité&#160;&#91;fr&#93; (BTS)",
-      "shortName": "Banque Tunisienne",
+      "name": "Société Tunisienne de Banque",
+      "shortName": "Société Tunisienne d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "STB"
     },
     {
       "code": "TN_18",
-      "name": "Banque de Tunisie (BT)",
-      "shortName": "Banque de",
+      "name": "Tunis International Bank",
+      "shortName": "Tunis International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_19",
-      "name": "Banque Nationale Agricole",
-      "shortName": "Banque Nationale",
+      "name": "Tunisian Foreign Bank",
+      "shortName": "Tunisian Foreign",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_20",
-      "name": "Arab Tunisian Bank (ATB)",
-      "shortName": "Arab Tunisian",
+      "name": "Tunisian Saudi Bank",
+      "shortName": "Tunisian Saudi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_21",
-      "name": "Offshore branch of Citibank",
-      "shortName": "Offshore branch",
+      "name": "Union Bancaire pour le Commerce et l'Industrie",
+      "shortName": "Union Bancaire pour",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBCI"
     },
     {
       "code": "TN_22",
-      "name": "Economy of Tunisia",
-      "shortName": "Economy of",
+      "name": "Union Internationale de Banques",
+      "shortName": "Union Internationale",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UIB"
     },
     {
       "code": "TN_23",
-      "name": "Website of Central Bank of Tunisia (English)",
-      "shortName": "Website of",
+      "name": "Wifak International Bank",
+      "shortName": "Wifak International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TN_24",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "Flouci",
+      "shortName": "Flouci",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TN_25",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
+      "name": "RunPay",
+      "shortName": "RunPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TN_26",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_27",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_28",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_29",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_30",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_31",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_32",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_33",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_34",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_35",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_36",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_37",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TN_38",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "name": "Sobflous",
+      "shortName": "Sobflous",
+      "type": "mfs",
       "aliases": ""
     }
   ]

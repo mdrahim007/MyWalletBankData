@@ -1,159 +1,68 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TM",
   "institutions": [
     {
       "code": "TM_0",
-      "name": "Central Bank of Turkmenistan",
-      "shortName": "Central",
+      "name": "Altyn Asyr Bank",
+      "shortName": "Altyn Asyr",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_1",
-      "name": "Dayhanbank (Agricultural Bank), Asgabat (state bank)",
-      "shortName": "Dayhanbank (Agricultural",
+      "name": "Dayhan Bank",
+      "shortName": "Dayhan",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_2",
-      "name": "Garagum IJSB, Asgabat",
-      "shortName": "Garagum IJSB,",
+      "name": "Garagum Bank",
+      "shortName": "Garagum",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_3",
-      "name": "Prezidentbank, Asgabat",
-      "shortName": "Prezidentbank, Asgabat",
+      "name": "Halk Bank",
+      "shortName": "Halk",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_4",
-      "name": "Rysgal JSCB, Asgabat",
-      "shortName": "Rysgal JSCB,",
+      "name": "Rysgal Bank",
+      "shortName": "Rysgal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_5",
-      "name": "Senagat JSCB, Asgabat",
-      "shortName": "Senagat JSCB,",
+      "name": "Senagat Bank",
+      "shortName": "Senagat",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_6",
-      "name": "The State Development Bank of Turkmenistan",
-      "shortName": "The State",
+      "name": "State Bank for Foreign Economic Affairs of Turkmenistan",
+      "shortName": "State for Foreign Ec",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_7",
-      "name": "Turkmenbashybank, Asgabat (state bank)",
-      "shortName": "Turkmenbashybank, Asgabat",
+      "name": "Turkmenbashy Bank",
+      "shortName": "Turkmenbashy",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TM_8",
-      "name": "Turkmen-Turkish Bank JSCB, Asgabat",
-      "shortName": "Turkmen-Turkish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_9",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_10",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_11",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_12",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_13",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_14",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_15",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_16",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_17",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_18",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_19",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_20",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TM_21",
-      "name": "Macau",
-      "shortName": "Macau",
+      "name": "Turkmenistan Bank",
+      "shortName": "Turkmenistan",
       "type": "bank",
       "aliases": ""
     }

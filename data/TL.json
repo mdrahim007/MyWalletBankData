@@ -1,265 +1,48 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TL",
   "institutions": [
     {
       "code": "TL_0",
-      "name": "Banco Central de Timor-Leste",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_1",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_2",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_3",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_4",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_5",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_6",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_7",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_8",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_9",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_10",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_11",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_12",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_13",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_14",
-      "name": "BNU Timor",
-      "shortName": "BNU Timor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_15",
-      "name": "Banco Nacional Ultramarino Timor",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_16",
-      "name": "CPO/01/2000",
-      "shortName": "CPO/01/2000",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_17",
-      "name": "Caixa Geral de Depósitos",
-      "shortName": "Caixa Geral",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_18",
-      "name": "bnu.tl",
-      "shortName": "bnu.tl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_19",
-      "name": "Banco Nacional de Comércio de Timor-Leste",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_20",
-      "name": "BNCTL",
-      "shortName": "BNCTL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_21",
-      "name": "BPA/B-05/2011",
-      "shortName": "BPA/B-05/2011",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_22",
-      "name": "Government",
-      "shortName": "Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_23",
-      "name": "bnctl.tl/en",
-      "shortName": "bnctl.tl/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_24",
-      "name": "ANZ Group, Timor-Leste Branch",
-      "shortName": "ANZ Group,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_25",
       "name": "ANZ Timor-Leste",
       "shortName": "ANZ Timor-Leste",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TL_26",
-      "name": "CPO/B/02/2001",
-      "shortName": "CPO/B/02/2001",
+      "code": "TL_1",
+      "name": "BNCTL",
+      "shortName": "BNCTL",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TL_27",
-      "name": "ANZ Group",
-      "shortName": "ANZ Group",
+      "code": "TL_2",
+      "name": "BNU Timor",
+      "shortName": "BNU Timor",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TL_28",
-      "name": "anz.com/timorleste/en",
-      "shortName": "anz.com/timorleste/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_29",
-      "name": "PT. Bank Mandiri (Persero) Tbk. Dili - Timor-Leste Branch",
-      "shortName": "PT.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_30",
+      "code": "TL_3",
       "name": "Mandiri Dili",
       "shortName": "Mandiri Dili",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TL_31",
-      "name": "BPA/B/04/2003",
-      "shortName": "BPA/B/04/2003",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_32",
-      "name": "Bank Mandiri",
-      "shortName": "Bank Mandiri",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_33",
-      "name": "mandiridili.tl",
-      "shortName": "mandiridili.tl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_34",
+      "code": "TL_4",
       "name": "BRI Timor-Leste",
       "shortName": "BRI Timor-Leste",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "TL_35",
-      "name": "BCTL/B/05/2017",
-      "shortName": "BCTL/B/05/2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TL_36",
-      "name": "BRI",
-      "shortName": "BRI",
-      "type": "bank",
+      "code": "TL_5",
+      "name": "Mosan",
+      "shortName": "Mosan",
+      "type": "mfs",
       "aliases": ""
     }
   ]
