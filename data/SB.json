@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "SB",
   "institutions": [
     {
       "code": "SB_0",
-      "name": "Central Bank of SB",
-      "shortName": "Central Bank",
+      "name": "ANZ Bank Solomon Islands",
+      "shortName": "ANZ Solomon Islands",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SB_1",
-      "name": "National Bank of SB",
-      "shortName": "National Bank",
+      "name": "BRED Bank Solomon Islands",
+      "shortName": "BRED Solomon Islands",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SB_2",
-      "name": "State Bank of SB",
-      "shortName": "State Bank",
+      "name": "BSP Financial Group",
+      "shortName": "BSP Financial Group",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Bank of South Pacific"
     },
     {
       "code": "SB_3",
-      "name": "Commercial Bank of SB",
-      "shortName": "Commercial Bank",
+      "name": "Development Bank of Solomon Islands",
+      "shortName": "Development of Solom",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DBSI"
     },
     {
       "code": "SB_4",
-      "name": "First SB Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "EziPei",
+      "shortName": "EziPei",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "SB_5",
+      "name": "M-seli",
+      "shortName": "M-seli",
+      "type": "mfs",
       "aliases": ""
     }
   ]
