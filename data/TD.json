@@ -1,160 +1,97 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "TD",
   "institutions": [
     {
       "code": "TD_0",
-      "name": "Ecobank Tchad, part of Ecobank Group",
-      "shortName": "Ecobank Tchad,",
+      "name": "Attijari Bank Tchad",
+      "shortName": "Attijari Tchad",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_1",
-      "name": "United Bank for Africa (UBA) Tchad, part of UBA Group",
-      "shortName": "United",
+      "name": "Banque Agricole et Commerciale",
+      "shortName": "Banque Agricole et C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAC"
     },
     {
       "code": "TD_2",
-      "name": "Bank of Central African States",
-      "shortName": "Bank of",
+      "name": "Banque Commerciale du Chari",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCC"
     },
     {
       "code": "TD_3",
-      "name": "Website of Central Bank of Central African States",
-      "shortName": "Website of",
+      "name": "Banque de l'Habitat du Tchad",
+      "shortName": "Banque de l'Habitat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BHT"
     },
     {
       "code": "TD_4",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Banque Sahélo-Saharienne pour l'Investissement et le Commerce (BSIC) Tchad",
+      "shortName": "Banque Sahélo-Sahari",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_5",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "Commercial Bank Tchad",
+      "shortName": "Commercial Tchad",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CBT"
     },
     {
       "code": "TD_6",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "Coris Bank International Tchad",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_7",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Ecobank Tchad",
+      "shortName": "Ecobank Tchad",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_8",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
+      "name": "Orabank Tchad",
+      "shortName": "Orabank Tchad",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_9",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
+      "name": "United Bank for Africa (UBA) Tchad",
+      "shortName": "United for Africa (U",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TD_10",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TD_11",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "name": "Konoom",
+      "shortName": "Konoom",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "TD_12",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_13",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_14",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_15",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_16",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_17",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_18",
-      "name": "Cotton production",
-      "shortName": "Cotton production",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_19",
-      "name": "Fishing",
-      "shortName": "Fishing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_20",
-      "name": "Forestry",
-      "shortName": "Forestry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "TD_21",
-      "name": "Manufacturing",
-      "shortName": "Manufacturing",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

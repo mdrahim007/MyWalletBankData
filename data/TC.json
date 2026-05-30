@@ -1,40 +1,47 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "TC",
   "institutions": [
     {
       "code": "TC_0",
-      "name": "Central Bank of TC",
-      "shortName": "Central Bank",
+      "name": "Bordier Bank (TCI) Ltd",
+      "shortName": "Bordier (TCI)",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TC_1",
-      "name": "National Bank of TC",
-      "shortName": "National Bank",
+      "name": "British Caribbean Bank",
+      "shortName": "British Caribbean",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCB"
     },
     {
       "code": "TC_2",
-      "name": "State Bank of TC",
-      "shortName": "State Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TC_3",
-      "name": "Commercial Bank of TC",
-      "shortName": "Commercial Bank",
+      "name": "RBC Royal Bank",
+      "shortName": "RBC Royal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "TC_4",
-      "name": "First TC Bank",
-      "shortName": "First Bank",
+      "name": "Scotiabank",
+      "shortName": "Scotiabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "TC_5",
+      "name": "Turks & Caicos Banking Company",
+      "shortName": "Turks & Caicosing Co",
       "type": "bank",
       "aliases": ""
     }
