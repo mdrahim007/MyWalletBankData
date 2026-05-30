@@ -1,335 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LB",
   "institutions": [
     {
       "code": "LB_0",
-      "name": "Banque du Liban (BDL)",
-      "shortName": "Banque du",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_1",
       "name": "Bank Audi",
       "shortName": "Bank Audi",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "LB_1",
+      "name": "Bank of Beirut",
+      "shortName": "Bank of Beirut",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "LB_2",
-      "name": "Byblos Bank",
-      "shortName": "Byblos",
+      "name": "Bankmed",
+      "shortName": "Bankmed",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "LB_3",
-      "name": "Bank of Beirut",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_4",
-      "name": "Bank of Beirut and Arab Countries",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_5",
-      "name": "BankMed",
-      "shortName": "BankMed",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_6",
-      "name": "Banque Libano-Française",
-      "shortName": "Banque Libano-Française",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_7",
-      "name": "Banque Misr Liban (BML)",
-      "shortName": "Banque Misr",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_8",
       "name": "BLOM Bank",
       "shortName": "BLOM",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_9",
-      "name": "BSL Bank",
-      "shortName": "BSL",
+      "code": "LB_4",
+      "name": "Byblos Bank",
+      "shortName": "Byblos",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_10",
-      "name": "Cedrus Bank",
-      "shortName": "Cedrus",
+      "code": "LB_5",
+      "name": "Credit Libanais",
+      "shortName": "Credit Libanais",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_11",
-      "name": "Creditbank",
-      "shortName": "Creditbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_12",
-      "name": "Crédit Libanais",
-      "shortName": "Crédit Libanais",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_13",
-      "name": "First National Bank",
-      "shortName": "First National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_14",
+      "code": "LB_6",
       "name": "Fransabank",
       "shortName": "Fransabank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_15",
-      "name": "Intercontinental Bank of Lebanon (IBL)",
-      "shortName": "Intercontinental",
+      "code": "LB_7",
+      "name": "MEAB Bank",
+      "shortName": "MEAB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_16",
-      "name": "Lebanon and Gulf Bank",
-      "shortName": "Lebanon and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_17",
+      "code": "LB_8",
       "name": "Saradar Bank",
       "shortName": "Saradar",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LB_18",
-      "name": "Société Générale de Banque au Liban (SGBL)",
-      "shortName": "Société Générale",
-      "type": "bank",
+      "code": "LB_9",
+      "name": "Areeba",
+      "shortName": "Areeba",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "LB_19",
-      "name": "Lebanese Swiss Bank",
-      "shortName": "Lebanese Swiss",
-      "type": "bank",
+      "code": "LB_10",
+      "name": "CashUnited",
+      "shortName": "CashUnited",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "LB_20",
-      "name": "AM Bank (Al-Mawarid Bank)",
-      "shortName": "AM",
-      "type": "bank",
+      "code": "LB_11",
+      "name": "MyMonty",
+      "shortName": "MyMonty",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "LB_21",
-      "name": "Lebanese Canadian Bank",
-      "shortName": "Lebanese Canadian",
-      "type": "bank",
+      "code": "LB_12",
+      "name": "OMT Pay",
+      "shortName": "OMT Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "LB_22",
-      "name": "Jammal Trust Bank (Under Liquidation)",
-      "shortName": "Jammal Trust",
-      "type": "bank",
+      "code": "LB_13",
+      "name": "PinPay",
+      "shortName": "PinPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "LB_23",
-      "name": "CSCBank",
-      "shortName": "CSCBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_24",
-      "name": "Intra Bank",
-      "shortName": "Intra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_25",
-      "name": "Fenicia Bank",
-      "shortName": "Fenicia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_26",
-      "name": "Citi",
-      "shortName": "Citi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_27",
-      "name": "Arab Bank",
-      "shortName": "Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_28",
-      "name": "National Bank of Kuwait (Lebanon)",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_29",
-      "name": "Al-Madina Bank",
-      "shortName": "Al-Madina",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_30",
-      "name": "Economy of Lebanon",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_31",
-      "name": "Banking in Lebanon",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_32",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_33",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_34",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_35",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_36",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_37",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_38",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_39",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_40",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_41",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_42",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_43",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_44",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_45",
-      "name": "Business in Lebanon",
-      "shortName": "Business in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LB_46",
-      "name": "Incomplete lists from June 2009",
-      "shortName": "Incomplete lists",
-      "type": "bank",
+      "code": "LB_14",
+      "name": "Whish Money",
+      "shortName": "Whish Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

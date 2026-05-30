@@ -1,384 +1,76 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LI",
   "institutions": [
     {
       "code": "LI_0",
-      "name": "LGT Bank – BLFLLI2",
-      "shortName": "LGT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_1",
-      "name": "VP Bank AG – VPBVLI2",
-      "shortName": "VP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_2",
-      "name": "Bank Alpinum – SWIFT: N/A",
-      "shortName": "Bank Alpinum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_3",
-      "name": "Bank Frick &amp; Co. – BFRILI22",
+      "name": "Bank Frick",
       "shortName": "Bank Frick",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_4",
-      "name": "BENDURA BANK AG – HYIBLI22",
-      "shortName": "BENDURA BANK",
+      "code": "LI_1",
+      "name": "LGT Bank",
+      "shortName": "LGT",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LI_5",
-      "name": "EFG Bank von Ernst AG – EFGBLI22",
-      "shortName": "EFG",
+      "code": "LI_2",
+      "name": "Liechtensteinische Landesbank",
+      "shortName": "Liechtensteinische L",
       "type": "bank",
-      "aliases": ""
+      "aliases": "LLB"
     },
     {
-      "code": "LI_6",
-      "name": "Kaiser Partner Privatbank – SERBLI22",
-      "shortName": "Kaiser Partner",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_7",
-      "name": "Mason Privatbank Liechtenstein – RAIBLI22XXX",
-      "shortName": "Mason Privatbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_8",
-      "name": "Neue Bank – NBANLI22",
+      "code": "LI_3",
+      "name": "Neue Bank",
       "shortName": "Neue",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "LI_4",
+      "name": "Sigma Kreditbank",
+      "shortName": "Sigma Kreditbank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LI_5",
+      "name": "VP Bank",
+      "shortName": "VP",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LI_6",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "LI_7",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "LI_8",
+      "name": "Twint",
+      "shortName": "Twint",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
       "code": "LI_9",
-      "name": "SIGMA Bank AG – VOAGLI22XXX",
-      "shortName": "SIGMA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_10",
-      "name": "SIGMA KREDITBANK AG",
-      "shortName": "SIGMA KREDITBANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_11",
-      "name": "Union Bank – UNIVLI22",
-      "shortName": "Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_12",
-      "name": "Alpe Adria Privatbank AG (in Liquidation)",
-      "shortName": "Alpe Adria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_13",
-      "name": "Bank Vontobel",
-      "shortName": "Bank Vontobel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_14",
-      "name": "Centrum Bank",
-      "shortName": "Centrum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_15",
-      "name": "Banque Havilland",
-      "shortName": "Banque Havilland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_16",
-      "name": "Background",
-      "shortName": "Background",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_17",
-      "name": "Lordship of Schellenberg",
-      "shortName": "Lordship of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_18",
-      "name": "Liechtenstein Castle",
-      "shortName": "Liechtenstein Castle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_19",
-      "name": "Vaduz Castle",
-      "shortName": "Vaduz Castle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_20",
-      "name": "Princely family",
-      "shortName": "Princely family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_21",
-      "name": "Confederation of the Rhine",
-      "shortName": "Confederation of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_22",
-      "name": "German Confederation",
-      "shortName": "German Confederation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_23",
-      "name": "1918 putsch",
-      "shortName": "1918 putsch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_24",
-      "name": "1927 flood",
-      "shortName": "1927 flood",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_25",
-      "name": "1928 embezzlement scandal",
-      "shortName": "1928 embezzlement",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_26",
-      "name": "Spy affair",
-      "shortName": "Spy affair",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_27",
-      "name": "1939 failed putsch",
-      "shortName": "1939 failed",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_28",
-      "name": "World War II",
-      "shortName": "World War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_29",
-      "name": "Kunsthaus case",
-      "shortName": "Kunsthaus case",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_30",
-      "name": "1992 crisis",
-      "shortName": "1992 crisis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_31",
-      "name": "1999–2001 financial crisis",
-      "shortName": "1999–2001 financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_32",
-      "name": "2008 tax affair",
-      "shortName": "2008 tax",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_33",
-      "name": "COVID-19 pandemic",
-      "shortName": "COVID-19 pandemic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_34",
-      "name": "Municipalities",
-      "shortName": "Municipalities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_35",
-      "name": "Landtag (parliament)",
-      "shortName": "Landtag (parliament)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_36",
-      "name": "Monarchy",
-      "shortName": "Monarchy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_37",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_38",
-      "name": "Prime Minister",
-      "shortName": "Prime Minister",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_39",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_40",
-      "name": "Currency",
-      "shortName": "Currency",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_41",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_42",
-      "name": "Healthcare",
-      "shortName": "Healthcare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_43",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_44",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_45",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_46",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_47",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_48",
-      "name": "Public holidays (National Day)",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_49",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_50",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_51",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_52",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LI_53",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]

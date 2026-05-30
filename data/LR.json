@@ -1,461 +1,62 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "LR",
   "institutions": [
     {
       "code": "LR_0",
-      "name": "Liberian Bank for Development and Investment (LBDI)",
-      "shortName": "Liberian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_1",
-      "name": "Ecobank Liberia  (Limited) (EBLL), part of Ecobank Group",
-      "shortName": "Ecobank Liberia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_2",
-      "name": "International Bank Liberia (Limited) (IBLL)",
-      "shortName": "International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_3",
-      "name": "AccessBank Liberia - The Microfinance Bank&#91;2&#93;",
+      "name": "AccessBank Liberia",
       "shortName": "AccessBank Liberia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "LR_4",
-      "name": "Guaranty Trust Bank Liberia (GTBL), part of GTCO Group",
-      "shortName": "Guaranty Trust",
+      "code": "LR_1",
+      "name": "Afriland First Bank Liberia",
+      "shortName": "Afriland First Liber",
       "type": "bank",
       "aliases": ""
+    },
+    {
+      "code": "LR_2",
+      "name": "Ecobank Liberia",
+      "shortName": "Ecobank Liberia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "LR_3",
+      "name": "International Bank",
+      "shortName": "International",
+      "type": "bank",
+      "aliases": "Liberia"
+    },
+    {
+      "code": "LR_4",
+      "name": "Liberian Bank for Development and Investment",
+      "shortName": "Liberian for Develop",
+      "type": "bank",
+      "aliases": "LBDI"
     },
     {
       "code": "LR_5",
-      "name": "Economy of Liberia",
-      "shortName": "Economy of",
+      "name": "United Bank for Africa Liberia",
+      "shortName": "United for Africa Li",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "LR_6",
-      "name": "Official Website of the Central Bank of Liberia",
-      "shortName": "Official Website",
-      "type": "bank",
+      "name": "MoMo",
+      "shortName": "MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "LR_7",
-      "name": "Colonization (1821–1847)",
-      "shortName": "Colonization (1821–1847)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_8",
-      "name": "Americo-Liberian rule (1847–1980)",
-      "shortName": "Americo-Liberian rule",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_9",
-      "name": "1871 coup d'état",
-      "shortName": "1871 coup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_10",
-      "name": "Samuel Doe era (1980–1989)",
-      "shortName": "Samuel Doe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_11",
-      "name": "1985 coup attempt",
-      "shortName": "1985 coup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_12",
-      "name": "First Civil War (1989–1997)",
-      "shortName": "First Civil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_13",
-      "name": "1998 Monrovia clashes",
-      "shortName": "1998 Monrovia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_14",
-      "name": "Second Civil War (1999–2003)",
-      "shortName": "Second Civil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_15",
-      "name": "2014 Ebola virus epidemic",
-      "shortName": "2014 Ebola",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_16",
-      "name": "COVID-19 pandemic",
-      "shortName": "COVID-19 pandemic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_17",
-      "name": "Cities",
-      "shortName": "Cities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_18",
-      "name": "Borders",
-      "shortName": "Borders",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_19",
-      "name": "Forests",
-      "shortName": "Forests",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_20",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_21",
-      "name": "Administrative divisions",
-      "shortName": "Administrative divisions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_22",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_23",
-      "name": "Government ministries",
-      "shortName": "Government ministries",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_24",
-      "name": "Parliament",
-      "shortName": "Parliament",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_25",
-      "name": "Police",
-      "shortName": "Police",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_26",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_27",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_28",
-      "name": "Vice President",
-      "shortName": "Vice President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_29",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_30",
-      "name": "Central bank",
-      "shortName": "Central bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_31",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_32",
-      "name": "Dollar (currency)",
-      "shortName": "Dollar (currency)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_33",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_34",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_35",
-      "name": "Abortion",
-      "shortName": "Abortion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_36",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_37",
-      "name": "Crime",
-      "shortName": "Crime",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_38",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_39",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_40",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_41",
-      "name": "Gender inequality",
-      "shortName": "Gender inequality",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_42",
-      "name": "Health",
-      "shortName": "Health",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_43",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_44",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_45",
-      "name": "Squatting",
-      "shortName": "Squatting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_46",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_47",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_48",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_49",
-      "name": "Polygamy",
-      "shortName": "Polygamy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_50",
-      "name": "World Heritage Sites",
-      "shortName": "World Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_51",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_52",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_53",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_54",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_55",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_56",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_57",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_58",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_59",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_60",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_61",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_62",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_63",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "LR_64",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]
