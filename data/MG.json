@@ -1,209 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MG",
   "institutions": [
     {
       "code": "MG_0",
-      "name": "AccèsBanque Madagascar (ABM)",
-      "shortName": "AccèsBanque Madagascar",
+      "name": "AccèsBanque Madagascar",
+      "shortName": "AccèsBanque Madagasc",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_1",
-      "name": "AFG Bank",
-      "shortName": "AFG",
+      "name": "AFG Bank Madagascar",
+      "shortName": "AFG Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_2",
-      "name": "Baobab Banque Madagascar",
-      "shortName": "Baobab Banque",
+      "name": "Bank of Africa Madagascar",
+      "shortName": "Bank of Africa Madag",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "MG_3",
-      "name": "BGFI Bank Madagascar, part of BGFIBank Group",
-      "shortName": "BGFI",
+      "name": "Baobab Banque Madagascar",
+      "shortName": "Baobab Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_4",
-      "name": "Banque Malgache de l'Océan Indien (BMOI), part of BCP Group",
-      "shortName": "Banque Malgache",
+      "name": "BGFIBank Madagascar",
+      "shortName": "BGFIBank Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_5",
-      "name": "BNI Madagascar&#160;&#91;fr&#93;",
-      "shortName": "BNI Madagascar&#160;&#91;fr&#93;",
+      "name": "BMOI",
+      "shortName": "BMOI",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_6",
-      "name": "Caisse d’Epargne de Madagascar",
-      "shortName": "Caisse d’Epargne",
+      "name": "BNI Madagascar",
+      "shortName": "BNI Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_7",
-      "name": "MCB Madagascar, part of Mauritius Commercial Bank Group",
-      "shortName": "MCB Madagascar,",
+      "name": "Caisse d'Épargne de Madagascar",
+      "shortName": "Caisse d'Épargne de",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_8",
-      "name": "SIPEM Banque",
-      "shortName": "SIPEM Banque",
+      "name": "MCB Madagascar",
+      "shortName": "MCB Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_9",
-      "name": "Central Bank of Madagascar",
-      "shortName": "Central",
+      "name": "SBM Madagascar",
+      "shortName": "SBM Madagascar",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_10",
-      "name": "Economy of Madagascar",
-      "shortName": "Economy of",
+      "name": "SIPEM Banque",
+      "shortName": "SIPEM",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_11",
-      "name": "Website of Central Bank of Madagascar (French)",
-      "shortName": "Website of",
+      "name": "Société Générale Madagasikara",
+      "shortName": "Société Générale Mad",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MG_12",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MG_13",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
+      "name": "MVola",
+      "shortName": "MVola",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MG_14",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_15",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_16",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_17",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_18",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_19",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_20",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_21",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_22",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_23",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_24",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_25",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_26",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_27",
-      "name": "Whaling",
-      "shortName": "Whaling",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MG_28",
-      "name": "CS1: unfit URL",
-      "shortName": "CS1: unfit",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

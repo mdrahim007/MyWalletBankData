@@ -1,174 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ME",
   "institutions": [
     {
       "code": "ME_0",
-      "name": "Bank of Montenegro (1906-1918)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_1",
-      "name": "National Bank of Montenegro (1971-1993)",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_2",
-      "name": "Ekos Bank, liquidated 2003-2018",
-      "shortName": "Ekos,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_3",
-      "name": "Nikšićka Banka, renamed 2007 as Prva Banka Crne Gore",
-      "shortName": "Nikšićkaa,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_4",
-      "name": "Opportunity Bank, acquired by Erste Bank and renamed 2009",
-      "shortName": "Opportunity,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_5",
-      "name": "Invest Banka Montenegro AD, in liquidation&#91;1&#93;",
-      "shortName": "Investa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_6",
-      "name": "Atlas Banka AD, in liquidation&#91;1&#93;",
-      "shortName": "Atlasa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_7",
-      "name": "Find all banks' branches and ATMs in Montenegro using Maps",
-      "shortName": "Find all",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_8",
-      "name": "Find short information for each bank in Montenegro",
-      "shortName": "Find short",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_9",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_10",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_11",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_12",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_13",
-      "name": "CKB Banka, subsidiary of OTP Bank",
-      "shortName": "CKBa,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_14",
-      "name": "Hipotekarna Banka AD, subsidiary of AikGroup",
-      "shortName": "Hipotekarnaa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_15",
-      "name": "Prva Banka Crne Gore AD",
-      "shortName": "Prvaa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_16",
-      "name": "Erste Bank AD, subsidiary of Erste Group",
-      "shortName": "Erste",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_17",
-      "name": "NLB Banka AD, subsidiary of NLB Group",
-      "shortName": "NLBa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ME_18",
-      "name": "Addiko Bank AD, subsidiary of Addiko Bank",
+      "name": "Addiko Bank",
       "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_19",
-      "name": "Universal Capital Bank AD",
+      "code": "ME_1",
+      "name": "Adriatic Bank",
+      "shortName": "Adriatic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_2",
+      "name": "CKB Banka",
+      "shortName": "CKB",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_3",
+      "name": "Erste Bank Montenegro",
+      "shortName": "Erste Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_4",
+      "name": "Hipotekarna Banka",
+      "shortName": "Hipotekarna",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_5",
+      "name": "Lovćen Banka",
+      "shortName": "Lovćen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_6",
+      "name": "NLB Banka Montenegro",
+      "shortName": "NLB Montenegro",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_7",
+      "name": "Prva Banka Crne Gore",
+      "shortName": "Prva Crne Gore",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ME_8",
+      "name": "Universal Capital Bank",
       "shortName": "Universal Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_20",
-      "name": "Lovćen Banka AD",
-      "shortName": "Lovćena",
+      "code": "ME_9",
+      "name": "Zapad Banka",
+      "shortName": "Zapad",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_21",
-      "name": "Zapad Banka AD",
-      "shortName": "Zapada",
+      "code": "ME_10",
+      "name": "Ziraat Bank Montenegro",
+      "shortName": "Ziraat Montenegro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ME_22",
-      "name": "Ziraat Bank Montenegro AD, subsidiary of Ziraat Bank",
-      "shortName": "Ziraat",
-      "type": "bank",
+      "code": "ME_11",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "ME_23",
-      "name": "Adriatic Bank AD",
-      "shortName": "Adriatic",
-      "type": "bank",
+      "code": "ME_12",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "ME_13",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

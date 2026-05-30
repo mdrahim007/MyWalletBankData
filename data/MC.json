@@ -1,433 +1,153 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MC",
   "institutions": [
     {
       "code": "MC_0",
-      "name": "Barclays Bank plc Monaco",
-      "shortName": "Barclays",
+      "name": "Andbank Monaco",
+      "shortName": "Andbank Monaco",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_1",
-      "name": "Credit Foncier de Monaco  SWIFT: CFMOMCMXXXX",
-      "shortName": "Credit Foncier",
+      "name": "Banca Popolare di Sondrio",
+      "shortName": "Banca Popolare di So",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Suisse"
     },
     {
       "code": "MC_2",
-      "name": "Bank Julius Baer (Monaco) S.A.M.",
-      "shortName": "Bank Julius",
+      "name": "Bank Julius Baer",
+      "shortName": "Bank Julius Baer",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_3",
-      "name": "UBS (Monaco)  SWIFT: UBSWMCMXXXX",
-      "shortName": "UBS (Monaco)",
+      "name": "Bank Pictet & Cie",
+      "shortName": "Bank Pictet & Cie",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Europe"
     },
     {
       "code": "MC_4",
-      "name": "SG Private Banking (Monaco)  SWIFT: SGBTMCMCXXX",
-      "shortName": "SG Private",
+      "name": "Banque J. Safra Sarasin",
+      "shortName": "Banque J. Safra Sara",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_5",
-      "name": "Credit Suisse (Monaco)  SWIFT: CRESMCMXXXX",
-      "shortName": "Credit Suisse",
+      "name": "Banque Richelieu Monaco",
+      "shortName": "Banque Richelieu Mon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_6",
-      "name": "Compagnie Monégasque de Banque  SWIFT: CMBMMCMXXXX",
-      "shortName": "Compagnie Monégasque",
+      "name": "Barclays Bank PLC Monaco",
+      "shortName": "Barclays Monaco",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_7",
-      "name": "BNP Paribas Private Bank Monaco  SWIFT: BPPBMCMCXXX",
-      "shortName": "BNP Paribas",
+      "name": "CFM Indosuez Wealth",
+      "shortName": "CFM Indosuez Wealth",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_8",
-      "name": "Union Bancaire Privée  SWIFT: UBPGMCMXXXX",
-      "shortName": "Union Bancaire",
+      "name": "CMB Monaco",
+      "shortName": "CMB Monaco",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_9",
-      "name": "Banque J. Safra (Monaco)  SWIFT: BJSBMCMXXXX",
-      "shortName": "Banque J.",
+      "name": "Crédit Mobilier de Monaco",
+      "shortName": "Crédit Mobilier de M",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_10",
-      "name": "Banque Havilland  SWIFT: HAVLMCMXXX",
-      "shortName": "Banque Havilland",
+      "name": "Edmond de Rothschild",
+      "shortName": "Edmond de Rothschild",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_11",
-      "name": "BSI Monaco  SWIFT: BSILMCMCXXX",
-      "shortName": "BSI Monaco",
+      "name": "EFG Bank",
+      "shortName": "EFG",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_12",
-      "name": "Fortis Banque Monaco  SWIFT: FTSBMCMCXXX",
-      "shortName": "Fortis Banque",
+      "name": "Moncrief Private Bank",
+      "shortName": "Moncrief Private",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_13",
-      "name": "ING Bank (Monaco)  SWIFT: INGBMCMCXXX",
-      "shortName": "ING",
+      "name": "Rothschild & Co Wealth Management Monaco",
+      "shortName": "Rothschild & Co Weal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MC_14",
-      "name": "KB Luxembourg (Monaco)  SWIFT: KBLXMCMCXXX",
-      "shortName": "KB Luxembourg",
+      "name": "Société Générale Private Banking",
+      "shortName": "Société Générale Pri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_15",
-      "name": "Monte Paschi Monaco  SWIFT: MONTMCMCXXX",
-      "shortName": "Monte Paschi",
+      "name": "UBS",
+      "shortName": "UBS",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Monaco"
     },
     {
       "code": "MC_16",
-      "name": "François Grimaldi",
-      "shortName": "François Grimaldi",
+      "name": "Union Bancaire Privée",
+      "shortName": "Union Bancaire Privé",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBP"
     },
     {
       "code": "MC_17",
-      "name": "Republic of Genoa",
-      "shortName": "Republic of",
-      "type": "bank",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MC_18",
-      "name": "France–Monaco relations",
-      "shortName": "France–Monaco relations",
-      "type": "bank",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MC_19",
-      "name": "Treaty of Tordesillas (1524)",
-      "shortName": "Treaty of",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MC_20",
-      "name": "Treaty of Péronne (1641)",
-      "shortName": "Treaty of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_21",
-      "name": "Treaty of Stupinigi",
-      "shortName": "Treaty of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_22",
-      "name": "Franco-Monégasque Treaties",
-      "shortName": "Franco-Monégasque Treaties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_23",
-      "name": "House of Grimaldi",
-      "shortName": "House of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_24",
-      "name": "Anarchism in Monaco",
-      "shortName": "Anarchism in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_25",
-      "name": "1918 succession crisis",
-      "shortName": "1918 succession",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_26",
-      "name": "Monégasque Revolution",
-      "shortName": "Monégasque Revolution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_27",
-      "name": "Rulers of Monaco",
-      "shortName": "Rulers of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_28",
-      "name": "France–Monaco border",
-      "shortName": "France–Monaco border",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_29",
-      "name": "Land reclamation in Monaco",
-      "shortName": "Land reclamation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_30",
-      "name": "Mont Agel",
-      "shortName": "Mont Agel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_31",
-      "name": "Port Hercules",
-      "shortName": "Port Hercules",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_32",
-      "name": "Rock of Monaco",
-      "shortName": "Rock of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_33",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_34",
-      "name": "Communal Council",
-      "shortName": "Communal Council",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_35",
-      "name": "Concordat",
-      "shortName": "Concordat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_36",
-      "name": "Court of Appeal",
-      "shortName": "Court of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_37",
-      "name": "Court of Revision",
-      "shortName": "Court of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_38",
-      "name": "Crown Council",
-      "shortName": "Crown Council",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_39",
-      "name": "Justice of the peace",
-      "shortName": "Justice of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_40",
-      "name": "High Council of Judges and Prosecutors",
-      "shortName": "High Council",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_41",
-      "name": "Mayors",
-      "shortName": "Mayors",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_42",
-      "name": "Minister of State",
-      "shortName": "Minister of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_43",
-      "name": "Parliament",
-      "shortName": "Parliament",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_44",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_45",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_46",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_47",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_48",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_49",
-      "name": "Architecture",
-      "shortName": "Architecture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_50",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_51",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_52",
-      "name": "Orders, decorations and medals",
-      "shortName": "Orders, decorations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_53",
-      "name": "Public art",
-      "shortName": "Public art",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_54",
-      "name": "Religion",
-      "shortName": "Religion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_55",
-      "name": "Santos-Dumont's experiments",
-      "shortName": "Santos-Dumont's experiments",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_56",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_57",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_58",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_59",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MC_60",
-      "name": "Economy of Monaco-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     }
   ]

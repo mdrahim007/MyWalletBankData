@@ -1,237 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "MD",
   "institutions": [
     {
       "code": "MD_0",
-      "name": "National Bank of Moldova",
-      "shortName": "National",
+      "name": "Comerțbank",
+      "shortName": "Comerțbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_1",
-      "name": "BCR Chișinău - SWIFT: RNCBMD2X",
-      "shortName": "BCR Chișinău",
+      "name": "Energbank",
+      "shortName": "Energbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_2",
-      "name": "Comerțbank - SWIFT: CMTBMD2X",
-      "shortName": "Comerțbank -",
+      "name": "EuroCreditBank",
+      "shortName": "EuroCreditBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_3",
-      "name": "Energbank - SWIFT: ENEGMD22 XXX",
-      "shortName": "Energbank -",
+      "name": "EximBank",
+      "shortName": "EximBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_4",
-      "name": "EximBank - SWIFT: EXMMMD22 XXX",
-      "shortName": "EximBank -",
+      "name": "FinComBank",
+      "shortName": "FinComBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_5",
-      "name": "FinComBank - SWIFT: FTMDMD2X XXX",
-      "shortName": "FinComBank -",
+      "name": "maib",
+      "shortName": "maib",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_6",
-      "name": "OTP bank - SWIFT: MOBBMD22 XXX",
-      "shortName": "OTP bank",
+      "name": "Moldindconbank",
+      "shortName": "Moldindconbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_7",
-      "name": "ProCredit Bank - SWIFT: PRCBMD22 XXX",
+      "name": "OTP Bank",
+      "shortName": "OTP",
+      "type": "bank",
+      "aliases": "Moldova"
+    },
+    {
+      "code": "MD_8",
+      "name": "ProCredit Bank",
       "shortName": "ProCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "MD_8",
-      "name": "Victoriabank - SWIFT: VICBMD2X",
-      "shortName": "Victoriabank -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "MD_9",
-      "name": "maib - SWIFT: AGRNMD2X XXX",
-      "shortName": "maib -",
+      "name": "Victoriabank",
+      "shortName": "Victoriabank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "MD_10",
-      "name": "Moldindconbank - SWIFT: MOLDMD2X XXX",
-      "shortName": "Moldindconbank -",
-      "type": "bank",
+      "name": "BPay",
+      "shortName": "BPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MD_11",
-      "name": "Basarabia&#91;3&#93;",
-      "shortName": "Basarabia&#91;3&#93;",
-      "type": "bank",
+      "name": "Mia Plăți Instant",
+      "shortName": "Mia Plăți Instant",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MD_12",
-      "name": "BIID MB&#91;4&#93;",
-      "shortName": "BIID MB&#91;4&#93;",
-      "type": "bank",
+      "name": "Paynet",
+      "shortName": "Paynet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "MD_13",
-      "name": "Guinea&#91;5&#93;",
-      "shortName": "Guinea&#91;5&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_14",
-      "name": "Întreprinzbancă&#91;6&#93;",
-      "shortName": "Întreprinzbancă&#91;6&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_15",
-      "name": "InvestPrivatBank&#91;7&#93;",
-      "shortName": "InvestPrivatBank&#91;7&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_16",
-      "name": "Vias&#91;8&#93;",
-      "shortName": "Vias&#91;8&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_17",
-      "name": "Bancosind&#91;9&#93; liquidated 2018",
-      "shortName": "Bancosind&#91;9&#93; liquidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_18",
-      "name": "Banca de Economii",
-      "shortName": "Banca de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_19",
-      "name": "Banca Socială",
-      "shortName": "Banca Socială",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_20",
-      "name": "Banca Municipală Chișinău&#91;10&#93;",
-      "shortName": "Banca Municipală",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_21",
-      "name": "BTR Moldova&#91;11&#93;",
-      "shortName": "BTR Moldova&#91;11&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_22",
-      "name": "Bucuriabank&#91;12&#93; dissolved 2016",
-      "shortName": "Bucuriabank&#91;12&#93; dissolved",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_23",
-      "name": "Businessbank&#91;13&#93;",
-      "shortName": "Businessbank&#91;13&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_24",
-      "name": "Oguzbank&#91;14&#93; liquidated 2018",
-      "shortName": "Oguzbank&#91;14&#93; liquidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_25",
-      "name": "Unibank",
-      "shortName": "Unibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_26",
-      "name": "Universalbank&#91;15&#93; liquidated 2021",
-      "shortName": "Universalbank&#91;15&#93; liquidated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_27",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_28",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_29",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_30",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_31",
-      "name": "CS1 Romanian-language sources (ro)",
-      "shortName": "CS1 Romanian-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "MD_32",
-      "name": "All pages needing cleanup",
-      "shortName": "All pages",
-      "type": "bank",
+      "name": "RunPay",
+      "shortName": "RunPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]
