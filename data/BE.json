@@ -1,468 +1,258 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BE",
   "institutions": [
     {
       "code": "BE_0",
-      "name": "The Bank of New York Mellon SA/NV, subsidiary of BNY",
-      "shortName": "The",
+      "name": "Aion Bank",
+      "shortName": "Aion",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_1",
-      "name": "Belfius Banque SA / Belfius Bank NV / Belfius Bank SA",
-      "shortName": "Belfius Banque",
+      "name": "Argenta Spaarbank",
+      "shortName": "Argenta Spaarbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_2",
-      "name": "Crelan SA / Crelan NV",
-      "shortName": "Crelan SA",
+      "name": "AXA Bank Belgium",
+      "shortName": "AXA Belgium",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_3",
-      "name": "KBC Group NV",
-      "shortName": "KBC Group",
+      "name": "Banco do Brasil",
+      "shortName": "Banco do Brasil",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Brussels"
     },
     {
       "code": "BE_4",
-      "name": "FinAx NV, holding entity of Delen Private Bank (see below)",
-      "shortName": "FinAx NV,",
+      "name": "Bank Nagelmackers",
+      "shortName": "Bank Nagelmackers",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_5",
-      "name": "vdk bank, a former local savings bank",
-      "shortName": "vdk bank,",
+      "name": "Bank Van Breda",
+      "shortName": "Bank Van Breda",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_6",
-      "name": "Bank Dierickx Leys, a private bank",
-      "shortName": "Bank Dierickx",
+      "name": "Banque Baecque Beau",
+      "shortName": "Banque Baecque Beau",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_7",
-      "name": "Bank J. Van Breda en Co NV, a private bank",
-      "shortName": "Bank J.",
+      "name": "Banque Belge pour l'Etranger",
+      "shortName": "Banque Belge pour l'",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_8",
-      "name": "Banque Eni SA, subsidiary of Eni",
-      "shortName": "Banque Eni",
+      "name": "Banque CPH",
+      "shortName": "Banque CPH",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_9",
-      "name": "Banque CPH&#160;&#91;fr&#93;, a local cooperative group",
-      "shortName": "Banque CPH&#160;&#91;fr&#93;,",
+      "name": "Banque Eni",
+      "shortName": "Banque Eni",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_10",
-      "name": "Delen Private Bank SA, subsidiary of FinAx NV (see above)",
-      "shortName": "Delen Private",
+      "name": "BAWAG Direct",
+      "shortName": "BAWAG Direct",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_11",
-      "name": "Van De Put &amp; Co Private Bankers",
-      "shortName": "Van De",
+      "name": "Belfius Bank",
+      "shortName": "Belfius",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_12",
-      "name": "Belgian branch of Hoist Finance AB",
-      "shortName": "Belgian branch",
+      "name": "Beobank",
+      "shortName": "Beobank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_13",
-      "name": "Belgian branch of Saxo Bank A/S",
-      "shortName": "Belgian branch",
+      "name": "BNP Paribas Fortis",
+      "shortName": "BNP Paribas Fortis",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_14",
-      "name": "Bank of India",
-      "shortName": "Bank of",
+      "name": "bpost banque",
+      "shortName": "bpost",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_15",
-      "name": "State Bank of India",
-      "shortName": "State",
+      "name": "Bunq",
+      "shortName": "Bunq",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_16",
-      "name": "Sumitomo Mitsui Financial Group",
-      "shortName": "Sumitomo Mitsui",
+      "name": "CBC Banque",
+      "shortName": "CBC",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_17",
-      "name": "Banque de Commerce (1780-1989)",
-      "shortName": "Banque de",
+      "name": "Cetelem Belgium",
+      "shortName": "Cetelem Belgium",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_18",
-      "name": "Bank Du Jardin&#160;&#91;nl&#93; (1801-1874)",
-      "shortName": "Bank Du",
+      "name": "Cofidis Belgium",
+      "shortName": "Cofidis Belgium",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_19",
-      "name": "Société Générale de Belgique (1822-1934)",
-      "shortName": "Société Générale",
+      "name": "Crelan",
+      "shortName": "Crelan",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_20",
-      "name": "Banque d'Anvers (1823-1965)",
-      "shortName": "Banque d'Anvers",
+      "name": "Deutsche Bank Belgium",
+      "shortName": "Deutsche Belgium",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_21",
-      "name": "Banque de Belgique (1835-1885)",
-      "shortName": "Banque de",
+      "name": "Europabank",
+      "shortName": "Europabank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_22",
-      "name": "Banque Lambert (1835-1975)",
-      "shortName": "Banque Lambert",
+      "name": "ING Belgium",
+      "shortName": "ING Belgium",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_23",
-      "name": "Banque Liégeoise (1835-c. 1940)",
-      "shortName": "Banque Liégeoise",
+      "name": "KBC Bank",
+      "shortName": "KBC",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_24",
-      "name": "Caisse Générale d'Épargne et de Retraite (1850-1999)",
-      "shortName": "Caisse Générale",
+      "name": "Keytrade Bank",
+      "shortName": "Keytrade",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_25",
-      "name": "Crédit Communal de Belgique (1860-1996)",
-      "shortName": "Crédit Communal",
+      "name": "MeDirect Bank",
+      "shortName": "MeDirect",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_26",
-      "name": "Gentsche Volksbank&#160;&#91;nl&#93; (1866-1905)",
-      "shortName": "Gentsche Volksbank&#160;&#91;nl&#93;",
+      "name": "N26",
+      "shortName": "N26",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_27",
-      "name": "Bank of Brussels (1871-1975)",
-      "shortName": "Bank of",
+      "name": "NewB",
+      "shortName": "NewB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_28",
-      "name": "Banque Philippson (1871-2024)",
-      "shortName": "Banque Philippson",
+      "name": "Revolut",
+      "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_29",
-      "name": "Caisse Générale de Reports et de Dépôts (1874-1953)",
-      "shortName": "Caisse Générale",
+      "name": "Santander Consumer Bank Belgium",
+      "shortName": "Santander Consumer B",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_30",
-      "name": "Antwerpse Hypotheekkas&#160;&#91;nl&#93; (1881-1999)",
-      "shortName": "Antwerpse Hypotheekkas&#160;&#91;nl&#93;",
+      "name": "Triodos Bank",
+      "shortName": "Triodos",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_31",
-      "name": "CERA Bank&#160;&#91;nl&#93; (1892-1998)",
-      "shortName": "CERA&#160;&#91;nl&#93;",
+      "name": "vdk bank",
+      "shortName": "vdk",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BE_32",
-      "name": "Crédit Anversois (1898-1941)",
-      "shortName": "Crédit Anversois",
-      "type": "bank",
+      "name": "Bancontact",
+      "shortName": "Bancontact",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BE_33",
-      "name": "Société Belge de Banque (1901-1965)",
-      "shortName": "Société Belge",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BE_34",
-      "name": "Banque Belge pour l'Étranger (1902-2005)",
-      "shortName": "Banque Belge",
-      "type": "bank",
+      "name": "Payconiq",
+      "shortName": "Payconiq",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BE_35",
-      "name": "Bank van Roeselare-Tielt&#160;&#91;nl&#93; (1906-1919)",
-      "shortName": "Bank van",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_36",
-      "name": "Brugse Bank&#160;&#91;nl&#93; (1906-1919)",
-      "shortName": "Brugse&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_37",
-      "name": "Crédit Foncier d'Extrême-Orient (1907-1959)",
-      "shortName": "Crédit Foncier",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_38",
-      "name": "Banque du Congo Belge (1909-1960)",
-      "shortName": "Banque du",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_39",
-      "name": "Banque Italo-Belge (1911-c. 2000)",
-      "shortName": "Banque Italo-Belge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_40",
-      "name": "Bank van de Arbeid&#160;&#91;nl&#93; (1913-1934)",
-      "shortName": "Bank van",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_41",
-      "name": "Société Nationale de Crédit à l'Industrie (1919-1997)",
-      "shortName": "Société Nationale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_42",
-      "name": "Belgische Arbeiderscoöperatie&#160;&#91;nl&#93; (1924-2001)",
-      "shortName": "Belgische Arbeiderscoöperatie&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_43",
-      "name": "Banque Belge d'Afrique (1929-1971)",
-      "shortName": "Banque Belge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_44",
-      "name": "BKCP Bank&#160;&#91;nl&#93; (1929-2001)",
-      "shortName": "BKCP&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_45",
-      "name": "West-Vlaams Beroepskrediet&#160;&#91;nl&#93; (1930-2009)",
-      "shortName": "West-Vlaams Beroepskrediet&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_46",
-      "name": "Antwerp Diamond Bank (1934-2014)",
-      "shortName": "Antwerp Diamond",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_47",
-      "name": "Générale de Banque (1934-1999)",
-      "shortName": "Générale de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_48",
-      "name": "Office Central de Crédit Hypothécaire (1936-2001)",
-      "shortName": "Office Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_49",
-      "name": "Landbouwkrediet&#160;&#91;nl&#93; (1937-2013)",
-      "shortName": "Landbouwkrediet&#160;&#91;nl&#93; (1937-2013)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_50",
-      "name": "Bank of Issue in Belgium&#160;&#91;nl&#93; (1940-1945)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_51",
-      "name": "Société Congolaise de Banque (1945-1970)",
-      "shortName": "Société Congolaise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_52",
-      "name": "Banque Belgolaise (1960-2018)",
-      "shortName": "Banque Belgolaise",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_53",
-      "name": "Bank Brussels Lambert (1975-2003)",
-      "shortName": "Bank Brussels",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_54",
-      "name": "Royale Belge (1986-1999)",
-      "shortName": "Royale Belge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_55",
-      "name": "Fortis Group (1990-2009)",
-      "shortName": "Fortis Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_56",
-      "name": "Optima Bank&#160;&#91;nl&#93; (1991-2016)",
-      "shortName": "Optima&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_57",
-      "name": "bpost banque&#160;&#91;fr&#93; (1995-2024)",
-      "shortName": "bpost banque&#160;&#91;fr&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_58",
-      "name": "Centea&#160;&#91;nl&#93; (1997-2013)",
-      "shortName": "Centea&#160;&#91;nl&#93; (1997-2013)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_59",
-      "name": "Record Bank&#160;&#91;nl&#93; (2001-2016)",
-      "shortName": "Record&#160;&#91;nl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_60",
-      "name": "Aion Bank&#160;&#91;pl&#93; (2019-2025)",
-      "shortName": "Aion&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_61",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_62",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_63",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_64",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BE_65",
-      "name": "Interlanguage link template existing link",
-      "shortName": "Interlanguage link",
-      "type": "bank",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
       "aliases": ""
     }
   ]

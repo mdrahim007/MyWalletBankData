@@ -1,188 +1,160 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BF",
   "institutions": [
     {
       "code": "BF_0",
-      "name": "Banque Agricole Du Faso (BADF)",
-      "shortName": "Banque Agricole",
+      "name": "Bank of Africa Burkina Faso",
+      "shortName": "Bank of Africa Burki",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "BF_1",
-      "name": "Banque Atlantique Burkina Faso, part of the BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "Banque Agricole du Faso",
+      "shortName": "Banque Agricole du F",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BADF"
     },
     {
       "code": "BF_2",
-      "name": "Coris Bank International, part of the Coris Bank Group",
-      "shortName": "Coris",
+      "name": "Banque Atlantique Burkina Faso",
+      "shortName": "Banque Atlantique Bu",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_3",
-      "name": "Ecobank Burkina, part of the Ecobank Group",
-      "shortName": "Ecobank Burkina,",
+      "name": "Banque Commerciale du Burkina",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCB"
     },
     {
       "code": "BF_4",
-      "name": "Wendkuni Bank International (WBI)",
-      "shortName": "Wendkuni",
+      "name": "Banque de l'Union Burkina Faso",
+      "shortName": "Banque de l'Union Bu",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDU-BF"
     },
     {
       "code": "BF_5",
-      "name": "Branch of CBAO Groupe Attijariwafa Bank",
-      "shortName": "Branch of",
+      "name": "Banque Postale du Burkina Faso",
+      "shortName": "Banque Postale du Bu",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BPBF"
     },
     {
       "code": "BF_6",
-      "name": "Branch of Orabank",
-      "shortName": "Branch of",
+      "name": "Banque Sahélo-Saharienne pour l'Investissement et le Commerce",
+      "shortName": "Banque Sahélo-Sahari",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSIC"
     },
     {
       "code": "BF_7",
-      "name": "Central Bank of West African States",
-      "shortName": "Central",
+      "name": "CBAO Groupe Attijariwafa Bank",
+      "shortName": "CBAO Groupe Attijari",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_8",
-      "name": "Economy of Burkina Faso",
-      "shortName": "Economy of",
+      "name": "Coris Bank International",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_9",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Ecobank Burkina",
+      "shortName": "Ecobank Burkina",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_10",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "International Business Bank",
+      "shortName": "International Busine",
       "type": "bank",
-      "aliases": ""
+      "aliases": "IB Bank"
     },
     {
       "code": "BF_11",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "Orabank Burkina Faso",
+      "shortName": "Orabank Burkina Faso",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_12",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Société Générale Burkina Faso",
+      "shortName": "Société Générale Bur",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SGBF"
     },
     {
       "code": "BF_13",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
+      "name": "United Bank for Africa",
+      "shortName": "United for Africa",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "BF_14",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
+      "name": "Vista Bank Burkina",
+      "shortName": "Vista Burkina",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BF_15",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
+      "name": "Wendkuni Bank International",
+      "shortName": "Wendkuni Internation",
       "type": "bank",
-      "aliases": ""
+      "aliases": "WBI"
     },
     {
       "code": "BF_16",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "name": "Afrimoney",
+      "shortName": "Afrimoney",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BF_17",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
+      "name": "Coris Money",
+      "shortName": "Coris Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BF_18",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
+      "name": "Flooz",
+      "shortName": "Flooz",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BF_19",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BF_20",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BF_21",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BF_22",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BF_23",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BF_24",
-      "name": "Cotton",
-      "shortName": "Cotton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BF_25",
-      "name": "Shea nut and butter",
-      "shortName": "Shea nut",
-      "type": "bank",
+      "name": "Wave",
+      "shortName": "Wave",
+      "type": "mfs",
       "aliases": ""
     }
   ]

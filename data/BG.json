@@ -1,748 +1,209 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BG",
   "institutions": [
     {
       "code": "BG_0",
-      "name": "DSK Bank AD, subsidiary of OTP Group",
-      "shortName": "DSK",
+      "name": "Allianz Bank Bulgaria",
+      "shortName": "Allianz Bulgaria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BG_1",
-      "name": "United Bulgarian Bank, subsidiary of KBC Group",
-      "shortName": "United Bulgarian",
+      "name": "BNP Paribas Personal Finance",
+      "shortName": "BNP Paribas Personal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BG_2",
-      "name": "UniCredit Bulbank, subsidiary of UniCredit",
-      "shortName": "UniCredit Bulbank,",
+      "name": "BNP Paribas S.A.",
+      "shortName": "BNP Paribas",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Sofia Branch"
     },
     {
       "code": "BG_3",
-      "name": "Bulgarian Development Bank, a public bank",
-      "shortName": "Bulgarian Development",
+      "name": "Bulgarian-American Credit Bank",
+      "shortName": "Bulgarian-American C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BACB"
     },
     {
       "code": "BG_4",
-      "name": "First Investment Bank (Fibank)",
-      "shortName": "First Investment",
+      "name": "Bulgarian Development Bank",
+      "shortName": "Bulgarian Developmen",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BG_5",
-      "name": "Central Cooperative Bank AD, controlled by Invest Capital",
-      "shortName": "Central Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_6",
-      "name": "D Commerce Bank AD",
-      "shortName": "D Commerce",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_7",
-      "name": "International Asset Bank AD&#160;&#91;bg&#93;",
-      "shortName": "International Asset",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_8",
-      "name": "Texim Bank AD",
-      "shortName": "Texim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_9",
-      "name": "Ziraat Bank",
-      "shortName": "Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_10",
-      "name": "Girdap (1881-1925)",
-      "shortName": "Girdap (1881-1925)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_11",
-      "name": "Bulgarian Commercial Bank&#160;&#91;bg&#93; (1895-1947)",
-      "shortName": "Bulgarian Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_12",
-      "name": "Bulgarian Postal Savings Bank&#160;&#91;bg&#93; (1895-1951)",
-      "shortName": "Bulgarian Postal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_13",
-      "name": "Bulgarian Popular Banks&#160;&#91;bg&#93; (1903-1952)",
-      "shortName": "Bulgarian Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_14",
-      "name": "Bulgarian Agricultural Bank&#160;&#91;bg&#93; (1904-1934)",
-      "shortName": "Bulgarian Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_15",
-      "name": "Macedonian Cooperative Bank&#160;&#91;bg&#93; (1925-1947)",
-      "shortName": "Macedonian Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_16",
-      "name": "Commercial Credit Bank&#160;&#91;bg&#93; (1929-1947)",
-      "shortName": "Commercial Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_17",
-      "name": "Bulgarian Credit Bank&#160;&#91;bg&#93; (1934-1948)",
-      "shortName": "Bulgarian Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_18",
-      "name": "Bulgarian Investment Bank&#160;&#91;bg&#93; (1947-1967)",
-      "shortName": "Bulgarian Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_19",
-      "name": "Bulgarian Agricultural and Commercial Bank (1969-1971)",
-      "shortName": "Bulgarian Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_20",
-      "name": "Bulgarian Industrial Bank&#160;&#91;bg&#93; (1969-1971)",
-      "shortName": "Bulgarian Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_21",
-      "name": "Unionbank (1991-2014)",
-      "shortName": "Unionbank (1991-2014)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_22",
-      "name": "Expressbank&#160;&#91;bg&#93; (1993-2020)",
-      "shortName": "Expressbank&#160;&#91;bg&#93; (1993-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_23",
-      "name": "Piraeus Bank Bulgaria&#160;&#91;bg&#93; (1993-2019)",
-      "shortName": "Piraeus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_24",
-      "name": "Corporate Commercial Bank (1994-2014)",
-      "shortName": "Corporate Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_25",
-      "name": "Raiffeisenbank Bulgaria&#160;&#91;bg&#93; (1994-2022)",
-      "shortName": "Raiffeisenbank Bulgaria&#160;&#91;bg&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_26",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_27",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_28",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_29",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_30",
-      "name": "United Bulgarian Bank",
-      "shortName": "United Bulgarian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_31",
-      "name": "UBBSBGSF",
-      "shortName": "UBBSBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_32",
-      "name": "22 753 197",
-      "shortName": "22 753",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_33",
-      "name": "KBC BANK N.V.,  Kingdom of Belgium – 99,96%",
-      "shortName": "KBC BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_34",
-      "name": "DSK Bank",
-      "shortName": "DSK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_35",
-      "name": "STSABGSF",
-      "shortName": "STSABGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_36",
-      "name": "21 980 343",
-      "shortName": "21 980",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_37",
-      "name": "OTP Bank RT,  Hungary – 51.06%",
-      "shortName": "OTP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_38",
-      "name": "UniCredit Bulbank",
-      "shortName": "UniCredit Bulbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_39",
-      "name": "UNCRBGSF",
-      "shortName": "UNCRBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_40",
-      "name": "20 971 200",
-      "shortName": "20 971",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_41",
-      "name": "UNICREDIT S.P.A.,  Republic of Italy – 99.45%",
-      "shortName": "UNICREDIT S.P.A.,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_42",
-      "name": "BPBIBGSF",
-      "shortName": "BPBIBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_43",
-      "name": "13 786 241",
-      "shortName": "13 786",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_44",
-      "name": "FINVBGSF",
-      "shortName": "FINVBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_45",
-      "name": "9 077 386",
-      "shortName": "9 077",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_46",
       "name": "Central Cooperative Bank",
       "shortName": "Central Cooperative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_47",
-      "name": "CECBBGSF",
-      "shortName": "CECBBGSF",
+      "code": "BG_6",
+      "name": "Citi",
+      "shortName": "Citi",
+      "type": "bank",
+      "aliases": "Citibank Europe - Bulgaria Branch"
+    },
+    {
+      "code": "BG_7",
+      "name": "D Commerce Bank",
+      "shortName": "D Commerce",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_48",
-      "name": "5 275 330",
-      "shortName": "5 275",
+      "code": "BG_8",
+      "name": "DSK Bank",
+      "shortName": "DSK",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_49",
-      "name": "CCB Group EAD,  Republic of Bulgaria – 61.05%",
-      "shortName": "CCB Group",
+      "code": "BG_9",
+      "name": "Eurobank Bulgaria",
+      "shortName": "Eurobank Bulgaria",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Postbank"
     },
     {
-      "code": "BG_50",
-      "name": "Bulgarian Development Bank",
-      "shortName": "Bulgarian Development",
+      "code": "BG_10",
+      "name": "First Investment Bank",
+      "shortName": "First Investment",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Fibank"
     },
     {
-      "code": "BG_51",
-      "name": "NASBBGSF",
-      "shortName": "NASBBGSF",
+      "code": "BG_11",
+      "name": "ING Bank N.V.",
+      "shortName": "ING",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Sofia Branch"
     },
     {
-      "code": "BG_52",
-      "name": "3 513 732",
-      "shortName": "3 513",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_53",
-      "name": "Ministry of Finance,  Republic of Bulgaria – 100%",
-      "shortName": "Ministry of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_54",
-      "name": "ProCredit Bank, Bulgaria",
-      "shortName": "ProCredit,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_55",
-      "name": "PRCBBGSF",
-      "shortName": "PRCBBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_56",
-      "name": "2 656 516",
-      "shortName": "2 656",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_57",
-      "name": "ProCredit Holding AG,  Federal Republic of Germany – 51%",
-      "shortName": "ProCredit Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_58",
-      "name": "Allianz Bank Bulgaria",
-      "shortName": "Allianz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_59",
-      "name": "BUINBGSF",
-      "shortName": "BUINBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_60",
-      "name": "2 501 633",
-      "shortName": "2 501",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_61",
-      "name": "TBI Bank",
-      "shortName": "TBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_62",
-      "name": "TBIBBGSF",
-      "shortName": "TBIBBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_63",
-      "name": "2 195 037",
-      "shortName": "2 195",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_64",
+      "code": "BG_12",
       "name": "Investbank",
       "shortName": "Investbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_65",
-      "name": "IORTBGSF",
-      "shortName": "IORTBGSF",
+      "code": "BG_13",
+      "name": "KBC Bank Bulgaria",
+      "shortName": "KBC Bulgaria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_66",
-      "name": "2 016 341",
-      "shortName": "2 016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_67",
-      "name": "International Asset Bank",
-      "shortName": "International Asset",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_68",
-      "name": "IABGBGSF",
-      "shortName": "IABGBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_69",
-      "name": "1 642 132",
-      "shortName": "1 642",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_70",
-      "name": "Dynatrade International Ltd,  Republic of Bulgaria – 33%",
-      "shortName": "Dynatrade International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_71",
-      "name": "Municipal Bank PLC",
+      "code": "BG_14",
+      "name": "Municipal Bank",
       "shortName": "Municipal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_72",
-      "name": "SOMBBGSF",
-      "shortName": "SOMBBGSF",
+      "code": "BG_15",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_73",
-      "name": "1 592 235",
-      "shortName": "1 592",
+      "code": "BG_16",
+      "name": "Raiffeisenbank Bulgaria",
+      "shortName": "Raiffeisenbank Bulga",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_74",
-      "name": "Bulgarian-American Credit Bank",
-      "shortName": "Bulgarian-American Credit",
+      "code": "BG_17",
+      "name": "Sekerbank",
+      "shortName": "Sekerbank",
+      "type": "bank",
+      "aliases": "Sofia Branch"
+    },
+    {
+      "code": "BG_18",
+      "name": "TBI Bank",
+      "shortName": "TBI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_75",
-      "name": "BGUSBGSF",
-      "shortName": "BGUSBGSF",
+      "code": "BG_19",
+      "name": "Texim Bank",
+      "shortName": "Texim",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_76",
-      "name": "1 459 442",
-      "shortName": "1 459",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_77",
-      "name": "DEMIBGSF",
-      "shortName": "DEMIBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_78",
-      "name": "1 090 104",
-      "shortName": "1 090",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_79",
-      "name": "CITIBGSF",
-      "shortName": "CITIBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_80",
-      "name": "1 066 825",
-      "shortName": "1 066",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_81",
-      "name": "ING Bank N.V., Sofia Branch",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_82",
-      "name": "INGBBGSF",
-      "shortName": "INGBBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_83",
-      "name": "788 698",
-      "shortName": "788 698",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_84",
-      "name": "ING Bank N.V.,  Kingdom of the Netherlands – 100%",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_85",
-      "name": "BNP Paribas S.A. – Sofia Branch",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_86",
-      "name": "BNPABGSX",
-      "shortName": "BNPABGSX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_87",
-      "name": "508 472",
-      "shortName": "508 472",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_88",
-      "name": "BNP Paribas S.A.,  Republic of France – 100%",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_89",
-      "name": "TEXIBGSF",
-      "shortName": "TEXIBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_90",
-      "name": "487 102",
-      "shortName": "487 102",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_91",
-      "name": "Web Finance Holding AD,  Republic of Bulgaria – 16.64%",
-      "shortName": "Web Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_92",
-      "name": "T.C. Ziraat Bank, Sofia Branch",
-      "shortName": "T.C. Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_93",
-      "name": "TCZBBGSF",
-      "shortName": "TCZBBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_94",
-      "name": "316 255",
-      "shortName": "316 255",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_95",
+      "code": "BG_20",
       "name": "Tokuda Bank",
       "shortName": "Tokuda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_96",
-      "name": "CREXBGSF",
-      "shortName": "CREXBGSF",
+      "code": "BG_21",
+      "name": "UniCredit Bulbank",
+      "shortName": "UniCredit Bulbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BG_97",
-      "name": "260 499",
-      "shortName": "260 499",
+      "code": "BG_22",
+      "name": "United Bulgarian Bank",
+      "shortName": "United Bulgarian",
       "type": "bank",
+      "aliases": "UBB"
+    },
+    {
+      "code": "BG_23",
+      "name": "Varengold Bank AG",
+      "shortName": "Varengold",
+      "type": "bank",
+      "aliases": "Sofia Branch"
+    },
+    {
+      "code": "BG_24",
+      "name": "easywallet",
+      "shortName": "easywallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BG_98",
-      "name": "Ascory Bank AG, Sofia Branch",
-      "shortName": "Ascory",
-      "type": "bank",
+      "code": "BG_25",
+      "name": "iCard",
+      "shortName": "iCard",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BG_99",
-      "name": "VGAGBGSF",
-      "shortName": "VGAGBGSF",
-      "type": "bank",
+      "code": "BG_26",
+      "name": "Pay by Vivacom",
+      "shortName": "Pay by Vivacom",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BG_100",
-      "name": "100 304",
-      "shortName": "100 304",
-      "type": "bank",
+      "code": "BG_27",
+      "name": "phyre",
+      "shortName": "phyre",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "BG_101",
-      "name": "Ascory Bank AG,  Federal Republic of Germany – 100%",
-      "shortName": "Ascory",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_102",
-      "name": "Bigbank AS, Bulgaria Branch",
-      "shortName": "Bigbank AS,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_103",
-      "name": "BIGKBGSF",
-      "shortName": "BIGKBGSF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_104",
-      "name": "45 226",
-      "shortName": "45 226",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BG_105",
-      "name": "Bigbank AS,  Estonia – 100%",
-      "shortName": "Bigbank AS,",
-      "type": "bank",
+      "code": "BG_28",
+      "name": "Settle",
+      "shortName": "Settle",
+      "type": "mfs",
       "aliases": ""
     }
   ]
