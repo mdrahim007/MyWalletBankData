@@ -1,923 +1,216 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ET",
   "institutions": [
     {
       "code": "ET_0",
-      "name": "Website of the National Bank of Ethiopia",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_1",
-      "name": "National Bank of Ethiopia",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_2",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_3",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_4",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_5",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_6",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_7",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_8",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_9",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_10",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_11",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_12",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_13",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_14",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_15",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_16",
-      "name": "Cotton",
-      "shortName": "Cotton",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_17",
-      "name": "Fishing",
-      "shortName": "Fishing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_18",
-      "name": "Forestry",
-      "shortName": "Forestry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_19",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_20",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_21",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_22",
-      "name": "Manufacturing",
-      "shortName": "Manufacturing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_23",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_24",
-      "name": "Foreign aid",
-      "shortName": "Foreign aid",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_25",
-      "name": "Growth and Transformation Plan",
-      "shortName": "Growth and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_26",
-      "name": "Industrial development",
-      "shortName": "Industrial development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_27",
-      "name": "International rankings",
-      "shortName": "International rankings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_28",
-      "name": "Land reform",
-      "shortName": "Land reform",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_29",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_30",
-      "name": "CS1 maint: archived copy as title",
-      "shortName": "CS1 maint:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_31",
-      "name": "Webarchive template wayback links",
-      "shortName": "Webarchive template",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_32",
-      "name": "1",
-      "shortName": "1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_33",
-      "name": "Addis International Bank",
-      "shortName": "Addis International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_34",
-      "name": "http://www.bunnabanksc.com/",
-      "shortName": "http://www.bunnabanksc.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_35",
-      "name": "NIBIETTA",
-      "shortName": "NIBIETTA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_36",
-      "name": "2",
-      "shortName": "2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_37",
       "name": "Abay Bank",
       "shortName": "Abay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_38",
-      "name": "https://www.amharabank.com.et/",
-      "shortName": "https://www.amharabank.com.et/",
+      "code": "ET_1",
+      "name": "Addis International Bank",
+      "shortName": "Addis International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_39",
-      "name": "ABAYETAA",
-      "shortName": "ABAYETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_40",
-      "name": "3",
-      "shortName": "3",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_41",
-      "name": "ABSCETAA",
-      "shortName": "ABSCETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_42",
-      "name": "4",
-      "shortName": "4",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_43",
-      "name": "Amhara Bank",
-      "shortName": "Amhara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_44",
-      "name": "5",
-      "shortName": "5",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_45",
-      "name": "Awash Bank",
-      "shortName": "Awash",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_46",
-      "name": "http://www.shabellebank.com/",
-      "shortName": "http://www.shabellebank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_47",
-      "name": "AWINETAA",
-      "shortName": "AWINETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_48",
-      "name": "6",
-      "shortName": "6",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_49",
-      "name": "Bank of Abyssinia",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_50",
-      "name": "http://www.bankofabyssinia.com/",
-      "shortName": "http://www.bankofabyssinia.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_51",
-      "name": "7",
-      "shortName": "7",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_52",
-      "name": "Berhan International Bank",
-      "shortName": "Berhan International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_53",
-      "name": "http://berhanbanksc.com/",
-      "shortName": "http://berhanbanksc.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_54",
-      "name": "BERHETAA",
-      "shortName": "BERHETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_55",
-      "name": "8",
-      "shortName": "8",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_56",
-      "name": "BUNAETAA",
-      "shortName": "BUNAETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_57",
-      "name": "9",
-      "shortName": "9",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_58",
-      "name": "Commercial Bank of Ethiopia (State Bank)",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_59",
-      "name": "https://www.combanketh.et/",
-      "shortName": "https://www.combanketh.et/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_60",
-      "name": "CBETETAA",
-      "shortName": "CBETETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_61",
-      "name": "10",
-      "shortName": "10",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_62",
-      "name": "Cooperative Bank of Oromia",
-      "shortName": "Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_63",
-      "name": "https://coopbankoromia.com.et/",
-      "shortName": "https://coopbankoromia.com.et/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_64",
-      "name": "13",
-      "shortName": "13",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_65",
-      "name": "Enat Bank",
-      "shortName": "Enat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_66",
-      "name": "ENATETAA",
-      "shortName": "ENATETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_67",
-      "name": "11",
-      "shortName": "11",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_68",
-      "name": "Dashen Bank",
-      "shortName": "Dashen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_69",
-      "name": "http://www.dashenbanksc.com",
-      "shortName": "http://www.dashenbanksc.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_70",
-      "name": "DASHETAA",
-      "shortName": "DASHETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_71",
-      "name": "12",
-      "shortName": "12",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_72",
-      "name": "Global Bank Ethiopia",
-      "shortName": "Global",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_73",
-      "name": "https://www.globalbankethiopia.com/",
-      "shortName": "https://www.globalbankethiopia.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_74",
-      "name": "DEGAETAA",
-      "shortName": "DEGAETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_75",
-      "name": "14",
-      "shortName": "14",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_76",
-      "name": "LIBSETAA",
-      "shortName": "LIBSETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_77",
-      "name": "15",
-      "shortName": "15",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_78",
-      "name": "Oromia International Bank",
-      "shortName": "Oromia International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_79",
-      "name": "http://www.oromiabank.com/",
-      "shortName": "http://www.oromiabank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_80",
-      "name": "ORIRETAA",
-      "shortName": "ORIRETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_81",
-      "name": "16",
-      "shortName": "16",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_82",
-      "name": "Hibret Bank",
-      "shortName": "Hibret",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_83",
-      "name": "UNTDETAA",
-      "shortName": "UNTDETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_84",
-      "name": "17",
-      "shortName": "17",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_85",
-      "name": "Wegagen Bank",
-      "shortName": "Wegagen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_86",
-      "name": "https://www.wegagen.com/",
-      "shortName": "https://www.wegagen.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_87",
-      "name": "1996",
-      "shortName": "1996",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_88",
-      "name": "18",
-      "shortName": "18",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_89",
-      "name": "Zemen Bank",
-      "shortName": "Zemen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_90",
-      "name": "http://www.zemenbank.com/",
-      "shortName": "http://www.zemenbank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_91",
-      "name": "ZEMEETAA",
-      "shortName": "ZEMEETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_92",
-      "name": "19",
-      "shortName": "19",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_93",
-      "name": "Development Bank of Ethiopia",
-      "shortName": "Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_94",
-      "name": "DBEETAA",
-      "shortName": "DBEETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_95",
-      "name": "20",
-      "shortName": "20",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_96",
-      "name": "ZamZam Bank",
-      "shortName": "ZamZam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_97",
-      "name": "https://v2.zamzambank.com//",
-      "shortName": "https://v2.zamzambank.com//",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_98",
-      "name": "ZAMZETAA",
-      "shortName": "ZAMZETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_99",
-      "name": "21",
-      "shortName": "21",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_100",
-      "name": "Hijra Bank",
-      "shortName": "Hijra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_101",
-      "name": "https://www.hijra-bank.com/",
-      "shortName": "https://www.hijra-bank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_102",
-      "name": "HIJRETAA",
-      "shortName": "HIJRETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_103",
-      "name": "22",
-      "shortName": "22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_104",
-      "name": "Siinqee Bank",
-      "shortName": "Siinqee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_105",
-      "name": "https://www.siinqeebank.com/",
-      "shortName": "https://www.siinqeebank.com/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_106",
-      "name": "SINQETAA",
-      "shortName": "SINQETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_107",
-      "name": "23",
-      "shortName": "23",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_108",
-      "name": "Shabelle Bank",
-      "shortName": "Shabelle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_109",
-      "name": "SBEEETAA",
-      "shortName": "SBEEETAA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_110",
-      "name": "24",
-      "shortName": "24",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_111",
+      "code": "ET_2",
       "name": "Ahadu Bank",
       "shortName": "Ahadu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_112",
-      "name": "AHUUETAA",
-      "shortName": "AHUUETAA",
+      "code": "ET_3",
+      "name": "Amhara Bank",
+      "shortName": "Amhara",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_113",
-      "name": "25",
-      "shortName": "25",
+      "code": "ET_4",
+      "name": "Awash Bank",
+      "shortName": "Awash",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_114",
-      "name": "Goh Betoch Bank SC",
-      "shortName": "Goh Betoch",
+      "code": "ET_5",
+      "name": "Bank of Abyssinia",
+      "shortName": "Bank of Abyssinia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_115",
-      "name": "https://www.gohbetbank.com/",
-      "shortName": "https://www.gohbetbank.com/",
+      "code": "ET_6",
+      "name": "Berhan International Bank",
+      "shortName": "Berhan International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_116",
-      "name": "GOBTETAA",
-      "shortName": "GOBTETAA",
+      "code": "ET_7",
+      "name": "Bunna Bank",
+      "shortName": "Bunna",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_117",
-      "name": "26",
-      "shortName": "26",
+      "code": "ET_8",
+      "name": "Commercial Bank of Ethiopia",
+      "shortName": "Commercial of Ethiop",
+      "type": "bank",
+      "aliases": "CBE"
+    },
+    {
+      "code": "ET_9",
+      "name": "Cooperative Bank of Oromia",
+      "shortName": "Cooperative of Oromi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_118",
-      "name": "Tsedey Bank",
-      "shortName": "Tsedey",
+      "code": "ET_10",
+      "name": "Dashen Bank",
+      "shortName": "Dashen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_119",
-      "name": "https://tsedeybank-sc.com",
-      "shortName": "https://tsedeybank-sc.com",
+      "code": "ET_11",
+      "name": "Development Bank of Ethiopia",
+      "shortName": "Development of Ethio",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_120",
-      "name": "TSDYETAA",
-      "shortName": "TSDYETAA",
+      "code": "ET_12",
+      "name": "Enat Bank",
+      "shortName": "Enat",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_121",
-      "name": "27",
-      "shortName": "27",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ET_122",
-      "name": "Gadaa Bank SC",
+      "code": "ET_13",
+      "name": "Gadaa Bank",
       "shortName": "Gadaa",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_123",
-      "name": "https://gadaabank.com.et/",
-      "shortName": "https://gadaabank.com.et/",
+      "code": "ET_14",
+      "name": "Global Bank Ethiopia",
+      "shortName": "Global Ethiopia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_124",
-      "name": "GDAAETAA",
-      "shortName": "GDAAETAA",
+      "code": "ET_15",
+      "name": "Goh Betoch Bank",
+      "shortName": "Goh Betoch",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_125",
-      "name": "29",
-      "shortName": "29",
+      "code": "ET_16",
+      "name": "Hijra Bank",
+      "shortName": "Hijra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_126",
-      "name": "AMHRETAA",
-      "shortName": "AMHRETAA",
+      "code": "ET_17",
+      "name": "Hibret Bank",
+      "shortName": "Hibret",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_127",
-      "name": "30",
-      "shortName": "30",
+      "code": "ET_18",
+      "name": "Lion International Bank",
+      "shortName": "Lion International",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_128",
+      "code": "ET_19",
+      "name": "Nib International Bank",
+      "shortName": "Nib International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_20",
+      "name": "Oromia Bank",
+      "shortName": "Oromia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_21",
       "name": "Rammis Bank",
       "shortName": "Rammis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_129",
-      "name": "https://www.rammisbank.et/",
-      "shortName": "https://www.rammisbank.et/",
+      "code": "ET_22",
+      "name": "Shabelle Bank",
+      "shortName": "Shabelle",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ET_130",
-      "name": "RMSIETAA",
-      "shortName": "RMSIETAA",
+      "code": "ET_23",
+      "name": "Siinqee Bank",
+      "shortName": "Siinqee",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_24",
+      "name": "Tsedey Bank",
+      "shortName": "Tsedey",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_25",
+      "name": "Wegagen Bank",
+      "shortName": "Wegagen",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_26",
+      "name": "ZamZam Bank",
+      "shortName": "ZamZam",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ET_27",
+      "name": "CBE Birr",
+      "shortName": "CBE Birr",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "ET_28",
+      "name": "M-Pesa Ethiopia",
+      "shortName": "M-Pesa Ethiopia",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "ET_29",
+      "name": "Telebirr",
+      "shortName": "Telebirr",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,881 +1,153 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ES",
   "institutions": [
     {
       "code": "ES_0",
-      "name": "Abanca Corporación Bancaria SA",
-      "shortName": "Abanca Corporación",
+      "name": "Abanca",
+      "shortName": "Abanca",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ES_1",
-      "name": "Banco Bilbao Vizcaya Argentaria SA (BBVA)",
-      "shortName": "Banco Bilbao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_2",
-      "name": "Banco de Sabadell SA",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_3",
-      "name": "Banco Santander SA",
-      "shortName": "Banco Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_4",
-      "name": "Bankinter SA",
-      "shortName": "Bankinter SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_5",
-      "name": "CaixaBank SA",
-      "shortName": "CaixaBank SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_6",
-      "name": "Ibercaja Banco SA",
-      "shortName": "Ibercaja Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_7",
-      "name": "Kutxabank SA",
-      "shortName": "Kutxabank SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_8",
-      "name": "Unicaja Banco SA",
-      "shortName": "Unicaja Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_9",
-      "name": "Banca March SA",
+      "name": "Banca March",
       "shortName": "Banca March",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "ES_2",
+      "name": "Banco Sabadell",
+      "shortName": "Sabadell",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_3",
+      "name": "Banco Santander",
+      "shortName": "Santander",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_4",
+      "name": "Bankinter",
+      "shortName": "Bankinter",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_5",
+      "name": "BBVA",
+      "shortName": "BBVA",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_6",
+      "name": "CaixaBank",
+      "shortName": "CaixaBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_7",
+      "name": "Cecabank",
+      "shortName": "Cecabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_8",
+      "name": "Ibercaja Banco",
+      "shortName": "Ibercaja",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "ES_9",
+      "name": "Kutxabank",
+      "shortName": "Kutxabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "ES_10",
-      "name": "Arquia Bank SA&#160;&#91;ca&#93;",
-      "shortName": "Arquia",
+      "name": "MyInvestor",
+      "shortName": "MyInvestor",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ES_11",
-      "name": "Banca Pueyo SA",
-      "shortName": "Banca Pueyo",
+      "name": "Openbank",
+      "shortName": "Openbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ES_12",
-      "name": "Banco Inversis SA&#160;&#91;es&#93;",
-      "shortName": "Banco Inversis",
+      "name": "Revolut Bank",
+      "shortName": "Revolut",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ES_13",
-      "name": "CBNK Banco de Colectivos SA",
-      "shortName": "CBNK Banco",
+      "name": "Unicaja Banco",
+      "shortName": "Unicaja",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ES_14",
-      "name": "Colonya - Caixa d'Estalvis de Pollença&#160;&#91;es&#93;",
-      "shortName": "Colonya -",
-      "type": "bank",
+      "name": "Bizum",
+      "shortName": "Bizum",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_15",
-      "name": "EBN Banco de Negocios SA&#160;&#91;es&#93;",
-      "shortName": "EBN Banco",
-      "type": "bank",
+      "name": "Bnext",
+      "shortName": "Bnext",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_16",
-      "name": "MyInvestor Banco SA",
-      "shortName": "MyInvestor Banco",
-      "type": "bank",
+      "name": "Curve",
+      "shortName": "Curve",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_17",
-      "name": "Renta 4 Banco SA",
-      "shortName": "Renta 4",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_18",
-      "name": "Andbank España Banca Privada SA, subsidiary of Andbank",
-      "shortName": "Andbank España",
-      "type": "bank",
+      "name": "Pluxee",
+      "shortName": "Pluxee",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_19",
-      "name": "Banco Alcala SA, subsidiary of Creand",
-      "shortName": "Banco Alcala",
-      "type": "bank",
+      "name": "seQura",
+      "shortName": "seQura",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ES_20",
-      "name": "Banco Pichincha España SA, subsidiary of Banco Pichincha",
-      "shortName": "Banco Pichincha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_21",
-      "name": "Spanish branch of TF Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Spanish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_22",
-      "name": "Banco de la Nación Argentina",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_23",
-      "name": "FCE Bank",
-      "shortName": "FCE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_24",
-      "name": "JPMorgan Chase",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_25",
-      "name": "UBS",
-      "shortName": "UBS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_26",
-      "name": "Monte de Piedad de Segovia&#160;&#91;es&#93; (1636-2013)",
-      "shortName": "Monte de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_27",
-      "name": "Monte de Piedad de Madrid (1702-1869)",
-      "shortName": "Monte de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_28",
-      "name": "Banco Etcheverría (1717-2014)",
-      "shortName": "Banco Etcheverría",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_29",
-      "name": "Banco Pastor (1776-2011)",
-      "shortName": "Banco Pastor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_30",
-      "name": "Caja de Ahorros de Antequera&#160;&#91;es&#93; (1904-1991)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_31",
-      "name": "Banco Condal&#160;&#91;es&#93; (1837-1984)",
-      "shortName": "Banco Condal&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_32",
-      "name": "Caja Madrid (1838-2010)",
-      "shortName": "Caja Madrid",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_33",
-      "name": "Banco de Andalucía&#160;&#91;es&#93; (1844-2009)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_34",
-      "name": "Bank of Isabella II (1844-1847)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_35",
-      "name": "Banco de Barcelona&#160;&#91;es&#93; (1845-1920)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_36",
-      "name": "Banco Español de Ultramar&#160;&#91;es&#93; (1845-1846)",
-      "shortName": "Banco Español",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_37",
-      "name": "Banca Arnús&#160;&#91;ca&#93; (1846-1947)",
-      "shortName": "Banca Arnús&#160;&#91;ca&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_38",
-      "name": "Banco de Fomento y Ultramar&#160;&#91;es&#93; (1846-1856)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_39",
-      "name": "Banco Gallego (1847-2014)",
-      "shortName": "Banco Gallego",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_40",
-      "name": "Banca Vicens&#160;&#91;es&#93; (1848-1939)",
-      "shortName": "Banca Vicens&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_41",
-      "name": "Vital Kutxa&#160;&#91;eu&#93; (1850-2012)",
-      "shortName": "Vital Kutxa&#160;&#91;eu&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_42",
-      "name": "Sociedad de Crédito Mobiliario Español (1856-1902)",
-      "shortName": "Sociedad de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_43",
-      "name": "Banco de Bilbao&#160;&#91;es&#93; (1857-1988)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_44",
-      "name": "Banco Simeón&#160;&#91;es&#93; (1857-2006)",
-      "shortName": "Banco Simeón&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_45",
-      "name": "Banca Catalana&#160;&#91;es&#93; (1859-1988)",
-      "shortName": "Banca Catalana&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_46",
-      "name": "Caixa Sabadell&#160;&#91;ca&#93; (1859-2010)",
-      "shortName": "Caixa Sabadell&#160;&#91;ca&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_47",
-      "name": "Caixa d'Estalvis de Mataró&#160;&#91;ca&#93; (1863-1960)",
-      "shortName": "Caixa d'Estalvis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_48",
-      "name": "Caixa Laietana&#160;&#91;ca&#93; (1863-2012)",
-      "shortName": "Caixa Laietana&#160;&#91;ca&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_49",
-      "name": "Banco de Oviedo&#160;&#91;es&#93; (1864-1874)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_50",
-      "name": "Banca García-Calamarte&#160;&#91;es&#93; (1865-1942)",
-      "shortName": "Banca García-Calamarte&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_51",
-      "name": "Banca Masaveu&#160;&#91;es&#93; (1870-1993)",
-      "shortName": "Banca Masaveu&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_52",
-      "name": "Banco Urquijo&#160;&#91;es&#93; (1870-2006)",
-      "shortName": "Banco Urquijo&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_53",
-      "name": "Banco de Castilla&#160;&#91;es&#93; (1871-2008)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_54",
-      "name": "Banco de Crédito Balear&#160;&#91;es&#93; (1872-2008)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_55",
-      "name": "Banco Hipotecario de España&#160;&#91;es&#93; (1872-1991)",
-      "shortName": "Banco Hipotecario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_56",
-      "name": "Caja Navarra (1872-2012)",
-      "shortName": "Caja Navarra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_57",
-      "name": "Caixa Tarragona&#160;&#91;ca&#93; (1949-2010)",
-      "shortName": "Caixa Tarragona&#160;&#91;ca&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_58",
-      "name": "Caixa d'Estalvis de Vilanova&#160;&#91;ca&#93; (1877-1932)",
-      "shortName": "Caixa d'Estalvis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_59",
-      "name": "Banco Peninsular&#160;&#91;es&#93; (1879-1983)",
-      "shortName": "Banco Peninsular&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_60",
-      "name": "Kutxa (1879-2012)",
-      "shortName": "Kutxa (1879-2012)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_61",
-      "name": "Caja de Ahorros de Asturias (1880-2011)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_62",
-      "name": "Banco de Tortosa&#160;&#91;es&#93; (1881-1956)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_63",
-      "name": "Banco Transatlántico (1889-1994)",
-      "shortName": "Banco Transatlántico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_64",
-      "name": "Banco del Comercio&#160;&#91;es&#93; (1891-2000)",
-      "shortName": "Banco del",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_65",
-      "name": "Banco de Gijón&#160;&#91;es&#93; (1899-1971)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_66",
-      "name": "Banco Guipuzcoano&#160;&#91;es&#93; (1899-2012)",
-      "shortName": "Banco Guipuzcoano&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_67",
-      "name": "Banco Mercantil de Santander&#160;&#91;es&#93; (1899-1946)",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_68",
-      "name": "Banco Castellano&#160;&#91;es&#93; (1900-1970)",
-      "shortName": "Banco Castellano&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_69",
-      "name": "Banco Hispano Americano (1900-1991)",
-      "shortName": "Banco Hispano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_70",
-      "name": "Banco de Valencia (1900-2013)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_71",
-      "name": "Banco Atlántico (1901-2003)",
-      "shortName": "Banco Atlántico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_72",
-      "name": "Banco Hispano Colonial&#160;&#91;es&#93; (1901-1946)",
-      "shortName": "Banco Hispano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_73",
-      "name": "Banco de Vizcaya (1901-1988)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_74",
-      "name": "Banco Español de Crédito (1902-2012)",
-      "shortName": "Banco Español",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_75",
-      "name": "Bilbao Bizkaia Kutxa (1907-2012)",
-      "shortName": "Bilbao Bizkaia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_76",
-      "name": "Caja Postal de Ahorros&#160;&#91;es&#93; (1909-1991)",
-      "shortName": "Caja Postal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_77",
-      "name": "Banco Zaragozano&#160;&#91;es&#93; (1910-2006)",
-      "shortName": "Banco Zaragozano&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_78",
-      "name": "Banco Herrero&#160;&#91;es&#93; (1911-2002)",
-      "shortName": "Banco Herrero&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_79",
-      "name": "Banco Matritense&#160;&#91;es&#93; (1911-1930)",
-      "shortName": "Banco Matritense&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_80",
-      "name": "Caja de Ahorros de Plasencia&#160;&#91;e&#93; (1911-1990)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_81",
-      "name": "Banco Central&#160;&#91;es&#93; (1919-1991)",
-      "shortName": "Banco Central&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_82",
-      "name": "Banco de Cataluña&#160;&#91;es&#93; (1920-1931)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_83",
-      "name": "Banco de Crédito Industrial&#160;&#91;es&#93; (1920-1991)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_84",
-      "name": "Banco de Torrelavega&#160;&#91;es&#93; (1920-1942)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_85",
-      "name": "Banco Puche&#160;&#91;es&#93; (1924-1994)",
-      "shortName": "Banco Puche&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_86",
-      "name": "Banco Popular Español (1926-2017)",
-      "shortName": "Banco Popular",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_87",
-      "name": "Caja de Burgos (1926-2010)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_88",
-      "name": "Caixa Catalunya (1926-2010)",
-      "shortName": "Caixa Catalunya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_89",
-      "name": "Caixa de Pontevedra (1930-2000)",
-      "shortName": "Caixa de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_90",
-      "name": "Banco Mercantil e Industrial (1931-1977)",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_91",
-      "name": "Caixa Girona&#160;&#91;ca&#93; (1940-2010)",
-      "shortName": "Caixa Girona&#160;&#91;ca&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_92",
-      "name": "Banco Mercantil de Manresa&#160;&#91;es&#93; (1947-1980)",
-      "shortName": "Banco Mercantil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_93",
-      "name": "Caja de Guadalajara (1964-2010)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_94",
-      "name": "Caja Murcia (1964-2010)",
-      "shortName": "Caja Murcia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_95",
-      "name": "Banco de Alicante&#160;&#91;es&#93; (1965-1983)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_96",
-      "name": "Bankoa (1975-2021)",
-      "shortName": "Bankoa (1975-2021)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_97",
-      "name": "Caja de Ahorros del Mediterráneo (1975-2011)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_98",
-      "name": "Caixa Galicia&#160;&#91;es&#93; (1978-2010)",
-      "shortName": "Caixa Galicia&#160;&#91;es&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_99",
-      "name": "Caja de Jaén&#160;&#91;es&#93; (1980-2010)",
-      "shortName": "Caja de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_100",
-      "name": "Caja General de Ahorros de Canarias (1984-2012)",
-      "shortName": "Caja General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_101",
-      "name": "Banco Bilbao Vizcaya (1988-1999)",
-      "shortName": "Banco Bilbao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_102",
-      "name": "Argentaria&#160;&#91;es&#93; (1991-1999)",
-      "shortName": "Argentaria&#160;&#91;es&#93; (1991-1999)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_103",
-      "name": "Banco Caixa Geral (1991-2020)",
-      "shortName": "Banco Caixa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_104",
-      "name": "Banco Central Hispano (1991-1999)",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_105",
-      "name": "Caja Castilla-La Mancha (1992-2010)",
-      "shortName": "Caja Castilla-La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_106",
-      "name": "Caja San Fernando&#160;&#91;es&#93; (1993-2007)",
-      "shortName": "Caja San",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_107",
-      "name": "CajaSur (1995-2010)",
-      "shortName": "CajaSur (1995-2010)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_108",
-      "name": "Sabadell Solbank (1997-2014)",
-      "shortName": "Sabadell Solbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_109",
-      "name": "Caixanova&#160;&#91;es&#93; (2000-2010)",
-      "shortName": "Caixanova&#160;&#91;es&#93; (2000-2010)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_110",
-      "name": "Cajasol (2007-2010)",
-      "shortName": "Cajasol (2007-2010)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_111",
-      "name": "Banca Civica (2010-2012)",
-      "shortName": "Banca Civica",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_112",
-      "name": "Banco Mare Nostrum&#160;&#91;es&#93; (2010-2018)",
-      "shortName": "Banco Mare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_113",
-      "name": "Bankia (2010-2021)",
-      "shortName": "Bankia (2010-2021)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_114",
-      "name": "Caja3&#160;&#91;es&#93; (2010-2014)",
-      "shortName": "Caja3&#160;&#91;es&#93; (2010-2014)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_115",
-      "name": "CatalunyaCaixa (2010-2016)",
-      "shortName": "CatalunyaCaixa (2010-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_116",
-      "name": "Novacaixagalicia (2010-2011)",
-      "shortName": "Novacaixagalicia (2010-2011)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_117",
-      "name": "Liberbank (2011-2021)",
-      "shortName": "Liberbank (2011-2021)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_118",
-      "name": "Unnim (2011-2012)",
-      "shortName": "Unnim (2011-2012)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_119",
-      "name": "EVO Banco (2012-2025)",
-      "shortName": "EVO Banco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_120",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_121",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_122",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_123",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ES_124",
-      "name": "Interlanguage link template existing link",
-      "shortName": "Interlanguage link",
-      "type": "bank",
+      "name": "Vivid Money",
+      "shortName": "Vivid Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

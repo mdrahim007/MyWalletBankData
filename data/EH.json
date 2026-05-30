@@ -1,41 +1,76 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "EH",
   "institutions": [
     {
       "code": "EH_0",
-      "name": "Central Bank of EH",
-      "shortName": "Central Bank",
+      "name": "Attijariwafa Bank",
+      "shortName": "Attijariwafa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EH_1",
-      "name": "National Bank of EH",
-      "shortName": "National Bank",
+      "name": "Bank of Africa",
+      "shortName": "Bank of Africa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EH_2",
-      "name": "State Bank of EH",
-      "shortName": "State Bank",
+      "name": "Banque Populaire",
+      "shortName": "Banque Populaire",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EH_3",
-      "name": "Commercial Bank of EH",
-      "shortName": "Commercial Bank",
+      "name": "CIH Bank",
+      "shortName": "CIH",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "EH_4",
-      "name": "First EH Bank",
-      "shortName": "First Bank",
+      "name": "Crédit Agricole du Maroc",
+      "shortName": "Crédit Agricole du M",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EH_5",
+      "name": "Société Générale Maroc",
+      "shortName": "Société Générale Mar",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "EH_6",
+      "name": "Jibi",
+      "shortName": "Jibi",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "EH_7",
+      "name": "M-Wallet",
+      "shortName": "M-Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "EH_8",
+      "name": "MT Cash",
+      "shortName": "MT Cash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "EH_9",
+      "name": "Pocket Bank",
+      "shortName": "Pocket",
+      "type": "mfs",
       "aliases": ""
     }
   ]
