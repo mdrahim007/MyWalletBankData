@@ -1,41 +1,90 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "IM",
   "institutions": [
     {
       "code": "IM_0",
-      "name": "Central Bank of IM",
-      "shortName": "Central Bank",
+      "name": "Barclays Bank",
+      "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IM_1",
-      "name": "National Bank of IM",
-      "shortName": "National Bank",
+      "name": "Capital International Bank",
+      "shortName": "Capital Internationa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IM_2",
-      "name": "State Bank of IM",
-      "shortName": "State Bank",
+      "name": "Cayman National Bank",
+      "shortName": "Cayman National",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IM_3",
-      "name": "Commercial Bank of IM",
-      "shortName": "Commercial Bank",
+      "name": "Conister Bank",
+      "shortName": "Conister",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IM_4",
-      "name": "First IM Bank",
-      "shortName": "First Bank",
+      "name": "HSBC Bank",
+      "shortName": "HSBC",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_5",
+      "name": "Investec",
+      "shortName": "Investec",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_6",
+      "name": "Isle of Man Bank",
+      "shortName": "Isle of Man",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_7",
+      "name": "Lloyds Bank International",
+      "shortName": "Lloyds International",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_8",
+      "name": "Nedbank Private Wealth",
+      "shortName": "Nedbank Private Weal",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_9",
+      "name": "Santander International",
+      "shortName": "Santander Internatio",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_10",
+      "name": "Standard Bank",
+      "shortName": "Standard",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IM_11",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
