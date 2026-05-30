@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "BL",
   "institutions": [
     {
       "code": "BL_0",
-      "name": "Central Bank of BL",
-      "shortName": "Central Bank",
+      "name": "Bank B.N.P",
+      "shortName": "Bank B.N.P",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNP Paribas"
     },
     {
       "code": "BL_1",
-      "name": "National Bank of BL",
-      "shortName": "National Bank",
+      "name": "Bred Banque Populaire",
+      "shortName": "Bred Populaire",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BL_2",
-      "name": "State Bank of BL",
-      "shortName": "State Bank",
+      "name": "Caisse d'Epargne",
+      "shortName": "Caisse d'Epargne",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CEPAC"
     },
     {
       "code": "BL_3",
-      "name": "Commercial Bank of BL",
-      "shortName": "Commercial Bank",
+      "name": "Crédit Mutuel",
+      "shortName": "Crédit Mutuel",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BL_4",
-      "name": "First BL Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Paylib",
+      "shortName": "Paylib",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BL_5",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

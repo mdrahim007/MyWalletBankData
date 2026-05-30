@@ -1,167 +1,146 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BI",
   "institutions": [
     {
       "code": "BI_0",
-      "name": "Banque Commerciale du Burundi (BANCOBU)",
-      "shortName": "Banque Commerciale",
+      "name": "Banque Burundaise pour le Commerce et l'Investissement",
+      "shortName": "Banque Burundaise po",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BBCI"
     },
     {
       "code": "BI_1",
-      "name": "Banque de Gestion et de Financement (BGF)",
-      "shortName": "Banque de",
+      "name": "Banque Commerciale du Burundi",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BANCOBU"
     },
     {
       "code": "BI_2",
-      "name": "FinBank",
-      "shortName": "FinBank",
+      "name": "Banque Communautaire et Agricole du Burundi",
+      "shortName": "Banque Communautaire",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCAB"
     },
     {
       "code": "BI_3",
-      "name": "Interbank Burundi (IBB)",
-      "shortName": "Interbank Burundi",
+      "name": "Banque de Crédit de Bujumbura",
+      "shortName": "Banque de Crédit de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCB"
     },
     {
       "code": "BI_4",
-      "name": "KCB Bank Burundi (KCB), part of KCB Group&#91;5&#93;",
-      "shortName": "KCB",
+      "name": "Banque de l'Habitat du Burundi",
+      "shortName": "Banque de l'Habitat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BHB"
     },
     {
       "code": "BI_5",
-      "name": "CRDB Bank Burundi (CRDB), part of CRDB Bank Group",
-      "shortName": "CRDB",
+      "name": "Banque d'Investissement et de Développement pour les Femmes",
+      "shortName": "Banque d'Investissem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIDF"
     },
     {
       "code": "BI_6",
-      "name": "Banque Communautaire et Agricole du Burundi (BCAB)",
-      "shortName": "Banque Communautaire",
+      "name": "Banque d'Investissement pour les Jeunes",
+      "shortName": "Banque d'Investissem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIJE"
     },
     {
       "code": "BI_7",
-      "name": "Banque de l'Habitat du Burundi (BHB)",
-      "shortName": "Banque de",
+      "name": "Banque Nationale de Développement Économique",
+      "shortName": "Banque Nationale de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNDE"
     },
     {
       "code": "BI_8",
-      "name": "Banque Nationale de Développement Économique (BNDE)",
-      "shortName": "Banque Nationale",
+      "name": "Banque Populaire du Burundi",
+      "shortName": "Banque Populaire du",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BPB"
     },
     {
       "code": "BI_9",
-      "name": "Bedrock Financial Bank (BFB)",
+      "name": "Bedrock Financial Bank",
       "shortName": "Bedrock Financial",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BFB"
     },
     {
       "code": "BI_10",
-      "name": "Website of Bank of the Republic of Burundi (French)",
-      "shortName": "Website of",
+      "name": "CRDB Bank Burundi",
+      "shortName": "CRDB Burundi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BI_11",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Diamond Trust Bank Burundi",
+      "shortName": "Diamond Trust Burund",
       "type": "bank",
-      "aliases": ""
+      "aliases": "DTB"
     },
     {
       "code": "BI_12",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "Ecobank Burundi",
+      "shortName": "Ecobank Burundi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BI_13",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "FinBank Burundi",
+      "shortName": "FinBank Burundi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BI_14",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Interbank Burundi",
+      "shortName": "Interbank Burundi",
       "type": "bank",
-      "aliases": ""
+      "aliases": "IBB"
     },
     {
       "code": "BI_15",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
+      "name": "KCB Bank Burundi",
+      "shortName": "KCB Burundi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BI_16",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
+      "name": "Orbit Investment Bank",
+      "shortName": "Orbit Investment",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BI_17",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
+      "name": "BurundiPay",
+      "shortName": "BurundiPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BI_18",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "name": "EcoCash",
+      "shortName": "EcoCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BI_19",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BI_20",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BI_21",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BI_22",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "name": "Lumicash",
+      "shortName": "Lumicash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,237 +1,132 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BJ",
   "institutions": [
     {
       "code": "BJ_0",
-      "name": "Bank of Africa Bénin, part of Bank of Africa Group",
-      "shortName": "Bank of",
+      "name": "Bank of Africa Benin",
+      "shortName": "Bank of Africa Benin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_1",
-      "name": "Banque Atlantique Bénin, part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "Banque Atlantique du Bénin",
+      "shortName": "Banque Atlantique du",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_2",
-      "name": "BGFIBank Benin, part of BGFIBank Group",
-      "shortName": "BGFIBank Benin,",
+      "name": "Banque Internationale pour l'Industrie et le Commerce Bénin",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIIC"
     },
     {
       "code": "BJ_3",
-      "name": "Bange Bank Benin, part of BANGE Group&#160;&#91;es&#93;",
-      "shortName": "Bange",
+      "name": "Banque Sahélo-Saharienne pour l'Investissement et le Commerce",
+      "shortName": "Banque Sahélo-Sahari",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSIC"
     },
     {
       "code": "BJ_4",
-      "name": "Coris Bank International Benin, part of Coris Bank Group",
-      "shortName": "Coris",
+      "name": "Bange Bank Benin",
+      "shortName": "Bange Benin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_5",
-      "name": "Ecobank Benin, part of Ecobank Group",
-      "shortName": "Ecobank Benin,",
+      "name": "BGFIBank Bénin",
+      "shortName": "BGFIBank Bénin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_6",
-      "name": "NSIA Banque Benin, part of NSIA Group&#160;&#91;fr&#93;",
-      "shortName": "NSIA Banque",
+      "name": "CBAO Groupe Attijariwafa Bank",
+      "shortName": "CBAO Groupe Attijari",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_7",
-      "name": "Branch of CBAO Groupe Attijariwafa Bank",
-      "shortName": "Branch of",
+      "name": "CCEI Bank Bénin",
+      "shortName": "CCEI Bénin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_8",
-      "name": "Central Bank of West African States",
-      "shortName": "Central",
+      "name": "Coris Bank International Bénin",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_9",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
+      "name": "Ecobank Bénin",
+      "shortName": "Ecobank Bénin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_10",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
+      "name": "NSIA Banque Bénin",
+      "shortName": "NSIA Bénin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_11",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
+      "name": "Orabank Bénin",
+      "shortName": "Orabank Bénin",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_12",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
+      "name": "Société Générale Bénin",
+      "shortName": "Société Générale Bén",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BJ_13",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
+      "name": "Société Nigérienne de Banque",
+      "shortName": "Société Nigérienne d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Sonibank"
     },
     {
       "code": "BJ_14",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
+      "name": "United Bank for Africa Benin",
+      "shortName": "United for Africa Be",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "BJ_15",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
+      "name": "Celtiis Cash",
+      "shortName": "Celtiis Cash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BJ_16",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BJ_17",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_18",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_19",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_20",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_21",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_22",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_23",
-      "name": "Banque Internationale du Bénin",
-      "shortName": "Banque Internationale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_24",
-      "name": "Bank of Africa Benin",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_25",
-      "name": "Continental Bank Benin",
-      "shortName": "Continental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_26",
-      "name": "Diamond Bank Benin",
-      "shortName": "Diamond",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_27",
-      "name": "Ecobank",
-      "shortName": "Ecobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_28",
-      "name": "Financial Bank Benin",
-      "shortName": "Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_29",
-      "name": "Finadev",
-      "shortName": "Finadev",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_30",
-      "name": "Caisse Nationale d'Epargne",
-      "shortName": "Caisse Nationale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_31",
-      "name": "Credit du Benin",
-      "shortName": "Credit du",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BJ_32",
-      "name": "Equibail",
-      "shortName": "Equibail",
-      "type": "bank",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     }
   ]
