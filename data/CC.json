@@ -1,41 +1,27 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "CC",
   "institutions": [
     {
       "code": "CC_0",
-      "name": "Central Bank of CC",
-      "shortName": "Central Bank",
+      "name": "Commonwealth Bank of Australia",
+      "shortName": "Commonwealth of Aust",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "CC_1",
-      "name": "National Bank of CC",
-      "shortName": "National Bank",
-      "type": "bank",
+      "name": "Beem",
+      "shortName": "Beem",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "CC_2",
-      "name": "State Bank of CC",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CC_3",
-      "name": "Commercial Bank of CC",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "CC_4",
-      "name": "First CC Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "PayPal Australia",
+      "shortName": "PayPal Australia",
+      "type": "mfs",
       "aliases": ""
     }
   ]

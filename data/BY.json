@@ -1,391 +1,181 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BY",
   "institutions": [
     {
       "code": "BY_0",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_1",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_2",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_3",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_4",
-      "name": "Name",
-      "shortName": "Name",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_5",
-      "name": "Website",
-      "shortName": "Website",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_6",
-      "name": "SWIFT-code",
-      "shortName": "SWIFT-code",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_7",
-      "name": "Owners",
-      "shortName": "Owners",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_8",
       "name": "Alfa-Bank",
       "shortName": "Alfa-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_9",
-      "name": "ALFABY2X",
-      "shortName": "ALFABY2X",
+      "code": "BY_1",
+      "name": "Bank BelVEB",
+      "shortName": "Bank BelVEB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_10",
-      "name": "Alfa-Bank ( Russia) — 99.99%&#91;1&#93;",
-      "shortName": "Alfa-Bank (",
+      "code": "BY_2",
+      "name": "Bank Dabrabyt",
+      "shortName": "Bank Dabrabyt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_11",
-      "name": "GBD-Bank&#91;2&#93;",
-      "shortName": "GBD-Bank&#91;2&#93;",
+      "code": "BY_3",
+      "name": "Bank Reshenie",
+      "shortName": "Bank Reshenie",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_12",
-      "name": "REDJBY22",
-      "shortName": "REDJBY22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_13",
+      "code": "BY_4",
       "name": "Belagroprombank",
       "shortName": "Belagroprombank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_14",
-      "name": "BAPBBY2X",
-      "shortName": "BAPBBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_15",
-      "name": "State-owned",
-      "shortName": "State-owned",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_16",
+      "code": "BY_5",
       "name": "Belarusbank",
       "shortName": "Belarusbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_17",
-      "name": "AKBBBY2X",
-      "shortName": "AKBBBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_18",
-      "name": "Belinvestbank&#91;3&#93;",
-      "shortName": "Belinvestbank&#91;3&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_19",
-      "name": "BLBBBY2X",
-      "shortName": "BLBBBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_20",
+      "code": "BY_6",
       "name": "Belgazprombank",
       "shortName": "Belgazprombank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_21",
-      "name": "OLMPBY2X",
-      "shortName": "OLMPBY2X",
+      "code": "BY_7",
+      "name": "Belinvestbank",
+      "shortName": "Belinvestbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_22",
-      "name": "BNB-Bank",
-      "shortName": "BNB-Bank",
+      "code": "BY_8",
+      "name": "Belarusian People's Bank",
+      "shortName": "Belarusian People's",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNB-Bank"
     },
     {
-      "code": "BY_23",
-      "name": "Bank of Georgia ( Georgia) — 99.98%&#91;5&#93;",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_24",
-      "name": "Belvnesheconombank",
-      "shortName": "Belvnesheconombank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_25",
-      "name": "Vnesheconombank ( Russia) — 97.52%&#91;6&#93;",
-      "shortName": "Vnesheconombank (",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_26",
-      "name": "Sber Bank",
-      "shortName": "Sber",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_27",
-      "name": "Sberbank ( Russia) — 93.27%&#91;7&#93;",
-      "shortName": "Sberbank (",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_28",
+      "code": "BY_9",
       "name": "BSB Bank",
       "shortName": "BSB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_29",
-      "name": "UNBSBY2X",
-      "shortName": "UNBSBY2X",
+      "code": "BY_10",
+      "name": "GBD-Bank",
+      "shortName": "GBD-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_30",
-      "name": "BTA Bank",
-      "shortName": "BTA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_31",
-      "name": "AEBKBY2X",
-      "shortName": "AEBKBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_32",
-      "name": "Kenges Rakishev ( Kazakhstan) — 100%&#91;9&#93;",
-      "shortName": "Kenges Rakishev",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_33",
-      "name": "Dabrabyt Bank",
-      "shortName": "Dabrabyt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_34",
-      "name": "MMBNBY22",
-      "shortName": "MMBNBY22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_35",
+      "code": "BY_11",
       "name": "MTBank",
       "shortName": "MTBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_36",
-      "name": "MTBKBY22",
-      "shortName": "MTBKBY22",
+      "code": "BY_12",
+      "name": "Neo Bank Asia",
+      "shortName": "Neo Asia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_37",
-      "name": "Alexey Oleksin &amp; Inna Oleksina — 98.97%&#91;11&#93;",
-      "shortName": "Alexey Oleksin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_38",
+      "code": "BY_13",
       "name": "Paritetbank",
       "shortName": "Paritetbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_39",
-      "name": "POISBY2X",
-      "shortName": "POISBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_40",
+      "code": "BY_14",
       "name": "Priorbank",
       "shortName": "Priorbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_41",
-      "name": "PJCBBY2X",
-      "shortName": "PJCBBY2X",
+      "code": "BY_15",
+      "name": "Sber Bank",
+      "shortName": "Sber",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_42",
-      "name": "Reshenie Bank",
-      "shortName": "Reshenie",
+      "code": "BY_16",
+      "name": "StatusBank",
+      "shortName": "StatusBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_43",
-      "name": "TRUEBY2X",
-      "shortName": "TRUEBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_44",
-      "name": "Status Bank",
-      "shortName": "Status",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_45",
-      "name": "IRJSBY22",
-      "shortName": "IRJSBY22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_46",
+      "code": "BY_17",
       "name": "Technobank",
       "shortName": "Technobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_47",
-      "name": "TECNBY22",
-      "shortName": "TECNBY22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_48",
+      "code": "BY_18",
       "name": "Trade Capital Bank",
       "shortName": "Trade Capital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_49",
-      "name": "BBTKBY2X",
-      "shortName": "BBTKBY2X",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_50",
-      "name": "Tejarat Bank ( Iran) – 99.89% &#91;16&#93;",
-      "shortName": "Tejarat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_51",
-      "name": "VTB Bank (Belarus)",
+      "code": "BY_19",
+      "name": "VTB Bank",
       "shortName": "VTB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_52",
-      "name": "SLANBY22",
-      "shortName": "SLANBY22",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BY_53",
+      "code": "BY_20",
       "name": "Zepter Bank",
       "shortName": "Zepter",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BY_54",
-      "name": "ZEPTBY2X",
-      "shortName": "ZEPTBY2X",
-      "type": "bank",
+      "code": "BY_21",
+      "name": "Belkart Pay",
+      "shortName": "Belkart Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BY_22",
+      "name": "EasyPay",
+      "shortName": "EasyPay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BY_23",
+      "name": "iPay",
+      "shortName": "iPay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "BY_24",
+      "name": "WebPay",
+      "shortName": "WebPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]
