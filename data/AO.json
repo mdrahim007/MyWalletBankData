@@ -1,804 +1,188 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "AO",
   "institutions": [
     {
       "code": "AO_0",
-      "name": "Banco Angolano de Investimentos S.A. (BAI)",
-      "shortName": "Banco Angolano",
+      "name": "Access Bank Angola",
+      "shortName": "Access Angola",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AO_1",
-      "name": "Banco Caixa Geral Angola, S.A., part of CGD Group",
-      "shortName": "Banco Caixa",
+      "name": "Banco Angolano de Investimentos",
+      "shortName": "Banco Angolano de In",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAI"
     },
     {
       "code": "AO_2",
-      "name": "Banco de Comércio e Indústria S.A. (BCI), state-owned",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_3",
-      "name": "Banco Económico S.A.",
-      "shortName": "Banco Económico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_4",
-      "name": "Banco de Negócios Internacional S.A. (BancoBNI)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_5",
-      "name": "Banco BIC S.A.",
-      "shortName": "Banco BIC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_6",
-      "name": "Banco Comercial Angolano S.A. (BCA)",
-      "shortName": "Banco Comercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_7",
-      "name": "Banco Comercial do Huambo S.A.",
-      "shortName": "Banco Comercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_8",
-      "name": "Banco de Desenvolvimento de Angola S.A. (BDA), state-owned",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_9",
-      "name": "Banco de Fomento Angola S.A. (BFA), part of CaixaBank Group",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_10",
-      "name": "Banco de Investimento Rural, S.A. (BIR)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_11",
-      "name": "Banco de Poupança e Crédito S.A. (BPC), state-owned",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_12",
-      "name": "Banco Keve S.A.",
-      "shortName": "Banco Keve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_13",
-      "name": "Banco Valor S.A.",
-      "shortName": "Banco Valor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_14",
-      "name": "Access Bank, part of Access Bank Group",
-      "shortName": "Access,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_15",
-      "name": "Banco Sol S.A.",
-      "shortName": "Banco Sol",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_16",
-      "name": "Standard Chartered S.A., part of Standard Chartered Group",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_17",
-      "name": "Banco VTB África, S.A., part of VTB Group",
-      "shortName": "Banco VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_18",
-      "name": "Banco de Crédito do Sul, S.A. (BCS)",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_19",
-      "name": "Banco Yetu, S.A.",
-      "shortName": "Banco Yetu,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_20",
-      "name": "Standard Bank de Angola S.A., part of Standard Bank Group",
-      "shortName": "Standard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_21",
-      "name": "BNA official website",
-      "shortName": "BNA official",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_22",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_23",
-      "name": "Banco Nacional de Angola",
-      "shortName": "Banco Nacional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_24",
-      "name": "Banco Angolano de Investimentos",
-      "shortName": "Banco Angolano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_25",
-      "name": "Banco Angolano de Negócios e Comércio",
-      "shortName": "Banco Angolano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_26",
-      "name": "Banco BAI Microfinanças",
-      "shortName": "Banco BAI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_27",
       "name": "Banco BIC",
       "shortName": "Banco BIC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_28",
-      "name": "Banco Caixa Geral Totta de Angola",
-      "shortName": "Banco Caixa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_29",
+      "code": "AO_3",
       "name": "Banco Comercial Angolano",
-      "shortName": "Banco Comercial",
+      "shortName": "Banco Comercial Ango",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCA"
     },
     {
-      "code": "AO_30",
+      "code": "AO_4",
+      "name": "Banco Comercial do Huambo",
+      "shortName": "Banco Comercial do H",
+      "type": "bank",
+      "aliases": "BCH"
+    },
+    {
+      "code": "AO_5",
       "name": "Banco de Comércio e Indústria",
-      "shortName": "Banco de",
+      "shortName": "Banco de Comércio e",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
-      "code": "AO_31",
+      "code": "AO_6",
       "name": "Banco de Desenvolvimento de Angola",
-      "shortName": "Banco de",
+      "shortName": "Banco de Desenvolvim",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDA"
     },
     {
-      "code": "AO_32",
-      "name": "Banco Económico (Angola)",
+      "code": "AO_7",
+      "name": "Banco de Fomento Angola",
+      "shortName": "Banco de Fomento Ang",
+      "type": "bank",
+      "aliases": "BFA"
+    },
+    {
+      "code": "AO_8",
+      "name": "Banco de Investimento Rural",
+      "shortName": "Banco de Investiment",
+      "type": "bank",
+      "aliases": "BIR"
+    },
+    {
+      "code": "AO_9",
+      "name": "Banco de Poupança e Crédito",
+      "shortName": "Banco de Poupança e",
+      "type": "bank",
+      "aliases": "BPC"
+    },
+    {
+      "code": "AO_10",
+      "name": "Banco Económico",
       "shortName": "Banco Económico",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_33",
-      "name": "Banco de Fomento Angola",
-      "shortName": "Banco de",
+      "code": "AO_11",
+      "name": "Banco Keve",
+      "shortName": "Banco Keve",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_34",
-      "name": "Banco de Investimento Rural",
-      "shortName": "Banco de",
+      "code": "AO_12",
+      "name": "Banco Millennium Atlântico",
+      "shortName": "Banco Millennium Atl",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_35",
-      "name": "Banco Kwanza Invest",
-      "shortName": "Banco Kwanza",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_36",
-      "name": "Banco Millenium Angola",
-      "shortName": "Banco Millenium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_37",
-      "name": "Banco de Negócios Internacional",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_38",
-      "name": "Banco Privado Atlântico",
-      "shortName": "Banco Privado",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_39",
-      "name": "Banco Valor",
-      "shortName": "Banco Valor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_40",
-      "name": "Banco de Poupança e Crédito",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_41",
-      "name": "Banco Regional do Keve",
-      "shortName": "Banco Regional",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_42",
+      "code": "AO_13",
       "name": "Banco Sol",
       "shortName": "Banco Sol",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_43",
+      "code": "AO_14",
+      "name": "Banco Valor",
+      "shortName": "Banco Valor",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AO_15",
       "name": "Banco VTB África",
-      "shortName": "Banco VTB",
+      "shortName": "Banco VTB África",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_44",
-      "name": "Finibanco Angola",
-      "shortName": "Finibanco Angola",
+      "code": "AO_16",
+      "name": "Banco Yetu",
+      "shortName": "Banco Yetu",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_45",
-      "name": "Standard Bank",
-      "shortName": "Standard",
+      "code": "AO_17",
+      "name": "Bank of China",
+      "shortName": "Bank of China",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_46",
-      "name": "Standard Chartered",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_47",
-      "name": "Airports",
-      "shortName": "Airports",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_48",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_49",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_50",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_51",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_52",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_53",
-      "name": "Fishing",
-      "shortName": "Fishing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_54",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_55",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_56",
-      "name": "Portuguese rule",
-      "shortName": "Portuguese rule",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_57",
-      "name": "Colonial governors",
-      "shortName": "Colonial governors",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_58",
-      "name": "War of Independence",
-      "shortName": "War of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_59",
-      "name": "Civil War",
-      "shortName": "Civil War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_60",
-      "name": "2000s",
-      "shortName": "2000s",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_61",
-      "name": "2010s",
-      "shortName": "2010s",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_62",
-      "name": "2020s",
-      "shortName": "2020s",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_63",
-      "name": "Conflicts",
-      "shortName": "Conflicts",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_64",
-      "name": "Postage stamps",
-      "shortName": "Postage stamps",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_65",
-      "name": "Cities and towns",
-      "shortName": "Cities and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_66",
-      "name": "Communes",
-      "shortName": "Communes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_67",
-      "name": "Ecoregions",
-      "shortName": "Ecoregions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_68",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_69",
-      "name": "Municipalities",
-      "shortName": "Municipalities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_70",
-      "name": "Provinces",
-      "shortName": "Provinces",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_71",
-      "name": "Ambassadors",
-      "shortName": "Ambassadors",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_72",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_73",
-      "name": "Corruption",
-      "shortName": "Corruption",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_74",
-      "name": "Judiciary",
-      "shortName": "Judiciary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_75",
-      "name": "National Assembly",
-      "shortName": "National Assembly",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_76",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_77",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_78",
-      "name": "Vice President",
-      "shortName": "Vice President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_79",
-      "name": "Prime Minister",
-      "shortName": "Prime Minister",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_80",
-      "name": "Banks",
-      "shortName": "Banks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_81",
-      "name": "Health",
-      "shortName": "Health",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_82",
-      "name": "Kwanza (currency)",
-      "shortName": "Kwanza (currency)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_83",
-      "name": "Child marriage",
-      "shortName": "Child marriage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_84",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_85",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_86",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_87",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_88",
-      "name": "Internet censorship",
-      "shortName": "Internet censorship",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_89",
-      "name": "Polygamy",
-      "shortName": "Polygamy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_90",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_91",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_92",
-      "name": "Slavery",
-      "shortName": "Slavery",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_93",
-      "name": "Squatting",
-      "shortName": "Squatting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_94",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_95",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_96",
-      "name": "Architecture",
-      "shortName": "Architecture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_97",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_98",
-      "name": "Football",
-      "shortName": "Football",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_99",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_100",
-      "name": "Television",
-      "shortName": "Television",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_101",
-      "name": "Museums",
-      "shortName": "Museums",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_102",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_103",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_104",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AO_105",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "Luanda Branch"
     },
     {
-      "code": "AO_106",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
+      "code": "AO_18",
+      "name": "Ecobank Angola",
+      "shortName": "Ecobank Angola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_107",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
+      "code": "AO_19",
+      "name": "Standard Bank de Angola",
+      "shortName": "Standard de Angola",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_108",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
+      "code": "AO_20",
+      "name": "Standard Chartered Bank Angola",
+      "shortName": "Standard Chartered A",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AO_109",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
+      "code": "AO_21",
+      "name": "Afrimoney",
+      "shortName": "Afrimoney",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AO_110",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
+      "code": "AO_22",
+      "name": "AkiPaga",
+      "shortName": "AkiPaga",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AO_111",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
+      "code": "AO_23",
+      "name": "Guita",
+      "shortName": "Guita",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AO_112",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
+      "code": "AO_24",
+      "name": "KWiK",
+      "shortName": "KWiK",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AO_113",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "code": "AO_25",
+      "name": "Unitel Money",
+      "shortName": "Unitel Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]
