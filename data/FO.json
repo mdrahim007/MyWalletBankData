@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "FO",
   "institutions": [
     {
       "code": "FO_0",
-      "name": "Central Bank of FO",
-      "shortName": "Central Bank",
+      "name": "Betri Banki",
+      "shortName": "Betrii",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FO_1",
-      "name": "National Bank of FO",
-      "shortName": "National Bank",
+      "name": "Føroya Banki",
+      "shortName": "Føroyai",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FO_2",
-      "name": "State Bank of FO",
-      "shortName": "State Bank",
+      "name": "Norðoya Sparikassi",
+      "shortName": "Norðoya Sparikassi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FO_3",
-      "name": "Commercial Bank of FO",
-      "shortName": "Commercial Bank",
+      "name": "Suðuroyar Sparikassi",
+      "shortName": "Suðuroyar Sparikassi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FO_4",
-      "name": "First FO Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "MobilePay",
+      "shortName": "MobilePay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

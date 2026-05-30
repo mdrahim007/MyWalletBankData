@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "FJ",
   "institutions": [
     {
       "code": "FJ_0",
-      "name": "Central Bank of FJ",
-      "shortName": "Central Bank",
+      "name": "ANZ Banking Group",
+      "shortName": "ANZing Group",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Fiji"
     },
     {
       "code": "FJ_1",
-      "name": "National Bank of FJ",
-      "shortName": "National Bank",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of Baroda",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Fiji"
     },
     {
       "code": "FJ_2",
-      "name": "State Bank of FJ",
-      "shortName": "State Bank",
+      "name": "Bank of South Pacific",
+      "shortName": "Bank of South Pacifi",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BSP Fiji"
     },
     {
       "code": "FJ_3",
-      "name": "Commercial Bank of FJ",
-      "shortName": "Commercial Bank",
+      "name": "Bred Bank Fiji",
+      "shortName": "Bred Fiji",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FJ_4",
-      "name": "First FJ Bank",
-      "shortName": "First Bank",
+      "name": "HFC Bank",
+      "shortName": "HFC",
       "type": "bank",
+      "aliases": "Home Finance Company"
+    },
+    {
+      "code": "FJ_5",
+      "name": "Westpac Banking Corporation",
+      "shortName": "Westpacing Corporati",
+      "type": "bank",
+      "aliases": "Fiji"
+    },
+    {
+      "code": "FJ_6",
+      "name": "M-Paisa",
+      "shortName": "M-Paisa",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "FJ_7",
+      "name": "MyCash",
+      "shortName": "MyCash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

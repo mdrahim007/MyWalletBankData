@@ -1,42 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "FK",
   "institutions": [
     {
       "code": "FK_0",
-      "name": "Central Bank of FK",
-      "shortName": "Central Bank",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FK_1",
-      "name": "National Bank of FK",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FK_2",
-      "name": "State Bank of FK",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FK_3",
-      "name": "Commercial Bank of FK",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FK_4",
-      "name": "First FK Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "Falkland Islands"
     }
   ]
 }

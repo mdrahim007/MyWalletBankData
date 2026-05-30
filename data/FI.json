@@ -1,433 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "FI",
   "institutions": [
     {
       "code": "FI_0",
-      "name": "the Finnish branch of Danske Bank",
-      "shortName": "the Finnish",
+      "name": "Aktia Bank",
+      "shortName": "Aktia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FI_1",
-      "name": "Kuntarahoitus, a public bank",
-      "shortName": "Kuntarahoitus, a",
+      "name": "Alisa Bank",
+      "shortName": "Alisa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "FI_2",
-      "name": "Nordea",
-      "shortName": "Nordea",
+      "name": "Ålandsbanken",
+      "shortName": "Ålandsbanken",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Bank of Åland"
     },
     {
       "code": "FI_3",
-      "name": "OP Financial Group, a cooperative banking group",
-      "shortName": "OP Financial",
+      "name": "Danske Bank",
+      "shortName": "Danske",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Finland Branch"
     },
     {
       "code": "FI_4",
-      "name": "S-Pankki Oy, a cooperative bank",
-      "shortName": "S-Pankki Oy,",
+      "name": "Nordea Bank",
+      "shortName": "Nordea",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Finland"
     },
     {
       "code": "FI_5",
-      "name": "Someron Säästöpankki&#160;&#91;fi&#93;",
-      "shortName": "Someron Säästöpankki&#160;&#91;fi&#93;",
+      "name": "Oma Säästöpankki",
+      "shortName": "Oma Säästöpankki",
       "type": "bank",
-      "aliases": ""
+      "aliases": "OmaSp"
     },
     {
       "code": "FI_6",
-      "name": "Lammin Säästöpankki",
-      "shortName": "Lammin Säästöpankki",
+      "name": "OP Financial Group",
+      "shortName": "OP Financial Group",
       "type": "bank",
-      "aliases": ""
+      "aliases": "OP Osuuspankki"
     },
     {
       "code": "FI_7",
-      "name": "Helmi Säästöpankki Oy",
-      "shortName": "Helmi Säästöpankki",
+      "name": "POP Pankki",
+      "shortName": "POP Pankki",
       "type": "bank",
-      "aliases": ""
+      "aliases": "POP Bank Group"
     },
     {
       "code": "FI_8",
-      "name": "Kvevlax Sparbank&#160;&#91;fi&#93;",
-      "shortName": "Kvevlax Sparbank&#160;&#91;fi&#93;",
+      "name": "S-Pankki",
+      "shortName": "S-Pankki",
       "type": "bank",
-      "aliases": ""
+      "aliases": "S-Bank"
     },
     {
       "code": "FI_9",
-      "name": "Länsi-Uudenmaan Säästöpankki&#160;&#91;fi&#93;",
-      "shortName": "Länsi-Uudenmaan Säästöpankki&#160;&#91;fi&#93;",
+      "name": "Säästöpankki",
+      "shortName": "Säästöpankki",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Savings Bank Group"
     },
     {
       "code": "FI_10",
-      "name": "Myrskylän Säästöpankki",
-      "shortName": "Myrskylän Säästöpankki",
+      "name": "Svea Bank",
+      "shortName": "Svea",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Finland Branch"
     },
     {
       "code": "FI_11",
-      "name": "Närpes Sparbank ab",
-      "shortName": "Närpes Sparbank",
-      "type": "bank",
+      "name": "MobilePay",
+      "shortName": "MobilePay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "FI_12",
-      "name": "Säästöpankki Kalanti-Pyhäranta",
-      "shortName": "Säästöpankki Kalanti-Pyhäranta",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "FI_13",
-      "name": "Säästöpankki Optia Oy",
-      "shortName": "Säästöpankki Optia",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "FI_14",
-      "name": "Säästöpankki Sinetti",
-      "shortName": "Säästöpankki Sinetti",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_15",
-      "name": "Ekenäs Sparbank&#160;&#91;fi&#93;",
-      "shortName": "Ekenäs Sparbank&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_16",
-      "name": "Honkajoen Osuuspankki",
-      "shortName": "Honkajoen Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_17",
-      "name": "Isojoen Osuuspankki",
-      "shortName": "Isojoen Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_18",
-      "name": "Kannonkosken Osuuspankki",
-      "shortName": "Kannonkosken Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_19",
-      "name": "Hetki Osuuspankki",
-      "shortName": "Hetki Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_20",
-      "name": "Konneveden Osuuspankki",
-      "shortName": "Konneveden Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_21",
-      "name": "Kurikan Osuuspankki",
-      "shortName": "Kurikan Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_22",
-      "name": "Kyrön Seudun Osuuspankki",
-      "shortName": "Kyrön Seudun",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_23",
-      "name": "Kyyjärven Osuuspankki",
-      "shortName": "Kyyjärven Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_24",
-      "name": "Lammin Osuuspankki",
-      "shortName": "Lammin Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_25",
-      "name": "Lappajärven Osuuspankki&#160;&#91;fi&#93;",
-      "shortName": "Lappajärven Osuuspankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_26",
-      "name": "Lakeuden Osuuspankki",
-      "shortName": "Lakeuden Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_27",
-      "name": "Nivalan Järvikylän Osuuspankki&#160;&#91;fi&#93;",
-      "shortName": "Nivalan Järvikylän",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_28",
-      "name": "Pohjanmaan Osuuspankki",
-      "shortName": "Pohjanmaan Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_29",
-      "name": "Järvi-Suomen Osuuspankki",
-      "shortName": "Järvi-Suomen Osuuspankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_30",
-      "name": "Suupohjan (Suomen) Osuuspankki&#160;&#91;fi&#93;",
-      "shortName": "Suupohjan (Suomen)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_31",
-      "name": "Ålandsbanken",
-      "shortName": "Ålandsbanken",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_32",
-      "name": "Alisa Pankki&#160;&#91;fi&#93;",
-      "shortName": "Alisa Pankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_33",
-      "name": "Danske Kiinnitysluottopankki Oyj",
-      "shortName": "Danske Kiinnitysluottopankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_34",
-      "name": "Oma Savings Bank&#160;&#91;fi&#93;",
-      "shortName": "Oma Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_35",
-      "name": "Suomen AsuntoHypoPankki",
-      "shortName": "Suomen AsuntoHypoPankki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_36",
-      "name": "Suomen Hypoteekkiyhdistys&#160;&#91;fi&#93;",
-      "shortName": "Suomen Hypoteekkiyhdistys&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_37",
-      "name": "Finnish branch of Avida Finans AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_38",
-      "name": "Finnish branch of Brocc Finance AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_39",
-      "name": "Finnish branch of Collector Bank AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_40",
-      "name": "Finnish branch of Ecster AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_41",
-      "name": "Finnish branch of Enity Bank Group AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_42",
-      "name": "Finnish branch of Ikano Bank AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_43",
-      "name": "Finnish branch of Nordnet",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_44",
-      "name": "Finnish branch of Northmill Bank AB&#160;&#91;sv&#93;",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_45",
-      "name": "Finnish branch of PayEx Sverige AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_46",
-      "name": "Finnish branch of Svea Bank&#160;&#91;sv&#93;",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_47",
-      "name": "Finnish branch of Swedbank AB",
-      "shortName": "Finnish branch",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_48",
-      "name": "Helsinki Savings Bank (1825-1991), merged into Aktia Bank",
-      "shortName": "Helsinki Savings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_49",
-      "name": "Kansallis-Osake-Pankki (1889-1995), merged into Merita Bank",
-      "shortName": "Kansallis-Osake-Pankki (1889-1995),",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_50",
-      "name": "Nisula Cooperative Bank&#160;&#91;fi&#93; (1903-?)",
-      "shortName": "Nisula Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_51",
-      "name": "Atlas Pankki&#160;&#91;fi&#93; (1919-1929), absorbed by HOP",
-      "shortName": "Atlas Pankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_52",
-      "name": "Liittopankki (1920-1931), absorbed by HOP",
-      "shortName": "Liittopankki (1920-1931),",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_53",
-      "name": "Bank of Turku&#160;&#91;fi&#93; (1924-1933), liquidated",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_54",
-      "name": "Peruspankki&#160;&#91;fi&#93; (1963-1990), merged into STS",
-      "shortName": "Peruspankki&#160;&#91;fi&#93; (1963-1990),",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_55",
-      "name": "Sofia Pankki&#160;&#91;fi&#93; (2008-2010), liquidated",
-      "shortName": "Sofia Pankki&#160;&#91;fi&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_56",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_57",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_58",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_59",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FI_60",
-      "name": "Economy of Finland-related lists",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Siirto",
+      "shortName": "Siirto",
+      "type": "mfs",
       "aliases": ""
     }
   ]

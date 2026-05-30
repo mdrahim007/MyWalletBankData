@@ -1,41 +1,34 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "FM",
   "institutions": [
     {
       "code": "FM_0",
-      "name": "Central Bank of FM",
-      "shortName": "Central Bank",
+      "name": "Bank of Guam",
+      "shortName": "Bank of Guam",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FSM Branch"
     },
     {
       "code": "FM_1",
-      "name": "National Bank of FM",
-      "shortName": "National Bank",
+      "name": "Bank of the Federated States of Micronesia",
+      "shortName": "Bank of the Federate",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BFSM"
     },
     {
       "code": "FM_2",
-      "name": "State Bank of FM",
-      "shortName": "State Bank",
+      "name": "FSM Development Bank",
+      "shortName": "FSM Development",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FSMDB"
     },
     {
       "code": "FM_3",
-      "name": "Commercial Bank of FM",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "FM_4",
-      "name": "First FM Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]
