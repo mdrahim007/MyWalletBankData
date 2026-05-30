@@ -1,42 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "NF",
   "institutions": [
     {
       "code": "NF_0",
-      "name": "Central Bank of NF",
-      "shortName": "Central Bank",
+      "name": "Commonwealth Bank of Australia",
+      "shortName": "Commonwealth of Aust",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NF_1",
-      "name": "National Bank of NF",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NF_2",
-      "name": "State Bank of NF",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NF_3",
-      "name": "Commercial Bank of NF",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NF_4",
-      "name": "First NF Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "CBA"
     }
   ]
 }

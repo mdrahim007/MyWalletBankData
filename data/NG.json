@@ -1,594 +1,258 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "NG",
   "institutions": [
     {
       "code": "NG_0",
-      "name": "Access Holdings PLC, parent of Access Bank Group",
-      "shortName": "Access Holdings",
+      "name": "Access Bank",
+      "shortName": "Access",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_1",
-      "name": "Alpha Morgan Bank",
-      "shortName": "Alpha Morgan",
+      "name": "Alternative Bank",
+      "shortName": "Alternative",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_2",
-      "name": "Citibank Nigeria Ltd, part of Citigroup",
-      "shortName": "Citibank Nigeria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_3",
-      "name": "Ecobank Nigeria Plc, part of Ecobank Group",
+      "name": "Ecobank Nigeria",
       "shortName": "Ecobank Nigeria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_4",
-      "name": "Fidelity Bank Plc",
+      "code": "NG_3",
+      "name": "Fidelity Bank",
       "shortName": "Fidelity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_5",
-      "name": "First Bank Nigeria Ltd, part of First Bank of Nigeria Group",
-      "shortName": "First",
+      "code": "NG_4",
+      "name": "First Bank of Nigeria",
+      "shortName": "First of Nigeria",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FBN"
+    },
+    {
+      "code": "NG_5",
+      "name": "First City Monument Bank",
+      "shortName": "First City Monument",
+      "type": "bank",
+      "aliases": "FCMB"
     },
     {
       "code": "NG_6",
-      "name": "First City Monument Bank Plc",
-      "shortName": "First City",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_7",
-      "name": "Globus Bank Ltd",
+      "name": "Globus Bank",
       "shortName": "Globus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_8",
-      "name": "Guaranty Trust Bank Plc, part of GTCO Group",
+      "code": "NG_7",
+      "name": "Guaranty Trust Bank",
       "shortName": "Guaranty Trust",
+      "type": "bank",
+      "aliases": "GTBank"
+    },
+    {
+      "code": "NG_8",
+      "name": "Jaiz Bank",
+      "shortName": "Jaiz",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_9",
-      "name": "Keystone Bank Ltd",
-      "shortName": "Keystone",
+      "name": "Lotus Bank",
+      "shortName": "Lotus",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_10",
-      "name": "Nova Commercial Bank Ltd",
-      "shortName": "Nova Commercial",
+      "name": "Moniepoint Microfinance Bank",
+      "shortName": "Moniepoint Microfina",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_11",
+      "name": "Nova Commercial Bank",
+      "shortName": "Nova Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_12",
+      "name": "OPay Microfinance Bank",
+      "shortName": "OPay Microfinance",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NG_13",
       "name": "Optimus Bank",
       "shortName": "Optimus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_12",
-      "name": "Parallex Bank Ltd",
-      "shortName": "Parallex",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_13",
-      "name": "Polaris Bank Plc",
-      "shortName": "Polaris",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "NG_14",
-      "name": "Premium Trust Bank",
-      "shortName": "Premium Trust",
+      "name": "PalmPay Microfinance Bank",
+      "shortName": "PalmPay Microfinance",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_15",
-      "name": "Providus Bank Ltd",
-      "shortName": "Providus",
+      "name": "PremiumTrust Bank",
+      "shortName": "PremiumTrust",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_16",
-      "name": "Signature Bank Ltd",
-      "shortName": "Signature",
+      "name": "Providus Bank",
+      "shortName": "Providus",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_17",
-      "name": "Stanbic IBTC Bank Plc, part of Stanbic IBTC Holdings",
-      "shortName": "Stanbic IBTC",
+      "name": "Signature Bank",
+      "shortName": "Signature",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_18",
-      "name": "Sterling Bank Plc",
-      "shortName": "Sterling",
+      "name": "Stanbic IBTC Bank",
+      "shortName": "Stanbic IBTC",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_19",
-      "name": "Summit Bank",
-      "shortName": "Summit",
+      "name": "Standard Chartered Nigeria",
+      "shortName": "Standard Chartered N",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_20",
-      "name": "SunTrust Bank Nigeria Ltd",
-      "shortName": "SunTrust",
+      "name": "Sterling Bank",
+      "shortName": "Sterling",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_21",
-      "name": "Tatum Bank",
-      "shortName": "Tatum",
+      "name": "SunTrust Bank Nigeria",
+      "shortName": "SunTrust Nigeria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NG_22",
-      "name": "Titan Trust Bank Ltd",
-      "shortName": "Titan Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_23",
-      "name": "Union Bank of Nigeria Plc",
-      "shortName": "Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_24",
-      "name": "United Bank For Africa Plc, part of UBA Group",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_25",
-      "name": "Unity Bank Plc",
-      "shortName": "Unity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_26",
-      "name": "Wema Bank Plc",
-      "shortName": "Wema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_27",
-      "name": "Zenith Bank Plc",
-      "shortName": "Zenith",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_28",
-      "name": "Bank of Agriculture",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_29",
-      "name": "Bank of Industry",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_30",
-      "name": "Development Bank of Nigeria",
-      "shortName": "Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_31",
-      "name": "Federal Mortgage Bank of Nigeria",
-      "shortName": "Federal Mortgage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_32",
-      "name": "Nigerian Export-Import Bank",
-      "shortName": "Nigerian Export-Import",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_33",
-      "name": "The Infrastructure Bank",
-      "shortName": "The Infrastructure",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_34",
-      "name": "FBN Holdings PLC, parent of First Bank of Nigeria Group",
-      "shortName": "FBN Holdings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_35",
-      "name": "FCMB Group PLC, parent of First City Monument Bank",
-      "shortName": "FCMB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_36",
-      "name": "FSDH Holding Company, parent of FSDH Merchant Bank",
-      "shortName": "FSDH Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_37",
-      "name": "GTB Holding Company, parent of GTCO Group",
-      "shortName": "GTB Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_38",
-      "name": "Sterling Financial Holdings Ltd, parent of Sterling Bank",
-      "shortName": "Sterling Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_39",
-      "name": "Alternative Bank Limited",
-      "shortName": "Alternative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_40",
-      "name": "Jaiz Bank Plc",
-      "shortName": "Jaiz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_41",
       "name": "TAJBank",
       "shortName": "TAJBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_42",
-      "name": "Auchi Polytechnic Microfinance Bank",
-      "shortName": "Auchi Polytechnic",
+      "code": "NG_23",
+      "name": "Titan Trust Bank",
+      "shortName": "Titan Trust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_43",
-      "name": "Mutual Trust Microfinance Bank",
-      "shortName": "Mutual Trust",
+      "code": "NG_24",
+      "name": "Union Bank of Nigeria",
+      "shortName": "Union of Nigeria",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_44",
-      "name": "Rephidim Microfinance Bank",
-      "shortName": "Rephidim Microfinance",
+      "code": "NG_25",
+      "name": "United Bank for Africa",
+      "shortName": "United for Africa",
+      "type": "bank",
+      "aliases": "UBA"
+    },
+    {
+      "code": "NG_26",
+      "name": "Unity Bank",
+      "shortName": "Unity",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_45",
-      "name": "Shepherd Trust Microfinance Bank",
-      "shortName": "Shepherd Trust",
+      "code": "NG_27",
+      "name": "Wema Bank",
+      "shortName": "Wema",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_46",
-      "name": "Finca Microfinance Bank Limited",
-      "shortName": "Finca Microfinance",
+      "code": "NG_28",
+      "name": "Zenith Bank",
+      "shortName": "Zenith",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "NG_47",
-      "name": "Moneyfield Microfinance Bank",
-      "shortName": "Moneyfield Microfinance",
-      "type": "bank",
+      "code": "NG_29",
+      "name": "Carbon",
+      "shortName": "Carbon",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_48",
-      "name": "FairMoney Microfinance Bank",
-      "shortName": "FairMoney Microfinance",
-      "type": "bank",
+      "code": "NG_30",
+      "name": "Moniepoint",
+      "shortName": "Moniepoint",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_49",
-      "name": "Infinity Microfinance Bank",
-      "shortName": "Infinity Microfinance",
-      "type": "bank",
+      "code": "NG_31",
+      "name": "OPay",
+      "shortName": "OPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_50",
-      "name": "Covenant Microfinance Bank Ltd",
-      "shortName": "Covenant Microfinance",
-      "type": "bank",
+      "code": "NG_32",
+      "name": "Paga",
+      "shortName": "Paga",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_51",
-      "name": "Solid Allianze Microfinance Bank",
-      "shortName": "Solid Allianze",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_52",
-      "name": "Advans La Fayette Microfinance Bank",
-      "shortName": "Advans La",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_53",
-      "name": "mainstreet mfb&#91;clarification needed&#93;",
-      "shortName": "mainstreet mfb&#91;clarification",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_54",
-      "name": "pecan trust mf bank&#91;clarification needed&#93;",
-      "shortName": "pecan trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_55",
-      "name": "Sparkle Bank",
-      "shortName": "Sparkle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_56",
-      "name": "Kuda Bank",
-      "shortName": "Kuda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_57",
-      "name": "Moniepoint Microfinance Bank",
-      "shortName": "Moniepoint Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_58",
-      "name": "Opay wallet",
-      "shortName": "Opay wallet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_59",
-      "name": "Dot Microfinance Bank",
-      "shortName": "Dot Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_60",
+      "code": "NG_33",
       "name": "PalmPay",
       "shortName": "PalmPay",
-      "type": "bank",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_61",
-      "name": "Rubies Bank",
-      "shortName": "Rubies",
-      "type": "bank",
+      "code": "NG_34",
+      "name": "PocketApp",
+      "shortName": "PocketApp",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "NG_62",
-      "name": "Pryme App",
-      "shortName": "Pryme App",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_63",
-      "name": "Mint Finex MFB",
-      "shortName": "Mint Finex",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_64",
-      "name": "Mkobo MFB",
-      "shortName": "Mkobo MFB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_65",
-      "name": "Raven Bank",
-      "shortName": "Raven",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_66",
-      "name": "CashX",
-      "shortName": "CashX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_67",
-      "name": "Economy of Nigeria",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_68",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_69",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_70",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_71",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_72",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_73",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_74",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_75",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_76",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_77",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_78",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_79",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_80",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_81",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_82",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NG_83",
-      "name": "Yam production",
-      "shortName": "Yam production",
-      "type": "bank",
+      "code": "NG_35",
+      "name": "Vbank",
+      "shortName": "Vbank",
+      "type": "mfs",
       "aliases": ""
     }
   ]

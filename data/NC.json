@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "NC",
   "institutions": [
     {
       "code": "NC_0",
-      "name": "Central Bank of NC",
-      "shortName": "Central Bank",
+      "name": "Banque Calédonienne d'Investissement",
+      "shortName": "Banque Calédonienne",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCI"
     },
     {
       "code": "NC_1",
-      "name": "National Bank of NC",
-      "shortName": "National Bank",
+      "name": "Banque de Nouvelle-Calédonie",
+      "shortName": "Banque de Nouvelle-C",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BNC"
     },
     {
       "code": "NC_2",
-      "name": "State Bank of NC",
-      "shortName": "State Bank",
+      "name": "BNP Paribas Nouvelle Calédonie",
+      "shortName": "BNP Paribas Nouvelle",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NC_3",
-      "name": "Commercial Bank of NC",
-      "shortName": "Commercial Bank",
+      "name": "Crédit Agricole Mutuel de Nouvelle-Calédonie",
+      "shortName": "Crédit Agricole Mutu",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NC_4",
-      "name": "First NC Bank",
-      "shortName": "First Bank",
+      "name": "Société Générale Nouvelle-Calédonie",
+      "shortName": "Société Générale Nou",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "NC_5",
+      "name": "Apple Pay",
+      "shortName": "Apple Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NC_6",
+      "name": "Google Wallet",
+      "shortName": "Google Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "NC_7",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

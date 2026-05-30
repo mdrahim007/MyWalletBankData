@@ -1,216 +1,118 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "NE",
   "institutions": [
     {
       "code": "NE_0",
-      "name": "Banque Agricole du Niger (BAGRI)",
-      "shortName": "Banque Agricole",
+      "name": "Bank of Africa Niger",
+      "shortName": "Bank of Africa Niger",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "NE_1",
-      "name": "Banque Atlantique Niger, part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "Banque Agricole du Niger",
+      "shortName": "Banque Agricole du N",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BAGRI"
     },
     {
       "code": "NE_2",
-      "name": "Banque Commerciale du Niger (BCN)",
-      "shortName": "Banque Commerciale",
+      "name": "Banque Atlantique Niger",
+      "shortName": "Banque Atlantique Ni",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NE_3",
-      "name": "Banque de l'Habitat du Niger (BHN)",
-      "shortName": "Banque de",
+      "name": "Banque Commerciale du Niger",
+      "shortName": "Banque Commerciale d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BCN"
     },
     {
       "code": "NE_4",
-      "name": "Banque Internationale pour l'Afrique au Niger (BIA-Niger)",
-      "shortName": "Banque Internationale",
+      "name": "Banque de l'Habitat du Niger",
+      "shortName": "Banque de l'Habitat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BHN"
     },
     {
       "code": "NE_5",
-      "name": "Banque Islamique du Niger (BIN)",
-      "shortName": "Banque Islamique",
+      "name": "Banque Internationale pour l'Afrique au Niger",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIA"
     },
     {
       "code": "NE_6",
-      "name": "Ecobank - Niger, part of Ecobank Group",
-      "shortName": "Ecobank -",
+      "name": "Banque Islamique du Niger",
+      "shortName": "Banque Islamique du",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIN"
     },
     {
       "code": "NE_7",
-      "name": "Société Nigérienne de Banque&#160;&#91;fr&#93; (Sonibank)",
-      "shortName": "Société Nigérienne",
+      "name": "BSIC Niger",
+      "shortName": "BSIC Niger",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NE_8",
-      "name": "Branch of Banque Régionale de Marchés",
-      "shortName": "Branch of",
+      "name": "Coris Bank International Niger",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NE_9",
-      "name": "Branch of CBAO Groupe Attijariwafa Bank",
-      "shortName": "Branch of",
+      "name": "Ecobank Niger",
+      "shortName": "Ecobank Niger",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NE_10",
-      "name": "Branch of Coris Bank International",
-      "shortName": "Branch of",
+      "name": "Orabank Niger",
+      "shortName": "Orabank Niger",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NE_11",
-      "name": "Branch of Orabank Côte d'Ivoire, part of Orabank Group",
-      "shortName": "Branch of",
+      "name": "Société Nigérienne de Banque",
+      "shortName": "Société Nigérienne d",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Sonibank"
     },
     {
       "code": "NE_12",
-      "name": "Economy of Niger",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NE_13",
-      "name": "Website of Central Bank of West African States (English)",
-      "shortName": "Website of",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NE_14",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NE_15",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_16",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_17",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_18",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_19",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_20",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_21",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_22",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_23",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_24",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_25",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_26",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_27",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_28",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NE_29",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
+      "name": "Zamani Cash",
+      "shortName": "Zamani Cash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

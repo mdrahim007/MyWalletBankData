@@ -1,223 +1,76 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "NA",
   "institutions": [
     {
       "code": "NA_0",
-      "name": "Bank Windhoek Limited",
+      "name": "Bank Windhoek",
       "shortName": "Bank Windhoek",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NA_1",
-      "name": "Standard Bank Namibia Limited, part of Standard Bank Group",
-      "shortName": "Standard",
+      "name": "First National Bank Namibia",
+      "shortName": "First National Namib",
       "type": "bank",
-      "aliases": ""
+      "aliases": "FNB"
     },
     {
       "code": "NA_2",
-      "name": "Nedbank Namibia Limited, part of Nedbank Group",
-      "shortName": "Nedbank Namibia",
+      "name": "Letshego Bank Namibia",
+      "shortName": "Letshego Namibia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NA_3",
-      "name": "Bank BIC Namibia Limited, part of Angola's Banco BIC Group",
-      "shortName": "Bank BIC",
+      "name": "Nedbank Namibia",
+      "shortName": "Nedbank Namibia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NA_4",
-      "name": "Letshego Bank Namibia Limited, part of Letshego Group",
-      "shortName": "Letshego",
+      "name": "Standard Bank Namibia",
+      "shortName": "Standard Namibia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "NA_5",
-      "name": "Branch of Banco Privado Atlântico (Lisbon)",
-      "shortName": "Branch of",
-      "type": "bank",
+      "name": "BlueVoucher",
+      "shortName": "BlueVoucher",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NA_6",
-      "name": "Trustco Bank Namibia (2010–2025)&#91;2&#93;",
-      "shortName": "Trustco",
-      "type": "bank",
+      "name": "EasyWallet",
+      "shortName": "EasyWallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NA_7",
-      "name": "Economy of Namibia",
-      "shortName": "Economy of",
-      "type": "bank",
+      "name": "eWallet",
+      "shortName": "eWallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NA_8",
-      "name": "Banking in Namibia",
-      "shortName": "Banking in",
-      "type": "bank",
+      "name": "PayPulse",
+      "shortName": "PayPulse",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "NA_9",
-      "name": "Bank PHB Granted Provisional License",
-      "shortName": "Bank PHB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_10",
-      "name": "Bank PHB Provisional License Withdrawn",
-      "shortName": "Bank PHB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_11",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_12",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_13",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_14",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_15",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_16",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_17",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_18",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_19",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_20",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_21",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_22",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_23",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_24",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_25",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_26",
-      "name": "Power stations",
-      "shortName": "Power stations",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_27",
-      "name": "Central bank",
-      "shortName": "Central bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_28",
-      "name": "Namibian dollar",
-      "shortName": "Namibian dollar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_29",
-      "name": "NSX",
-      "shortName": "NSX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "NA_30",
-      "name": "Poverty",
-      "shortName": "Poverty",
-      "type": "bank",
+      "name": "PayToday",
+      "shortName": "PayToday",
+      "type": "mfs",
       "aliases": ""
     }
   ]
