@@ -40,7 +40,7 @@
     },
     {
       "code": "BD_5",
-      "name": "Bangladesh Krishi Bank (BKB)",
+      "name": "Bangladesh Krishi Bank",
       "shortName": "Bangladesh Krishi",
       "type": "bank",
       "aliases": "BKB"
@@ -131,7 +131,7 @@
     },
     {
       "code": "BD_18",
-      "name": "Eastern Bank PLC (EBL)",
+      "name": "Eastern Bank PLC",
       "shortName": "Eastern",
       "type": "bank",
       "aliases": "EBL"
@@ -166,7 +166,7 @@
     },
     {
       "code": "BD_23",
-      "name": "Habib Bank Limited (HBL)",
+      "name": "Habib Bank Limited",
       "shortName": "Habib",
       "type": "bank",
       "aliases": "HBL"
@@ -194,7 +194,7 @@
     },
     {
       "code": "BD_27",
-      "name": "Islami Bank Bangladesh PLC (IBBPLC)",
+      "name": "Islami Bank Bangladesh PLC",
       "shortName": "Islami Bangladesh",
       "type": "bank",
       "aliases": "IBBPLC"
@@ -264,7 +264,7 @@
     },
     {
       "code": "BD_37",
-      "name": "Mutual Trust Bank PLC (MTB)",
+      "name": "Mutual Trust Bank PLC",
       "shortName": "Mutual Trust",
       "type": "bank",
       "aliases": "MTB"
@@ -348,7 +348,7 @@
     },
     {
       "code": "BD_49",
-      "name": "Rajshahi Krishi Unnayan Bank (RAKUB)",
+      "name": "Rajshahi Krishi Unnayan Bank",
       "shortName": "Rajshahi Krishi Unna",
       "type": "bank",
       "aliases": "RAKUB"
@@ -383,7 +383,7 @@
     },
     {
       "code": "BD_54",
-      "name": "Social Islami Bank PLC (SIBL)",
+      "name": "Social Islami Bank PLC",
       "shortName": "Social Islami",
       "type": "bank",
       "aliases": "SIBL"
@@ -418,14 +418,14 @@
     },
     {
       "code": "BD_59",
-      "name": "Standard Chartered Bank (SCB)",
+      "name": "Standard Chartered Bank",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": "SCB"
     },
     {
       "code": "BD_60",
-      "name": "State Bank of India (SBI)",
+      "name": "State Bank of India",
       "shortName": "State of India",
       "type": "bank",
       "aliases": "SBI"
@@ -453,7 +453,7 @@
     },
     {
       "code": "BD_64",
-      "name": "United Commercial Bank PLC (UCB)",
+      "name": "United Commercial Bank PLC",
       "shortName": "United Commercial",
       "type": "bank",
       "aliases": "UCB"
@@ -474,70 +474,70 @@
     },
     {
       "code": "BD_67",
-      "name": "bKash (BRAC Bank PLC)",
+      "name": "bKash",
       "shortName": "bKash",
       "type": "mfs",
       "aliases": "BRAC Bank PLC"
     },
     {
       "code": "BD_68",
-      "name": "Islamic Wallet (Al-Arafah Islami Bank PLC)",
+      "name": "Islamic Wallet",
       "shortName": "Islamic Wallet",
       "type": "mfs",
       "aliases": "Al-Arafah Islami Bank PLC"
     },
     {
       "code": "BD_69",
-      "name": "mCash (Islami Bank Bangladesh PLC)",
+      "name": "mCash",
       "shortName": "mCash",
       "type": "mfs",
       "aliases": "Islami Bank Bangladesh PLC"
     },
     {
       "code": "BD_70",
-      "name": "MyCash (Mercantile Bank PLC)",
+      "name": "MyCash",
       "shortName": "MyCash",
       "type": "mfs",
       "aliases": "Mercantile Bank PLC"
     },
     {
       "code": "BD_71",
-      "name": "Nagad (Nagad Ltd. / Bangladesh Post Office)",
+      "name": "Nagad",
       "shortName": "Nagad",
       "type": "mfs",
       "aliases": "Nagad Ltd. / Bangladesh Post Office"
     },
     {
       "code": "BD_72",
-      "name": "OK Wallet (ONE Bank PLC)",
+      "name": "OK Wallet",
       "shortName": "OK Wallet",
       "type": "mfs",
       "aliases": "ONE Bank PLC"
     },
     {
       "code": "BD_73",
-      "name": "Rocket (Dutch-Bangla Bank PLC)",
+      "name": "Rocket",
       "shortName": "Rocket",
       "type": "mfs",
       "aliases": "Dutch-Bangla Bank PLC"
     },
     {
       "code": "BD_74",
-      "name": "tap (Trust Bank PLC)",
+      "name": "tap",
       "shortName": "tap",
       "type": "mfs",
       "aliases": "Trust Bank PLC"
     },
     {
       "code": "BD_75",
-      "name": "TeleCash (Southeast Bank PLC)",
+      "name": "TeleCash",
       "shortName": "TeleCash",
       "type": "mfs",
       "aliases": "Southeast Bank PLC"
     },
     {
       "code": "BD_76",
-      "name": "upay (United Commercial Bank PLC)",
+      "name": "upay",
       "shortName": "upay",
       "type": "mfs",
       "aliases": "United Commercial Bank PLC"
