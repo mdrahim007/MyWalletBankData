@@ -1,4367 +1,524 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "IN",
   "institutions": [
     {
       "code": "IN_0",
-      "name": "State Bank of Indore",
-      "shortName": "State",
+      "name": "ABN AMRO Bank N.V.",
+      "shortName": "ABN AMRO",
       "type": "bank",
-      "aliases": "State Bank"
+      "aliases": ""
     },
     {
       "code": "IN_1",
-      "name": "Punjab National Bank",
-      "shortName": "PNB",
+      "name": "Airtel Payments Bank",
+      "shortName": "Airtel Payments",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IN_2",
-      "name": "Bank of Baroda",
-      "shortName": "BoB",
+      "name": "AU Small Finance Bank",
+      "shortName": "AU Small Finance",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "IN_3",
-      "name": "United Bank of India",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_4",
-      "name": "Bank of Maharashtra",
-      "shortName": "BoM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_5",
-      "name": "Union Bank of India",
-      "shortName": "Union Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_6",
-      "name": "Canara Bank",
-      "shortName": "Canara Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_7",
-      "name": "Central Bank of India",
-      "shortName": "CBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_8",
-      "name": "Indian Bank",
-      "shortName": "Indian Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_9",
-      "name": "Indian Overseas Bank",
-      "shortName": "IOB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_10",
-      "name": "Punjab &amp; Sind Bank",
-      "shortName": "Punjab &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_11",
-      "name": "UCO Bank",
-      "shortName": "UCO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_12",
-      "name": "HDFC Bank",
-      "shortName": "HDFC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_13",
-      "name": "ICICI Bank",
-      "shortName": "ICICI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_14",
       "name": "Axis Bank",
       "shortName": "Axis",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_15",
-      "name": "Kotak Mahindra Bank",
-      "shortName": "Kotak",
+      "code": "IN_4",
+      "name": "Bajaj Finance Limited",
+      "shortName": "Bajaj Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_16",
-      "name": "IndusInd Bank",
-      "shortName": "IndusInd",
+      "code": "IN_5",
+      "name": "Bank of America",
+      "shortName": "Bank of America",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_17",
-      "name": "Yes Bank",
-      "shortName": "Yes Bank",
+      "code": "IN_6",
+      "name": "Bank of Baroda",
+      "shortName": "Bank of Baroda",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_18",
-      "name": "Federal Bank",
-      "shortName": "Federal Bank",
+      "code": "IN_7",
+      "name": "Bank of India",
+      "shortName": "Bank of India",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_19",
-      "name": "South Indian Bank",
-      "shortName": "SIB",
+      "code": "IN_8",
+      "name": "Bank of Maharashtra",
+      "shortName": "Bank of Maharashtra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_20",
-      "name": "IDFC First Bank",
-      "shortName": "IDFC First",
+      "code": "IN_9",
+      "name": "Barclays Bank",
+      "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_21",
+      "code": "IN_10",
       "name": "Bandhan Bank",
       "shortName": "Bandhan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_22",
+      "code": "IN_11",
+      "name": "Canara Bank",
+      "shortName": "Canara",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IN_12",
+      "name": "Capital Small Finance Bank",
+      "shortName": "Capital Small Financ",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IN_13",
+      "name": "Central Bank of India",
+      "shortName": "Central of India",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IN_14",
+      "name": "Citibank N.A.",
+      "shortName": "Citibank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "IN_15",
+      "name": "City Union Bank",
+      "shortName": "City Union",
+      "type": "bank",
+      "aliases": "CUB"
+    },
+    {
+      "code": "IN_16",
       "name": "CSB Bank",
       "shortName": "CSB",
       "type": "bank",
-      "aliases": "Catholic Syrian Bank"
-    },
-    {
-      "code": "IN_23",
-      "name": "City Union Bank",
-      "shortName": "CUB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_24",
-      "name": "Dhanlaxmi Bank",
-      "shortName": "Dhanlaxmi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_25",
-      "name": "Jammu &amp; Kashmir Bank",
-      "shortName": "Jammu &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_26",
-      "name": "Karnataka Bank",
-      "shortName": "Karnataka Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_27",
-      "name": "Karur Vysya Bank",
-      "shortName": "KVB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_28",
-      "name": "Nainital Bank",
-      "shortName": "Nainital Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_29",
-      "name": "RBL Bank",
-      "shortName": "RBL",
-      "type": "bank",
-      "aliases": "Ratnakar Bank"
-    },
-    {
-      "code": "IN_30",
-      "name": "Tamilnad Mercantile Bank",
-      "shortName": "TMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_31",
-      "name": "Airtel Payments Bank",
-      "shortName": "Airtel Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_32",
-      "name": "India Post Payments Bank",
-      "shortName": "IPPB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_33",
-      "name": "Fino Payments Bank",
-      "shortName": "Fino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_34",
-      "name": "Paytm Payments Bank",
-      "shortName": "Paytm Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_35",
-      "name": "NSDL Payments Bank",
-      "shortName": "NSDL Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_36",
-      "name": "Equitas Small Finance Bank",
-      "shortName": "Equitas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_37",
-      "name": "Ujjivan Small Finance Bank",
-      "shortName": "Ujjivan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_38",
-      "name": "Suryoday Small Finance Bank",
-      "shortName": "Suryoday",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_39",
-      "name": "The Andaman and Nicobar State Co-operative Bank Ltd.",
-      "shortName": "The Andaman",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_40",
-      "name": "The Arunachal Pradesh State Co-operative Apex Bank Ltd.",
-      "shortName": "The Arunachal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_41",
-      "name": "The Mizoram Co-operative Apex Bank Ltd.",
-      "shortName": "The Mizoram",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_42",
-      "name": "The Maharashtra State Co-operative Bank Ltd.",
-      "shortName": "The Maharashtra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_43",
-      "name": "The Chhattisgarh Rajya Sahakari Bank Maryadit",
-      "shortName": "The Chhattisgarh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_44",
-      "name": "The Telangana State Co-operative Apex Bank Ltd.",
-      "shortName": "The Telangana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_45",
-      "name": "The Jammu and Kashmir State Co-operative Bank Ltd.",
-      "shortName": "The Jammu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_46",
-      "name": "The Madhya Pradesh Rajya Sahakari Bank Maryadit.",
-      "shortName": "The Madhya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_47",
-      "name": "The Meghalaya Co-operative Apex Bank Ltd.",
-      "shortName": "The Meghalaya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_48",
-      "name": "The Rajasthan State Co-operative Bank Ltd.",
-      "shortName": "The Rajasthan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_49",
-      "name": "The Pondichery State Co-operative Bank Ltd.",
-      "shortName": "The Pondichery",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_50",
-      "name": "The Sikkim State Co-operative Bank Ltd.",
-      "shortName": "The Sikkim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_51",
-      "name": "The Tamil Nadu State Apex Co-operative Bank Ltd.",
-      "shortName": "The Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_52",
-      "name": "The Uttar Pradesh Co-operative Bank Ltd.",
-      "shortName": "The Uttar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_53",
-      "name": "The Uttaranchal Rajya Sahakari Bank Ltd.",
-      "shortName": "The Uttaranchal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_54",
-      "name": "The West Bengal State Co-operative Bank Ltd.",
-      "shortName": "The West",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_55",
-      "name": "Sonali Bank",
-      "shortName": "Sonali",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_56",
-      "name": "Industrial &amp; Commercial Bank of China",
-      "shortName": "Industrial &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_57",
-      "name": "HSBC Bank India",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_58",
-      "name": "Standard Chartered India",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_59",
-      "name": "Société Générale",
-      "shortName": "Société Générale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_60",
-      "name": "Crédit Agricole Corporate and Investment Bank",
-      "shortName": "Crédit Agricole",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_61",
-      "name": "MUFG Bank",
-      "shortName": "MUFG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_62",
-      "name": "Sumitomo Mitsui Banking Corporation",
-      "shortName": "Sumitomo Mitsui",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_63",
-      "name": "Qatar National Bank",
-      "shortName": "Qatar National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_64",
-      "name": "KEB Hana Bank",
-      "shortName": "KEB Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_65",
-      "name": "Kookmin Bank",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_66",
-      "name": "Shinhan Bank",
-      "shortName": "Shinhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_67",
-      "name": "Woori Bank",
-      "shortName": "Woori",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_68",
-      "name": "Emirates NBD",
-      "shortName": "Emirates NBD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_69",
-      "name": "First Abu Dhabi Bank",
-      "shortName": "First Abu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_70",
-      "name": "Bank of America",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_71",
-      "name": "JPMorgan Chase",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_72",
-      "name": "Toronto Dominion Bank",
-      "shortName": "Toronto Dominion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_73",
-      "name": "Natixis",
-      "shortName": "Natixis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_74",
-      "name": "Intesa Sanpaolo",
-      "shortName": "Intesa Sanpaolo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_75",
-      "name": "Banco de Sabadell",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_76",
-      "name": "Zurcher Kantonalbank",
-      "shortName": "Zurcher Kantonalbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_77",
-      "name": "Wells Fargo Bank",
-      "shortName": "Wells Fargo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_78",
-      "name": "Banking in India",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_79",
-      "name": "Indian Financial System Code (IFSC)",
-      "shortName": "Indian Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_80",
-      "name": "Make in India",
-      "shortName": "Make in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_81",
-      "name": "Reserve Bank of India",
-      "shortName": "Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_82",
-      "name": "\"Banks in India\". Reserve Bank of India.",
-      "shortName": "\"Banks in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_83",
-      "name": "Reserve Bank of India Act, 1934",
-      "shortName": "Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_84",
-      "name": "Monetary Policy Committee",
-      "shortName": "Monetary Policy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_85",
-      "name": "Deputy governor of the Reserve Bank of India",
-      "shortName": "Deputy governor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_86",
-      "name": "Reserve Bank of India Staff College",
-      "shortName": "Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_87",
-      "name": "RBI Monetary Museum",
-      "shortName": "RBI Monetary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_88",
-      "name": "Bharatiya Reserve Bank Note Mudran",
-      "shortName": "Bharatiya Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_89",
-      "name": "Security Printing and Minting Corporation of India",
-      "shortName": "Security Printing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_90",
-      "name": "BBB",
-      "shortName": "BBB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_91",
-      "name": "BCSBI",
-      "shortName": "BCSBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_92",
-      "name": "NPCI",
-      "shortName": "NPCI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_93",
-      "name": "IBA",
-      "shortName": "IBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_94",
-      "name": "IDRBT",
-      "shortName": "IDRBT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_95",
-      "name": "IFCI",
-      "shortName": "IFCI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_96",
-      "name": "All India Financial Institutions&#160;:",
-      "shortName": "All India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_97",
-      "name": "Exim Bank of India",
-      "shortName": "Exim",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_98",
-      "name": "NABARD",
-      "shortName": "NABARD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_99",
-      "name": "NHB",
-      "shortName": "NHB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_100",
-      "name": "SIDBI",
-      "shortName": "SIDBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_101",
-      "name": "BIFR",
-      "shortName": "BIFR",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_102",
-      "name": "IBBI",
-      "shortName": "IBBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_103",
-      "name": "IBPS",
-      "shortName": "IBPS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_104",
-      "name": "Deposit Insurance (DICGC)",
-      "shortName": "Deposit Insurance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_105",
-      "name": "State-sector bank: Jammu &amp; Kashmir Bank",
-      "shortName": "State-sector bank:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_106",
-      "name": "Previous development banks: HDFC Bank",
-      "shortName": "Previous development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_107",
-      "name": "Privatised banks: Axis Bank",
-      "shortName": "Privatised banks:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_108",
-      "name": "IDBI Bank",
-      "shortName": "IDBI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_109",
-      "name": "Abu Dhabi Commercial Bank",
-      "shortName": "Abu Dhabi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_110",
-      "name": "ANZ",
-      "shortName": "ANZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_111",
-      "name": "Bank Maybank Indonesia",
-      "shortName": "Bank Maybank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_112",
-      "name": "Bank of Bahrain and Kuwait",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_113",
-      "name": "Bank of Ceylon",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_114",
-      "name": "Barclays",
-      "shortName": "Barclays",
-      "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_115",
-      "name": "Credit Suisse",
-      "shortName": "Credit Suisse",
+      "code": "IN_17",
+      "name": "DBS Bank India",
+      "shortName": "DBS India",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_116",
-      "name": "CTBC Bank",
-      "shortName": "CTBC",
+      "code": "IN_18",
+      "name": "DCB Bank",
+      "shortName": "DCB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_117",
+      "code": "IN_19",
       "name": "Deutsche Bank",
       "shortName": "Deutsche",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_118",
-      "name": "HSBC",
-      "shortName": "HSBC",
+      "code": "IN_20",
+      "name": "Dhanlaxmi Bank",
+      "shortName": "Dhanlaxmi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_119",
-      "name": "Maybank",
-      "shortName": "Maybank",
+      "code": "IN_21",
+      "name": "Equitas Small Finance Bank",
+      "shortName": "Equitas Small Financ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_120",
-      "name": "MUFJ",
-      "shortName": "MUFJ",
+      "code": "IN_22",
+      "name": "ESAF Small Finance Bank",
+      "shortName": "ESAF Small Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_121",
-      "name": "Rabobank",
-      "shortName": "Rabobank",
+      "code": "IN_23",
+      "name": "Federal Bank",
+      "shortName": "Federal",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_122",
-      "name": "Scotiabank",
-      "shortName": "Scotiabank",
+      "code": "IN_24",
+      "name": "Fino Payments Bank",
+      "shortName": "Fino Payments",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_123",
-      "name": "SMBC",
-      "shortName": "SMBC",
+      "code": "IN_25",
+      "name": "HDFC Bank",
+      "shortName": "HDFC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_124",
-      "name": "DBS Bank",
-      "shortName": "DBS",
+      "code": "IN_26",
+      "name": "HSBC India",
+      "shortName": "HSBC India",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_125",
-      "name": "State Bank of Mauritius",
-      "shortName": "State",
+      "code": "IN_27",
+      "name": "ICICI Bank",
+      "shortName": "ICICI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_126",
-      "name": "UBS Group",
-      "shortName": "UBS Group",
+      "code": "IN_28",
+      "name": "IDBI Bank",
+      "shortName": "IDBI",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_127",
-      "name": "Antwerp Diamond Bank",
-      "shortName": "Antwerp Diamond",
+      "code": "IN_29",
+      "name": "IDFC FIRST Bank",
+      "shortName": "IDFC FIRST",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_128",
-      "name": "Citibank",
-      "shortName": "Citibank",
+      "code": "IN_30",
+      "name": "India Post Payments Bank",
+      "shortName": "India Post Payments",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_129",
-      "name": "Capital",
-      "shortName": "Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_130",
-      "name": "ESAF",
-      "shortName": "ESAF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_131",
-      "name": "Equitas",
-      "shortName": "Equitas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_132",
-      "name": "Jana",
-      "shortName": "Jana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_133",
-      "name": "Slice",
-      "shortName": "Slice",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_134",
-      "name": "Suryoday",
-      "shortName": "Suryoday",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_135",
-      "name": "Ujjivan",
-      "shortName": "Ujjivan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_136",
-      "name": "Unity",
-      "shortName": "Unity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_137",
-      "name": "Airtel",
-      "shortName": "Airtel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_138",
-      "name": "India Post",
-      "shortName": "India Post",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_139",
-      "name": "Fino",
-      "shortName": "Fino",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_140",
-      "name": "Jio",
-      "shortName": "Jio",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_141",
-      "name": "NSDL",
-      "shortName": "NSDL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_142",
-      "name": "National Securities Depository",
-      "shortName": "National Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_143",
-      "name": "Tech Mahindra",
-      "shortName": "Tech Mahindra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_144",
-      "name": "Abhyudaya Co-operative Bank.",
-      "shortName": "Abhyudaya Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_145",
-      "name": "Buldana Urban Cooperative Credit Society",
-      "shortName": "Buldana Urban",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_146",
-      "name": "Cosmos Co-operative Bank",
-      "shortName": "Cosmos Co-operative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_147",
-      "name": "Dombivli Nagari Sahakari Bank",
-      "shortName": "Dombivli Nagari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_148",
-      "name": "Kerala Bank",
-      "shortName": "Kerala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_149",
-      "name": "Punjab and Maharashtra Co-operative Bank (Unity SFB)",
-      "shortName": "Punjab and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_150",
-      "name": "Repco Bank",
-      "shortName": "Repco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_151",
-      "name": "Saraswat Bank",
-      "shortName": "Saraswat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_152",
-      "name": "Shamrao Vithal Co-operative Bank",
-      "shortName": "Shamrao Vithal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_153",
-      "name": "TNSC Bank",
-      "shortName": "TNSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_154",
-      "name": "Thane Janata Sahakari Bank",
-      "shortName": "Thane Janata",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_155",
-      "name": "Assam Gramin Vikash Bank",
-      "shortName": "Assam Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_156",
-      "name": "Bangiya Gramin Vikash Bank",
-      "shortName": "Bangiya Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_157",
-      "name": "Karnataka Grameena Bank",
-      "shortName": "Karnataka Grameena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_158",
-      "name": "Mizoram Rural Bank",
-      "shortName": "Mizoram Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_159",
-      "name": "Paschim Banga Gramin Bank",
-      "shortName": "Paschim Banga",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_160",
-      "name": "Puduvai Bharathiar Grama Bank",
-      "shortName": "Puduvai Bharathiar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_161",
-      "name": "Tamil Nadu Grama Bank",
-      "shortName": "Tamil Nadu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_162",
-      "name": "Rajasthan Gramin Bank",
-      "shortName": "Rajasthan Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_163",
-      "name": "Uttar Bihar Gramin Bank",
-      "shortName": "Uttar Bihar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_164",
-      "name": "Uttarakhand Gramin Bank",
-      "shortName": "Uttarakhand Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_165",
-      "name": "Vananchal Gramin Bank",
-      "shortName": "Vananchal Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_166",
-      "name": "Andhra Pradesh Grameena Vikas Bank",
-      "shortName": "Andhra Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_167",
-      "name": "Kerala Grameena Bank",
-      "shortName": "Kerala Grameena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_168",
-      "name": "Amalgamated:  North Malabar Gramin Bank",
-      "shortName": "Amalgamated: North",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_169",
-      "name": "South Malabar Gramin Bank",
-      "shortName": "South Malabar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_170",
-      "name": "Allahabad UP Gramin Bank",
-      "shortName": "Allahabad UP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_171",
-      "name": "Gramin Bank of Aryavart",
-      "shortName": "Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_172",
-      "name": "Sarva UP Gramin Bank",
-      "shortName": "Sarva UP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_173",
-      "name": "Dena Bank",
-      "shortName": "Dena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_174",
-      "name": "Vijaya Bank",
-      "shortName": "Vijaya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_175",
-      "name": "Allahabad Bank",
-      "shortName": "Allahabad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_176",
-      "name": "Corporation Bank",
-      "shortName": "Corporation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_177",
-      "name": "Oriental Bank of Commerce",
-      "shortName": "Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_178",
-      "name": "Syndicate Bank",
-      "shortName": "Syndicate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_179",
-      "name": "Bank of Bombay",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_180",
-      "name": "Bank of Calcutta",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_181",
-      "name": "Bank of Madras",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_182",
-      "name": "Commercial Bank of India",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_183",
-      "name": "State Bank of Bikaner &amp; Jaipur",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_184",
-      "name": "State Bank of Hyderabad",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_185",
-      "name": "State Bank of Mysore",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_186",
-      "name": "State Bank of Patiala",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_187",
-      "name": "State Bank of Saurashtra",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_188",
-      "name": "State Bank of Travancore",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_189",
-      "name": "Bharatiya Mahila Bank",
-      "shortName": "Bharatiya Mahila",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_190",
-      "name": "Krishnaram Baldeo Bank",
-      "shortName": "Krishnaram Baldeo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_191",
-      "name": "Kashinath Seth Bank",
-      "shortName": "Kashinath Seth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_192",
-      "name": "Global Trust Bank (OBC)",
-      "shortName": "Global Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_193",
-      "name": "Lakshmi Vilas Bank (DBS)",
-      "shortName": "Lakshmi Vilas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_194",
-      "name": "Nedungadi Bank (PNB)",
-      "shortName": "Nedungadi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_195",
-      "name": "United Western Bank (IDBI)",
-      "shortName": "United Western",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_196",
-      "name": "United Industrial Bank (Allahabad Bank)",
-      "shortName": "United Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_197",
-      "name": "Bank of Rajasthan",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_198",
-      "name": "Bengal Central Bank",
-      "shortName": "Bengal Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_199",
-      "name": "Centurion Bank of Punjab",
-      "shortName": "Centurion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_200",
-      "name": "Chartered Bank of India, Australia and China",
-      "shortName": "Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_201",
-      "name": "ING Vysya Bank",
-      "shortName": "ING Vysya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_202",
-      "name": "Mercantile Bank of India, London and China",
-      "shortName": "Mercantile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_203",
-      "name": "Lord Krishna Bank",
-      "shortName": "Lord Krishna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_204",
-      "name": "Suvarna Sahakari Bank",
-      "shortName": "Suvarna Sahakari",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_205",
-      "name": "Times Bank",
-      "shortName": "Times",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_206",
-      "name": "Vysya Bank",
-      "shortName": "Vysya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_207",
-      "name": "Bharat Overseas Bank",
-      "shortName": "Bharat Overseas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_208",
-      "name": "Pandyan Bank",
-      "shortName": "Pandyan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_209",
-      "name": "Bank of Chettinad",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_210",
-      "name": "Dass Bank",
-      "shortName": "Dass",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_211",
-      "name": "Alliance Bank of Simla",
-      "shortName": "Alliance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_212",
-      "name": "Arbuthnot &amp; Co",
-      "shortName": "Arbuthnot &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_213",
-      "name": "Exchange Bank of India &amp; Africa",
-      "shortName": "Exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_214",
-      "name": "(New) Oriental Bank Corporation",
-      "shortName": "(New) Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_215",
-      "name": "Oudh Commercial Bank",
-      "shortName": "Oudh Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_216",
-      "name": "Madhavpura Mercantile Cooperative Bank",
-      "shortName": "Madhavpura Mercantile",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_217",
-      "name": "Bengal Bank (1784)",
-      "shortName": "Bengal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_218",
-      "name": "Bank of Bombay (1720)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_219",
-      "name": "Bank of Hindostan",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_220",
-      "name": "General Bank of Bengal and Bihar",
-      "shortName": "General",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_221",
-      "name": "Nath Bank",
-      "shortName": "Nath",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_222",
-      "name": "Palai Central Bank",
-      "shortName": "Palai Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_223",
-      "name": "The Commercial Bank (1819)",
-      "shortName": "The Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_224",
-      "name": "The Calcutta Bank (1824)",
-      "shortName": "The Calcutta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_225",
-      "name": "The Union Bank (1828)",
-      "shortName": "The Union",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_226",
-      "name": "The Government Savings Bank (1833)",
-      "shortName": "The Government",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_227",
-      "name": "The Bank of Mirzapore (1835)",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_228",
-      "name": "Travancore National and Quilon Bank",
-      "shortName": "Travancore National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_229",
-      "name": "Cirrus",
-      "shortName": "Cirrus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_230",
-      "name": "NFS",
-      "shortName": "NFS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_231",
-      "name": "PLUS",
-      "shortName": "PLUS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_232",
-      "name": "BANCS",
-      "shortName": "BANCS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_233",
-      "name": "Cashnet",
-      "shortName": "Cashnet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_234",
-      "name": "CashTree",
-      "shortName": "CashTree",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_235",
-      "name": "MITR",
-      "shortName": "MITR",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_236",
-      "name": "Maestro",
-      "shortName": "Maestro",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_237",
-      "name": "RuPay",
-      "shortName": "RuPay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_238",
-      "name": "Visa Electron",
-      "shortName": "Visa Electron",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_239",
-      "name": "AEPS",
-      "shortName": "AEPS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_240",
-      "name": "BBPS",
-      "shortName": "BBPS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_241",
-      "name": "BHIM",
-      "shortName": "BHIM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_242",
-      "name": "IMPS",
-      "shortName": "IMPS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_243",
-      "name": "NEFT",
-      "shortName": "NEFT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_244",
-      "name": "RTGS",
-      "shortName": "RTGS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_245",
-      "name": "UPI",
-      "shortName": "UPI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_246",
-      "name": "Atom",
-      "shortName": "Atom",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_247",
-      "name": "BillDesk",
-      "shortName": "BillDesk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_248",
-      "name": "CCAvenue",
-      "shortName": "CCAvenue",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_249",
-      "name": "Juspay",
-      "shortName": "Juspay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_250",
-      "name": "Paytm",
-      "shortName": "Paytm",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_251",
-      "name": "Wibmo",
-      "shortName": "Wibmo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_252",
-      "name": "Sarvatra Technologies",
-      "shortName": "Sarvatra Technologies",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_253",
-      "name": "Zeta India",
-      "shortName": "Zeta India",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_254",
-      "name": "BharatPe",
-      "shortName": "BharatPe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_255",
-      "name": "Oxigen Services",
-      "shortName": "Oxigen Services",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_256",
-      "name": "Payoneer",
-      "shortName": "Payoneer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_257",
-      "name": "PayU",
-      "shortName": "PayU",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_258",
-      "name": "ATM usage fees",
-      "shortName": "ATM usage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_259",
-      "name": "Bank run",
-      "shortName": "Bank run",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_260",
-      "name": "Black money",
-      "shortName": "Black money",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_261",
-      "name": "Counterfeit money",
-      "shortName": "Counterfeit money",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_262",
-      "name": "De-materialisation (de-mat)",
-      "shortName": "De-materialisation (de-mat)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_263",
-      "name": "Low denomination coins",
-      "shortName": "Low denomination",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_264",
-      "name": "Foreign exchange (ForEx)",
-      "shortName": "Foreign exchange",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_265",
-      "name": "Bharat Bill Payment System (BBPS)",
-      "shortName": "Bharat Bill",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_266",
-      "name": "National Unified USSD Platform (NUUP)",
-      "shortName": "National Unified",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_267",
-      "name": "Prepaid Payment Instruments",
-      "shortName": "Prepaid Payment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_268",
-      "name": "Structured Financial Messaging System (SFMS)",
-      "shortName": "Structured Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_269",
-      "name": "Bank rate",
-      "shortName": "Bank rate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_270",
-      "name": "Mumbai Interbank Forward Offer Rate - MIFOR",
-      "shortName": "Mumbai Interbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_271",
-      "name": "Capital Adequacy Ratio - CAR",
-      "shortName": "Capital Adequacy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_272",
-      "name": "Statutory Liquidity Ratio - SLR",
-      "shortName": "Statutory Liquidity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_273",
-      "name": "Cash Reserve Ratio - CRR",
-      "shortName": "Cash Reserve",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_274",
-      "name": "Insurance - IRDAI",
-      "shortName": "Insurance -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_275",
-      "name": "Banking - RBI",
-      "shortName": "Banking -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_276",
-      "name": "Securities - SEBI",
-      "shortName": "Securities -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_277",
-      "name": "Bankruptcy - IBBI",
-      "shortName": "Bankruptcy -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_278",
-      "name": "CERSAI",
-      "shortName": "CERSAI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_279",
-      "name": "IBC",
-      "shortName": "IBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_280",
-      "name": "SARFESI Act",
-      "shortName": "SARFESI Act",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_281",
-      "name": "Asset Reconstruction Company of India Limited",
-      "shortName": "Asset Reconstruction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_282",
-      "name": "Edelweiss Asset Reconstruction Company",
-      "shortName": "Edelweiss Asset",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_283",
-      "name": "IIFCL Asset Management Company Limited",
-      "shortName": "IIFCL Asset",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_284",
-      "name": "Banking Regulation Act, 1949",
-      "shortName": "Banking Regulation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_285",
-      "name": "Government Securities Act, 2006",
-      "shortName": "Government Securities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_286",
-      "name": "IBC, 2016",
-      "shortName": "IBC, 2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_287",
-      "name": "RBI Act, 1934",
-      "shortName": "RBI Act,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_288",
-      "name": "SARFESI Act, 2002",
-      "shortName": "SARFESI Act,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_289",
-      "name": "Income-tax Act, 1961",
-      "shortName": "Income-tax Act,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_290",
-      "name": "Insurance Act, 1938",
-      "shortName": "Insurance Act,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_291",
-      "name": "FEMA, 1999",
-      "shortName": "FEMA, 1999",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_292",
-      "name": "Company Law - NCLT",
-      "shortName": "Company Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_293",
-      "name": "Appellate - NCLAT",
-      "shortName": "Appellate -",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_294",
-      "name": "Debt Recovery - DRT/Appellate - DRAT",
-      "shortName": "Debt Recovery",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_295",
-      "name": "Prompt Corrective Action",
-      "shortName": "Prompt Corrective",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_296",
-      "name": "Institute of Banking Personnel Selection",
-      "shortName": "Institute of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_297",
-      "name": "Mumbai Consensus",
-      "shortName": "Mumbai Consensus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_298",
-      "name": "Economy of India lists",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_299",
-      "name": "Pages with non-numeric formatnum arguments",
-      "shortName": "Pages with",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_300",
-      "name": "CS1 errors: missing title",
-      "shortName": "CS1 errors:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_301",
-      "name": "CS1 errors: bare URL",
-      "shortName": "CS1 errors:",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_302",
-      "name": "Use dmy dates from September 2023",
-      "shortName": "Use dmy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_303",
-      "name": "Use Indian English from October 2015",
-      "shortName": "Use Indian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_304",
-      "name": "7,444,291",
-      "shortName": "7,444,291",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_305",
-      "name": "4,392,417",
-      "shortName": "4,392,417",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_306",
-      "name": "2,642,241",
-      "shortName": "2,642,241",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_307",
-      "name": "1,873,715",
-      "shortName": "1,873,715",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_308",
-      "name": "1,839,671",
-      "shortName": "1,839,671",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_309",
-      "name": "1,777,792",
-      "shortName": "1,777,792",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_310",
-      "name": "1,656,962",
-      "shortName": "1,656,962",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_311",
-      "name": "1,497,882",
-      "shortName": "1,497,882",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_312",
-      "name": "1,056,425",
-      "shortName": "1,056,425",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_313",
-      "name": "895,503",
-      "shortName": "895,503",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_314",
-      "name": "879,774",
-      "shortName": "879,774",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_315",
-      "name": "554,107",
-      "shortName": "554,107",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_316",
-      "name": "481,186",
-      "shortName": "481,186",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_317",
-      "name": "424,115",
-      "shortName": "424,115",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_318",
-      "name": "414,113",
-      "shortName": "414,113",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_319",
-      "name": "1908",
-      "shortName": "1908",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_320",
-      "name": "Vadodara, Gujarat",
-      "shortName": "Vadodara, Gujarat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_321",
-      "name": "63.97%",
-      "shortName": "63.97%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_322",
-      "name": "8,564",
-      "shortName": "8,564",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_323",
-      "name": "₹1,976,227.84 crore (US$210&#160;billion)",
-      "shortName": "₹1,976,227.84 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_324",
-      "name": "₹152,884.14 crore (US$16&#160;billion)",
-      "shortName": "₹152,884.14 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_325",
-      "name": "https://bankofbaroda.bank.in",
-      "shortName": "https://bankofbaroda.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_326",
-      "name": "&#91;11&#93;&#91;12&#93;&#91;13&#93;",
-      "shortName": "&#91;11&#93;&#91;12&#93;&#91;13&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_327",
-      "name": "1906",
-      "shortName": "1906",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_328",
-      "name": "Navi Mumbai, Maharashtra",
-      "shortName": "Navi Mumbai,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_329",
-      "name": "73.38%",
-      "shortName": "73.38%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_330",
-      "name": "5,447",
-      "shortName": "5,447",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_331",
-      "name": "₹1,120,713.40 crore (US$120&#160;billion)",
-      "shortName": "₹1,120,713.40 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_332",
-      "name": "₹80,412.44 crore (US$8.4&#160;billion)",
-      "shortName": "₹80,412.44 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_333",
-      "name": "&#91;15&#93;&#91;16&#93;",
-      "shortName": "&#91;15&#93;&#91;16&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_334",
-      "name": "1935",
-      "shortName": "1935",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_335",
-      "name": "Pune, Maharashtra",
-      "shortName": "Pune, Maharashtra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_336",
-      "name": "79.60%",
-      "shortName": "79.60%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_337",
-      "name": "2,719",
-      "shortName": "2,719",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_338",
-      "name": "₹393,224 crore (US$41&#160;billion)",
-      "shortName": "₹393,224 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_339",
-      "name": "₹28,401.62 crore (US$3.0&#160;billion)",
-      "shortName": "₹28,401.62 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_340",
-      "name": "https://bankofmaharashtra.bank.in",
-      "shortName": "https://bankofmaharashtra.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_341",
-      "name": "&#91;10&#93;",
-      "shortName": "&#91;10&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_342",
-      "name": "Bengaluru, Karnataka",
-      "shortName": "Bengaluru, Karnataka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_343",
-      "name": "62.93%",
-      "shortName": "62.93%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_344",
-      "name": "10,098",
-      "shortName": "10,098",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_345",
-      "name": "₹1,822,356.78 crore (US$190&#160;billion)",
-      "shortName": "₹1,822,356.78 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_346",
-      "name": "https://nainitalbank.bank.in",
-      "shortName": "https://nainitalbank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_347",
-      "name": "1911",
-      "shortName": "1911",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_348",
-      "name": "89.27%",
-      "shortName": "89.27%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_349",
-      "name": "4,567",
-      "shortName": "4,567",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_350",
-      "name": "₹533,506.19 crore (US$56&#160;billion)",
-      "shortName": "₹533,506.19 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_351",
-      "name": "₹39,667.95 crore (US$4.1&#160;billion)",
-      "shortName": "₹39,667.95 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_352",
-      "name": "1907",
-      "shortName": "1907",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_353",
-      "name": "Chennai, Tamil Nadu",
-      "shortName": "Chennai, Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_354",
-      "name": "73.84%",
-      "shortName": "73.84%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_355",
-      "name": "5,965",
-      "shortName": "5,965",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_356",
-      "name": "₹949,690.30 crore (US$99&#160;billion)",
-      "shortName": "₹949,690.30 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_357",
-      "name": "₹72,050.88 crore (US$7.5&#160;billion)",
-      "shortName": "₹72,050.88 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_358",
-      "name": "https://cityunionbank.bank.in",
-      "shortName": "https://cityunionbank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_359",
-      "name": "1937",
-      "shortName": "1937",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_360",
-      "name": "94.61%",
-      "shortName": "94.61%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_361",
-      "name": "3,438",
-      "shortName": "3,438",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_362",
-      "name": "₹447,541.62 crore (US$47&#160;billion)",
-      "shortName": "₹447,541.62 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_363",
-      "name": "https://axis.bank.in",
-      "shortName": "https://axis.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_364",
-      "name": "New Delhi, NCT of Delhi",
-      "shortName": "New Delhi,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_365",
-      "name": "93.85%",
-      "shortName": "93.85%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_366",
-      "name": "1,623",
-      "shortName": "1,623",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_367",
-      "name": "₹13,048.95 crore (US$1.4&#160;billion)",
-      "shortName": "₹13,048.95 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_368",
-      "name": "https://punjabandsind.bank.in",
-      "shortName": "https://punjabandsind.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_369",
-      "name": "1894",
-      "shortName": "1894",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_370",
-      "name": "70.08%",
-      "shortName": "70.08%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_371",
-      "name": "10,261",
-      "shortName": "10,261",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_372",
-      "name": "₹140,456.81 crore (US$15&#160;billion)",
-      "shortName": "₹140,456.81 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_373",
-      "name": "1955",
-      "shortName": "1955",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_374",
-      "name": "55.50%",
-      "shortName": "55.50%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_375",
-      "name": "23,125",
-      "shortName": "23,125",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_376",
-      "name": "₹7,881,070 crore (US$820&#160;billion)",
-      "shortName": "₹7,881,070 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_377",
-      "name": "₹473,378.14 crore (US$49&#160;billion)",
-      "shortName": "₹473,378.14 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_378",
-      "name": "1943",
-      "shortName": "1943",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_379",
-      "name": "Kolkata, West Bengal",
-      "shortName": "Kolkata, West",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_380",
-      "name": "90.95%",
-      "shortName": "90.95%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_381",
-      "name": "3,327",
-      "shortName": "3,327",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_382",
-      "name": "₹378,617.65 crore (US$39&#160;billion)",
-      "shortName": "₹378,617.65 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_383",
-      "name": "&#91;22&#93;&#91;23&#93;",
-      "shortName": "&#91;22&#93;&#91;23&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_384",
-      "name": "1919",
-      "shortName": "1919",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_385",
-      "name": "74.76%",
-      "shortName": "74.76%",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_386",
-      "name": "8,671",
-      "shortName": "8,671",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_387",
-      "name": "₹1,499,855.67 crore (US$160&#160;billion)",
-      "shortName": "₹1,499,855.67 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_388",
-      "name": "₹129,979.25 crore (US$14&#160;billion)",
-      "shortName": "₹129,979.25 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_389",
-      "name": "https://unionbankofindia.bank.in",
-      "shortName": "https://unionbankofindia.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_390",
-      "name": "1993",
-      "shortName": "1993",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_391",
-      "name": "5,876",
-      "shortName": "5,876",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_392",
-      "name": "₹1,656,962.61 crore (US$170&#160;billion)",
-      "shortName": "₹1,656,962.61 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_393",
-      "name": "&#91;25&#93;",
-      "shortName": "&#91;25&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_394",
-      "name": "2015",
-      "shortName": "2015",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_395",
-      "name": "1,715",
-      "shortName": "1,715",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_396",
-      "name": "₹191,476.29 crore (US$20&#160;billion)",
-      "shortName": "₹191,476.29 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_397",
-      "name": "₹21,656 crore (US$2.3&#160;billion)",
-      "shortName": "₹21,656 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_398",
-      "name": "https://bandhan.bank.in",
-      "shortName": "https://bandhan.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_399",
-      "name": "1920",
-      "shortName": "1920",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_400",
-      "name": "Thrissur, Kerala",
-      "shortName": "Thrissur, Kerala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_401",
-      "name": "829",
-      "shortName": "829",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_402",
-      "name": "₹47,836.27 crore (US$5.0&#160;billion)",
-      "shortName": "₹47,836.27 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_403",
-      "name": "₹3,450 crore (US$360&#160;million)",
-      "shortName": "₹3,450 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_404",
-      "name": "1904",
-      "shortName": "1904",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_405",
-      "name": "Kumbakonam, Tamil Nadu",
-      "shortName": "Kumbakonam, Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_406",
-      "name": "875",
-      "shortName": "875",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_407",
-      "name": "₹77,623.21 crore (US$8.1&#160;billion)",
-      "shortName": "₹77,623.21 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_408",
-      "name": "1930",
-      "shortName": "1930",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_409",
-      "name": "464",
-      "shortName": "464",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_410",
-      "name": "https://hdfc.bank.in",
-      "shortName": "https://hdfc.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_411",
-      "name": "1927",
-      "shortName": "1927",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_412",
-      "name": "261",
-      "shortName": "261",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_413",
-      "name": "₹17,936.94 crore (US$1.9&#160;billion)",
-      "shortName": "₹17,936.94 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_414",
-      "name": "1931",
-      "shortName": "1931",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_415",
-      "name": "Kochi, Kerala",
-      "shortName": "Kochi, Kerala",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_416",
-      "name": "1,589",
-      "shortName": "1,589",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_417",
-      "name": "₹360,151.91 crore (US$38&#160;billion)",
-      "shortName": "₹360,151.91 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_418",
-      "name": "https://federal.bank.in",
-      "shortName": "https://federal.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_419",
-      "name": "1994",
-      "shortName": "1994",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_420",
-      "name": "9,455",
-      "shortName": "9,455",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_421",
-      "name": "₹4,392,417.42 crore (US$460&#160;billion)",
-      "shortName": "₹4,392,417.42 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_422",
-      "name": "₹205,000 crore (US$21&#160;billion)",
-      "shortName": "₹205,000 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_423",
-      "name": "6,983",
-      "shortName": "6,983",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_424",
-      "name": "₹2,642,241.41 crore (US$280&#160;billion)",
-      "shortName": "₹2,642,241.41 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_425",
-      "name": "https://icici.bank.in",
-      "shortName": "https://icici.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_426",
-      "name": "1964",
-      "shortName": "1964",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_427",
-      "name": "2,104",
-      "shortName": "2,104",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_428",
-      "name": "₹412,961.90 crore (US$43&#160;billion)",
-      "shortName": "₹412,961.90 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_429",
-      "name": "1,066",
-      "shortName": "1,066",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_430",
-      "name": "https://idfcfirst.bank.in",
-      "shortName": "https://idfcfirst.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_431",
-      "name": "3,081",
-      "shortName": "3,081",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_432",
-      "name": "₹554,107.11 crore (US$58&#160;billion)",
-      "shortName": "₹554,107.11 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_433",
-      "name": "https://indusind.bank.in",
-      "shortName": "https://indusind.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_434",
-      "name": "1938",
-      "shortName": "1938",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_435",
-      "name": "Srinagar, Jammu and Kashmir",
-      "shortName": "Srinagar, Jammu",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "IPPB"
     },
     {
-      "code": "IN_436",
-      "name": "1,019",
-      "shortName": "1,019",
+      "code": "IN_31",
+      "name": "Indian Bank",
+      "shortName": "Indian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_437",
-      "name": "₹169,423.54 crore (US$18&#160;billion)",
-      "shortName": "₹169,423.54 crore",
+      "code": "IN_32",
+      "name": "Indian Overseas Bank",
+      "shortName": "Indian Overseas",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_438",
-      "name": "₹7,166 crore (US$750&#160;million)",
-      "shortName": "₹7,166 crore",
+      "code": "IN_33",
+      "name": "IndusInd Bank",
+      "shortName": "IndusInd",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_439",
-      "name": "https://apgb.bank.in",
-      "shortName": "https://apgb.bank.in",
+      "code": "IN_34",
+      "name": "Jammu & Kashmir Bank",
+      "shortName": "Jammu & Kashmir",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_440",
-      "name": "1924",
-      "shortName": "1924",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_441",
-      "name": "957",
-      "shortName": "957",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_442",
-      "name": "https://karnatakabank.bank.in",
-      "shortName": "https://karnatakabank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_443",
-      "name": "&#91;43&#93;",
-      "shortName": "&#91;43&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_444",
-      "name": "1916",
-      "shortName": "1916",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_445",
-      "name": "Karur, Tamil Nadu",
-      "shortName": "Karur, Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_446",
-      "name": "888",
-      "shortName": "888",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_447",
-      "name": "2003",
-      "shortName": "2003",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_448",
-      "name": "2148",
-      "shortName": "2148",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_449",
-      "name": "₹879,774.34 crore (US$92&#160;billion)",
-      "shortName": "₹879,774.34 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_450",
-      "name": "https://coastal.bank.in",
-      "shortName": "https://coastal.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_451",
-      "name": "1922",
-      "shortName": "1922",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_452",
-      "name": "Nainital, Uttarakhand",
-      "shortName": "Nainital, Uttarakhand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_453",
-      "name": "173",
-      "shortName": "173",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_454",
-      "name": "561",
-      "shortName": "561",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_455",
-      "name": "1929",
-      "shortName": "1929",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_456",
-      "name": "948",
-      "shortName": "948",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_457",
-      "name": "https://southindianbank.bank.in",
-      "shortName": "https://southindianbank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_458",
-      "name": "1921",
-      "shortName": "1921",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_459",
-      "name": "Thoothukkudi, Tamil Nadu",
-      "shortName": "Thoothukkudi, Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_460",
-      "name": "578",
-      "shortName": "578",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_461",
-      "name": "₹66,449.87 crore (US$6.9&#160;billion)",
-      "shortName": "₹66,449.87 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_462",
-      "name": "2004",
-      "shortName": "2004",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_463",
-      "name": "1,255",
-      "shortName": "1,255",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_464",
-      "name": "Andhra Pradesh",
-      "shortName": "Andhra Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_465",
-      "name": "2025",
-      "shortName": "2025",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_466",
-      "name": "Guntur, Andhra Pradesh",
-      "shortName": "Guntur, Andhra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_467",
-      "name": "1,351",
-      "shortName": "1,351",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_468",
-      "name": "Arunachal Pradesh",
-      "shortName": "Arunachal Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_469",
-      "name": "Arunachal Pradesh Rural Bank",
-      "shortName": "Arunachal Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_470",
-      "name": "1983",
-      "shortName": "1983",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_471",
-      "name": "Itanagar, Arunachal Pradesh",
-      "shortName": "Itanagar, Arunachal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_472",
-      "name": "34",
-      "shortName": "34",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_473",
-      "name": "Assam",
-      "shortName": "Assam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_474",
-      "name": "Assam Gramin Bank",
-      "shortName": "Assam Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_475",
-      "name": "2019",
-      "shortName": "2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_476",
-      "name": "Guwahati, Assam",
-      "shortName": "Guwahati, Assam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_477",
-      "name": "473",
-      "shortName": "473",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_478",
-      "name": "Bihar",
-      "shortName": "Bihar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_479",
-      "name": "Bihar Gramin Bank",
-      "shortName": "Bihar Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_480",
-      "name": "Patna, Bihar",
-      "shortName": "Patna, Bihar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_481",
-      "name": "2,885",
-      "shortName": "2,885",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_482",
-      "name": "Chhattisgarh",
-      "shortName": "Chhattisgarh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_483",
-      "name": "Chhattisgarh Gramin Bank",
-      "shortName": "Chhattisgarh Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_484",
-      "name": "2013",
-      "shortName": "2013",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_485",
-      "name": "Raipur, Chhattisgarh",
-      "shortName": "Raipur, Chhattisgarh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_486",
-      "name": "626",
-      "shortName": "626",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_487",
-      "name": "Gujarat",
-      "shortName": "Gujarat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_488",
-      "name": "Gujarat Gramin Bank",
-      "shortName": "Gujarat Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_489",
-      "name": "744",
-      "shortName": "744",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_490",
-      "name": "Haryana",
-      "shortName": "Haryana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_491",
-      "name": "Haryana Gramin Bank",
-      "shortName": "Haryana Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_492",
-      "name": "Rohtak, Haryana",
-      "shortName": "Rohtak, Haryana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_493",
-      "name": "690",
-      "shortName": "690",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_494",
-      "name": "Himachal Pradesh",
-      "shortName": "Himachal Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_495",
-      "name": "Himachal Pradesh Gramin Bank",
-      "shortName": "Himachal Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_496",
-      "name": "Mandi, Himachal Pradesh",
-      "shortName": "Mandi, Himachal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_497",
-      "name": "265",
-      "shortName": "265",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_498",
-      "name": "Jammu And Kashmir",
-      "shortName": "Jammu And",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_499",
-      "name": "Jammu and Kashmir Grameen Bank",
-      "shortName": "Jammu and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_500",
-      "name": "Jammu, Jammu and Kashmir",
-      "shortName": "Jammu, Jammu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_501",
-      "name": "330",
-      "shortName": "330",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_502",
-      "name": "https://jkgrameen.bank.in",
-      "shortName": "https://jkgrameen.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_503",
-      "name": "Jharkhand",
-      "shortName": "Jharkhand",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "J&K Bank"
     },
     {
-      "code": "IN_504",
-      "name": "Ranchi, Jharkhand",
-      "shortName": "Ranchi, Jharkhand",
+      "code": "IN_35",
+      "name": "Jana Small Finance Bank",
+      "shortName": "Jana Small Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_505",
-      "name": "450",
-      "shortName": "450",
+      "code": "IN_36",
+      "name": "Jio Payments Bank",
+      "shortName": "Jio Payments",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_506",
-      "name": "https://jrgbank.bank.in",
-      "shortName": "https://jrgbank.bank.in",
+      "code": "IN_37",
+      "name": "J.P. Morgan Chase Bank",
+      "shortName": "J.P. Morgan Chase",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_507",
-      "name": "Karnataka",
+      "code": "IN_38",
+      "name": "Karnataka Bank",
       "shortName": "Karnataka",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_508",
-      "name": "Ballari, Karnataka",
-      "shortName": "Ballari, Karnataka",
+      "code": "IN_39",
+      "name": "Karur Vysya Bank",
+      "shortName": "Karur Vysya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_509",
-      "name": "1,750",
-      "shortName": "1,750",
+      "code": "IN_40",
+      "name": "Kotak Mahindra Bank",
+      "shortName": "Kotak Mahindra",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_510",
-      "name": "Kerala",
-      "shortName": "Kerala",
+      "code": "IN_41",
+      "name": "L&T Finance Limited",
+      "shortName": "L&T Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_511",
-      "name": "Malappuram, Kerala",
-      "shortName": "Malappuram, Kerala",
+      "code": "IN_42",
+      "name": "Nainital Bank",
+      "shortName": "Nainital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_512",
-      "name": "635",
-      "shortName": "635",
+      "code": "IN_43",
+      "name": "North East Small Finance Bank",
+      "shortName": "North East Small Fin",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_513",
-      "name": "Indore, Madhya Pradesh",
-      "shortName": "Indore, Madhya",
+      "code": "IN_44",
+      "name": "NSDL Payments Bank",
+      "shortName": "NSDL Payments",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_514",
-      "name": "1,320",
-      "shortName": "1,320",
+      "code": "IN_45",
+      "name": "Punjab & Sind Bank",
+      "shortName": "Punjab & Sind",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_515",
-      "name": "Maharashtra",
-      "shortName": "Maharashtra",
+      "code": "IN_46",
+      "name": "Punjab National Bank",
+      "shortName": "Punjab National",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_516",
-      "name": "Maharashtra Gramin Bank",
-      "shortName": "Maharashtra Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_517",
-      "name": "Chhatrapati Sambhajinagar, Maharashtra",
-      "shortName": "Chhatrapati Sambhajinagar,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_518",
-      "name": "748",
-      "shortName": "748",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_519",
-      "name": "https://mahagramin.bank.in",
-      "shortName": "https://mahagramin.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_520",
-      "name": "Manipur",
-      "shortName": "Manipur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_521",
-      "name": "Manipur Rural Bank",
-      "shortName": "Manipur Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_522",
-      "name": "1981",
-      "shortName": "1981",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_523",
-      "name": "Imphal, Manipur",
-      "shortName": "Imphal, Manipur",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_524",
-      "name": "28",
-      "shortName": "28",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_525",
-      "name": "https://manipurrural.bank.in",
-      "shortName": "https://manipurrural.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_526",
-      "name": "Meghalaya",
-      "shortName": "Meghalaya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_527",
-      "name": "Meghalaya Rural Bank",
-      "shortName": "Meghalaya Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_528",
-      "name": "Shillong, Meghalaya",
-      "shortName": "Shillong, Meghalaya",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_529",
-      "name": "89",
-      "shortName": "89",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_530",
-      "name": "https://meghalayaruralbank.bank.in",
-      "shortName": "https://meghalayaruralbank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_531",
-      "name": "Mizoram",
-      "shortName": "Mizoram",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_532",
-      "name": "Aizawl, Mizoram",
-      "shortName": "Aizawl, Mizoram",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_533",
-      "name": "105",
-      "shortName": "105",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_534",
-      "name": "Nagaland",
-      "shortName": "Nagaland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_535",
-      "name": "Nagaland Rural Bank",
-      "shortName": "Nagaland Rural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_536",
-      "name": "Kohima, Nagaland",
-      "shortName": "Kohima, Nagaland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_537",
-      "name": "12",
-      "shortName": "12",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_538",
-      "name": "Odisha",
-      "shortName": "Odisha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_539",
-      "name": "Odisha Grameen Bank",
-      "shortName": "Odisha Grameen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_540",
-      "name": "Bhubaneswar, Odisha",
-      "shortName": "Bhubaneswar, Odisha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_541",
-      "name": "979",
-      "shortName": "979",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_542",
-      "name": "https://odishabank.bank.in",
-      "shortName": "https://odishabank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_543",
-      "name": "Puducherry",
-      "shortName": "Puducherry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_544",
-      "name": "Puducherry Grama Bank",
-      "shortName": "Puducherry Grama",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_545",
-      "name": "2008",
-      "shortName": "2008",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_546",
-      "name": "Pondicherry, Puducherry",
-      "shortName": "Pondicherry, Puducherry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_547",
-      "name": "48",
-      "shortName": "48",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_548",
-      "name": "Punjab",
-      "shortName": "Punjab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_549",
-      "name": "Punjab Gramin Bank",
-      "shortName": "Punjab Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_550",
-      "name": "Kapurthala, Punjab",
-      "shortName": "Kapurthala, Punjab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_551",
-      "name": "458",
-      "shortName": "458",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_552",
-      "name": "Rajasthan",
-      "shortName": "Rajasthan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_553",
-      "name": "Jaipur, Rajasthan",
-      "shortName": "Jaipur, Rajasthan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_554",
-      "name": "1,596",
-      "shortName": "1,596",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_555",
-      "name": "Tamil Nadu",
-      "shortName": "Tamil Nadu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_556",
-      "name": "Salem, Tamil Nadu",
-      "shortName": "Salem, Tamil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_557",
-      "name": "682",
-      "shortName": "682",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_558",
-      "name": "Telangana",
-      "shortName": "Telangana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_559",
-      "name": "Telangana Grameena Bank",
-      "shortName": "Telangana Grameena",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_560",
-      "name": "Hyderabad, Telangana",
-      "shortName": "Hyderabad, Telangana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_561",
-      "name": "934",
-      "shortName": "934",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_562",
-      "name": "Tripura",
-      "shortName": "Tripura",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_563",
-      "name": "Tripura Gramin Bank",
-      "shortName": "Tripura Gramin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_564",
-      "name": "1976",
-      "shortName": "1976",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_565",
-      "name": "Agartala, Tripura",
-      "shortName": "Agartala, Tripura",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_566",
-      "name": "154",
-      "shortName": "154",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_567",
-      "name": "https://tripuragramin.bank.in",
-      "shortName": "https://tripuragramin.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_568",
-      "name": "Uttar Pradesh",
-      "shortName": "Uttar Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_569",
-      "name": "Uttar Pradesh Gramin Bank",
-      "shortName": "Uttar Pradesh",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_570",
-      "name": "Lucknow, Uttar Pradesh",
-      "shortName": "Lucknow, Uttar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_571",
-      "name": "4,330",
-      "shortName": "4,330",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_572",
-      "name": "Uttarakhand",
-      "shortName": "Uttarakhand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_573",
-      "name": "2012",
-      "shortName": "2012",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_574",
-      "name": "Dehradun, Uttarakhand",
-      "shortName": "Dehradun, Uttarakhand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_575",
-      "name": "291",
-      "shortName": "291",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_576",
-      "name": "West Bengal",
-      "shortName": "West Bengal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_577",
-      "name": "West Bengal Gramin Bank",
-      "shortName": "West Bengal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_578",
-      "name": "960",
-      "shortName": "960",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_579",
-      "name": "Coastal Local Area Bank",
-      "shortName": "Coastal Local",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_580",
-      "name": "1999",
-      "shortName": "1999",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_581",
-      "name": "Vijayawada, Andhra Pradesh",
-      "shortName": "Vijayawada, Andhra",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_582",
-      "name": "50",
-      "shortName": "50",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_583",
-      "name": "Krishna Bhima Samruddhi Local Area Bank",
-      "shortName": "Krishna Bhima",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_584",
-      "name": "2001",
-      "shortName": "2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_585",
-      "name": "29",
-      "shortName": "29",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_586",
-      "name": "https://www.kbsbank.bank.in",
-      "shortName": "https://www.kbsbank.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_587",
-      "name": "2017",
-      "shortName": "2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_588",
-      "name": "https://airtelpayments.bank.in",
-      "shortName": "https://airtelpayments.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_589",
-      "name": "2018",
-      "shortName": "2018",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_590",
-      "name": "650",
-      "shortName": "650",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_591",
-      "name": "₹55 crore (US$5.7&#160;million)",
-      "shortName": "₹55 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_592",
-      "name": "https://ippbonline.bank.in",
-      "shortName": "https://ippbonline.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_593",
-      "name": "630",
-      "shortName": "630",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_594",
-      "name": "Capital Small Finance Bank",
-      "shortName": "Capital Small",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_595",
-      "name": "2016",
-      "shortName": "2016",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_596",
-      "name": "Jalandhar, Punjab",
-      "shortName": "Jalandhar, Punjab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_597",
-      "name": "180",
-      "shortName": "180",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_598",
-      "name": "987",
-      "shortName": "987",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_599",
-      "name": "₹45,304 crore (US$4.7&#160;billion)",
-      "shortName": "₹45,304 crore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_600",
-      "name": "https://equitas.bank.in",
-      "shortName": "https://equitas.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_601",
-      "name": "756",
-      "shortName": "756",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_602",
-      "name": "https://esaf.bank.in",
-      "shortName": "https://esaf.bank.in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_603",
-      "name": "&#91;69&#93;",
-      "shortName": "&#91;69&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "IN_604",
-      "name": "410",
-      "shortName": "410",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "PNB"
     },
     {
-      "code": "IN_605",
-      "name": "https://fino.bank.in",
-      "shortName": "https://fino.bank.in",
+      "code": "IN_47",
+      "name": "RBL Bank",
+      "shortName": "RBL",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_606",
-      "name": "640",
-      "shortName": "640",
+      "code": "IN_48",
+      "name": "Saraswat Co-operative Bank",
+      "shortName": "Saraswat Co-operativ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_607",
-      "name": "₹32,710 crore (US$3.4&#160;billion)",
-      "shortName": "₹32,710 crore",
+      "code": "IN_49",
+      "name": "SBI Cards and Payment Services Limited",
+      "shortName": "SBI Cards and Paymen",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_608",
+      "code": "IN_50",
       "name": "Shivalik Small Finance Bank",
-      "shortName": "Shivalik Small",
+      "shortName": "Shivalik Small Finan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_609",
-      "name": "2021",
-      "shortName": "2021",
+      "code": "IN_51",
+      "name": "South Indian Bank",
+      "shortName": "South Indian",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_610",
-      "name": "Saharanpur, Uttar Pradesh",
-      "shortName": "Saharanpur, Uttar",
+      "code": "IN_52",
+      "name": "Standard Chartered Bank",
+      "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_611",
-      "name": "73",
-      "shortName": "73",
+      "code": "IN_53",
+      "name": "State Bank of India",
+      "shortName": "State of India",
+      "type": "bank",
+      "aliases": "SBI"
+    },
+    {
+      "code": "IN_54",
+      "name": "Suryoday Small Finance Bank",
+      "shortName": "Suryoday Small Finan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_612",
-      "name": "₹4,119.76 crore (US$430&#160;million)",
-      "shortName": "₹4,119.76 crore",
+      "code": "IN_55",
+      "name": "Tamilnad Mercantile Bank",
+      "shortName": "Tamilnad Mercantile",
+      "type": "bank",
+      "aliases": "TMB"
+    },
+    {
+      "code": "IN_56",
+      "name": "Tata Capital Financial Services",
+      "shortName": "Tata Capital Financi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_613",
-      "name": "https://shivalik.bank.in",
-      "shortName": "https://shivalik.bank.in",
+      "code": "IN_57",
+      "name": "UCO Bank",
+      "shortName": "UCO",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_614",
-      "name": "&#91;73&#93;&#91;74&#93;",
-      "shortName": "&#91;73&#93;&#91;74&#93;",
+      "code": "IN_58",
+      "name": "Union Bank of India",
+      "shortName": "Union of India",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_615",
-      "name": "232",
-      "shortName": "232",
+      "code": "IN_59",
+      "name": "Unity Small Finance Bank",
+      "shortName": "Unity Small Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_616",
-      "name": "695",
-      "shortName": "695",
+      "code": "IN_60",
+      "name": "Utkarsh Small Finance Bank",
+      "shortName": "Utkarsh Small Financ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_617",
-      "name": "https://suryoday.bank.in",
-      "shortName": "https://suryoday.bank.in",
+      "code": "IN_61",
+      "name": "Ujjivan Small Finance Bank",
+      "shortName": "Ujjivan Small Financ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_618",
-      "name": "752",
-      "shortName": "752",
+      "code": "IN_62",
+      "name": "Woori Bank India",
+      "shortName": "Woori India",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_619",
-      "name": "https://ujjivansfb.bank.in",
-      "shortName": "https://ujjivansfb.bank.in",
+      "code": "IN_63",
+      "name": "YES Bank",
+      "shortName": "YES",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "IN_620",
-      "name": "334",
-      "shortName": "334",
-      "type": "bank",
+      "code": "IN_64",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "IN_621",
-      "name": "Varanasi, Uttar Pradesh",
-      "shortName": "Varanasi, Uttar",
-      "type": "bank",
+      "code": "IN_65",
+      "name": "Amazon Pay Balance",
+      "shortName": "Amazon Pay Balance",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "IN_622",
-      "name": "967",
-      "shortName": "967",
-      "type": "bank",
+      "code": "IN_66",
+      "name": "Freecharge Wallet",
+      "shortName": "Freecharge Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_67",
+      "name": "JioMoney",
+      "shortName": "JioMoney",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_68",
+      "name": "MobiKwik Wallet",
+      "shortName": "MobiKwik Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_69",
+      "name": "Ola Money",
+      "shortName": "Ola Money",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_70",
+      "name": "Paytm Wallet",
+      "shortName": "Paytm Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_71",
+      "name": "PayZapp Wallet",
+      "shortName": "PayZapp Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_72",
+      "name": "PhonePe Wallet",
+      "shortName": "PhonePe Wallet",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "IN_73",
+      "name": "Pockets Wallet",
+      "shortName": "Pockets Wallet",
+      "type": "mfs",
       "aliases": ""
     }
   ]
