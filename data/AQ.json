@@ -1,40 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "AQ",
   "institutions": [
     {
       "code": "AQ_0",
-      "name": "Central Bank of AQ",
-      "shortName": "Central Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AQ_1",
-      "name": "National Bank of AQ",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AQ_2",
-      "name": "State Bank of AQ",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AQ_3",
-      "name": "Commercial Bank of AQ",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AQ_4",
-      "name": "First AQ Bank",
-      "shortName": "First Bank",
+      "name": "Wells Fargo",
+      "shortName": "Wells Fargo",
       "type": "bank",
       "aliases": ""
     }
