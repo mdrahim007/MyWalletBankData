@@ -1,461 +1,223 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "AT",
   "institutions": [
     {
       "code": "AT_0",
+      "name": "A1 Bank AG",
+      "shortName": "A1",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_1",
       "name": "Addiko Bank AG",
       "shortName": "Addiko",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_1",
-      "name": "BAWAG Group AG",
-      "shortName": "BAWAG Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "AT_2",
-      "name": "Erste Group Bank AG (Sparkassengruppe IPS)",
-      "shortName": "Erste Group",
+      "name": "Alpen Privatbank Aktiengesellschaft",
+      "shortName": "Alpen Privatbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_3",
-      "name": "Raiffeisen Bank International AG (Raiffeisen IPS)",
-      "shortName": "Raiffeisen",
+      "name": "Austrian Anadi Bank AG",
+      "shortName": "Austrian Anadi",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_4",
-      "name": "Hypo Noe Landesbank für Niederösterreich und Wien AG",
-      "shortName": "Hypo Noe",
+      "name": "Banco do Brasil Aktiengesellschaft",
+      "shortName": "Banco do Brasil",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_5",
-      "name": "Hypo Vorarlberg Bank AG&#160;&#91;de&#93;",
-      "shortName": "Hypo Vorarlberg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_6",
-      "name": "Oberbank AG",
-      "shortName": "Oberbank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_7",
-      "name": "Raiffeisenlandesbank Kärnten regGenmbH (Raiffeisen IPS)",
-      "shortName": "Raiffeisenlandesbank Kärnten",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_8",
-      "name": "Raiffeisen-Landesbank Tirol AG (Raiffeisen IPS)",
-      "shortName": "Raiffeisen-Landesbank Tirol",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_9",
-      "name": "A1 Bank AG, subsidiary of A1 Telekom Austria Group",
-      "shortName": "A1",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_10",
-      "name": "Walser Privatbank AG",
-      "shortName": "Walser Privatbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_11",
-      "name": "Bank Gutmann AG",
+      "name": "Bank Gutmann Aktiengesellschaft",
       "shortName": "Bank Gutmann",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_12",
-      "name": "bank99 AG, subsidiary of Austrian Post",
-      "shortName": "bank99 AG,",
+      "code": "AT_6",
+      "name": "Bank Winter & Co. AG",
+      "shortName": "Bank Winter & Co.",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_13",
-      "name": "Bankhaus Carl Spängler &amp; Co. AG",
-      "shortName": "Bankhaus Carl",
+      "code": "AT_7",
+      "name": "bank99 AG",
+      "shortName": "bank99",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_14",
-      "name": "Bankhaus Denzel AG&#160;&#91;de&#93;",
+      "code": "AT_8",
+      "name": "Bankhaus Carl Spängler & Co. Aktiengesellschaft",
+      "shortName": "Bankhaus Carl Spängl",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_9",
+      "name": "Bankhaus Denzel Aktiengesellschaft",
       "shortName": "Bankhaus Denzel",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AT_15",
-      "name": "BKS Bank AG&#160;&#91;de&#93;",
+      "code": "AT_10",
+      "name": "BAWAG Group AG",
+      "shortName": "BAWAG",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_11",
+      "name": "BKS Bank AG",
       "shortName": "BKS",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "AT_12",
+      "name": "BTV Vier Länder Bank AG",
+      "shortName": "BTV Vier Länder",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_13",
+      "name": "DenizBank AG",
+      "shortName": "DenizBank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_14",
+      "name": "DolomitenBank Osttirol-Westkärnten eG",
+      "shortName": "DolomitenBank Osttir",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "AT_15",
+      "name": "Erste Bank der oesterreichischen Sparkassen AG",
+      "shortName": "Erste der oesterreic",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "AT_16",
-      "name": "BMW Austria Bank GmbH, subsidiary of BMW",
-      "shortName": "BMW Austria",
+      "name": "Erste Group Bank AG",
+      "shortName": "Erste",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_17",
-      "name": "BTV Vier Länder Bank AG",
-      "shortName": "BTV Vier",
+      "name": "flatexDEGIRO Bank SE",
+      "shortName": "flatexDEGIRO",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_18",
-      "name": "Generali Bank AG, subsidiary of Generali",
-      "shortName": "Generali",
+      "name": "Hypo Noe Landesbank für Niederösterreich und Wien AG",
+      "shortName": "Hypo Noe Landesbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_19",
-      "name": "Hypo-Bank Burgenland AG&#160;&#91;de&#93;",
-      "shortName": "Hypo-Bank Burgenland",
+      "name": "Hypo Vorarlberg Bank AG",
+      "shortName": "Hypo Vorarlberg",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_20",
-      "name": "Partner Bank AG, a private bank",
-      "shortName": "Partner",
+      "name": "Kommunalkredit Austria AG",
+      "shortName": "Kommunalkredit Austr",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_21",
-      "name": "Porsche Bank AG, subsidiary of Porsche",
-      "shortName": "Porsche",
+      "name": "Oberbank AG",
+      "shortName": "Oberbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_22",
-      "name": "Wiener Privatbank SE, a private bank",
-      "shortName": "Wiener Privatbank",
+      "name": "Porsche Bank AG",
+      "shortName": "Porsche",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_23",
-      "name": "Bank Winter &amp; Co. AG, independent private bank",
-      "shortName": "Bank Winter",
+      "name": "Raiffeisen Bank International AG",
+      "shortName": "Raiffeisen Internati",
       "type": "bank",
-      "aliases": ""
+      "aliases": "RBI"
     },
     {
       "code": "AT_24",
-      "name": "Banco do Brasil AG, subsidiary of Banco do Brasil",
-      "shortName": "Banco do",
+      "name": "Schelhammer Capital Bank AG",
+      "shortName": "Schelhammer Capital",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_25",
-      "name": "DenizBank AG, subsidiary of Emirates NBD via DenizBank",
-      "shortName": "DenizBank AG,",
+      "name": "UniCredit Bank Austria AG",
+      "shortName": "UniCredit Austria",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_26",
-      "name": "Austrian branch of LGT Bank AG",
-      "shortName": "Austrian branch",
+      "name": "Volksbank Wien AG",
+      "shortName": "Volksbank Wien",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_27",
-      "name": "VakifBank International AG, subsidiary of VakıfBank",
-      "shortName": "VakifBank International",
+      "name": "Wüstenrot Bank AG",
+      "shortName": "Wüstenrot",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AT_28",
-      "name": "Wiener Stadtbank (1706-1811)",
-      "shortName": "Wiener Stadtbank",
-      "type": "bank",
+      "name": "Bitpanda",
+      "shortName": "Bitpanda",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AT_29",
-      "name": "Austro-Hungarian Bank (1816-1922)",
-      "shortName": "Austro-Hungarian",
-      "type": "bank",
+      "name": "Bluecode",
+      "shortName": "Bluecode",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "AT_30",
-      "name": "S. M. von Rothschild (1820-1935)",
-      "shortName": "S. M.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_31",
-      "name": "Weinviertler Sparkasse&#160;&#91;de&#93; (1824-2011)",
-      "shortName": "Weinviertler Sparkasse&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_32",
-      "name": "Niederösterreichische Escompte-Gesellschaft (1853-1934)",
-      "shortName": "Niederösterreichische Escompte-Gesellschaft",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_33",
-      "name": "Creditanstalt (1855-1997)",
-      "shortName": "Creditanstalt (1855-1997)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_34",
-      "name": "Ephrussi &amp; Co.&#160;&#91;de&#93; (1856-1938)",
-      "shortName": "Ephrussi &amp;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_35",
-      "name": "Sparkasse Hartberg-Vorau&#160;&#91;de&#93; (1858-2010)",
-      "shortName": "Sparkasse Hartberg-Vorau&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_36",
-      "name": "Allgemeine Bodencreditanstalt (1863-1929)",
-      "shortName": "Allgemeine Bodencreditanstalt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_37",
-      "name": "Anglo-Austrian Bank (1863-1933)",
-      "shortName": "Anglo-Austrian",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_38",
-      "name": "Sparkasse Kremstal-Pyhrn&#160;&#91;de&#93; (1868-2013)",
-      "shortName": "Sparkasse Kremstal-Pyhrn&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_39",
-      "name": "Wiener Bankverein (1869-1934)",
-      "shortName": "Wienerverein",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_40",
-      "name": "Sparkasse Kirchschlag&#160;&#91;de&#93; (1872-2011)",
-      "shortName": "Sparkasse Kirchschlag&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_41",
-      "name": "Wiener Giro- und Cassen-Verein (1872-1946)",
-      "shortName": "Wiener Giro-",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_42",
-      "name": "Volksbank Bad Goisern&#160;&#91;de&#93; (1873-2017)",
-      "shortName": "Volksbank Bad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_43",
-      "name": "Länderbank (1880-1991)",
-      "shortName": "Länderbank (1880-1991)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_44",
-      "name": "Österreichische Postsparkasse (1882-2005)",
-      "shortName": "Österreichische Postsparkasse",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_45",
-      "name": "Hypo Alpe Adria Bank (1896-2014)",
-      "shortName": "Hypo Alpe",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_46",
-      "name": "Zentralsparkasse (1905-1991)",
-      "shortName": "Zentralsparkasse (1905-1991)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_47",
-      "name": "Deutsche Bodenbank&#160;&#91;de&#93; (1918-1924)",
-      "shortName": "Deutsche Bodenbank&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_48",
-      "name": "BAWAG (1922-2005)",
-      "shortName": "BAWAG (1922-2005)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_49",
-      "name": "Bankhaus Krentschker &amp; Co (1923-2020)",
-      "shortName": "Bankhaus Krentschker",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_50",
-      "name": "Raiffeisen Zentralbank (1927-2017)",
-      "shortName": "Raiffeisen Zentralbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_51",
-      "name": "Landes-Hypothekenbank Steiermark (1930-2021)",
-      "shortName": "Landes-Hypothekenbank Steiermark",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_52",
-      "name": "Allgemeine Wirtschaftsbank&#160;&#91;de&#93; (1958-1974)",
-      "shortName": "Allgemeine Wirtschaftsbank&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_53",
-      "name": "Donau Bank (1974-2018)",
-      "shortName": "Donau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_54",
-      "name": "Golden Star Bank (1982-2004)",
-      "shortName": "Golden Star",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_55",
-      "name": "Semper Constantia Privatbank&#160;&#91;de&#93; (1986-2017)",
-      "shortName": "Semper Constantia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_56",
-      "name": "Stadtsparkasse Traiskirchen&#160;&#91;de&#93; (1991-2011)",
-      "shortName": "Stadtsparkasse Traiskirchen&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_57",
-      "name": "Bank Medici (1994-2009)",
-      "shortName": "Bank Medici",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_58",
-      "name": "Commerzialbank Mattersburg&#160;&#91;de&#93; (1995-2020)",
-      "shortName": "Commerzialbank Mattersburg&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_59",
-      "name": "ZUNO Bank AG (2010-2017)",
-      "shortName": "ZUNO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_60",
-      "name": "Banking in Austria",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_61",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_62",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_63",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AT_64",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
+      "name": "RaiPay",
+      "shortName": "RaiPay",
+      "type": "mfs",
       "aliases": ""
     }
   ]

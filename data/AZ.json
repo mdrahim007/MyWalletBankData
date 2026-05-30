@@ -1,951 +1,195 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "AZ",
   "institutions": [
     {
       "code": "AZ_0",
-      "name": "Central Bank of Azerbaijan",
-      "shortName": "Central",
+      "name": "AccessBank",
+      "shortName": "AccessBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "AZ_1",
-      "name": "AtaBank",
-      "shortName": "AtaBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_2",
-      "name": "Azal Bank",
-      "shortName": "Azal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_3",
-      "name": "Bank Silk Way",
-      "shortName": "Bank Silk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_4",
-      "name": "Debutbank",
-      "shortName": "Debutbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_5",
-      "name": "DemirBank",
-      "shortName": "DemirBank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_6",
-      "name": "Dresdner Bank",
-      "shortName": "Dresdner",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_7",
-      "name": "Evrobank",
-      "shortName": "Evrobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_8",
-      "name": "AGBank (1992-2020)",
-      "shortName": "AGBank (1992-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_9",
-      "name": "Amrahbank&#160;(1993-2020)",
-      "shortName": "Amrahbank&#160;(1993-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_10",
-      "name": "NBCBank&#160;(1992-2020)",
-      "shortName": "NBCBank&#160;(1992-2020)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_11",
-      "name": "Vahid bank",
-      "shortName": "Vahid bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_12",
-      "name": "Zaminbank&#160;(1992-2016)",
-      "shortName": "Zaminbank&#160;(1992-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_13",
-      "name": "KredoBank&#160;(1994-2016)",
-      "shortName": "KredoBank&#160;(1994-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_14",
-      "name": "United Credit Bank&#160;(1996-2016)",
-      "shortName": "United Credit",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_15",
-      "name": "Bank of Azerbaijan&#160;(1993-2016)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_16",
-      "name": "Ganjabank&#160;(1994-2016)",
-      "shortName": "Ganjabank&#160;(1994-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_17",
-      "name": "Bank Technique&#160;(1994-2016)",
-      "shortName": "Bank Technique&#160;(1994-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_18",
-      "name": "Royal Bank (1993-2012)",
-      "shortName": "Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_19",
-      "name": "DekaBank&#160;(1989-2016)",
-      "shortName": "DekaBank&#160;(1989-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_20",
-      "name": "Caspian Development Bank",
-      "shortName": "Caspian Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_21",
-      "name": "Bank Standard&#160;(1995-2016)",
-      "shortName": "Bank Standard&#160;(1995-2016)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_22",
-      "name": "DəmirBank&#160;(1989-2017)",
-      "shortName": "DəmirBank&#160;(1989-2017)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_23",
-      "name": "Caucasus Development Bank&#160;(-2016)",
-      "shortName": "Caucasus Development",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_24",
-      "name": "Günay Bank (1992-2023)",
-      "shortName": "Günay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_25",
-      "name": "Muğanbank (1992-2023)",
-      "shortName": "Muğanbank (1992-2023)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_26",
-      "name": "Banking in Azerbaijan",
-      "shortName": "Banking in",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_27",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_28",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_29",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_30",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_31",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_32",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_33",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_34",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_35",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_36",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_37",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_38",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_39",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_40",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_41",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_42",
-      "name": "“Accessbank” CJSC",
-      "shortName": "“Accessbank” CJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_43",
-      "name": "accessbank.az",
-      "shortName": "accessbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_44",
-      "name": "25 October 2002",
-      "shortName": "25 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_45",
-      "name": "ADB",
-      "shortName": "ADB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_46",
-      "name": "“AFB Bank” CJSC",
-      "shortName": "“AFB”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_47",
       "name": "AFB Bank",
       "shortName": "AFB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_48",
-      "name": "28 November 2008",
-      "shortName": "28 November",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_49",
-      "name": "afb.az",
-      "shortName": "afb.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_50",
-      "name": "“International Bank of Azerbaijan” OJSC",
-      "shortName": "“International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_51",
+      "code": "AZ_2",
       "name": "ABB",
       "shortName": "ABB",
       "type": "bank",
-      "aliases": ""
+      "aliases": "International Bank of Azerbaijan"
     },
     {
-      "code": "AZ_52",
-      "name": "30 December 1992",
-      "shortName": "30 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_53",
-      "name": "Azerbaijan Investment Holding",
-      "shortName": "Azerbaijan Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_54",
-      "name": "abb-bank.az",
-      "shortName": "abb-bank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_55",
-      "name": "“Azerbaijan Industry Bank” OJSC",
-      "shortName": "“Azerbaijan Industry",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_56",
+      "code": "AZ_3",
       "name": "ASB",
       "shortName": "ASB",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Azerbaijan Industry Bank"
     },
     {
-      "code": "AZ_57",
-      "name": "28 September 1996",
-      "shortName": "28 September",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_58",
-      "name": "Anadolu Investment",
-      "shortName": "Anadolu Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_59",
-      "name": "asb.az",
-      "shortName": "asb.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_60",
-      "name": "“Azer-Turk Bank” OJSC",
-      "shortName": "“Azer-Turk”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_61",
+      "code": "AZ_4",
       "name": "ATB",
       "shortName": "ATB",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Azer-Turk Bank"
     },
     {
-      "code": "AZ_62",
-      "name": "29 June 1995",
-      "shortName": "29 June",
+      "code": "AZ_5",
+      "name": "Bank Avrasiya",
+      "shortName": "Bank Avrasiya",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_63",
-      "name": "State Service on Property Issues",
-      "shortName": "State Service",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_64",
-      "name": "atb.az",
-      "shortName": "atb.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_65",
-      "name": "“Bank Eurasia” OJSC",
-      "shortName": "“Bank Eurasia”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_66",
-      "name": "bankavrasiya.az",
-      "shortName": "bankavrasiya.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_67",
-      "name": "“Bank of Baku” OJSC",
-      "shortName": "“Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_68",
+      "code": "AZ_6",
       "name": "Bank of Baku",
-      "shortName": "Bank of",
+      "shortName": "Bank of Baku",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_69",
-      "name": "18 February 2005",
-      "shortName": "18 February",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_70",
-      "name": "NAB Holding",
-      "shortName": "NAB Holding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_71",
-      "name": "bankofbaku.az",
-      "shortName": "bankofbaku.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_72",
-      "name": "Bank \"BTB” OJSC",
-      "shortName": "Bank \"BTB”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_73",
+      "code": "AZ_7",
       "name": "Bank BTB",
       "shortName": "Bank BTB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_74",
-      "name": "19 March 2010",
-      "shortName": "19 March",
+      "code": "AZ_8",
+      "name": "Bank Respublika",
+      "shortName": "Bank Respublika",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_75",
-      "name": "btb.az",
-      "shortName": "btb.az",
+      "code": "AZ_9",
+      "name": "Bank Melli Iran",
+      "shortName": "Bank Melli Iran",
+      "type": "bank",
+      "aliases": "Baku Branch"
+    },
+    {
+      "code": "AZ_10",
+      "name": "Bank VTB",
+      "shortName": "Bank VTB",
+      "type": "bank",
+      "aliases": "Azerbaijan"
+    },
+    {
+      "code": "AZ_11",
+      "name": "Expressbank",
+      "shortName": "Expressbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_76",
-      "name": "“Bank Respublika” OJSC",
-      "shortName": "“Bank Respublika”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_77",
-      "name": "bankrespublika.az",
-      "shortName": "bankrespublika.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_78",
-      "name": "Guliyev family",
-      "shortName": "Guliyev family",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_79",
-      "name": "\"Premium Bank” OJSC",
-      "shortName": "\"Premium”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_80",
-      "name": "Premium Bank",
-      "shortName": "Premium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_81",
-      "name": "6 January 1994",
-      "shortName": "6 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_82",
-      "name": "Hamzayeva Zaria Kamil",
-      "shortName": "Hamzayeva Zaria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_83",
-      "name": "premiumbank.az",
-      "shortName": "premiumbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_84",
-      "name": "“Bank VTB (Azerbaijan)” OJSC",
-      "shortName": "“Bank VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_85",
-      "name": "VTB",
-      "shortName": "VTB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_86",
-      "name": "22 October 1993",
-      "shortName": "22 October",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_87",
-      "name": "VTB Group",
-      "shortName": "VTB Group",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_88",
-      "name": "vtb.az",
-      "shortName": "vtb.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_89",
-      "name": "“Expressbank” OJSC",
-      "shortName": "“Expressbank” OJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_90",
-      "name": "expressbank.az",
-      "shortName": "expressbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_91",
-      "name": "Azenco",
-      "shortName": "Azenco",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_92",
-      "name": "\"Xalq Bank\" OJSC",
-      "shortName": "\"Xalq\"",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_93",
-      "name": "Xalq Bank",
-      "shortName": "Xalq",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_94",
-      "name": "27 December 2004",
-      "shortName": "27 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_95",
-      "name": "İdeal Business Ko",
-      "shortName": "İdeal Business",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_96",
-      "name": "xalqbank.az",
-      "shortName": "xalqbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_97",
-      "name": "“Kapital Bank” OJSC",
-      "shortName": "“Kapital”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_98",
+      "code": "AZ_12",
       "name": "Kapital Bank",
       "shortName": "Kapital",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_99",
-      "name": "PASHA Holding",
-      "shortName": "PASHA Holding",
+      "code": "AZ_13",
+      "name": "Premium Bank",
+      "shortName": "Premium",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_100",
-      "name": "kapitalbank.az",
-      "shortName": "kapitalbank.az",
+      "code": "AZ_14",
+      "name": "PASHA Bank",
+      "shortName": "PASHA",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_101",
-      "name": "“Yelo” OJSC",
-      "shortName": "“Yelo” OJSC",
+      "code": "AZ_15",
+      "name": "Rabitabank",
+      "shortName": "Rabitabank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_102",
-      "name": "Yelo Bank",
-      "shortName": "Yelo",
+      "code": "AZ_16",
+      "name": "TuranBank",
+      "shortName": "TuranBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_103",
-      "name": "25 February 1994",
-      "shortName": "25 February",
+      "code": "AZ_17",
+      "name": "Xalq Bank",
+      "shortName": "Xalq",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_104",
-      "name": "Topaz Investment",
-      "shortName": "Topaz Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_105",
-      "name": "yelo.az",
-      "shortName": "yelo.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_106",
-      "name": "“Pasha Bank” OJSC",
-      "shortName": "“Pasha”",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_107",
-      "name": "Pasha Bank",
-      "shortName": "Pasha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_108",
-      "name": "pashabank.az",
-      "shortName": "pashabank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_109",
-      "name": "“Rabitabank” OJSC",
-      "shortName": "“Rabitabank” OJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_110",
-      "name": "Rabitəbank",
-      "shortName": "Rabitəbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_111",
-      "name": "30 June 1993",
-      "shortName": "30 June",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_112",
-      "name": "Zakir Nuriyev",
-      "shortName": "Zakir Nuriyev",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_113",
-      "name": "rabitabank.com",
-      "shortName": "rabitabank.com",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_114",
-      "name": "\"TuranBank\" OJSC",
-      "shortName": "\"TuranBank\" OJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_115",
-      "name": "turanbank.az",
-      "shortName": "turanbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_116",
-      "name": "“Unibank” OJSC",
-      "shortName": "“Unibank” OJSC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_117",
+      "code": "AZ_18",
       "name": "Unibank",
       "shortName": "Unibank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_118",
-      "name": "Eldar Garibov",
-      "shortName": "Eldar Garibov",
+      "code": "AZ_19",
+      "name": "Yelo Bank",
+      "shortName": "Yelo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_119",
-      "name": "unibank.az",
-      "shortName": "unibank.az",
+      "code": "AZ_20",
+      "name": "YapıKredi Bank Azerbaijan",
+      "shortName": "YapıKredi Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_120",
-      "name": "“Yapi Kredi Bank Azerbaijan” CJSC",
-      "shortName": "“Yapi Kredi",
+      "code": "AZ_21",
+      "name": "Ziraat Bank Azerbaijan",
+      "shortName": "Ziraat Azerbaijan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "AZ_121",
-      "name": "YapıKredi Bank",
-      "shortName": "YapıKredi",
-      "type": "bank",
+      "code": "AZ_22",
+      "name": "E-Pul",
+      "shortName": "E-Pul",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AZ_122",
-      "name": "11 January 2000",
-      "shortName": "11 January",
-      "type": "bank",
+      "code": "AZ_23",
+      "name": "Fast Shift",
+      "shortName": "Fast Shift",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AZ_123",
-      "name": "Yapı ve Kredi A.Ş.",
-      "shortName": "Yapı ve",
-      "type": "bank",
+      "code": "AZ_24",
+      "name": "Hesab.az",
+      "shortName": "Hesab.az",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AZ_124",
-      "name": "yapikredi.com.az",
-      "shortName": "yapikredi.com.az",
-      "type": "bank",
+      "code": "AZ_25",
+      "name": "m10",
+      "shortName": "m10",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "AZ_125",
-      "name": "“Ziraat Bank Azerbaijan” OJSC",
-      "shortName": "“Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_126",
-      "name": "Ziraat Bank",
-      "shortName": "Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_127",
-      "name": "30 December 2014",
-      "shortName": "30 December",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_128",
-      "name": "T.C. Ziraat Bankası A.Ş.",
-      "shortName": "T.C. Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_129",
-      "name": "ziraatbank.az",
-      "shortName": "ziraatbank.az",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_130",
-      "name": "\"Bank Melli Iran\" (Baku Branch)",
-      "shortName": "\"Bank Melli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_131",
-      "name": "BMI Baku",
-      "shortName": "BMI Baku",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_132",
-      "name": "29 January 1993",
-      "shortName": "29 January",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_133",
-      "name": "Bank Melli Iran",
-      "shortName": "Bank Melli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "AZ_134",
-      "name": "bmibaku.az",
-      "shortName": "bmibaku.az",
-      "type": "bank",
+      "code": "AZ_26",
+      "name": "Portmanat",
+      "shortName": "Portmanat",
+      "type": "mfs",
       "aliases": ""
     }
   ]
