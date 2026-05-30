@@ -1,951 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "UY",
   "institutions": [
     {
       "code": "UY_0",
       "name": "Banco Bandes Uruguay",
-      "shortName": "Banco Bandes",
+      "shortName": "Bandes Uruguay",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "UY_1",
-      "name": "Banco Itaú Uruguay",
-      "shortName": "Banco Itaú",
+      "name": "Banco de la Nación Argentina",
+      "shortName": "de la Nación Argenti",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Uruguay Branch"
     },
     {
       "code": "UY_2",
-      "name": "Scotiabank Uruguay",
-      "shortName": "Scotiabank Uruguay",
+      "name": "Banco de la República Oriental del Uruguay",
+      "shortName": "de la República Orie",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BROU"
     },
     {
       "code": "UY_3",
-      "name": "Banco Santander Uruguay",
-      "shortName": "Banco Santander",
+      "name": "Banco Hipotecario del Uruguay",
+      "shortName": "Hipotecario del Urug",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "UY_4",
+      "name": "Banco Itaú Uruguay",
+      "shortName": "Itaú Uruguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UY_5",
+      "name": "Banco Santander Uruguay",
+      "shortName": "Santander Uruguay",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UY_6",
+      "name": "Banque Heritage Uruguay",
+      "shortName": "Banque Heritage Urug",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "UY_7",
       "name": "BBVA Uruguay",
       "shortName": "BBVA Uruguay",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UY_5",
-      "name": "HSBC Bank Uruguay",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_6",
-      "name": "Banco de la Nación Argentina",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_7",
-      "name": "Banque Heritage Uruguay",
-      "shortName": "Banque Heritage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "UY_8",
-      "name": "Banco Maua",
-      "shortName": "Banco Maua",
+      "name": "Citibank Uruguay",
+      "shortName": "Citibank Uruguay",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "UY_9",
-      "name": "Banco Popular de Montevideo",
-      "shortName": "Banco Popular",
+      "name": "HSBC Bank Uruguay",
+      "shortName": "HSBC Uruguay",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "UY_10",
-      "name": "Banco La Caja Obrera",
-      "shortName": "Banco La",
-      "type": "bank",
+      "name": "Mercado Pago",
+      "shortName": "Mercado Pago",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "UY_11",
-      "name": "Banco Montevideo",
-      "shortName": "Banco Montevideo",
-      "type": "bank",
+      "name": "Midinero",
+      "shortName": "Midinero",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "UY_12",
-      "name": "Banco de Crédito",
-      "shortName": "Banco de",
-      "type": "bank",
+      "name": "Prex",
+      "shortName": "Prex",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "UY_13",
-      "name": "Banco Comercial",
-      "shortName": "Banco Comercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_14",
-      "name": "Banco Transatlántico",
-      "shortName": "Banco Transatlántico",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_15",
-      "name": "Banco de Londres y Río de la Plata",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_16",
-      "name": "Banco Pan de Azúcar",
-      "shortName": "Banco Pan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_17",
-      "name": "Banco Territorial",
-      "shortName": "Banco Territorial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_18",
-      "name": "Website of the Central Bank of Uruguay",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_19",
-      "name": "Bolivia",
-      "shortName": "Bolivia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_20",
-      "name": "Venezuela",
-      "shortName": "Venezuela",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_21",
-      "name": "Bonaire",
-      "shortName": "Bonaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_22",
-      "name": "British Virgin Islands",
-      "shortName": "British Virgin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_23",
-      "name": "Falkland Islands",
-      "shortName": "Falkland Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_24",
-      "name": "Saba",
-      "shortName": "Saba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_25",
-      "name": "Saint Martin",
-      "shortName": "Saint Martin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_26",
-      "name": "Sint Eustatius",
-      "shortName": "Sint Eustatius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_27",
-      "name": "Sint Maarten",
-      "shortName": "Sint Maarten",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_28",
-      "name": "U.S. Virgin Islands",
-      "shortName": "U.S. Virgin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_29",
-      "name": "North America",
-      "shortName": "North America",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_30",
-      "name": "Central America",
-      "shortName": "Central America",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_31",
-      "name": "Caribbean",
-      "shortName": "Caribbean",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_32",
-      "name": "South America",
-      "shortName": "South America",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_33",
-      "name": "Spanish colonization",
-      "shortName": "Spanish colonization",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_34",
-      "name": "Viceroyalty (1776&#8211;1814)",
-      "shortName": "Viceroyalty (1776&#8211;1814)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_35",
-      "name": "British invasions (1806&#8211;1807)",
-      "shortName": "British invasions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_36",
-      "name": "Banda Oriental",
-      "shortName": "Banda Oriental",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_37",
-      "name": "Liga Federal (1815&#8211;1820)",
-      "shortName": "Liga Federal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_38",
-      "name": "Cisplatina province (1821&#8211;1828)",
-      "shortName": "Cisplatina province",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_39",
-      "name": "Thirty-Three Orientals",
-      "shortName": "Thirty-Three Orientals",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_40",
-      "name": "Treaty of Montevideo (1828)",
-      "shortName": "Treaty of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_41",
-      "name": "Civil War (1839&#8211;1851)",
-      "shortName": "Civil War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_42",
-      "name": "Paraguayan War (1864&#8211;1870)",
-      "shortName": "Paraguayan War",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_43",
-      "name": "Revolution of the Lances (1870&#8211;1872)",
-      "shortName": "Revolution of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_44",
-      "name": "Battle of Masoller (1904)",
-      "shortName": "Battle of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_45",
-      "name": "Batllism",
-      "shortName": "Batllism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_46",
-      "name": "Tupamaros",
-      "shortName": "Tupamaros",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_47",
-      "name": "Dictatorship (1973&#8211;1985)",
-      "shortName": "Dictatorship (1973&#8211;1985)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_48",
-      "name": "Expiry Law (1986)",
-      "shortName": "Expiry Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_49",
-      "name": "Borders",
-      "shortName": "Borders",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_50",
-      "name": "Climate",
-      "shortName": "Climate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_51",
-      "name": "Departments",
-      "shortName": "Departments",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_52",
-      "name": "Extreme points",
-      "shortName": "Extreme points",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_53",
-      "name": "Fauna",
-      "shortName": "Fauna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_54",
-      "name": "Flora",
-      "shortName": "Flora",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_55",
-      "name": "Islands",
-      "shortName": "Islands",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_56",
-      "name": "Lighthouses",
-      "shortName": "Lighthouses",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_57",
-      "name": "Municipalities",
-      "shortName": "Municipalities",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_58",
-      "name": "National parks",
-      "shortName": "National parks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_59",
-      "name": "President",
-      "shortName": "President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_60",
-      "name": "Vice President",
-      "shortName": "Vice President",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_61",
-      "name": "Cabinet",
-      "shortName": "Cabinet",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_62",
-      "name": "Political parties",
-      "shortName": "Political parties",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_63",
-      "name": "General Assembly (parliament)",
-      "shortName": "General Assembly",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_64",
-      "name": "Civil Code",
-      "shortName": "Civil Code",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_65",
-      "name": "Judiciary",
-      "shortName": "Judiciary",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_66",
-      "name": "Law",
-      "shortName": "Law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_67",
-      "name": "Nationality law",
-      "shortName": "Nationality law",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_68",
-      "name": "Abortion",
-      "shortName": "Abortion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_69",
-      "name": "Cannabis use",
-      "shortName": "Cannabis use",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_70",
-      "name": "Human rights",
-      "shortName": "Human rights",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_71",
-      "name": "Human trafficking",
-      "shortName": "Human trafficking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_72",
-      "name": "LGBT rights",
-      "shortName": "LGBT rights",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_73",
-      "name": "Prostitution",
-      "shortName": "Prostitution",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_74",
-      "name": "Army",
-      "shortName": "Army",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_75",
-      "name": "Navy",
-      "shortName": "Navy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_76",
-      "name": "Air Force",
-      "shortName": "Air Force",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_77",
-      "name": "Ranks",
-      "shortName": "Ranks",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_78",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_79",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_80",
-      "name": "Central Bank",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_81",
-      "name": "Currency",
-      "shortName": "Currency",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_82",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_83",
-      "name": "Science and technology",
-      "shortName": "Science and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_84",
-      "name": "Stockbreeding",
-      "shortName": "Stockbreeding",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_85",
-      "name": "Telecommunications",
-      "shortName": "Telecommunications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_86",
-      "name": "Trade unions",
-      "shortName": "Trade unions",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_87",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_88",
-      "name": "Immigration",
-      "shortName": "Immigration",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_89",
-      "name": "Ethnic groups",
-      "shortName": "Ethnic groups",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_90",
-      "name": "Healthcare",
-      "shortName": "Healthcare",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_91",
-      "name": "LGBT",
-      "shortName": "LGBT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_92",
-      "name": "Public holidays",
-      "shortName": "Public holidays",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_93",
-      "name": "Squatting",
-      "shortName": "Squatting",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_94",
-      "name": "Water supply and sanitation",
-      "shortName": "Water supply",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_95",
-      "name": "Women",
-      "shortName": "Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_96",
-      "name": "Architecture",
-      "shortName": "Architecture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_97",
-      "name": "Cinema",
-      "shortName": "Cinema",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_98",
-      "name": "Education",
-      "shortName": "Education",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_99",
-      "name": "Literature",
-      "shortName": "Literature",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_100",
-      "name": "Mate",
-      "shortName": "Mate",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_101",
-      "name": "Media",
-      "shortName": "Media",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_102",
-      "name": "Museums",
-      "shortName": "Museums",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_103",
-      "name": "Smoking",
-      "shortName": "Smoking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_104",
-      "name": "Mennonitism",
-      "shortName": "Mennonitism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_105",
-      "name": "Methodism",
-      "shortName": "Methodism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_106",
-      "name": "Mormonism",
-      "shortName": "Mormonism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_107",
-      "name": "Waldensians",
-      "shortName": "Waldensians",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_108",
-      "name": "Baháʼí",
-      "shortName": "Baháʼí",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_109",
-      "name": "Buddhism",
-      "shortName": "Buddhism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_110",
-      "name": "Hinduism",
-      "shortName": "Hinduism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_111",
-      "name": "Islam",
-      "shortName": "Islam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_112",
-      "name": "Judaism",
-      "shortName": "Judaism",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_113",
-      "name": "Irreligion",
-      "shortName": "Irreligion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_114",
-      "name": "Anthem",
-      "shortName": "Anthem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_115",
-      "name": "Coat of arms",
-      "shortName": "Coat of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_116",
-      "name": "Cockade",
-      "shortName": "Cockade",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_117",
-      "name": "Virgin of the Thirty-Three",
-      "shortName": "Virgin of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_118",
-      "name": "CS1 Spanish-language sources (es)",
-      "shortName": "CS1 Spanish-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_119",
-      "name": "Banco Central del Uruguay",
-      "shortName": "Banco Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_120",
-      "name": "1967",
-      "shortName": "1967",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_121",
-      "name": "Montevideo",
-      "shortName": "Montevideo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_122",
-      "name": "&#91;2&#93;",
-      "shortName": "&#91;2&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_123",
-      "name": "Banco Hipotecario del Uruguay",
-      "shortName": "Banco Hipotecario",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_124",
-      "name": "1892",
-      "shortName": "1892",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_125",
-      "name": "Banco de la República Oriental del Uruguay",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_126",
-      "name": "1896",
-      "shortName": "1896",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_127",
-      "name": "Lloyds TSB",
-      "shortName": "Lloyds TSB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_128",
-      "name": "&#91;3&#93;&#91;4&#93;",
-      "shortName": "&#91;3&#93;&#91;4&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_129",
-      "name": "ABN AMRO",
-      "shortName": "ABN AMRO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_130",
-      "name": "Banco Surinvest",
-      "shortName": "Banco Surinvest",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_131",
-      "name": "Crédit Uruguay Banco (formerly Banco Acac)",
-      "shortName": "Crédit Uruguay",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_132",
-      "name": "Banco Bilbao Vizcaya Argentaria Uruguay",
-      "shortName": "Banco Bilbao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_133",
-      "name": "Discount Bank (Latin America)",
-      "shortName": "Discount",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UY_134",
-      "name": "Nuevo Banco Comercial",
-      "shortName": "Nuevo Banco",
-      "type": "bank",
+      "name": "TuApp",
+      "shortName": "TuApp",
+      "type": "mfs",
       "aliases": ""
     }
   ]

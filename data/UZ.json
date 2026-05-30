@@ -1,860 +1,223 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "UZ",
   "institutions": [
     {
       "code": "UZ_0",
-      "name": "Central Bank of Uzbekistan",
-      "shortName": "Central",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_1",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_2",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_3",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_4",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_5",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_6",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_7",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_8",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_9",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_10",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_11",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_12",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_13",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_14",
-      "name": "NBU",
-      "shortName": "NBU",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_15",
-      "name": "22, 24.10.1991",
-      "shortName": "22, 24.10.1991",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_16",
-      "name": "Government1&#91;2&#93;",
-      "shortName": "Government1&#91;2&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_17",
-      "name": "nbu.uz/en",
-      "shortName": "nbu.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_18",
-      "name": "Xalq Banki",
-      "shortName": "Xalqi",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_19",
-      "name": "25, 21.10.1993",
-      "shortName": "25, 21.10.1993",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_20",
-      "name": "xb.uz/en",
-      "shortName": "xb.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_21",
-      "name": "Joint-Stock Company “Ravnaq-Bank”",
-      "shortName": "Joint-Stock Company",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_22",
-      "name": "Asakabank",
-      "shortName": "Asakabank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_23",
-      "name": "53, 15.01.1996",
-      "shortName": "53, 15.01.1996",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_24",
-      "name": "asakabank.uz/en",
-      "shortName": "asakabank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_25",
-      "name": "Joint-Stock Commercial Bank “Asia Alliance Bank”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_26",
-      "name": "Asia Alliance Bank",
-      "shortName": "Asia Alliance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_27",
-      "name": "79, 15.08.2019",
-      "shortName": "79, 15.08.2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_28",
-      "name": "aab.uz/en",
-      "shortName": "aab.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_29",
-      "name": "Joint-Stock Company \"Poytaxt Bank\"",
-      "shortName": "Joint-Stock Company",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_30",
-      "name": "Poytaxt Bank",
-      "shortName": "Poytaxt",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_31",
-      "name": "84, 29.12.2018",
-      "shortName": "84, 29.12.2018",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_32",
-      "name": "poytaxtbank.uz/en",
-      "shortName": "poytaxtbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_33",
-      "name": "Joint-Stock Commercial Mortgage Bank “Ipoteka Bank”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_34",
-      "name": "Ipoteka Bank",
-      "shortName": "Ipoteka",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_35",
-      "name": "74, 30.04.2005",
-      "shortName": "74, 30.04.2005",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_36",
-      "name": "ipotekabank.uz/en",
-      "shortName": "ipotekabank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_37",
-      "name": "Joint-Stock Commercial Bank “Uzpromstroybank”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_38",
-      "name": "SanoatQurilishBank (SQB)",
-      "shortName": "SanoatQurilishBank (SQB)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_39",
-      "name": "sqb.uz/en",
-      "shortName": "sqb.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_40",
       "name": "Agrobank",
       "shortName": "Agrobank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_41",
-      "name": "agrobank.uz",
-      "shortName": "agrobank.uz",
+      "code": "UZ_1",
+      "name": "Aloqabank",
+      "shortName": "Aloqabank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_42",
-      "name": "Joint-Stock Commercial Bank “Qishloq Qurilish Bank”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_43",
-      "name": "QishloqQurilishBank (QQB)",
-      "shortName": "QishloqQurilishBank (QQB)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_44",
-      "name": "qishloqqurilishbank.uz/en",
-      "shortName": "qishloqqurilishbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_45",
-      "name": "Joint-Stock Commercial Bank \"Tenge Bank\"",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_46",
-      "name": "Turon Bank",
-      "shortName": "Turon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_47",
-      "name": "10, 31.12.1990",
-      "shortName": "10, 31.12.1990",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_48",
-      "name": "turkistonbank.uz/en",
-      "shortName": "turkistonbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_49",
-      "name": "Joint-Stock Commercial \"Mikrokreditbank\"",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_50",
-      "name": "Mikrokreditbank",
-      "shortName": "Mikrokreditbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_51",
-      "name": "37, 28.04.1993",
-      "shortName": "37, 28.04.1993",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_52",
-      "name": "mikrokreditbank.uz/en",
-      "shortName": "mikrokreditbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_53",
-      "name": "Joint-Stock Commercial “Aloqabank”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_54",
-      "name": "aloqabank.uz",
-      "shortName": "aloqabank.uz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_55",
-      "name": "48, 22.03.1995",
-      "shortName": "48, 22.03.1995",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_56",
-      "name": "Joint-Stock Innovation Commercial Bank “Ipak Yuli”",
-      "shortName": "Joint-Stock Innovation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_57",
-      "name": "Ipak Yuli Bank",
-      "shortName": "Ipak Yuli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_58",
-      "name": "en.ipakyulibank.uz",
-      "shortName": "en.ipakyulibank.uz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_59",
-      "name": "Kapitalbank",
-      "shortName": "Kapitalbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_60",
-      "name": "69, 07.04.2001",
-      "shortName": "69, 07.04.2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_61",
-      "name": "kapitalbank.uz/en",
-      "shortName": "kapitalbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_62",
-      "name": "Ravnaq-Bank",
-      "shortName": "Ravnaq-Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_63",
-      "name": "70, 23.06.2001",
-      "shortName": "70, 23.06.2001",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_64",
-      "name": "ravnaqbank.uz/en",
-      "shortName": "ravnaqbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_65",
-      "name": "Tenge Bank",
-      "shortName": "Tenge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_66",
-      "name": "85, 18.05.2019",
-      "shortName": "85, 18.05.2019",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_67",
-      "name": "Halyk Bank",
-      "shortName": "Halyk",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_68",
-      "name": "tengebank.uz/en",
-      "shortName": "tengebank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_69",
-      "name": "TBC",
-      "shortName": "TBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_70",
-      "name": "86, 20.04.2020",
-      "shortName": "86, 20.04.2020",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_71",
-      "name": "TBC Bank",
-      "shortName": "TBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_72",
-      "name": "tbcbank.uz",
-      "shortName": "tbcbank.uz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_73",
+      "code": "UZ_2",
       "name": "Anorbank",
       "shortName": "Anorbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_74",
-      "name": "87, 22.08.2020",
-      "shortName": "87, 22.08.2020",
+      "code": "UZ_3",
+      "name": "Apex Bank",
+      "shortName": "Apex",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_75",
-      "name": "Olimov Anvarovich&#91;9&#93;",
-      "shortName": "Olimov Anvarovich&#91;9&#93;",
+      "code": "UZ_4",
+      "name": "Asaka Bank",
+      "shortName": "Asaka",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_76",
-      "name": "hamkorbank.uz/en",
-      "shortName": "hamkorbank.uz/en",
+      "code": "UZ_5",
+      "name": "Avo Bank",
+      "shortName": "Avo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_77",
-      "name": "Private Joint-Stock Bank “Trustbank”",
-      "shortName": "Private Joint-Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_78",
-      "name": "Trastbank",
-      "shortName": "Trastbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_79",
-      "name": "44, 21.06.1994",
-      "shortName": "44, 21.06.1994",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_80",
-      "name": "Private",
-      "shortName": "Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_81",
-      "name": "trustbank.uz/en",
-      "shortName": "trustbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_82",
-      "name": "Private Joint-Stock Commercial Bank \"Turkistan\"",
-      "shortName": "Private Joint-Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_83",
-      "name": "Turkiston Bank",
-      "shortName": "Turkiston",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_84",
-      "name": "57, 16.03.1998",
-      "shortName": "57, 16.03.1998",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_85",
-      "name": "Private Joint-Stock Commercial Bank “Universal Bank”",
-      "shortName": "Private Joint-Stock",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_86",
+      "code": "UZ_6",
       "name": "Davr Bank",
       "shortName": "Davr",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_87",
-      "name": "71, 29.09.2001",
-      "shortName": "71, 29.09.2001",
+      "code": "UZ_7",
+      "name": "Garant Bank",
+      "shortName": "Garant",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_88",
-      "name": "Private Closed Joint-Stock Commercial Bank “Orient Finans”",
-      "shortName": "Private Closed",
+      "code": "UZ_8",
+      "name": "Infinbank",
+      "shortName": "Infinbank",
+      "type": "bank",
+      "aliases": "Invest Finance Bank"
+    },
+    {
+      "code": "UZ_9",
+      "name": "Ipak Yuli Bank",
+      "shortName": "Ipak Yuli",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_89",
-      "name": "Hi-Tech Bank (htb)",
-      "shortName": "Hi-Tech",
+      "code": "UZ_10",
+      "name": "Ipoteka-Bank",
+      "shortName": "Ipoteka-Bank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_90",
-      "name": "80, 09.01.2010",
-      "shortName": "80, 09.01.2010",
+      "code": "UZ_11",
+      "name": "Kapitalbank",
+      "shortName": "Kapitalbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_91",
-      "name": "htb.uz",
-      "shortName": "htb.uz",
+      "code": "UZ_12",
+      "name": "KDB Bank Uzbekistan",
+      "shortName": "KDB Uzbekistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_92",
-      "name": "Orient Finans Bank (OFB)",
-      "shortName": "Orient Finans",
+      "code": "UZ_13",
+      "name": "Microcreditbank",
+      "shortName": "Microcreditbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_93",
-      "name": "81, 19.06.2010",
-      "shortName": "81, 19.06.2010",
+      "code": "UZ_14",
+      "name": "National Bank of Uzbekistan",
+      "shortName": "National of Uzbekist",
+      "type": "bank",
+      "aliases": "NBU"
+    },
+    {
+      "code": "UZ_15",
+      "name": "Orient Finance Bank",
+      "shortName": "Orient Finance",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_94",
-      "name": "ofb.uz/en",
-      "shortName": "ofb.uz/en",
+      "code": "UZ_16",
+      "name": "Poytaxt Bank",
+      "shortName": "Poytaxt",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_95",
-      "name": "universalbank.uz",
-      "shortName": "universalbank.uz",
+      "code": "UZ_17",
+      "name": "Smart Bank",
+      "shortName": "Smart",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_96",
-      "name": "68, 20.03.2001",
-      "shortName": "68, 20.03.2001",
+      "code": "UZ_18",
+      "name": "TBC Bank Uzbekistan",
+      "shortName": "TBC Uzbekistan",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_97",
-      "name": "Private Joint-Stock Commercial \"Madad Invest Bank\"",
-      "shortName": "Private Joint-Stock",
+      "code": "UZ_19",
+      "name": "Tenge Bank",
+      "shortName": "Tenge",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_98",
-      "name": "Madad Invest Bank",
-      "shortName": "Madad Invest",
+      "code": "UZ_20",
+      "name": "Trustbank",
+      "shortName": "Trustbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_99",
-      "name": "82, 22.10.2016",
-      "shortName": "82, 22.10.2016",
+      "code": "UZ_21",
+      "name": "Turonbank",
+      "shortName": "Turonbank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_100",
-      "name": "InfinBank",
-      "shortName": "InfinBank",
+      "code": "UZ_22",
+      "name": "Uzbek Industrial and Construction Bank",
+      "shortName": "Uzbek Industrial and",
+      "type": "bank",
+      "aliases": "SQB"
+    },
+    {
+      "code": "UZ_23",
+      "name": "Uzum Bank",
+      "shortName": "Uzum",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_101",
-      "name": "75, 24.12.2007",
-      "shortName": "75, 24.12.2007",
+      "code": "UZ_24",
+      "name": "Xalq Bank",
+      "shortName": "Xalq",
+      "type": "bank",
+      "aliases": "People's Bank"
+    },
+    {
+      "code": "UZ_25",
+      "name": "Yangi Bank",
+      "shortName": "Yangi",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "UZ_102",
-      "name": "Various&#91;10&#93;",
-      "shortName": "Various&#91;10&#93;",
-      "type": "bank",
+      "code": "UZ_26",
+      "name": "Click",
+      "shortName": "Click",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "UZ_103",
-      "name": "infinbank.com/en",
-      "shortName": "infinbank.com/en",
-      "type": "bank",
+      "code": "UZ_27",
+      "name": "Oson",
+      "shortName": "Oson",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "UZ_104",
-      "name": "HamkorBank",
-      "shortName": "HamkorBank",
-      "type": "bank",
+      "code": "UZ_28",
+      "name": "Payme",
+      "shortName": "Payme",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "UZ_105",
-      "name": "64, 31.08.1991",
-      "shortName": "64, 31.08.1991",
-      "type": "bank",
+      "code": "UZ_29",
+      "name": "Paynet",
+      "shortName": "Paynet",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "UZ_106",
-      "name": "Joint-Stock Commercial Bank with foreign capital “Savdogar”",
-      "shortName": "Joint-Stock Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_107",
-      "name": "savdogarbank.uz",
-      "shortName": "savdogarbank.uz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_108",
-      "name": "42, 12.05.1994",
-      "shortName": "42, 12.05.1994",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_109",
-      "name": "Joint-Stock Company “KDB Bank Uzbekistan”",
-      "shortName": "Joint-Stock Company",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_110",
-      "name": "KDB Bank",
-      "shortName": "KDB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_111",
-      "name": "5, 21.10.2017",
-      "shortName": "5, 21.10.2017",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_112",
-      "name": "kdb.uz/en",
-      "shortName": "kdb.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_113",
-      "name": "Joint-Stock Company \"Ziraat Bank Uzbekistan\"",
-      "shortName": "Joint-Stock Company",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_114",
-      "name": "Ziraat Bank",
-      "shortName": "Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_115",
-      "name": "1, 13.05.1993",
-      "shortName": "1, 13.05.1993",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_116",
-      "name": "Ziraat",
-      "shortName": "Ziraat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_117",
-      "name": "ziraatbank.uz/en",
-      "shortName": "ziraatbank.uz/en",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_118",
-      "name": "Bank Saderat Tashkent",
-      "shortName": "Bank Saderat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_119",
-      "name": "2-D, 21.08.1999",
-      "shortName": "2-D, 21.08.1999",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_120",
-      "name": "Bank Saderat",
-      "shortName": "Bank Saderat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "UZ_121",
-      "name": "saderatbank.uz",
-      "shortName": "saderatbank.uz",
-      "type": "bank",
+      "code": "UZ_30",
+      "name": "Plum",
+      "shortName": "Plum",
+      "type": "mfs",
       "aliases": ""
     }
   ]
