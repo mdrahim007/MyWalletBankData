@@ -1,1196 +1,146 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "PL",
   "institutions": [
     {
       "code": "PL_0",
-      "name": "ING Bank Śląski SA, majority-owned by ING Group",
-      "shortName": "ING",
+      "name": "Alior Bank",
+      "shortName": "Alior",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PL_1",
-      "name": "mBank SA, majority-owned by Commerzbank",
-      "shortName": "mBank SA,",
+      "name": "Bank Handlowy",
+      "shortName": "Bank Handlowy",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Citi Handlowy"
     },
     {
       "code": "PL_2",
-      "name": "Bank Handlowy w Warszawie SA, majority-owned by Citigroup",
-      "shortName": "Bank Handlowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_3",
-      "name": "BNP Paribas Bank Polska SA, majority-owned by BNP Paribas",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_4",
-      "name": "SGB-Bank SA, central entity of the cooperative SGB Group",
-      "shortName": "SGB-Bank SA,",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_5",
-      "name": "Alior Bank SA, 32-percent-owned by PZU&#91;8&#93;",
-      "shortName": "Alior",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_6",
-      "name": "Bank BPH SA, legacy mortgage arm of Alior Bank",
-      "shortName": "Bank BPH",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_7",
-      "name": "Bank Pocztowy SA, majority-owned by Polish Post",
-      "shortName": "Bank Pocztowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_8",
-      "name": "Getin Noble Bank SA, under liquidation since 2023",
-      "shortName": "Getin Noble",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_9",
-      "name": "Santander Consumer Bank SA, fully-owned by Banco Santander",
-      "shortName": "Santander Consumer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_10",
-      "name": "Bank Spółdzielczy w Brodnicy in Brodnica",
-      "shortName": "Bank Spółdzielczy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_11",
-      "name": "Bank Spółdzielczy w Bydgoszczy in Bydgoszcz",
-      "shortName": "Bank Spółdzielczy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_12",
-      "name": "Wschodni Bank Spółdzielczy w Chełmie in Chełm",
-      "shortName": "Wschodni",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_13",
-      "name": "Warmińsko-Mazurski Bank Spółdzielczy in Olsztyn",
-      "shortName": "Warmińsko-Mazurski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_14",
-      "name": "Bank Spółdzielczy w Rutce – Tartak in Suwałki",
-      "shortName": "Bank Spółdzielczy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_15",
-      "name": "Aareal Bank AG",
-      "shortName": "Aareal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_16",
-      "name": "Allfunds Bank SAU",
-      "shortName": "Allfunds",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_17",
-      "name": "AS Inbank",
-      "shortName": "AS Inbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_18",
-      "name": "BFF Bank SpA",
-      "shortName": "BFF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_19",
-      "name": "BNP Paribas SA",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_20",
-      "name": "CA Auto Bank SpA",
-      "shortName": "CA Auto",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_21",
-      "name": "CaixaBank SA",
-      "shortName": "CaixaBank SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_22",
-      "name": "Danske Bank A/S",
-      "shortName": "Danske",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_23",
-      "name": "Hoist Finance AB (publ.)",
-      "shortName": "Hoist Finance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_24",
-      "name": "Ikano Bank AB (publ.)",
-      "shortName": "Ikano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_25",
-      "name": "Intesa Sanpaolo SpA",
-      "shortName": "Intesa Sanpaolo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_26",
-      "name": "John Deere Bank SA, subsidiary of John Deere",
-      "shortName": "John Deere",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_27",
-      "name": "KEB Hana Bank (D) AG, subsidiary of Hana Bank",
-      "shortName": "KEB Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_28",
-      "name": "Nordea Bank Abp",
-      "shortName": "Nordea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_29",
-      "name": "Raiffeisen Bank International AG",
-      "shortName": "Raiffeisen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_30",
-      "name": "RCI Banque SA",
-      "shortName": "RCI Banque",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_31",
-      "name": "Skandinaviska Enskilda Banken AB",
-      "shortName": "Skandinaviska Enskilda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_32",
-      "name": "Société Générale SA",
-      "shortName": "Société Générale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_33",
-      "name": "TF Bank AB&#160;&#91;sv&#93;",
-      "shortName": "TF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_34",
-      "name": "Trade Republic Bank GmbH",
-      "shortName": "Trade Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_35",
-      "name": "UniCredit NV/SA",
-      "shortName": "UniCredit NV/SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_36",
-      "name": "Volkswagen Bank GmbH&#160;&#91;de&#93;",
-      "shortName": "Volkswagen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_37",
-      "name": "Schlesische Landschaft&#160;&#91;de&#93; (1770–1945)",
-      "shortName": "Schlesische Landschaft&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_38",
-      "name": "Ritterschaftliche Privatbank in Pommern (1824–1877)",
-      "shortName": "Ritterschaftliche Privatbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_39",
-      "name": "Bank Polski (1828–1885)",
-      "shortName": "Bank Polski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_40",
-      "name": "Städtische Bank in Breslau (1848–1910)",
-      "shortName": "Städtische",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_41",
-      "name": "Schlesischer Bankverein&#160;&#91;de&#93; (1856–1917)",
-      "shortName": "Schlesischerverein&#160;&#91;de&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_42",
-      "name": "Bank of Industrialists&#160;&#91;pl&#93; (1861–1933)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_43",
-      "name": "Commercial Bank in Poznań&#160;&#91;pl&#93; (1872–1939)",
-      "shortName": "Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_44",
-      "name": "Silesian Discount Bank&#160;&#91;pl&#93; (1893–1931)",
-      "shortName": "Silesian Discount",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_45",
-      "name": "Polish Industrial Bank&#160;&#91;pl&#93; (1910–1933)",
-      "shortName": "Polish Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_46",
-      "name": "Bank Dyskontowy (1913–1927)",
-      "shortName": "Bank Dyskontowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_47",
-      "name": "Polish National Loan Bank (1916–1924)",
-      "shortName": "Polish National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_48",
-      "name": "Land Bank for the Borderlands&#160;&#91;pl&#93; (1918–1927)",
-      "shortName": "Land",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_49",
-      "name": "Polish Land Bank in Lublin&#160;&#91;pl&#93; (1918–1926)",
-      "shortName": "Polish Land",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_50",
-      "name": "Bank Kredytu Hipotecznego&#160;&#91;pl&#93; (1919–1928)",
-      "shortName": "Bank Kredytu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_51",
-      "name": "Państwowy Bank Rolny&#160;&#91;pl&#93; (1919–1948)",
-      "shortName": "Państwowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_52",
-      "name": "Bank of Polish Industrialists&#160;&#91;pl&#93; (1920–1928)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_53",
-      "name": "Banque Franco-Polonaise&#160;&#91;pl&#93; (1920–1963)",
-      "shortName": "Banque Franco-Polonaise&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_54",
-      "name": "Warsaw Capital Bank&#160;&#91;pl&#93; (1920–1925)",
-      "shortName": "Warsaw Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_55",
-      "name": "Kalisz Land Bank&#160;&#91;pl&#93; (1921–1935)",
-      "shortName": "Kalisz Land",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_56",
-      "name": "Polish Emigration Bank&#160;&#91;pl&#93; (1921–1924)",
-      "shortName": "Polish Emigration",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_57",
-      "name": "Sugar Bank&#160;&#91;pl&#93; (1921–1946)",
-      "shortName": "Sugar&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_58",
-      "name": "Bank Polski SA (1924–1952)",
-      "shortName": "Bank Polski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_59",
-      "name": "Belarusian Cooperative Bank&#160;&#91;pl&#93; (1925–1938)",
-      "shortName": "Belarusian Cooperative",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_60",
-      "name": "British and Polish Trade Bank&#160;&#91;pl&#93; (1926–1939)",
-      "shortName": "British and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_61",
-      "name": "Bank of Issue in Poland (1940–1945)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_62",
-      "name": "Bank Inwestycyjny&#160;&#91;pl&#93; (1948-1970)",
-      "shortName": "Bank Inwestycyjny&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_63",
-      "name": "Bank Rolny&#160;&#91;pl&#93; (1950–1975)",
-      "shortName": "Bank Rolny&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_64",
-      "name": "Centralny Związek SOP (1964–1975)",
-      "shortName": "Centralny Związek",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_65",
-      "name": "Bank Gospodarki Żywnościowej (1975–2019)",
-      "shortName": "Bank Gospodarki",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_66",
-      "name": "Bank Depozytowo-Kredytowy (1989-1999)",
-      "shortName": "Bank Depozytowo-Kredytowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_67",
-      "name": "Bank Gdański (1989-1997)",
-      "shortName": "Bank Gdański",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_68",
-      "name": "Bank Inicjatyw Gospodarczych (1989-1997)",
-      "shortName": "Bank Inicjatyw",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_69",
-      "name": "Bank Przemysłowo-Handlowy (1989-2001)",
-      "shortName": "Bank Przemysłowo-Handlowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_70",
-      "name": "Bank Śląski (1989-2001)",
-      "shortName": "Bank Śląski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_71",
-      "name": "Bank Zachodni (1989–2001)",
-      "shortName": "Bank Zachodni",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_72",
-      "name": "Pomorski Bank Kredytowy (1989-1999)",
-      "shortName": "Pomorski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_73",
-      "name": "Powszechny Bank Gospodarczy (1989-1999)",
-      "shortName": "Powszechny",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_74",
-      "name": "Powszechny Bank Kredytowy (1989-2001)",
-      "shortName": "Powszechny",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_75",
-      "name": "Wielkopolski Bank Kredytowy (1989–2001)",
-      "shortName": "Wielkopolski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_76",
-      "name": "Getin Bank (1990–2022)&#91;13&#93;",
-      "shortName": "Getin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_77",
-      "name": "Kredyt Bank&#160;&#91;pl&#93; (1990-2013)",
-      "shortName": "Kredyt&#160;&#91;pl&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_78",
-      "name": "Polski Bank Rozwoju (1990-1998)",
-      "shortName": "Polski",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_79",
-      "name": "Idea Bank (1991–2021)&#91;14&#93;",
-      "shortName": "Idea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_80",
-      "name": "Nordea Bank Polska (1992–2010)",
-      "shortName": "Nordea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_81",
-      "name": "Mercedes-Benz Bank Polska (1999–2021)&#91;15&#93;",
-      "shortName": "Mercedes-Benz",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_82",
-      "name": "Bank Zachodni-WBK (2001–2018)",
-      "shortName": "Bank Zachodni-WBK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_83",
-      "name": "Bank BPH-PBK (2001-2009)",
-      "shortName": "Bank BPH-PBK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_84",
-      "name": "Inteligo (2001–2024)",
-      "shortName": "Inteligo (2001–2024)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_85",
-      "name": "HSBC Bank Polska (2003–2019)",
-      "shortName": "HSBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_86",
-      "name": "Santander Bank Polska (2018-2026)",
-      "shortName": "Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_87",
-      "name": "Mons Pius Bank in Lviv&#160;&#91;pl&#93; (1788–1939)",
-      "shortName": "Mons Pius",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_88",
-      "name": "Vilnius Land Bank (1872–1939)",
-      "shortName": "Vilnius Land",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_89",
-      "name": "Bank Krajowy in Lviv (1881–1924)",
-      "shortName": "Bank Krajowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_90",
-      "name": "Land Mortgage Bank in Lviv&#160;&#91;pl&#93; (1910–1939)",
-      "shortName": "Land Mortgage",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_91",
-      "name": "Czech Republic",
-      "shortName": "Czech Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_92",
-      "name": "Moldova",
-      "shortName": "Moldova",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_93",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_94",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_95",
-      "name": "CS1 Polish-language sources (pl)",
-      "shortName": "CS1 Polish-language",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_96",
-      "name": "Alior Bank S.A.",
-      "shortName": "Alior",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_97",
-      "name": "ABLPPLPW",
-      "shortName": "ABLPPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_98",
-      "name": "aliorbank.pl",
-      "shortName": "aliorbank.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_99",
-      "name": "BNP Paribas Bank Polska S.A.",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_100",
-      "name": "PPABPLPK",
-      "shortName": "PPABPLPK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_101",
-      "name": "bnpparibas.pl",
-      "shortName": "bnpparibas.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_102",
-      "name": "mBank S.A.",
-      "shortName": "mBank S.A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_103",
-      "name": "BREXPLPW",
-      "shortName": "BREXPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_104",
-      "name": "mbank.pl",
-      "shortName": "mbank.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_105",
-      "name": "Bank Handlowy w Warszawie S.A.",
-      "shortName": "Bank Handlowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_106",
-      "name": "CITIPLPX",
-      "shortName": "CITIPLPX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_107",
-      "name": "citibank.pl",
-      "shortName": "citibank.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_108",
-      "name": "Bank Millennium S.A.",
+      "name": "Bank Millennium",
       "shortName": "Bank Millennium",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_109",
-      "name": "BIGBPLPW",
-      "shortName": "BIGBPLPW",
+      "code": "PL_3",
+      "name": "Bank Ochrony Środowiska",
+      "shortName": "Bank Ochrony Środowi",
+      "type": "bank",
+      "aliases": "BOŚ"
+    },
+    {
+      "code": "PL_4",
+      "name": "Bank Pekao",
+      "shortName": "Bank Pekao",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_110",
-      "name": "bankmillennium.pl",
-      "shortName": "bankmillennium.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_111",
-      "name": "Bank Ochrony Środowiska S.A.",
-      "shortName": "Bank Ochrony",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_112",
-      "name": "EBOSPLPW",
-      "shortName": "EBOSPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_113",
-      "name": "bosbank.pl",
-      "shortName": "bosbank.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_114",
-      "name": "Bank Pocztowy S.A.",
+      "code": "PL_5",
+      "name": "Bank Pocztowy",
       "shortName": "Bank Pocztowy",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_115",
-      "name": "POCZPLP4",
-      "shortName": "POCZPLP4",
+      "code": "PL_6",
+      "name": "BNP Paribas Bank Polska",
+      "shortName": "BNP Paribas Polska",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_116",
-      "name": "pocztowy.pl",
-      "shortName": "pocztowy.pl",
+      "code": "PL_7",
+      "name": "ING Bank Śląski",
+      "shortName": "ING Śląski",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_117",
-      "name": "Bank Polska Kasa Opieki S.A.",
-      "shortName": "Bank Polska",
+      "code": "PL_8",
+      "name": "mBank",
+      "shortName": "mBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_118",
-      "name": "PKOPPLPW",
-      "shortName": "PKOPPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_119",
-      "name": "pekao.com.pl",
-      "shortName": "pekao.com.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_120",
-      "name": "Bank Polskiej Spółdzielczości S.A.",
-      "shortName": "Bank Polskiej",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_121",
-      "name": "POLUPLPR",
-      "shortName": "POLUPLPR",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_122",
-      "name": "bankbps.pl",
-      "shortName": "bankbps.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_123",
-      "name": "Crédit Agricole Bank Polska S.A.",
-      "shortName": "Crédit Agricole",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_124",
-      "name": "AGRIPLPR",
-      "shortName": "AGRIPLPR",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_125",
-      "name": "credit-agricole.pl",
-      "shortName": "credit-agricole.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_126",
-      "name": "Deutsche Bank Polska S.A.",
-      "shortName": "Deutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_127",
-      "name": "DEUTPLPX",
-      "shortName": "DEUTPLPX",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_128",
-      "name": "db.com/poland",
-      "shortName": "db.com/poland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_129",
-      "name": "DNB Bank Polska S.A.",
-      "shortName": "DNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_130",
-      "name": "MHBFPLPW",
-      "shortName": "MHBFPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_131",
-      "name": "dnb.pl",
-      "shortName": "dnb.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_132",
-      "name": "ING Bank Śląski S.A.",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_133",
-      "name": "ing.pl",
-      "shortName": "ing.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_134",
-      "name": "Nest Bank S.A.",
+      "code": "PL_9",
+      "name": "Nest Bank",
       "shortName": "Nest",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_135",
-      "name": "NESBPLPW",
-      "shortName": "NESBPLPW",
+      "code": "PL_10",
+      "name": "PKO Bank Polski",
+      "shortName": "PKO Polski",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_136",
-      "name": "nestbank.pl",
-      "shortName": "nestbank.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_137",
-      "name": "Plus Bank S.A.",
+      "code": "PL_11",
+      "name": "Plus Bank",
       "shortName": "Plus",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_138",
-      "name": "IVSEPLPP",
-      "shortName": "IVSEPLPP",
+      "code": "PL_12",
+      "name": "Santander Bank Polska",
+      "shortName": "Santander Polska",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_139",
-      "name": "plusbank.pl",
-      "shortName": "plusbank.pl",
+      "code": "PL_13",
+      "name": "VeloBank",
+      "shortName": "VeloBank",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PL_140",
-      "name": "Powszechna Kasa Oszczędności Bank Polski S.A.",
-      "shortName": "Powszechna Kasa",
-      "type": "bank",
+      "code": "PL_14",
+      "name": "Blik",
+      "shortName": "Blik",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PL_141",
-      "name": "pkobp.pl",
-      "shortName": "pkobp.pl",
-      "type": "bank",
+      "code": "PL_15",
+      "name": "mPay",
+      "shortName": "mPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PL_142",
-      "name": "SGB-Bank S.A.",
-      "shortName": "SGB-Bank S.A.",
-      "type": "bank",
+      "code": "PL_16",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PL_143",
-      "name": "GBWCPLPP",
-      "shortName": "GBWCPLPP",
-      "type": "bank",
+      "code": "PL_17",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PL_144",
-      "name": "sgb.pl",
-      "shortName": "sgb.pl",
-      "type": "bank",
+      "code": "PL_18",
+      "name": "SkyCash",
+      "shortName": "SkyCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "PL_145",
-      "name": "Santander Bank Polska S.A.",
-      "shortName": "Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_146",
-      "name": "WBKPPLPP",
-      "shortName": "WBKPPLPP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_147",
-      "name": "santander.pl",
-      "shortName": "santander.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_148",
-      "name": "UniCredit NV/SA&#91;12&#93;",
-      "shortName": "UniCredit NV/SA&#91;12&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_149",
-      "name": "BMPBPLPP",
-      "shortName": "BMPBPLPP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_150",
-      "name": "VeloBank S.A.",
-      "shortName": "VeloBank S.A.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_151",
-      "name": "GBGCPLPK",
-      "shortName": "GBGCPLPK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_152",
-      "name": "Millennium Bank Hipoteczny S.A.",
-      "shortName": "Millennium",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_153",
-      "name": "millenniumbh.pl",
-      "shortName": "millenniumbh.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_154",
-      "name": "Pekao Bank Hipoteczny S.A.",
-      "shortName": "Pekao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_155",
-      "name": "HYVEPLP2",
-      "shortName": "HYVEPLP2",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_156",
-      "name": "pekaobh.pl",
-      "shortName": "pekaobh.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_157",
-      "name": "BPKHPLPG",
-      "shortName": "BPKHPLPG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_158",
-      "name": "ING Bank Hipoteczny S.A.",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_159",
-      "name": "INGBPLPH",
-      "shortName": "INGBPLPH",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_160",
-      "name": "inghipoteczny.pl",
-      "shortName": "inghipoteczny.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_161",
-      "name": "Santander Consumer Bank S.A.",
-      "shortName": "Santander Consumer",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_162",
-      "name": "SCFBPLPW",
-      "shortName": "SCFBPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_163",
-      "name": "santanderconsumer.pl",
-      "shortName": "santanderconsumer.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_164",
-      "name": "RHBHPLPW",
-      "shortName": "RHBHPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_165",
-      "name": "Bank Nowy BFG S.A.",
-      "shortName": "Bank Nowy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_166",
-      "name": "banknowybfg.pl",
-      "shortName": "banknowybfg.pl",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_167",
-      "name": "Toyota Bank Polska S.A.",
-      "shortName": "Toyota",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_168",
-      "name": "TOBAPLPW",
-      "shortName": "TOBAPLPW",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PL_169",
-      "name": "toyotabank.pl",
-      "shortName": "toyotabank.pl",
-      "type": "bank",
+      "code": "PL_19",
+      "name": "Twisto",
+      "shortName": "Twisto",
+      "type": "mfs",
       "aliases": ""
     }
   ]

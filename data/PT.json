@@ -1,167 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "PT",
   "institutions": [
     {
       "code": "PT_0",
-      "name": "Banco Comercial Português SA (BCP)",
-      "shortName": "Banco Comercial",
+      "name": "Abanca",
+      "shortName": "Abanca",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Portugal"
     },
     {
       "code": "PT_1",
-      "name": "Caixa Geral de Depósitos SA (CGD)",
-      "shortName": "Caixa Geral",
+      "name": "ActivoBank",
+      "shortName": "ActivoBank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_2",
-      "name": "LSF Nani Investments Sàrl, holding entity of Novo Banco",
-      "shortName": "LSF Nani",
+      "name": "Banco Carregosa",
+      "shortName": "Carregosa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_3",
-      "name": "Caixa de Crédito Agrícola Mútuo de Torres Vedras CRL",
-      "shortName": "Caixa de",
+      "name": "Banco CTT",
+      "shortName": "CTT",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_4",
-      "name": "Caixa de Crédito Agrícola Mútuo da Chamusca CRL",
-      "shortName": "Caixa de",
+      "name": "Banco Montepio",
+      "shortName": "Montepio",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_5",
-      "name": "Banco de Investimento Global SA&#160;&#91;pt&#93;",
-      "shortName": "Banco de",
+      "name": "BPI",
+      "shortName": "BPI",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Banco Português de Investimento"
     },
     {
       "code": "PT_6",
-      "name": "Banco Finantia SA&#160;&#91;pt&#93;",
-      "shortName": "Banco Finantia",
+      "name": "Caixa Geral de Depósitos",
+      "shortName": "Caixa Geral de Depós",
       "type": "bank",
-      "aliases": ""
+      "aliases": "CGD"
     },
     {
       "code": "PT_7",
-      "name": "Banco L.J. Carregosa SA&#160;&#91;pt&#93;",
-      "shortName": "Banco L.J.",
+      "name": "Millennium BCP",
+      "shortName": "Millennium BCP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_8",
-      "name": "Banco Português de Gestão SA",
-      "shortName": "Banco Português",
+      "name": "Novobanco",
+      "shortName": "Novobanco",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_9",
-      "name": "Bison Bank SA",
-      "shortName": "Bison",
+      "name": "Santander Totta",
+      "shortName": "Santander Totta",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PT_10",
-      "name": "Montepio Investimento SA, part of Montepio Group",
-      "shortName": "Montepio Investimento",
-      "type": "bank",
+      "name": "MB Way",
+      "shortName": "MB Way",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PT_11",
-      "name": "Crédito Predial Português (1863-2004)",
-      "shortName": "Crédito Predial",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PT_12",
-      "name": "Banco Nacional Ultramarino (1864-2001)",
-      "shortName": "Banco Nacional",
-      "type": "bank",
+      "name": "Revolut",
+      "shortName": "Revolut",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PT_13",
-      "name": "Banco Espírito Santo (1869-2016)",
-      "shortName": "Banco Espírito",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_14",
-      "name": "Banco da Régua&#160;&#91;pt&#93; (1874-1886)",
-      "shortName": "Banco da",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_15",
-      "name": "Banco Fernandes Magalhães&#160;&#91;pt&#93; (1905-1975)",
-      "shortName": "Banco Fernandes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_16",
-      "name": "Banco Português do Atlântico (1942-2000)",
-      "shortName": "Banco Português",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_17",
-      "name": "Banco Totta-Aliança&#160;&#91;pt&#93; (1961-1969)",
-      "shortName": "Banco Totta-Aliança&#160;&#91;pt&#93;",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_18",
-      "name": "Banco Totta &amp; Açores&#160;&#91;pt&#93; (1970-2004)",
-      "shortName": "Banco Totta",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_19",
-      "name": "Banif Financial Group (1988-2015)",
-      "shortName": "Banif Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_20",
-      "name": "Banco Português de Negócios (1993-2008)",
-      "shortName": "Banco Português",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_21",
-      "name": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
-      "shortName": "Finibanco&#160;&#91;pt&#93; (1993-2013)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "PT_22",
-      "name": "Banco Privado Português (1996-2010)",
-      "shortName": "Banco Privado",
-      "type": "bank",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]

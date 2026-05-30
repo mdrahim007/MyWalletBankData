@@ -1,41 +1,55 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "PW",
   "institutions": [
     {
       "code": "PW_0",
-      "name": "Central Bank of PW",
-      "shortName": "Central Bank",
+      "name": "Asia Pacific Commercial Bank",
+      "shortName": "Asia Pacific Commerc",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PW_1",
-      "name": "National Bank of PW",
-      "shortName": "National Bank",
+      "name": "Bank of Guam",
+      "shortName": "Bank of Guam",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Palau Branch"
     },
     {
       "code": "PW_2",
-      "name": "State Bank of PW",
-      "shortName": "State Bank",
+      "name": "Bank of Hawaii",
+      "shortName": "Bank of Hawaii",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Palau Branch"
     },
     {
       "code": "PW_3",
-      "name": "Commercial Bank of PW",
-      "shortName": "Commercial Bank",
+      "name": "BankPacific",
+      "shortName": "BankPacific",
+      "type": "bank",
+      "aliases": "Palau Branch"
+    },
+    {
+      "code": "PW_4",
+      "name": "National Development Bank of Palau",
+      "shortName": "National Development",
+      "type": "bank",
+      "aliases": "NDBP"
+    },
+    {
+      "code": "PW_5",
+      "name": "Palau Investment Bank",
+      "shortName": "Palau Investment",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "PW_4",
-      "name": "First PW Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "code": "PW_6",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     }
   ]

@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "PM",
   "institutions": [
     {
       "code": "PM_0",
-      "name": "Central Bank of PM",
-      "shortName": "Central Bank",
+      "name": "Banque de Saint-Pierre et Miquelon",
+      "shortName": "Banque de Saint-Pier",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PM_1",
-      "name": "National Bank of PM",
-      "shortName": "National Bank",
+      "name": "Caisse d'Épargne CEPAC",
+      "shortName": "Caisse d'Épargne CEP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PM_2",
-      "name": "State Bank of PM",
-      "shortName": "State Bank",
-      "type": "bank",
+      "name": "Lyf Pay",
+      "shortName": "Lyf Pay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PM_3",
-      "name": "Commercial Bank of PM",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PM_4",
-      "name": "First PM Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "PM_5",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]

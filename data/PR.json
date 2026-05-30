@@ -1,41 +1,55 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "PR",
   "institutions": [
     {
       "code": "PR_0",
-      "name": "Central Bank of PR",
-      "shortName": "Central Bank",
+      "name": "Banco Popular de Puerto Rico",
+      "shortName": "Popular de Puerto Ri",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PR_1",
-      "name": "National Bank of PR",
-      "shortName": "National Bank",
+      "name": "FirstBank Puerto Rico",
+      "shortName": "FirstBank Puerto Ric",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PR_2",
-      "name": "State Bank of PR",
-      "shortName": "State Bank",
+      "name": "Oriental Bank",
+      "shortName": "Oriental",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "PR_3",
-      "name": "Commercial Bank of PR",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "ATH Móvil",
+      "shortName": "ATH Móvil",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "PR_4",
-      "name": "First PR Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Cash App",
+      "shortName": "Cash App",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "PR_5",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "PR_6",
+      "name": "Venmo",
+      "shortName": "Venmo",
+      "type": "mfs",
       "aliases": ""
     }
   ]
