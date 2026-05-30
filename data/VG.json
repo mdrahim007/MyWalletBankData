@@ -1,42 +1,49 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "VG",
   "institutions": [
     {
       "code": "VG_0",
-      "name": "Central Bank of VG",
-      "shortName": "Central Bank",
+      "name": "Banco Popular de Puerto Rico",
+      "shortName": "Popular de Puerto Ri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BVI"
     },
     {
       "code": "VG_1",
-      "name": "National Bank of VG",
-      "shortName": "National Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BVI"
     },
     {
       "code": "VG_2",
-      "name": "State Bank of VG",
-      "shortName": "State Bank",
+      "name": "FirstBank Puerto Rico",
+      "shortName": "FirstBank Puerto Ric",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BVI"
     },
     {
       "code": "VG_3",
-      "name": "Commercial Bank of VG",
-      "shortName": "Commercial Bank",
+      "name": "National Bank of the Virgin Islands",
+      "shortName": "National of the Virg",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VG_4",
-      "name": "First VG Bank",
-      "shortName": "First Bank",
+      "name": "Republic Bank",
+      "shortName": "Republic",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BVI"
+    },
+    {
+      "code": "VG_5",
+      "name": "VP Bank",
+      "shortName": "VP",
+      "type": "bank",
+      "aliases": "BVI"
     }
   ]
 }

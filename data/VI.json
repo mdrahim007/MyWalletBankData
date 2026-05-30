@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "VI",
   "institutions": [
     {
       "code": "VI_0",
-      "name": "Central Bank of VI",
-      "shortName": "Central Bank",
+      "name": "Banco Popular de Puerto Rico",
+      "shortName": "Popular de Puerto Ri",
       "type": "bank",
-      "aliases": ""
+      "aliases": "USVI"
     },
     {
       "code": "VI_1",
-      "name": "National Bank of VI",
-      "shortName": "National Bank",
+      "name": "FirstBank USVI",
+      "shortName": "FirstBank USVI",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VI_2",
-      "name": "State Bank of VI",
-      "shortName": "State Bank",
+      "name": "Merchants Commercial Bank",
+      "shortName": "Merchants Commercial",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VI_3",
-      "name": "Commercial Bank of VI",
-      "shortName": "Commercial Bank",
-      "type": "bank",
+      "name": "Cash App",
+      "shortName": "Cash App",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "VI_4",
-      "name": "First VI Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "VI_5",
+      "name": "Venmo",
+      "shortName": "Venmo",
+      "type": "mfs",
       "aliases": ""
     }
   ]

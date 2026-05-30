@@ -1,41 +1,48 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "VC",
   "institutions": [
     {
       "code": "VC_0",
-      "name": "Central Bank of VC",
-      "shortName": "Central Bank",
+      "name": "Bank of Saint Vincent and the Grenadines",
+      "shortName": "Bank of Saint Vincen",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOSVG"
     },
     {
       "code": "VC_1",
-      "name": "National Bank of VC",
-      "shortName": "National Bank",
+      "name": "CIBC Caribbean",
+      "shortName": "CIBC Caribbean",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VC_2",
-      "name": "State Bank of VC",
-      "shortName": "State Bank",
+      "name": "Republic Bank",
+      "shortName": "Republic",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VC_3",
-      "name": "Commercial Bank of VC",
-      "shortName": "Commercial Bank",
+      "name": "St. Vincent Co-operative Bank",
+      "shortName": "St. Vincent Co-opera",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VC_4",
-      "name": "First VC Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "DCash",
+      "shortName": "DCash",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "VC_5",
+      "name": "Penny Pinch",
+      "shortName": "Penny Pinch",
+      "type": "mfs",
       "aliases": ""
     }
   ]

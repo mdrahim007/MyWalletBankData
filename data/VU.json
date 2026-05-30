@@ -1,41 +1,55 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "VU",
   "institutions": [
     {
       "code": "VU_0",
-      "name": "Central Bank of VU",
-      "shortName": "Central Bank",
+      "name": "ANZ Bank Vanuatu",
+      "shortName": "ANZ Vanuatu",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VU_1",
-      "name": "National Bank of VU",
-      "shortName": "National Bank",
+      "name": "BSP Vanuatu",
+      "shortName": "BSP Vanuatu",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Bank of South Pacific"
     },
     {
       "code": "VU_2",
-      "name": "State Bank of VU",
-      "shortName": "State Bank",
+      "name": "National Bank of Vanuatu",
+      "shortName": "National of Vanuatu",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NBV"
     },
     {
       "code": "VU_3",
-      "name": "Commercial Bank of VU",
-      "shortName": "Commercial Bank",
+      "name": "Wanfuteng Bank",
+      "shortName": "Wanfuteng",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "VU_4",
-      "name": "First VU Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Kwik Pay",
+      "shortName": "Kwik Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "VU_5",
+      "name": "M-Vatu",
+      "shortName": "M-Vatu",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "VU_6",
+      "name": "MyCash",
+      "shortName": "MyCash",
+      "type": "mfs",
       "aliases": ""
     }
   ]

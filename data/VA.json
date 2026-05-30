@@ -1,42 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "VA",
   "institutions": [
     {
       "code": "VA_0",
-      "name": "Central Bank of VA",
-      "shortName": "Central Bank",
+      "name": "Istituto per le Opere di Religione",
+      "shortName": "Istituto per le Oper",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VA_1",
-      "name": "National Bank of VA",
-      "shortName": "National Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VA_2",
-      "name": "State Bank of VA",
-      "shortName": "State Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VA_3",
-      "name": "Commercial Bank of VA",
-      "shortName": "Commercial Bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "VA_4",
-      "name": "First VA Bank",
-      "shortName": "First Bank",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "IOR"
     }
   ]
 }
