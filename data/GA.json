@@ -1,216 +1,76 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GA",
   "institutions": [
     {
       "code": "GA_0",
-      "name": "BGFIBank, part of BGFIBank Group",
-      "shortName": "BGFIBank, part",
+      "name": "Banque Internationale pour le Commerce et l'Industrie du Gabon",
+      "shortName": "Banque International",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BICIG"
     },
     {
       "code": "GA_1",
-      "name": "United Bank for Africa Gabon (UBA), part of UBA Group",
-      "shortName": "United",
+      "name": "BGFIBank Gabon",
+      "shortName": "BGFIBank Gabon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GA_2",
-      "name": "Orabank Gabon, part of Orabank Group",
-      "shortName": "Orabank Gabon,",
+      "name": "Citibank Gabon",
+      "shortName": "Citibank Gabon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GA_3",
-      "name": "Citibank Gabon, part of Citigroup",
-      "shortName": "Citibank Gabon,",
+      "name": "Ecobank Gabon",
+      "shortName": "Ecobank Gabon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GA_4",
-      "name": "Alios Finance Gabon, part of Alios Finance Group",
-      "shortName": "Alios Finance",
+      "name": "Orabank Gabon",
+      "shortName": "Orabank Gabon",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GA_5",
-      "name": "Central Bank of Central African States",
-      "shortName": "Central",
+      "name": "Union Gabonaise de Banque",
+      "shortName": "Union Gabonaise de",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UGB"
     },
     {
       "code": "GA_6",
-      "name": "Website of Central Bank of Central African States (French)",
-      "shortName": "Website of",
+      "name": "United Bank for Africa Gabon",
+      "shortName": "United for Africa Ga",
       "type": "bank",
-      "aliases": ""
+      "aliases": "UBA"
     },
     {
       "code": "GA_7",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GA_8",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
+      "name": "GabonPay",
+      "shortName": "GabonPay",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "GA_9",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_10",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_11",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_12",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_13",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_14",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_15",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_16",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_17",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_18",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_19",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_20",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_21",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_22",
-      "name": "Cocoa",
-      "shortName": "Cocoa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_23",
-      "name": "Coffee",
-      "shortName": "Coffee",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_24",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_25",
-      "name": "Palm oil",
-      "shortName": "Palm oil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_26",
-      "name": "Petroleum",
-      "shortName": "Petroleum",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_27",
-      "name": "Rubber",
-      "shortName": "Rubber",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_28",
-      "name": "Sugar",
-      "shortName": "Sugar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GA_29",
-      "name": "Textiles",
-      "shortName": "Textiles",
-      "type": "bank",
+      "name": "Moov Money",
+      "shortName": "Moov Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]

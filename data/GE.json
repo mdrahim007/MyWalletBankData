@@ -1,41 +1,153 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "GE",
   "institutions": [
     {
       "code": "GE_0",
-      "name": "Central Bank of GE",
-      "shortName": "Central Bank",
+      "name": "Bank of Georgia",
+      "shortName": "Bank of Georgia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GE_1",
-      "name": "National Bank of GE",
-      "shortName": "National Bank",
+      "name": "Basisbank",
+      "shortName": "Basisbank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GE_2",
-      "name": "State Bank of GE",
-      "shortName": "State Bank",
+      "name": "Cartu Bank",
+      "shortName": "Cartu",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GE_3",
-      "name": "Commercial Bank of GE",
-      "shortName": "Commercial Bank",
+      "name": "Credo Bank",
+      "shortName": "Credo",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GE_4",
-      "name": "First GE Bank",
-      "shortName": "First Bank",
+      "name": "Halyk Bank Georgia",
+      "shortName": "Halyk Georgia",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_5",
+      "name": "Hash Bank",
+      "shortName": "Hash",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_6",
+      "name": "Isbank Georgia",
+      "shortName": "Isbank Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_7",
+      "name": "Liberty Bank",
+      "shortName": "Liberty",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_8",
+      "name": "PASHA Bank Georgia",
+      "shortName": "PASHA Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_9",
+      "name": "Pave Bank Georgia",
+      "shortName": "Pave Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_10",
+      "name": "Paysera Bank Georgia",
+      "shortName": "Paysera Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_11",
+      "name": "ProCredit Bank",
+      "shortName": "ProCredit",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_12",
+      "name": "Silk Road Bank",
+      "shortName": "Silk Road",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_13",
+      "name": "TBC Bank",
+      "shortName": "TBC",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_14",
+      "name": "Terabank",
+      "shortName": "Terabank",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_15",
+      "name": "Ziraat Bank Georgia",
+      "shortName": "Ziraat Georgia",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GE_16",
+      "name": "mCoins",
+      "shortName": "mCoins",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GE_17",
+      "name": "OPPA",
+      "shortName": "OPPA",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GE_18",
+      "name": "PayBox",
+      "shortName": "PayBox",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GE_19",
+      "name": "TBC Pay",
+      "shortName": "TBC Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GE_20",
+      "name": "uniPAY",
+      "shortName": "uniPAY",
+      "type": "mfs",
       "aliases": ""
     }
   ]

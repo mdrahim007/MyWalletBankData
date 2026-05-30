@@ -1,41 +1,76 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "GF",
   "institutions": [
     {
       "code": "GF_0",
-      "name": "Central Bank of GF",
-      "shortName": "Central Bank",
+      "name": "BNP Paribas Guyane",
+      "shortName": "BNP Paribas Guyane",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GF_1",
-      "name": "National Bank of GF",
-      "shortName": "National Bank",
+      "name": "BRED Banque Populaire",
+      "shortName": "BRED Populaire",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GF_2",
-      "name": "State Bank of GF",
-      "shortName": "State Bank",
+      "name": "Caisse d'Épargne CEPAC",
+      "shortName": "Caisse d'Épargne CEP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GF_3",
-      "name": "Commercial Bank of GF",
-      "shortName": "Commercial Bank",
+      "name": "LCL",
+      "shortName": "LCL",
+      "type": "bank",
+      "aliases": "Le Crédit Lyonnais"
+    },
+    {
+      "code": "GF_4",
+      "name": "La Banque Postale",
+      "shortName": "La Postale",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GF_4",
-      "name": "First GF Bank",
-      "shortName": "First Bank",
+      "code": "GF_5",
+      "name": "SG Antilles-Guyane",
+      "shortName": "SG Antilles-Guyane",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "GF_6",
+      "name": "Lyf Pay",
+      "shortName": "Lyf Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GF_7",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GF_8",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GF_9",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]

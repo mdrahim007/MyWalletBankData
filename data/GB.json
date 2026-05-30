@@ -1,1847 +1,195 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "GB",
   "institutions": [
     {
       "code": "GB_0",
-      "name": "Banks incorporated in the UK authorised to accept deposits",
-      "shortName": "Banks incorporated",
+      "name": "Allica Bank",
+      "shortName": "Allica",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "GB_1",
-      "name": "Firm Name",
-      "shortName": "Firm Name",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_2",
-      "name": "Jordan International Bank Plc",
-      "shortName": "Jordan International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_3",
-      "name": "Afin Bank Limited",
-      "shortName": "Afin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_4",
-      "name": "AIB GROUP (UK) P.L.C.",
-      "shortName": "AIB GROUP",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_5",
-      "name": "Al Rayan Bank PLC",
-      "shortName": "Al Rayan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_6",
-      "name": "Aldermore Bank Plc",
-      "shortName": "Aldermore",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_7",
-      "name": "ALLICA BANK LIMITED",
-      "shortName": "ALLICA BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_8",
-      "name": "Alpha Bank London Limited",
-      "shortName": "Alpha",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_9",
-      "name": "ARBUTHNOT LATHAM & CO.",
-      "shortName": "ARBUTHNOT LATHAM",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_10",
-      "name": "Atom Bank PLC",
+      "name": "Atom Bank",
       "shortName": "Atom",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_11",
-      "name": "Bank of Africa United Kingdom Plc",
-      "shortName": "Bank of",
+      "code": "GB_2",
+      "name": "Bank of Scotland",
+      "shortName": "Bank of Scotland",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_12",
-      "name": "Bank Of Baroda (UK) Limited",
-      "shortName": "Bank Of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_13",
-      "name": "Bank of Beirut (UK) Ltd",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_14",
-      "name": "BANK OF CEYLON (UK) LIMITED",
-      "shortName": "BANK OF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_15",
-      "name": "Bank of Ireland (UK) Plc",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_16",
-      "name": "Bank of London and The Middle East plc",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_17",
-      "name": "Bank of Scotland plc",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_18",
-      "name": "Bank Saderat Plc",
-      "shortName": "Bank Saderat",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_19",
-      "name": "Bank Sepah International Plc",
-      "shortName": "Bank Sepah",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_20",
-      "name": "Barclays Bank UK PLC",
+      "code": "GB_3",
+      "name": "Barclays",
       "shortName": "Barclays",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_21",
-      "name": "BIRMINGHAM BANK LIMITED",
-      "shortName": "BIRMINGHAM BANK",
+      "code": "GB_4",
+      "name": "Chase UK",
+      "shortName": "Chase UK",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_22",
-      "name": "BRITISH ARAB COMMERCIAL BANK PUBLIC LIMITED COMPANY",
-      "shortName": "BRITISH ARAB",
+      "code": "GB_5",
+      "name": "Co-operative Bank",
+      "shortName": "Co-operative",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_23",
-      "name": "BROWN SHIPLEY & CO. LIMITED",
-      "shortName": "BROWN SHIPLEY",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_24",
-      "name": "C. HOARE & CO.",
-      "shortName": "C. HOARE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_25",
-      "name": "Cambridge & Counties Bank Limited",
-      "shortName": "Cambridge &",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_26",
-      "name": "Castle Trust Capital PLC",
-      "shortName": "Castle Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_27",
-      "name": "Cater Allen Limited",
-      "shortName": "Cater Allen",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_28",
-      "name": "Charter Court Financial Services Limited",
-      "shortName": "Charter Court",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_29",
-      "name": "Chetwood Financial Limited",
-      "shortName": "Chetwood Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_30",
-      "name": "FirstBank UK Limited",
-      "shortName": "FirstBank UK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_31",
-      "name": "ClearBank Limited",
-      "shortName": "ClearBank Limited",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_32",
-      "name": "Close Brothers Limited",
-      "shortName": "Close Brothers",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_33",
-      "name": "Clydesdale Bank Plc",
-      "shortName": "Clydesdale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_34",
-      "name": "Coutts & Company",
-      "shortName": "Coutts &",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_35",
-      "name": "Credit Suisse (UK) Limited",
-      "shortName": "Credit Suisse",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_36",
-      "name": "CREDIT SUISSE INTERNATIONAL",
-      "shortName": "CREDIT SUISSE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_37",
-      "name": "Crown Agents Bank Limited",
-      "shortName": "Crown Agents",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_38",
-      "name": "Cynergy Bank Plc",
-      "shortName": "Cynergy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_39",
-      "name": "DB UK Bank Limited",
-      "shortName": "DB UK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_40",
-      "name": "DF Capital Bank Limited",
-      "shortName": "DF Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_41",
-      "name": "EFG Private Bank Limited",
-      "shortName": "EFG Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_42",
-      "name": "FCE Bank Plc",
-      "shortName": "FCE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_43",
-      "name": "FCMB Bank (UK) Limited",
-      "shortName": "FCMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_44",
-      "name": "Gatehouse Bank Plc",
-      "shortName": "Gatehouse",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_45",
-      "name": "GB Bank Limited",
-      "shortName": "GB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_46",
-      "name": "GHANA INTERNATIONAL BANK PUBLIC LIMITED COMPANY",
-      "shortName": "GHANA INTERNATIONAL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_47",
-      "name": "Goldman Sachs International Bank",
-      "shortName": "Goldman Sachs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_48",
-      "name": "Griffin Bank Ltd",
-      "shortName": "Griffin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_49",
-      "name": "Guaranty Trust Bank (UK) Limited",
-      "shortName": "Guaranty Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_50",
-      "name": "Gulf International Bank (UK) Limited",
-      "shortName": "Gulf International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_51",
-      "name": "Habib Bank Zurich Plc",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_52",
-      "name": "HAMPDEN & CO PLC",
-      "shortName": "HAMPDEN &",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_53",
-      "name": "Hampshire Trust Bank Plc",
-      "shortName": "Hampshire Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_54",
-      "name": "Handelsbanken plc",
-      "shortName": "Handelsbanken",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_55",
-      "name": "Havin Bank Ltd",
-      "shortName": "Havin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_56",
-      "name": "HBL BANK UK LIMITED",
-      "shortName": "HBL BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_57",
-      "name": "HSBC UK Bank Plc",
+      "code": "GB_6",
+      "name": "HSBC UK",
       "shortName": "HSBC UK",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_58",
-      "name": "HSBC INNOVATION BANK LIMITED",
-      "shortName": "HSBC INNOVATION",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_59",
-      "name": "ICBC (London) plc",
-      "shortName": "ICBC (London)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_60",
-      "name": "ICBC Standard Bank Plc",
-      "shortName": "ICBC Standard",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_61",
-      "name": "ICICI Bank UK Plc",
-      "shortName": "ICICI",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_62",
-      "name": "IFAST GLOBAL BANK LIMITED",
-      "shortName": "IFAST GLOBAL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_63",
-      "name": "Investec Bank PLC",
-      "shortName": "Investec",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_64",
-      "name": "Itau BBA International PLC",
-      "shortName": "Itau BBA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_65",
-      "name": "J.P. Morgan Securities plc",
-      "shortName": "J.P. Morgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_66",
-      "name": "Julian Hodge Bank Limited",
-      "shortName": "Julian Hodge",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_67",
-      "name": "Zenith Bank (UK) Limited",
-      "shortName": "Zenith",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_68",
-      "name": "KINGDOM BANK LIMITED",
-      "shortName": "KINGDOM BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_69",
-      "name": "Kroo Bank Ltd",
-      "shortName": "Kroo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_70",
-      "name": "KUWAIT FINANCE HOUSE PLC",
-      "shortName": "KUWAIT FINANCE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_71",
-      "name": "LHV BANK LIMITED",
-      "shortName": "LHV BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_72",
-      "name": "Lloyds Bank Corporate Markets Plc",
+      "code": "GB_7",
+      "name": "Lloyds Bank",
       "shortName": "Lloyds",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_73",
-      "name": "Lloyds Bank PLC",
-      "shortName": "Lloyds",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_74",
-      "name": "MARKS AND SPENCER FINANCIAL SERVICES PLC",
-      "shortName": "MARKS AND",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_75",
-      "name": "Melli Bank plc",
-      "shortName": "Melli",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_76",
-      "name": "Methodist Chapel Aid Limited",
-      "shortName": "Methodist Chapel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_77",
-      "name": "Metro Bank PLC",
+      "code": "GB_8",
+      "name": "Metro Bank",
       "shortName": "Metro",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_78",
-      "name": "Mizuho International plc",
-      "shortName": "Mizuho International",
+      "code": "GB_9",
+      "name": "Monzo",
+      "shortName": "Monzo",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_79",
-      "name": "Monument Bank Limited",
-      "shortName": "Monument",
+      "code": "GB_10",
+      "name": "National Westminster Bank",
+      "shortName": "National Westminster",
+      "type": "bank",
+      "aliases": "NatWest"
+    },
+    {
+      "code": "GB_11",
+      "name": "Nationwide Building Society",
+      "shortName": "Nationwide Building",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_80",
-      "name": "MONZO BANK LIMITED",
-      "shortName": "MONZO BANK",
+      "code": "GB_12",
+      "name": "Royal Bank of Scotland",
+      "shortName": "Royal of Scotland",
       "type": "bank",
-      "aliases": ""
+      "aliases": "RBS"
     },
     {
-      "code": "GB_81",
-      "name": "Morgan Stanley Bank International Limited",
-      "shortName": "Morgan Stanley",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_82",
-      "name": "National Bank of Egypt (UK) Limited",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_83",
-      "name": "National Bank of Kuwait (International) Plc",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_84",
-      "name": "NATIONAL WESTMINSTER BANK PUBLIC LIMITED COMPANY",
-      "shortName": "NATIONAL WESTMINSTER",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_85",
-      "name": "NatWest Markets Plc",
-      "shortName": "NatWest Markets",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_86",
-      "name": "Nomura Bank International Plc.",
-      "shortName": "Nomura",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_87",
-      "name": "Northern Bank Limited",
-      "shortName": "Northern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_88",
-      "name": "OakNorth Bank plc",
-      "shortName": "OakNorth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_89",
-      "name": "OneSavings Bank Plc",
-      "shortName": "OneSavings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_90",
-      "name": "Oxbury Bank PLC",
-      "shortName": "Oxbury",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_91",
-      "name": "Paragon Bank Plc",
-      "shortName": "Paragon",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_92",
-      "name": "Perenna Bank PLC",
-      "shortName": "Perenna",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_93",
-      "name": "Punjab National Bank (International) Limited",
-      "shortName": "Punjab National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_94",
-      "name": "QIB (UK) Plc",
-      "shortName": "QIB (UK)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_95",
-      "name": "Rathbones Investment Management Limited",
-      "shortName": "Rathbones Investment",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_96",
-      "name": "Triodos Bank UK Limited",
-      "shortName": "Triodos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_97",
-      "name": "RECOGNISE BANK LIMITED",
-      "shortName": "RECOGNISE BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_98",
-      "name": "REDWOOD BANK LIMITED",
-      "shortName": "REDWOOD BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_99",
-      "name": "RELIANCE BANK LIMITED",
-      "shortName": "RELIANCE BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_100",
-      "name": "Revolut Bank UK Ltd",
-      "shortName": "Revolut",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_101",
-      "name": "Sainsbury's Bank Plc",
-      "shortName": "Sainsbury's",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_102",
-      "name": "Santander Financial Services plc",
-      "shortName": "Santander Financial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_103",
-      "name": "Santander UK Plc",
+      "code": "GB_13",
+      "name": "Santander UK",
       "shortName": "Santander UK",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_104",
-      "name": "SCHRODER & CO. LIMITED",
-      "shortName": "SCHRODER &",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_105",
-      "name": "SECURE TRUST BANK PUBLIC LIMITED COMPANY",
-      "shortName": "SECURE TRUST",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_106",
-      "name": "Shawbrook Bank Limited",
-      "shortName": "Shawbrook",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_107",
-      "name": "SMBC Bank International plc",
-      "shortName": "SMBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_108",
-      "name": "Standard Chartered Bank",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_109",
-      "name": "Starling Bank Limited",
+      "code": "GB_14",
+      "name": "Starling Bank",
       "shortName": "Starling",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_110",
-      "name": "State Bank Of India (UK) Limited",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_111",
-      "name": "StreamBank PLC",
-      "shortName": "StreamBank PLC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_112",
-      "name": "Tandem Bank Limited",
-      "shortName": "Tandem",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_113",
-      "name": "The Access Bank UK Limited",
-      "shortName": "The Access",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_114",
-      "name": "The Bank of London Group Limited",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_115",
-      "name": "The Bank of New York Mellon (International) Limited",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_116",
-      "name": "The Charity Bank Limited",
-      "shortName": "The Charity",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_117",
-      "name": "THE CO-OPERATIVE BANK P.L.C.",
-      "shortName": "THE CO-OPERATIVE",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_118",
-      "name": "THE ROYAL BANK OF SCOTLAND PUBLIC LIMITED COMPANY",
-      "shortName": "THE ROYAL",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_119",
-      "name": "THIS BANK LIMITED",
-      "shortName": "THIS BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_120",
-      "name": "TSB Bank plc",
+      "code": "GB_15",
+      "name": "TSB Bank",
       "shortName": "TSB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_121",
-      "name": "TURKISH BANK (UK) LIMITED",
-      "shortName": "TURKISH BANK",
+      "code": "GB_16",
+      "name": "Virgin Money",
+      "shortName": "Virgin Money",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "GB_122",
-      "name": "Union Bancaire Privée (UK) Limited",
-      "shortName": "Union Bancaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_123",
-      "name": "UNION BANK OF INDIA (UK) LIMITED",
-      "shortName": "UNION BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_124",
-      "name": "United Bank for Africa (UK) Limited",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_125",
-      "name": "United National Bank Limited",
-      "shortName": "United National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_126",
-      "name": "United Trust Bank Limited",
-      "shortName": "United Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_127",
-      "name": "Unity Trust Bank Plc",
-      "shortName": "Unity Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_128",
-      "name": "Vanquis Bank Limited",
-      "shortName": "Vanquis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_129",
-      "name": "Vida Bank Limited",
-      "shortName": "Vida",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_130",
-      "name": "VTB Capital plc",
-      "shortName": "VTB Capital",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_131",
-      "name": "Weatherbys Bank Limited",
-      "shortName": "Weatherbys",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_132",
-      "name": "Zempler Bank Limited",
-      "shortName": "Zempler",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_133",
-      "name": "Banks incorporated outside the UK authorised to accept deposits through a branch in the UK",
-      "shortName": "Banks incorporated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_134",
-      "name": "ABN AMRO Bank NV",
-      "shortName": "ABN AMRO",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_135",
-      "name": "Adyen N.V.",
-      "shortName": "Adyen N.V.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_136",
-      "name": "Agricultural Bank of China Limited London Branch",
-      "shortName": "Agricultural",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_137",
-      "name": "Allfunds Bank S.A.U",
-      "shortName": "Allfunds",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_138",
-      "name": "Allied Irish Banks Plc",
-      "shortName": "Allied Irish",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_139",
-      "name": "Arab Banking Corporation (B.S.C)",
-      "shortName": "Arabing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_140",
-      "name": "Arab National Bank",
-      "shortName": "Arab National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_141",
-      "name": "Australia and New Zealand Banking Group Ltd",
-      "shortName": "Australia and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_142",
-      "name": "Banco Bilbao Vizcaya Argentaria SA",
-      "shortName": "Banco Bilbao",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_143",
-      "name": "Banco de Sabadell",
-      "shortName": "Banco de",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_144",
-      "name": "Banco do Brasil SA",
-      "shortName": "Banco do",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_145",
-      "name": "Banco Santander",
-      "shortName": "Banco Santander",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_146",
-      "name": "Bangkok Bank Public Company Ltd",
-      "shortName": "Bangkok",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_147",
-      "name": "Bank of America",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_148",
-      "name": "Bank of Baroda",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_149",
-      "name": "Bank of China Limited London Branch",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_150",
-      "name": "Bank of Communications Co Limited",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_151",
-      "name": "Bank of India",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_152",
-      "name": "Bank of Montreal",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_153",
-      "name": "Bank of Taiwan",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_154",
-      "name": "Banking Circle S.A.",
-      "shortName": "Banking Circle",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_155",
-      "name": "Banque Banorient France",
-      "shortName": "Banque Banorient",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_156",
-      "name": "BNF Bank plc",
-      "shortName": "BNF",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_157",
-      "name": "BNP Paribas",
-      "shortName": "BNP Paribas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_158",
-      "name": "CACEIS Bank",
-      "shortName": "CACEIS",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_159",
-      "name": "Caixabank SA",
-      "shortName": "Caixabank SA",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_160",
-      "name": "Canadian Imperial Bank of Commerce",
-      "shortName": "Canadian Imperial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_161",
-      "name": "Canara Bank",
-      "shortName": "Canara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_162",
-      "name": "Chang Hwa Commercial Bank Ltd",
-      "shortName": "Chang Hwa",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_163",
-      "name": "Chiba Bank Ltd",
-      "shortName": "Chiba",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_164",
-      "name": "China Minsheng Banking Corporation Limited London Branch",
-      "shortName": "China Minsheng",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_165",
-      "name": "China Construction Bank Corporation London Branch",
-      "shortName": "China Construction",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_166",
-      "name": "China Merchants Bank Co.",
-      "shortName": "China Merchants",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_167",
-      "name": "CIMB Bank Berhad",
-      "shortName": "CIMB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_168",
-      "name": "Citibank",
-      "shortName": "Citibank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_169",
-      "name": "Commerzbank AG",
-      "shortName": "Commerzbank AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_170",
-      "name": "Commonwealth Bank of Australia",
-      "shortName": "Commonwealth",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_171",
-      "name": "Cooperatieve Rabobank U.A.",
-      "shortName": "Cooperatieve Rabobank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_172",
-      "name": "Credit Agricole Corporate and Investment Bank",
-      "shortName": "Credit Agricole",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_173",
-      "name": "Credit Agricole S.A.",
-      "shortName": "Credit Agricole",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_174",
-      "name": "Credit Industriel et Commercial",
-      "shortName": "Credit Industriel",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_175",
-      "name": "Danske Bank A/S",
-      "shortName": "Danske",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_176",
-      "name": "Deutsche Bank AG",
-      "shortName": "Deutsche",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_177",
-      "name": "DNB Bank ASA",
-      "shortName": "DNB",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_178",
-      "name": "DZ Bank AG",
-      "shortName": "DZ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_179",
-      "name": "Emirates NBD Bank (P.J.S.C)",
-      "shortName": "Emirates NBD",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_180",
-      "name": "First Abu Dhabi Bank P.J.S.C.",
-      "shortName": "First Abu",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_181",
-      "name": "First Commercial Bank",
-      "shortName": "First Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_182",
-      "name": "FirstRand Bank Limited",
-      "shortName": "FirstRand",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_183",
-      "name": "Goldman Sachs Bank USA",
-      "shortName": "Goldman Sachs",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_184",
-      "name": "Gulf International Bank Bsc",
-      "shortName": "Gulf International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_185",
-      "name": "Habib Bank AG Zurich",
-      "shortName": "Habib",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_186",
-      "name": "Hua Nan Commercial Bank",
-      "shortName": "Hua Nan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_187",
-      "name": "Ikano Bank AB (publ)",
-      "shortName": "Ikano",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_188",
-      "name": "Industrial and Commercial Bank of China Limited",
-      "shortName": "Industrial and",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_189",
-      "name": "Industrial Bank of Korea",
-      "shortName": "Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_190",
-      "name": "ING Bank N.V.",
-      "shortName": "ING",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_191",
-      "name": "Intesa Sanpaolo SpA",
-      "shortName": "Intesa Sanpaolo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_192",
-      "name": "J.P. Morgan SE",
-      "shortName": "J.P. Morgan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_193",
-      "name": "JPMorgan Chase Bank",
-      "shortName": "JPMorgan Chase",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_194",
-      "name": "KBC Bank NV",
-      "shortName": "KBC",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_195",
-      "name": "KEB Hana Bank",
-      "shortName": "KEB Hana",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_196",
-      "name": "Kookmin Bank Co Ltd London Branch",
-      "shortName": "Kookmin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_197",
-      "name": "Landesbank Baden-Wurttemberg",
-      "shortName": "Landesbank Baden-Wurttemberg",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_198",
-      "name": "Macquarie Bank Ltd",
-      "shortName": "Macquarie",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_199",
-      "name": "Malayan Banking Berhad",
-      "shortName": "Malayaning",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_200",
-      "name": "Mashreqbank psc",
-      "shortName": "Mashreqbank psc",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_201",
-      "name": "Mega International Commercial Bank Co. Ltd",
-      "shortName": "Mega International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_202",
-      "name": "Mitsubishi UFJ Trust and Banking Corporation",
-      "shortName": "Mitsubishi UFJ",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_203",
-      "name": "Mizrahi Tefahot Bank Limited",
-      "shortName": "Mizrahi Tefahot",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_204",
-      "name": "Mizuho Bank",
-      "shortName": "Mizuho",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_205",
-      "name": "MUFG BANK",
-      "shortName": "MUFG BANK",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_206",
-      "name": "National Australia Bank Limited",
-      "shortName": "National Australia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_207",
-      "name": "National Bank of Canada",
-      "shortName": "National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_208",
-      "name": "Natixis",
-      "shortName": "Natixis",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_209",
-      "name": "Nedbank Limited",
-      "shortName": "Nedbank Limited",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_210",
-      "name": "Nedbank Private Wealth Limited",
-      "shortName": "Nedbank Private",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_211",
-      "name": "NongHyup Bank London Branch",
-      "shortName": "NongHyup",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_212",
-      "name": "Nordea Bank Abp",
-      "shortName": "Nordea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_213",
-      "name": "Northern Trust Global Services SE",
-      "shortName": "Northern Trust",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_214",
-      "name": "Oversea-Chinese Banking Corporation Limited",
-      "shortName": "Oversea-Chineseing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_215",
-      "name": "PT Bank Negara Indonesia (Persero) Tbk",
-      "shortName": "PT",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_216",
-      "name": "Qatar National Bank (Q.P.S.C.)",
-      "shortName": "Qatar National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_217",
-      "name": "RBC Investor Services Trust",
-      "shortName": "RBC Investor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_218",
-      "name": "Riyad Bank",
-      "shortName": "Riyad",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_219",
-      "name": "Royal Bank of Canada",
-      "shortName": "Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_220",
-      "name": "Shanghai Pudong Development Bank Co.",
-      "shortName": "Shanghai Pudong",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_221",
-      "name": "Shinhan Bank",
-      "shortName": "Shinhan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_222",
-      "name": "Skandinaviska Enskilda Banken AB (Publ)",
-      "shortName": "Skandinaviska Enskilda",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_223",
-      "name": "Societe Generale",
-      "shortName": "Societe Generale",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_224",
-      "name": "State Bank of India",
-      "shortName": "State",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_225",
-      "name": "State Street Bank and Trust Company",
-      "shortName": "State Street",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_226",
-      "name": "Sumitomo Mitsui Banking Corporation",
-      "shortName": "Sumitomo Mitsui",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_227",
-      "name": "Sumitomo Mitsui Trust Bank",
-      "shortName": "Sumitomo Mitsui",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_228",
-      "name": "T C Ziraat Bankasi AS",
-      "shortName": "T C",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_229",
-      "name": "The Bank of East Asia",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_230",
-      "name": "The Bank of New York Mellon",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_231",
-      "name": "The Bank of Nova Scotia",
-      "shortName": "The",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_232",
-      "name": "The Governor and Company of the Bank of Ireland",
-      "shortName": "The Governor",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_233",
-      "name": "The Korea Development Bank - London Branch",
-      "shortName": "The Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_234",
-      "name": "The Norinchukin Bank",
-      "shortName": "The Norinchukin",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_235",
-      "name": "The Northern Trust Company",
-      "shortName": "The Northern",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_236",
-      "name": "The Royal Bank of Scotland International Limited",
-      "shortName": "The Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_237",
-      "name": "The Toronto-Dominion Bank",
-      "shortName": "The Toronto-Dominion",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_238",
-      "name": "Turkiye Is Bankasi As",
-      "shortName": "Turkiye Is",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_239",
-      "name": "UBS AG",
-      "shortName": "UBS AG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_240",
-      "name": "Union Bancaire Privee",
-      "shortName": "Union Bancaire",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_241",
-      "name": "United Overseas Bank Ltd",
-      "shortName": "United Overseas",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_242",
-      "name": "Wells Fargo Bank",
-      "shortName": "Wells Fargo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_243",
-      "name": "Westpac Banking Corporation",
-      "shortName": "Westpacing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_244",
-      "name": "Woori Bank",
-      "shortName": "Woori",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_245",
-      "name": "Banks incorporated in Gibraltar authorised to accept deposits through a branch or service in the UK",
-      "shortName": "Banks incorporated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_246",
-      "name": "Bank J. Safra Sarasin (Gibraltar) Ltd",
-      "shortName": "Bank J.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_247",
-      "name": "Gibraltar International Bank Limited",
-      "shortName": "Gibraltar International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_248",
-      "name": "Moneycorp Bank Limited",
-      "shortName": "Moneycorp",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_249",
-      "name": "The Royal Bank of Scotland (Gibraltar) Ltd",
-      "shortName": "The Royal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_250",
-      "name": "Trusted Novus Bank Limited",
-      "shortName": "Trusted Novus",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_251",
-      "name": "Xapo Bank Limited",
-      "shortName": "Xapo",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_252",
-      "name": "Banks incorporated in the EEA authorised to accept deposits through a branch in the UK while in Supervised Run Off (SRO)",
-      "shortName": "Banks incorporated",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_253",
-      "name": "Banque Transatlantique SA",
-      "shortName": "Banque Transatlantique",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_254",
-      "name": "Bunq B.V.",
-      "shortName": "Bunq B.V.",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "GB_255",
-      "name": "FinecoBank SPA",
-      "shortName": "FinecoBank SPA",
-      "type": "bank",
+      "code": "GB_17",
+      "name": "Allstar",
+      "shortName": "Allstar",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_256",
-      "name": "Intesa Sanpaolo Wealth Management SA",
-      "shortName": "Intesa Sanpaolo",
-      "type": "bank",
+      "code": "GB_18",
+      "name": "Curve",
+      "shortName": "Curve",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_257",
-      "name": "Lidion Bank Plc",
-      "shortName": "Lidion",
-      "type": "bank",
+      "code": "GB_19",
+      "name": "Ebury",
+      "shortName": "Ebury",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_258",
-      "name": "MILLEIS BANQUE",
-      "shortName": "MILLEIS BANQUE",
-      "type": "bank",
+      "code": "GB_20",
+      "name": "Monese",
+      "shortName": "Monese",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_259",
-      "name": "PayPal UK",
+      "code": "GB_21",
+      "name": "PayPal",
       "shortName": "PayPal",
       "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_260",
-      "name": "Apple Pay UK",
-      "shortName": "Apple Pay",
+      "code": "GB_22",
+      "name": "Payoneer",
+      "shortName": "Payoneer",
       "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_261",
-      "name": "Google Pay UK",
-      "shortName": "Google Pay",
+      "code": "GB_23",
+      "name": "Revolut",
+      "shortName": "Revolut",
       "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "GB_262",
-      "name": "American Express UK",
-      "shortName": "Amex",
-      "type": "credit_card",
+      "code": "GB_24",
+      "name": "Skrill",
+      "shortName": "Skrill",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GB_25",
+      "name": "SumUp",
+      "shortName": "SumUp",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "GB_26",
+      "name": "Wise",
+      "shortName": "Wise",
+      "type": "mfs",
       "aliases": ""
     }
   ]
