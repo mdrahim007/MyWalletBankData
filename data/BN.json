@@ -1,202 +1,83 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "BN",
   "institutions": [
     {
       "code": "BN_0",
-      "name": "Brunei Darussalam Central Bank (BDCB)",
-      "shortName": "Brunei Darussalam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_1",
-      "name": "Bank Islam Brunei Darussalam (BIBD)",
-      "shortName": "Bank Islam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_2",
       "name": "Baiduri Bank",
       "shortName": "Baiduri",
       "type": "bank",
       "aliases": ""
     },
     {
+      "code": "BN_1",
+      "name": "Bank Islam Brunei Darussalam",
+      "shortName": "Bank Islam Brunei Da",
+      "type": "bank",
+      "aliases": "BIBD"
+    },
+    {
+      "code": "BN_2",
+      "name": "Bank of China",
+      "shortName": "Bank of China",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
       "code": "BN_3",
-      "name": "Maybank (Malaysia)",
-      "shortName": "Maybank (Malaysia)",
+      "name": "Maybank",
+      "shortName": "Maybank",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "BN_4",
-      "name": "RHB Bank (Malaysia)",
+      "name": "Perbadanan Tabung Amanah Islam Brunei",
+      "shortName": "Perbadanan Tabung Am",
+      "type": "bank",
+      "aliases": "TAIB"
+    },
+    {
+      "code": "BN_5",
+      "name": "RHB Bank",
       "shortName": "RHB",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BN_5",
-      "name": "Standard Chartered Bank (United Kingdom)",
+      "code": "BN_6",
+      "name": "Standard Chartered Bank",
       "shortName": "Standard Chartered",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "BN_6",
-      "name": "United Overseas Bank (Singapore)",
+      "code": "BN_7",
+      "name": "United Overseas Bank",
       "shortName": "United Overseas",
       "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_7",
-      "name": "Bank of China (China)",
-      "shortName": "Bank of",
-      "type": "bank",
-      "aliases": ""
+      "aliases": "UOB"
     },
     {
       "code": "BN_8",
-      "name": "Perbadanan Tabung Amanah Islam Brunei (TAIB)",
-      "shortName": "Perbadanan Tabung",
-      "type": "bank",
+      "name": "MyDST Wallet",
+      "shortName": "MyDST Wallet",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BN_9",
-      "name": "Baiduri Finance (Local)",
-      "shortName": "Baiduri Finance",
-      "type": "bank",
+      "name": "Pocket",
+      "shortName": "Pocket",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "BN_10",
-      "name": "BIBD At-Tamwil (Local)",
-      "shortName": "BIBD At-Tamwil",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_11",
-      "name": "The Islamic Development Bank of Brunei (Local)",
-      "shortName": "The Islamic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_12",
-      "name": "The Islamic Bank of Brunei (Local)",
-      "shortName": "The Islamic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_13",
-      "name": "Citibank (Foreign)",
-      "shortName": "Citibank (Foreign)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_14",
-      "name": "HSBC (Foreign)",
-      "shortName": "HSBC (Foreign)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_15",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_16",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_17",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_18",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_19",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_20",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_21",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_22",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_23",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_24",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_25",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_26",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "BN_27",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
+      "name": "Progresif PAY",
+      "shortName": "Progresif PAY",
+      "type": "mfs",
       "aliases": ""
     }
   ]
