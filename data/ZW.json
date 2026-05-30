@@ -1,342 +1,111 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ZW",
   "institutions": [
     {
       "code": "ZW_0",
-      "name": "AFC Commercial Bank Ltd, state-owned",
-      "shortName": "AFC Commercial",
+      "name": "BancABC Zimbabwe",
+      "shortName": "BancABC Zimbabwe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_1",
-      "name": "CBZ Bank Ltd",
+      "name": "CABS",
+      "shortName": "CABS",
+      "type": "bank",
+      "aliases": "Central Africa Building Society"
+    },
+    {
+      "code": "ZW_2",
+      "name": "CBZ Bank",
       "shortName": "CBZ",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZW_2",
-      "name": "Ecobank Zimbabwe Ltd, part of Ecobank Group",
+      "code": "ZW_3",
+      "name": "Ecobank Zimbabwe",
       "shortName": "Ecobank Zimbabwe",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZW_3",
-      "name": "FBC Bank Ltd, part of the FBC Group",
+      "code": "ZW_4",
+      "name": "FBC Bank",
       "shortName": "FBC",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZW_4",
-      "name": "Metbank Ltd",
-      "shortName": "Metbank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
       "code": "ZW_5",
-      "name": "NMB Bank Ltd",
-      "shortName": "NMB",
+      "name": "Nedbank Zimbabwe",
+      "shortName": "Nedbank Zimbabwe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_6",
-      "name": "Stanbic Bank Zimbabwe Ltd, part of Standard Bank Group",
-      "shortName": "Stanbic",
+      "name": "NMB Bank Zimbabwe",
+      "shortName": "NMB Zimbabwe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_7",
-      "name": "Steward Bank Ltd",
-      "shortName": "Steward",
+      "name": "Stanbic Bank Zimbabwe",
+      "shortName": "Stanbic Zimbabwe",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_8",
-      "name": "ZB Bank Ltd (Zimbank)",
-      "shortName": "ZB",
+      "name": "Standard Chartered Bank Zimbabwe",
+      "shortName": "Standard Chartered Z",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_9",
-      "name": "FBC Building Society, part of the FBC Group",
-      "shortName": "FBC Building",
+      "name": "Steward Bank",
+      "shortName": "Steward",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_10",
-      "name": "National Building Society, state-owned",
-      "shortName": "National Building",
+      "name": "ZB Bank",
+      "shortName": "ZB",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZW_11",
-      "name": "EmpowerBank Ltd, state-owned",
-      "shortName": "EmpowerBank,",
-      "type": "bank",
+      "name": "EcoCash",
+      "shortName": "EcoCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ZW_12",
-      "name": "GetBucks Microfinance Bank Ltd",
-      "shortName": "GetBucks Microfinance",
-      "type": "bank",
+      "name": "InnBucks",
+      "shortName": "InnBucks",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ZW_13",
-      "name": "InnBucks Microbank Ltd",
-      "shortName": "InnBucks Microbank",
-      "type": "bank",
+      "name": "MyCash",
+      "shortName": "MyCash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "ZW_14",
-      "name": "Lion Microfinance Ltd",
-      "shortName": "Lion Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_15",
-      "name": "Success Microfinance Bank",
-      "shortName": "Success Microfinance",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_16",
-      "name": "Zimbabwe Women Microfinance Bank, state-owned",
-      "shortName": "Zimbabwe Women",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_17",
-      "name": "Economy of Zimbabwe",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_18",
-      "name": "Zimbabwe Banking Banking Sector Profits Double",
-      "shortName": "Zimbabweing",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_19",
-      "name": "Website of Reserve Bank of Zimbabwe",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_20",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_21",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_22",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_23",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_24",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_25",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_26",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_27",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_28",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_29",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_30",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_31",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_32",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_33",
-      "name": "Postal",
-      "shortName": "Postal",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_34",
-      "name": "Tax system",
-      "shortName": "Tax system",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_35",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_36",
-      "name": "2nd dollar",
-      "shortName": "2nd dollar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_37",
-      "name": "3rd dollar",
-      "shortName": "3rd dollar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_38",
-      "name": "4th dollar",
-      "shortName": "4th dollar",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_39",
-      "name": "notes",
-      "shortName": "notes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_40",
-      "name": "ZiG",
-      "shortName": "ZiG",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_41",
-      "name": "Banknotes",
-      "shortName": "Banknotes",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_42",
-      "name": "Hyperinflation",
-      "shortName": "Hyperinflation",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_43",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_44",
-      "name": "Demographics",
-      "shortName": "Demographics",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_45",
-      "name": "International rankings",
-      "shortName": "International rankings",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_46",
-      "name": "Categories",
-      "shortName": "Categories",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZW_47",
-      "name": "Use dmy dates from April 2022",
-      "shortName": "Use dmy",
-      "type": "bank",
+      "name": "OneMoney",
+      "shortName": "OneMoney",
+      "type": "mfs",
       "aliases": ""
     }
   ]

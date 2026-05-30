@@ -1,223 +1,104 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "ZM",
   "institutions": [
     {
       "code": "ZM_0",
-      "name": "AB Bank Zambia Ltd, part of AccessHolding Group",
-      "shortName": "AB",
+      "name": "Absa Bank Zambia",
+      "shortName": "Absa Zambia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZM_1",
-      "name": "Absa Bank Zambia Ltd, part of Absa Group",
-      "shortName": "Absa",
+      "name": "Access Bank Zambia",
+      "shortName": "Access Zambia",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "ZM_2",
-      "name": "Access Bank Zambia Ltd, part of Access Bank Group",
-      "shortName": "Access",
+      "name": "Citi",
+      "shortName": "Citi",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Zambia"
     },
     {
       "code": "ZM_3",
-      "name": "Citibank Zambia Ltd, part of Citigroup",
-      "shortName": "Citibank Zambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_4",
-      "name": "Ecobank Zambia Ltd, part of Ecobank Group",
+      "name": "Ecobank Zambia",
       "shortName": "Ecobank Zambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZM_5",
-      "name": "First Alliance Bank Zambia Ltd (FAB)",
-      "shortName": "First Alliance",
+      "code": "ZM_4",
+      "name": "FNB Zambia",
+      "shortName": "FNB Zambia",
       "type": "bank",
-      "aliases": ""
+      "aliases": "First National Bank"
     },
     {
-      "code": "ZM_6",
-      "name": "Indo-Zambia Bank Ltd",
+      "code": "ZM_5",
+      "name": "Indo-Zambia Bank",
       "shortName": "Indo-Zambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZM_7",
-      "name": "Stanbic Bank Zambia Ltd, part of Standard Bank Group",
-      "shortName": "Stanbic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_8",
-      "name": "Standard Chartered Zambia, part of Standard Chartered Group",
-      "shortName": "Standard Chartered",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_9",
-      "name": "United Bank for Africa Zambia Ltd (UBA), part of UBA Group",
-      "shortName": "United",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_10",
-      "name": "Zambia Industrial Commercial Bank Plc (ZICB)",
-      "shortName": "Zambia Industrial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_11",
-      "name": "Zambia National Commercial Bank Plc (Zanaco)",
-      "shortName": "Zambia National",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_12",
-      "name": "Atlas Mara Bank Zambia Limited",
-      "shortName": "Atlas Mara",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_13",
+      "code": "ZM_6",
       "name": "Investrust Bank",
       "shortName": "Investrust",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZM_14",
-      "name": "Bank of Zambia Website",
-      "shortName": "Bank of",
+      "code": "ZM_7",
+      "name": "Stanbic Bank Zambia",
+      "shortName": "Stanbic Zambia",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZM_15",
-      "name": "Banking",
-      "shortName": "Banking",
+      "code": "ZM_8",
+      "name": "Standard Chartered Bank Zambia",
+      "shortName": "Standard Chartered Z",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "ZM_16",
-      "name": "Bank of Zambia",
-      "shortName": "Bank of",
+      "code": "ZM_9",
+      "name": "Zanaco",
+      "shortName": "Zanaco",
       "type": "bank",
+      "aliases": "Zambia National Commercial Bank"
+    },
+    {
+      "code": "ZM_10",
+      "name": "Airtel Money",
+      "shortName": "Airtel Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "ZM_17",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
+      "code": "ZM_11",
+      "name": "Kazang",
+      "shortName": "Kazang",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "ZM_18",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
+      "code": "ZM_12",
+      "name": "MTN MoMo",
+      "shortName": "MTN MoMo",
+      "type": "mfs",
       "aliases": ""
     },
     {
-      "code": "ZM_19",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_20",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_21",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_22",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_23",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_24",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_25",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_26",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_27",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_28",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_29",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "ZM_30",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
+      "code": "ZM_13",
+      "name": "Zazu",
+      "shortName": "Zazu",
+      "type": "mfs",
       "aliases": ""
     }
   ]

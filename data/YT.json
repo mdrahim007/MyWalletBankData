@@ -1,41 +1,62 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "YT",
   "institutions": [
     {
       "code": "YT_0",
-      "name": "Central Bank of YT",
-      "shortName": "Central Bank",
+      "name": "BRED Banque Populaire",
+      "shortName": "BRED Populaire",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mayotte Branch"
     },
     {
       "code": "YT_1",
-      "name": "National Bank of YT",
-      "shortName": "National Bank",
+      "name": "Caisse d'Épargne CEPAC",
+      "shortName": "Caisse d'Épargne CEP",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mayotte Branch"
     },
     {
       "code": "YT_2",
-      "name": "State Bank of YT",
-      "shortName": "State Bank",
+      "name": "Crédit Agricole de la Réunion",
+      "shortName": "Crédit Agricole de l",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Mayotte Branch"
     },
     {
       "code": "YT_3",
-      "name": "Commercial Bank of YT",
-      "shortName": "Commercial Bank",
+      "name": "La Banque Postale",
+      "shortName": "La Postale",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "YT_4",
-      "name": "First YT Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "Lyf Pay",
+      "shortName": "Lyf Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "YT_5",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "YT_6",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "YT_7",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]

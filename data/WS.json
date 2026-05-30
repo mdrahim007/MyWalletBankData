@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "WS",
   "institutions": [
     {
       "code": "WS_0",
-      "name": "Central Bank of WS",
-      "shortName": "Central Bank",
+      "name": "ANZ Bank Samoa",
+      "shortName": "ANZ Samoa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "WS_1",
-      "name": "National Bank of WS",
-      "shortName": "National Bank",
+      "name": "BSP Samoa",
+      "shortName": "BSP Samoa",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "WS_2",
-      "name": "State Bank of WS",
-      "shortName": "State Bank",
+      "name": "National Bank of Samoa",
+      "shortName": "National of Samoa",
       "type": "bank",
-      "aliases": ""
+      "aliases": "NBS"
     },
     {
       "code": "WS_3",
-      "name": "Commercial Bank of WS",
-      "shortName": "Commercial Bank",
+      "name": "Samoa Commercial Bank",
+      "shortName": "Samoa Commercial",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SCB"
     },
     {
       "code": "WS_4",
-      "name": "First WS Bank",
-      "shortName": "First Bank",
-      "type": "bank",
+      "name": "M-Tala",
+      "shortName": "M-Tala",
+      "type": "mfs",
       "aliases": ""
     }
   ]

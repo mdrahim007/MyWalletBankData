@@ -1,181 +1,90 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "YE",
   "institutions": [
     {
       "code": "YE_0",
-      "name": "Central Bank of Yemen",
-      "shortName": "Central",
+      "name": "Al-Kuraimi Islamic Bank",
+      "shortName": "Al-Kuraimi Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "YE_1",
-      "name": "Cooperative &amp; Agricultural Credit Bank (CAC BANK)",
-      "shortName": "Cooperative &amp;",
+      "name": "Arab Bank",
+      "shortName": "Arab",
       "type": "bank",
-      "aliases": ""
+      "aliases": "Yemen Branches"
     },
     {
       "code": "YE_2",
-      "name": "Tadhamon International Islamic Bank",
-      "shortName": "Tadhamon International",
+      "name": "International Bank of Yemen",
+      "shortName": "International of Yem",
       "type": "bank",
-      "aliases": ""
+      "aliases": "IBY"
     },
     {
       "code": "YE_3",
-      "name": "Yemen Kuwait Bank for Trade &amp; Investment",
-      "shortName": "Yemen Kuwait",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_4",
-      "name": "International Bank of Yemen",
-      "shortName": "International",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_5",
-      "name": "Yemen Commercial Bank",
-      "shortName": "Yemen Commercial",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_6",
-      "name": "Shamil bank of Yemen and Bahrain",
-      "shortName": "Shamil bank",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_7",
       "name": "Saba Islamic Bank",
       "shortName": "Saba Islamic",
       "type": "bank",
       "aliases": ""
     },
     {
-      "code": "YE_8",
-      "name": "Al-Amal Microfinance Bank",
-      "shortName": "Al-Amal Microfinance",
+      "code": "YE_4",
+      "name": "Shamil Bank of Yemen and Bahrain",
+      "shortName": "Shamil of Yemen and",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "YE_5",
+      "name": "Tadhamon Bank",
+      "shortName": "Tadhamon",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "YE_6",
+      "name": "Yemen Commercial Bank",
+      "shortName": "Yemen Commercial",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "YE_7",
+      "name": "Yemen Kuwait Bank",
+      "shortName": "Yemen Kuwait",
+      "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "YE_8",
+      "name": "Floos",
+      "shortName": "Floos",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "YE_9",
-      "name": "Islamic Bank of Yemen for Finance &amp; Investment",
-      "shortName": "Islamic",
-      "type": "bank",
+      "name": "Mahafazati",
+      "shortName": "Mahafazati",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "YE_10",
-      "name": "AL-Kuraimi Islamic Microfinance Bank",
-      "shortName": "AL-Kuraimi Islamic",
-      "type": "bank",
+      "name": "Pocket",
+      "shortName": "Pocket",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "YE_11",
-      "name": "Arab Bank - Yemen Branch",
-      "shortName": "Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_12",
-      "name": "Brunei",
-      "shortName": "Brunei",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_13",
-      "name": "Iran",
-      "shortName": "Iran",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_14",
-      "name": "North Korea",
-      "shortName": "North Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_15",
-      "name": "South Korea",
-      "shortName": "South Korea",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_16",
-      "name": "Laos",
-      "shortName": "Laos",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_17",
-      "name": "Palestine",
-      "shortName": "Palestine",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_18",
-      "name": "Russia",
-      "shortName": "Russia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_19",
-      "name": "Syria",
-      "shortName": "Syria",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_20",
-      "name": "Timor-Leste (East Timor)",
-      "shortName": "Timor-Leste (East",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_21",
-      "name": "Turkey",
-      "shortName": "Turkey",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_22",
-      "name": "Vietnam",
-      "shortName": "Vietnam",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_23",
-      "name": "Taiwan",
-      "shortName": "Taiwan",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "YE_24",
-      "name": "Macau",
-      "shortName": "Macau",
-      "type": "bank",
+      "name": "Yemen Wallet",
+      "shortName": "Yemen Wallet",
+      "type": "mfs",
       "aliases": ""
     }
   ]

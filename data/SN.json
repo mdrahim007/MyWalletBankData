@@ -1,279 +1,118 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-05-27",
+  "version": 1,
+  "lastUpdated": "2026-05-30",
   "country": "SN",
   "institutions": [
     {
       "code": "SN_0",
-      "name": "Algerian Bank of Senegal (ABS)",
-      "shortName": "Algerian",
+      "name": "Bank of Africa Sénégal",
+      "shortName": "Bank of Africa Sénég",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BOA"
     },
     {
       "code": "SN_1",
-      "name": "Banque Atlantique Senegal, part of BCP Group",
-      "shortName": "Banque Atlantique",
+      "name": "Banque Atlantique Sénégal",
+      "shortName": "Banque Atlantique Sé",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_2",
-      "name": "Banque de Dakar (BDK)",
-      "shortName": "Banque de",
+      "name": "Banque de Dakar",
+      "shortName": "Banque de Dakar",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BDK"
     },
     {
       "code": "SN_3",
-      "name": "Banque de l'Habitat du Sénégal&#160;&#91;fr&#93; (BHS)",
-      "shortName": "Banque de",
+      "name": "Banque de l'Habitat du Sénégal",
+      "shortName": "Banque de l'Habitat",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BHS"
     },
     {
       "code": "SN_4",
-      "name": "Banque Islamique du Sénégal&#160;&#91;fr&#93; (BIS)",
-      "shortName": "Banque Islamique",
+      "name": "Banque Islamique du Sénégal",
+      "shortName": "Banque Islamique du",
       "type": "bank",
-      "aliases": ""
+      "aliases": "BIS"
     },
     {
       "code": "SN_5",
-      "name": "Banque Nationale pour le Développement Économique (BNDE)",
-      "shortName": "Banque Nationale",
+      "name": "BIMA",
+      "shortName": "BIMA",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_6",
-      "name": "Banque Régionale de Marchés (BRM)",
-      "shortName": "Banque Régionale",
+      "name": "CBAO Groupe Attijariwafa Bank",
+      "shortName": "CBAO Groupe Attijari",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_7",
-      "name": "BGFIBank Senegal, part of BGFIBank Group",
-      "shortName": "BGFIBank Senegal,",
+      "name": "Coris Bank International Sénégal",
+      "shortName": "Coris International",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_8",
-      "name": "Citibank Senegal, part of Citigroup",
-      "shortName": "Citibank Senegal,",
+      "name": "Ecobank Sénégal",
+      "shortName": "Ecobank Sénégal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_9",
-      "name": "Credit International (CI)",
-      "shortName": "Credit International",
+      "name": "Orabank Sénégal",
+      "shortName": "Orabank Sénégal",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "SN_10",
-      "name": "Ecobank Senegal, part of Ecobank Group",
-      "shortName": "Ecobank Senegal,",
+      "name": "Société Générale Sénégal",
+      "shortName": "Société Générale Sén",
       "type": "bank",
-      "aliases": ""
+      "aliases": "SG Sénégal"
     },
     {
       "code": "SN_11",
-      "name": "FBNBank Senegal, part of First Bank of Nigeria Group",
-      "shortName": "FBNBank Senegal,",
-      "type": "bank",
+      "name": "Free Money",
+      "shortName": "Free Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SN_12",
-      "name": "La Banque Agricole&#160;&#91;fr&#93; (LBA)",
-      "shortName": "La Banque",
-      "type": "bank",
+      "name": "Kash Kash",
+      "shortName": "Kash Kash",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SN_13",
-      "name": "La Banque Outarde (LBO)",
-      "shortName": "La Banque",
-      "type": "bank",
+      "name": "Orange Money",
+      "shortName": "Orange Money",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SN_14",
-      "name": "Branch of Banque de Développement du Mali",
-      "shortName": "Branch of",
-      "type": "bank",
+      "name": "Wave",
+      "shortName": "Wave",
+      "type": "mfs",
       "aliases": ""
     },
     {
       "code": "SN_15",
-      "name": "Branch of BCI-Mali, part of BCI Group",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_16",
-      "name": "Branch of Bridge Bank Group Côte d'Ivoire (BBG-CI)",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_17",
-      "name": "Branch of Orabank Côte d'Ivoire, part of Orabank Group",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_18",
-      "name": "Branch of Orange Branch Africa, part of Orange Group",
-      "shortName": "Branch of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_19",
-      "name": "Website of Central Bank of West African States",
-      "shortName": "Website of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_20",
-      "name": "Economy of Senegal",
-      "shortName": "Economy of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_21",
-      "name": "Cape Verde",
-      "shortName": "Cape Verde",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_22",
-      "name": "Democratic Republic of the Congo",
-      "shortName": "Democratic Republic",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_23",
-      "name": "Republic of the Congo",
-      "shortName": "Republic of",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_24",
-      "name": "The Gambia",
-      "shortName": "The Gambia",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_25",
-      "name": "Ivory Coast",
-      "shortName": "Ivory Coast",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_26",
-      "name": "São Tomé and Príncipe",
-      "shortName": "São Tomé",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_27",
-      "name": "Tanzania",
-      "shortName": "Tanzania",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_28",
-      "name": "Sahrawi Arab Democratic Republic",
-      "shortName": "Sahrawi Arab",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_29",
-      "name": "Somaliland",
-      "shortName": "Somaliland",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_30",
-      "name": "Canary Islands&#160;/ Ceuta&#160;/ Melilla&#160;(Spain)",
-      "shortName": "Canary Islands&#160;/",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_31",
-      "name": "Madeira&#160;(Portugal)",
-      "shortName": "Madeira&#160;(Portugal)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_32",
-      "name": "Mayotte&#160;/ Réunion&#160;(France)",
-      "shortName": "Mayotte&#160;/ Réunion&#160;(France)",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_33",
-      "name": "Banking",
-      "shortName": "Banking",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_34",
-      "name": "Communications",
-      "shortName": "Communications",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_35",
-      "name": "Agriculture",
-      "shortName": "Agriculture",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_36",
-      "name": "Energy",
-      "shortName": "Energy",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_37",
-      "name": "Mining",
-      "shortName": "Mining",
-      "type": "bank",
-      "aliases": ""
-    },
-    {
-      "code": "SN_38",
-      "name": "Webarchive template wayback links",
-      "shortName": "Webarchive template",
-      "type": "bank",
+      "name": "Wizall Money",
+      "shortName": "Wizall Money",
+      "type": "mfs",
       "aliases": ""
     }
   ]
