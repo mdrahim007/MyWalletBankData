@@ -1,41 +1,69 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-30",
   "country": "RE",
   "institutions": [
     {
       "code": "RE_0",
-      "name": "Central Bank of RE",
-      "shortName": "Central Bank",
+      "name": "BFCOI",
+      "shortName": "BFCOI",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "RE_1",
-      "name": "National Bank of RE",
-      "shortName": "National Bank",
+      "name": "BNP Paribas La Réunion",
+      "shortName": "BNP Paribas La Réuni",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "RE_2",
-      "name": "State Bank of RE",
-      "shortName": "State Bank",
+      "name": "Caisse d'Épargne CEPAC",
+      "shortName": "Caisse d'Épargne CEP",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "RE_3",
-      "name": "Commercial Bank of RE",
-      "shortName": "Commercial Bank",
+      "name": "Crédit Agricole de La Réunion",
+      "shortName": "Crédit Agricole de L",
       "type": "bank",
       "aliases": ""
     },
     {
       "code": "RE_4",
-      "name": "First RE Bank",
-      "shortName": "First Bank",
+      "name": "La Banque Postale",
+      "shortName": "La Postale",
       "type": "bank",
+      "aliases": ""
+    },
+    {
+      "code": "RE_5",
+      "name": "Lyf Pay",
+      "shortName": "Lyf Pay",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "RE_6",
+      "name": "PayPal",
+      "shortName": "PayPal",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "RE_7",
+      "name": "Sumeria",
+      "shortName": "Sumeria",
+      "type": "mfs",
+      "aliases": ""
+    },
+    {
+      "code": "RE_8",
+      "name": "Wero",
+      "shortName": "Wero",
+      "type": "mfs",
       "aliases": ""
     }
   ]
